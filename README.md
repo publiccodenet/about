@@ -3,6 +3,8 @@
 This repository is meant to reflect the Foundation For Public Code.
 It should be the official 'source of truth' and central repository for all information about the Foundation For Public Code.
 
+## Deploy
+
 The repository builds to a static site deployed at [about.publiccode.net](http://about.publiccode.net/).
 
 ## Contributing
