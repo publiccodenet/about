@@ -15,7 +15,7 @@ The repository builds to a static site deployed at [about.publiccode.net](http:/
 
 ## Contributing
 
-Feel free to file Issues and Pull Requests with any suggestions about our organisation, improvements to our communications and so on.
+Please feel free to file Issues and Pull Requests with any suggestions about our organisation, improvements to our communications and so on. We can use the help!
 
 The only ones allowed to merge Pull Requests into `develop` or `master` are the members of the Directors of the Foundation For Public Code GitHub organisation (@publiccodenet/directors).
 
