@@ -1,6 +1,6 @@
 # About the Foundation For Public Code
 
-
+We aim to be the missing infrastructure to grow the Open Source ecosystem for Cities.
 
 Check out the [Roadmap for this project](https://github.com/publiccodenet/about/projects/1) and please [contribute](#contributing) 😊.
 
