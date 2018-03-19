@@ -1,7 +1,8 @@
 # About the Foundation For Public Code
 
-We aim to be the missing infrastructure to grow the Open Source ecosystem for Cities.
+[From our mission](mission.md):
 
+> [...] We aim to maintain, manage, contribute to and grow an ecosystem of public software and policies that help governments, communities and citizens improve their city.
 
 ## This repo
 
