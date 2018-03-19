@@ -4,10 +4,10 @@
 
 > [...] We aim to maintain, manage, contribute to and grow an ecosystem of public software and policies that help governments, communities and citizens improve their city.
 
-## This repo
+This repository is meant to reflect the concept of the Foundation For Public Code and hold all information about it.
+It's `master` branch is the official 'source of truth' and central repository for all information about the Foundation For Public Code.
 
-This repository is meant to reflect the Foundation For Public Code.
-It's `master` branch should be the official 'source of truth' and central repository for all information about the Foundation For Public Code.
+We welcome everyone to [contribute](#contributing) to this project, we can surely use your help 😊.
 
 ## Deploy
 
