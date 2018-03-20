@@ -23,5 +23,8 @@ The only ones allowed to merge Pull Requests into `develop` or `master` are the 
 
 ## License
 
-© 2018 Foundation For Public Code
-This repository is [licensed CCO](LICENSE), which basically means that anyone can do anything with it. If you are contributing you agree that what you contribute will also fall under this license.
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the Foundation For Public Code has waived all copyright and related or neighboring rights to the content in this repository. It is [licensed CCO](https://creativecommons.org/publicdomain/zero/1.0/), which basically means that anyone can do anything with it. This does not apply to trademarks or logos of the Foundation For Public Code.
+
+Contributors to this repository agree that their contributions also fall under this license and that they have the power and authority to grant this licence.
