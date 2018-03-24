@@ -21,7 +21,7 @@ Check out the [Roadmap for this project](https://github.com/publiccodenet/about/
 
 The only ones allowed to merge Pull Requests into `develop` or `master` are the members of the Directors of the Foundation For Public Code GitHub organisation (@publiccodenet/directors).
 
-Please be lovely to all other community members and follow our [Code of Conduct](docs/code-of-conduct.md).
+Please note that this project is released with a [Contributor Code of Conduct](docs/code-of-conduct.md). By participating in this project you agree to abide by its terms. Please be lovely to all other community members.
 
 ## License
 
