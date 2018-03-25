@@ -12,6 +12,8 @@ In this guide we try to set out all the ways you can contribute to the Foundatio
 
 Please look at [the list of Issues marked 'Help Wanted'](https://github.com/publiccodenet/about/labels/help%20wanted), these are all of the issues (and proposed changes to content) where we feel we need help.
 
+If you respond to an issue you'll get notified by email of any new responses, you can reply to that email to reply in th thread. If you are interested in a certain discussion but not want to post, use the 'Subscribe' button.
+
 All of the issues that we're working on and prioritising are on the [Kanban Board for this project](https://github.com/publiccodenet/about/projects/1).
 
 ### Identify issues we need to solve
