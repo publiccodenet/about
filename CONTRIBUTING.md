@@ -8,7 +8,6 @@ In this guide we try to set out all the ways you can contribute to the Foundatio
 
 ## How you can help
 
-
 ### Advise us and help us solve issues
 
 Please look at [the list of Issues marked 'Help Wanted'](https://github.com/publiccodenet/about/labels/help%20wanted), these are all of the issues (and proposed changes to content) where we feel we need help.
@@ -23,7 +22,7 @@ For instance you could give us feedback on this guide, the [README](README.md) o
 
 Resolving these issues is a community effort as well, so be sure to clearly describe what you mean as others might not have the same context that you have.
 
-### Pull requests
+### Suggest changes to content in Pull requests
 
 Feel free to suggest changes to the content in a Pull Requests.
 
