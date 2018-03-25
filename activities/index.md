@@ -2,7 +2,7 @@
 
 ## Product Stewardship
 
-We help public software products be successful by guaranteeing their marketability and quality.
+We help public source code & policy code products be successful by guaranteeing their marketability and quality. Trustworthy, usable, maintained and sustainable code for your city.
 
 We provide the following for products, projects and codebases in our care:
 
