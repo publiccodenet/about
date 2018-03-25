@@ -1,0 +1,6 @@
+title: About the Foundation For Public Code
+url: https://about.publiccode.net
+
+plugins:
+  - jekyll-remote-theme
+remote_theme: publiccodenet/jekyll-theme
