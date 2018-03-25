@@ -11,7 +11,7 @@ We welcome everyone to [contribute](#contributing) to this project, we can surel
 
 ## Deploy
 
-The repository builds to a static site deployed at [about.publiccode.net](http://about.publiccode.net/).
+The repository builds to a static site deployed at [about.publiccode.net](https://about.publiccode.net/).
 
 ## Contributing
 
