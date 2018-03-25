@@ -2,7 +2,7 @@
 
 ## Product Stewardship
 
-We help public software products be successful by guaranteeing their marketability and quality. 
+We help public software products be successful by guaranteeing their marketability and quality.
 
 We provide the following for products, projects and codebases in our care:
 
@@ -15,6 +15,6 @@ We provide the following for products, projects and codebases in our care:
 * Developer advocacy, user support, end-user success, training materials
 * Project infrastructure, process management
 
-We provide these services only at _ecosystem level_. 
+We provide these services only at _ecosystem level_.
 This means that we make sure that code is reusable across contexts globally.
 For local implementations we collaborate with local implementation partners, working actively with them to both integrate effectively in the local context while simultaneously making it easier for others to implement as well.
