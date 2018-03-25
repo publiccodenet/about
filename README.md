@@ -5,7 +5,7 @@
 > [...] We aim to maintain, manage, contribute to and grow an ecosystem of public software and policies that help governments, communities and citizens improve their city.
 
 This repository is meant to reflect the concept of the Foundation For Public Code and hold all information about it.
-It's `master` branch is the official 'source of truth' and central repository for all information about the Foundation For Public Code.
+It's `master` branch is the official ['source of truth'](GOVERNANCE.md) and central repository for all information about the Foundation For Public Code.
 
 We welcome everyone to [contribute](CONTRIBUTING.md) to this project, we can surely use your help 😊.
 
