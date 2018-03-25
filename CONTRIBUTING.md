@@ -34,3 +34,7 @@ As per [the content governance guide](GOVERNANCE.md) Pull Requests can only be m
 ### Contribute to our projects
 
 And of course we'd love input into our projects as well, like [`publiccode.yml`](https://github.com/publiccodenet/publiccode.yml).
+
+## Becoming an advisor
+
+If you provide us with meaningful contributions we might ask you to become an advisor. Our advisors are a group of subject matter experts from different fields that help us to progress the mission of the Foundation For Public Code and have a special position within the Foudation.
