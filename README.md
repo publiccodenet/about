@@ -9,9 +9,9 @@ It's `master` branch is the official ['source of truth'](GOVERNANCE.md) and cent
 
 We welcome everyone to [contribute](CONTRIBUTING.md) to this project, we can surely use your help! 😊
 
-## Deploy
+## Preview, Build and Deploy
 
-The repository builds to a static site deployed at [about.publiccode.net](http://about.publiccode.net/).
+The repository builds to a static site deployed at [about.publiccode.net](http://about.publiccode.net/). It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
 ## License
 
