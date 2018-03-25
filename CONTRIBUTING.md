@@ -4,4 +4,4 @@ Please feel free to file Issues and Pull Requests with any suggestions about our
 
 Check out the [Roadmap for this project](https://github.com/publiccodenet/about/projects/1) to see what we're prioritising right now.
 
-The only ones allowed to merge Pull Requests into `develop` or `master` are the members of the Directors of the Foundation For Public Code GitHub organisation (@publiccodenet/directors).
+As per [the content governance guide](GOVERNANCE.md) Pull Requests can only be merged into `develop` or `master` after being reviewed by a director.
