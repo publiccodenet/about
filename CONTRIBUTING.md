@@ -30,3 +30,7 @@ Feel free to suggest changes to the content in a Pull Requests.
 This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid [MarkDown](https://guides.github.com/features/mastering-markdown/). If you want to you can also [build and preview the website locally](README.md) before you make a Pull Request.
 
 As per [the content governance guide](GOVERNANCE.md) Pull Requests can only be merged into `develop` or `master` after being reviewed by a director.
+
+### Contribute to our projects
+
+And of course we'd love input into our projects as well, like [`publiccode.yml`](https://github.com/publiccodenet/publiccode.yml).
