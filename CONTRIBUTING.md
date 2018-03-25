@@ -1,12 +1,14 @@
 # Contributor Guide 🙇‍
 
-The Foundation For Public Code has [a mission to develop an Open Source ecosystem for cities](mission.md). In order to fulfill our mission we – the directors of the Foundation, our advisors and contributors – need your help!
+The Foundation For Public Code has [a mission to develop an Open Source ecosystem for cities](mission/index.md). In order to fulfill our mission we – the directors of the Foundation, our advisors and contributors – need your help!
 
 This repository serves as the 'official source of truth' about the Foundation For Public Code. It contains all of its documentation, procedures and information as well as explanations on what the Foundation For Public Code does. We see it a bit like a 'living' charter.
 
 In this guide we try to set out all the ways you can contribute to the Foundation For Public Code.
 
 ## How you can help
+
+Outlined below are some ways you can help. Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. Please be lovely to all other community members.
 
 ### Advise us and help us solve issues
 

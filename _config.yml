@@ -1,5 +1,9 @@
 title: About the Foundation For Public Code
 url: https://about.publiccode.net
+permalinks: pretty
+
+include:
+  - README.md
 
 plugins:
   - jekyll-remote-theme
