@@ -1,4 +1,4 @@
-## Contributing
+# Contributor Guide 🙇‍
 
 The Foundation For Public Code has [a mission to develop an Open Source ecosystem for cities](mission.md). In order to fulfill our mission we – the directors of the Foundation, our advisors and contributors – need your help!
 
