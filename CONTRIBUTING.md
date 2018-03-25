@@ -8,8 +8,25 @@ In this guide we try to set out all the ways you can contribute to the Foundatio
 
 ## How you can help
 
-Please feel free to file Issues and Pull Requests with any suggestions about our organisation, improvements to our communications and so on. We can use the help!
 
-Check out the [Roadmap for this project](https://github.com/publiccodenet/about/projects/1) to see what we're prioritising right now.
+### Advise and discuss to help us solve issues
+
+Please look at [the list of Issues marked 'Help Wanted'](https://github.com/publiccodenet/about/labels/help%20wanted), these are all of the issues (and proposed changes to content) where we feel we need help.
+
+All of the issues that we're working on and prioritising are on the [Kanban Board for this project](https://github.com/publiccodenet/about/projects/1).
+
+### Identify issues we need to solve
+
+If you have any suggestion about our organisation, improvements to our documentation and communications or questions we invite you to [file an Issue](https://github.com/publiccodenet/about/issues/new).
+
+For instance you could give us feedback on this guide, the [README](README.md) or any other file in this repository.
+
+Resolving these issues is a community effort as well, so be sure to clearly describe what you mean as others might not have the same context that you have.
+
+### Pull requests
+
+Feel free to suggest changes to the content in a Pull Requests.
+
+This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid [MarkDown](https://guides.github.com/features/mastering-markdown/). If you want to you can also [build and preview the website locally](README.md) before you make a Pull Request.
 
 As per [the content governance guide](GOVERNANCE.md) Pull Requests can only be merged into `develop` or `master` after being reviewed by a director.
