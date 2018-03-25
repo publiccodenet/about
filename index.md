@@ -1,6 +1,6 @@
 # What we do
 
-We help public Open Source projects become successful, build sustainable communities around them and create a thriving public Open Source ecology.
+We help Open Source projects for cities become successful, build sustainable communities around them and create a thriving public Open Source ecosystem.
 
 We want to be an ecosystem level partner in Open Source projects enabling collaboration and re-use at scale.
 
