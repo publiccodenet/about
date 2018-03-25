@@ -4,7 +4,7 @@ We help public Open Source projects become successful, build sustainable communi
 
 We want to be an ecosystem level partner in Open Source projects enabling collaboration and re-use at scale.
 
-Our [mission](mission.md) is to create a viable future for cities and civic operating systems that are highly participatory and drive societal engagement.
+Our [mission](mission/index.md) is to create a viable future for cities and civic operating systems that are highly participatory and drive societal engagement.
 
 ## We need you!
 
