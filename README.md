@@ -7,7 +7,7 @@
 This repository is meant to reflect the concept of the Foundation For Public Code and hold all information about it.
 It's `master` branch is the official ['source of truth'](GOVERNANCE.md) and central repository for all information about the Foundation For Public Code.
 
-We are looking for people like you to [contribute](CONTRIBUTING.md) to this project by suggesting improvements and so much more, we can surely use your help! 😊 Get started by reading our [Contributors Guide](CONTRIBUTING.md).
+We are looking for people like you to [contribute](CONTRIBUTING.md) to this project by suggesting improvements and helping develop the Foundation For Public Code. 😊 Get started by reading our [Contributors Guide](CONTRIBUTING.md).
 
 ## Preview, Build and Deploy
 
