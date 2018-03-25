@@ -5,8 +5,7 @@ We help Open Source projects for cities become successful, build sustainable com
 [Our mission](mission/index.md) is to create a viable future for cities and civic operating systems that are highly participatory and drive societal engagement.
 We do this through ecosystem level [product stewardship](activities/index.md) of both computer and civic code enabling collaboration and re-use at scale.
 
-
-## We need you!
+## We need you
 
 We can [really use your help](README.md) in setting up the Foundation For Public Code and making it successful.
 
