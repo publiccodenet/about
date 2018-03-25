@@ -29,3 +29,9 @@ One of the biggest barriers to uptake of Open Source code & code is the unpredic
 Products in the care of the Foundation For Public Code have long term sustainability so that prospective users can trust there will be packages when they need to update their systems and that there will be someone to receive their Pull Request after the original maintainers have moved on.
 
 We provide this sustainability in the first place by creating strong communities of users and developers that can take ownership over the product.
+
+### Giving you the agility you need
+
+Product stewardship is not someting you can stick onto a product after you've developed it, it is a continuous process.
+
+The Foundation For Public Code uses Agile asyncronous methodologies to help Pull Requests be merged, and Issues be resolved sooner. We test for code and documentation quality, as well as security issues, in every Pull Request to a `develop` or `master` branch to make sure that problems can be spotted as quickly as possible and there is little technical debt created.
