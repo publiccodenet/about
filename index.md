@@ -8,7 +8,7 @@ Our [mission](mission/index.md) is to create a viable future for cities and civi
 
 ## We need you!
 
-We can [really use your help](README.md) in setting up the Foundation For Public Code and making it successful.
+We can [really use your help](CONTRIBUTING.md) in setting up the Foundation For Public Code and making it successful.
 
 ## Contact
 
