@@ -1,12 +1,16 @@
 # What we do
 
-We help public Open Source projects become successful, build sustainable communities around them and create a thriving public Open Source ecology.
+We help Open Source projects for cities become successful, build sustainable communities around them and create a thriving public Open Source ecosystem.
 
-We want to be an ecosystem level partner in Open Source projects enabling collaboration and re-use at scale.
+[Our mission](mission/index.md) is to create a viable future for cities and civic operating systems that are highly participatory and drive societal engagement.
+We do this through ecosystem level [product stewardship](activities/index.md) of both computer and civic code enabling collaboration and re-use at scale.
 
-Our [mission](mission/index.md) is to create a viable future for cities and civic operating systems that are highly participatory and drive societal engagement.
+Read more about:
 
-## We need you!
+* [Our mission](mission/index.md)
+* [Our activities and services](activities/index.md)
+
+## We need you
 
 We can [really use your help](CONTRIBUTING.md) in setting up the Foundation For Public Code and making it successful.
 
