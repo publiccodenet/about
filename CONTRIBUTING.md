@@ -9,7 +9,7 @@ In this guide we try to set out all the ways you can contribute to the Foundatio
 ## How you can help
 
 
-### Advise and discuss to help us solve issues
+### Advise us and help us solve issues
 
 Please look at [the list of Issues marked 'Help Wanted'](https://github.com/publiccodenet/about/labels/help%20wanted), these are all of the issues (and proposed changes to content) where we feel we need help.
 
