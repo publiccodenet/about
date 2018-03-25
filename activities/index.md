@@ -32,6 +32,6 @@ We provide this sustainability in the first place by creating strong communities
 
 ### Giving you the agility you need
 
-Product stewardship is not someting you can stick onto a product after you've developed it, it is a continuous process.
+Product stewardship is not someting you can stick onto a product after you've developed it, it is a continuous process. The Foundation For Public Code is agile and works asyncronous to help Pull Requests be merged, and Issues be resolved sooner.
 
-The Foundation For Public Code uses Agile asyncronous methodologies to help Pull Requests be merged, and Issues be resolved sooner. We test for code and documentation quality, as well as security issues, in every Pull Request to a `develop` or `master` branch to make sure that problems can be spotted as quickly as possible and there is little technical debt created.
+We test for code and documentation quality, as well as security issues, in every Pull Request to a shared `develop` or `release` branch to make sure that problems can be spotted as quickly as possible and there is little technical debt created. This enables for a faster collaborative development and easier publication of releases.
