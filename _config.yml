@@ -1,5 +1,4 @@
 title: About the Foundation For Public Code
-url: https://about.publiccode.net
 permalinks: pretty
 
 include:
@@ -9,4 +8,9 @@ include:
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 remote_theme: publiccodenet/jekyll-theme
+
+# Exclude the `vendor` folder created by Travis
+exclude:
+  - vendor
