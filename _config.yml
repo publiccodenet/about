@@ -4,6 +4,8 @@ permalinks: pretty
 
 include:
   - README.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
 
 plugins:
   - jekyll-remote-theme
