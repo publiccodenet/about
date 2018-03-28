@@ -17,6 +17,15 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 The repository builds to a static site deployed at [about.publiccode.net](https://about.publiccode.net/). It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
+### Branches and Travis CI Build status
+
+All branches are tested with every change for broken links, so if some site we link to on the internet goes down the 'Build Status' down here will go red.
+
+| Branch | Build Status | |
+|----|----|----|
+| `develop` | [![Build Status](https://travis-ci.org/publiccodenet/about.svg?branch=develop)](https://travis-ci.org/publiccodenet/about/branches) | Version from which we work |
+| `master` | [![Build Status](https://travis-ci.org/publiccodenet/about.svg?branch=master)](https://travis-ci.org/publiccodenet/about/branches) | Deployed to <https://about.publiccode.net>, once a week |
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
