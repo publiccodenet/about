@@ -28,7 +28,7 @@ Resolving these issues is a community effort as well, so be sure to clearly desc
 
 ### Suggest changes to content in Pull requests
 
-Feel free to suggest changes to the content in a Pull Requests.
+Feel free to suggest changes to the content in a Pull Request.
 
 This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid [MarkDown](https://guides.github.com/features/mastering-markdown/). If you want to you can also [build and preview the website locally](README.md) before you make a Pull Request.
 
