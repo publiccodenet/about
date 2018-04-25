@@ -26,9 +26,16 @@ For instance you could give us feedback on this guide, the [README](README.md) o
 
 Resolving these issues is a community effort as well, so be sure to clearly describe what you mean as others might not have the same context that you have.
 
+Is your issue a question, then it might be wise to follow the good survey question rules:
+
+* Only single barreled issues (no X and Y issues)
+* No negations in the issue title
+* Issue title should be self-contained (related to remark above)
+* Try to mitigate subjective interpretation (also related to remarks above)
+
 ### Suggest changes to content in Pull requests
 
-Feel free to suggest changes to the content in a Pull Requests.
+Feel free to suggest changes to the content in a Pull Request.
 
 This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid [MarkDown](https://guides.github.com/features/mastering-markdown/). If you want to you can also [build and preview the website locally](README.md) before you make a Pull Request.
 
