@@ -26,6 +26,13 @@ For instance you could give us feedback on this guide, the [README](README.md) o
 
 Resolving these issues is a community effort as well, so be sure to clearly describe what you mean as others might not have the same context that you have.
 
+Is your issue a question, then it might be wise to follow the good survey question rules:
+
+* Only single barreled issues (no X and Y issues)
+* No negations in the issue title
+* Issue title should be self-contained (related to remark above)
+* Try to mitigate subjective interpretation (also related to remarks above)
+
 ### Suggest changes to content in Pull requests
 
 Feel free to suggest changes to the content in a Pull Request.
