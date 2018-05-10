@@ -1,7 +1,9 @@
 ---
 role: director
 ---
-![ben cerveny](/benBio.jpg)
+
+![ben cerveny](nebBio.jpg)
+
 ## Ben Cerveny
 #### Director
 
