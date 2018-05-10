@@ -13,6 +13,8 @@ We are looking for people like you to [contribute](CONTRIBUTING.md) to this proj
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. Please be lovely to all other community members.
 
+Join our [chat](https://riot.im/app/#/room/#publiccodenet:matrix.org).
+
 ## Preview, Build and Deploy
 
 The repository builds to a static site deployed at [about.publiccode.net](https://about.publiccode.net/). It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
