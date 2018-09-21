@@ -26,7 +26,7 @@ For instance you could give us feedback on this guide, the [README](README.md) o
 
 Resolving these issues is a community effort as well, so be sure to clearly describe what you mean as others might not have the same context that you have.
 
-Is your issue a question, then it might be wise to follow the good survey question rules:
+Is your issue a question then it might be wise to follow the good survey question rules:
 
 * Only single barreled issues (no X and Y issues)
 * No negations in the issue title
