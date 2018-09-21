@@ -37,7 +37,7 @@ Is your issue a question then it might be wise to follow the good survey questio
 
 Feel free to suggest changes to the content in a Pull Request.
 
-This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid [MarkDown](https://guides.github.com/features/mastering-markdown/). If you want to you can also [build and preview the website locally](README.md) before you make a Pull Request.
+This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid [MarkDown](https://guides.github.com/features/mastering-markdown/). If you want to you can also [build and preview the website locally](README.md) before making a Pull Request.
 
 As per [the content governance guide](GOVERNANCE.md) Pull Requests can only be merged into `develop` or `master` after being reviewed by a director.
 
