@@ -4,7 +4,7 @@ Through Product Stewardship we help public source code & policy code products be
 
 We provide the following for products, projects and codebases under our stewardship:
 
-* Codebase Auditing: Code, policy and documentation quality assurance
+* [Codebase Auditing](../codebase-auditing/index.md): Code, policy and documentation quality assurance
 * Community management: processing feedback and contributions, events
 * Productization services: branding, communication, refactoring for reuse
 * Packaging, distributing official versions, compatibility updating
