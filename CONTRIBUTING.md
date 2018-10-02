@@ -14,9 +14,9 @@ Outlined below are some ways you can help. Please note that this project is rele
 
 Please look at [the list of Issues marked 'Help Wanted'](https://github.com/publiccodenet/about/labels/help%20wanted), these are all of the issues (and proposed changes to content) where we feel we need help.
 
-If you respond to an issue you'll get notified by email of any new responses, you can reply to that email to reply in th thread. If you are interested in a certain discussion but not want to post, use the 'Subscribe' button.
+If you respond to an issue you will get notified by email of any new responses, you can reply to that email to reply in the thread. If you are interested in a certain discussion but do not want to post, use the 'Subscribe' button.
 
-All of the issues that we're working on and prioritising are on the [Kanban Board for this project](https://github.com/publiccodenet/about/projects/1).
+All of the issues that we are working on and that we prioritize are on the [Kanban Board for this project](https://github.com/publiccodenet/about/projects/1).
 
 ### Identify issues we need to solve
 
@@ -26,7 +26,7 @@ For instance you could give us feedback on this guide, the [README](README.md) o
 
 Resolving these issues is a community effort as well, so be sure to clearly describe what you mean as others might not have the same context that you have.
 
-Is your issue a question, then it might be wise to follow the good survey question rules:
+Is your issue a question then it might be wise to follow the good survey question rules:
 
 * Only single barreled issues (no X and Y issues)
 * No negations in the issue title
@@ -37,7 +37,7 @@ Is your issue a question, then it might be wise to follow the good survey questi
 
 Feel free to suggest changes to the content in a Pull Request.
 
-This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid [MarkDown](https://guides.github.com/features/mastering-markdown/). If you want to you can also [build and preview the website locally](README.md) before you make a Pull Request.
+This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid [MarkDown](https://guides.github.com/features/mastering-markdown/). If you want to you can also [build and preview the website locally](README.md) before making a Pull Request.
 
 As per [the content governance guide](GOVERNANCE.md) Pull Requests can only be merged into `develop` or `master` after being reviewed by a director.
 
