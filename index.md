@@ -17,7 +17,9 @@ We can [really use your help](CONTRIBUTING.md) in setting up the Foundation For 
 
 ## Contact
 
-The Foundation For Public Code
+The Foundation For Public Code is currently 'in founding', which means there is no judicial entity for it whilst we make sure we can get started with the right statutes.
+
+For more information about what we're doing please reach out to us at:
 
 * [info@publiccode.net](mailto:info@publiccode.net)
 * [github.com/publiccodenet](https://github.com/publiccodenet)
