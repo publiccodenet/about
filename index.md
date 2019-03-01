@@ -9,6 +9,7 @@ Read more about:
 
 * [Our mission](mission/index.md)
 * [Our activities and services](activities/index.md)
+* [Our roles and open positions](roles/index.md)
 * [Glossary of terms and concepts](glossary/index.md)
 
 ## We need you
