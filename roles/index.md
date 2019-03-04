@@ -14,8 +14,8 @@ We're looking for people to join our mission and staff for these roles, if you a
 We're currently not looking for these roles, however if you think you fit in to our organization in a way we don't understand yet, please get in touch.
 
 * Chief Executive
-* Deputy Chief Executive (secretariat, process management, research and on-boarding)
 * Chief Member and Partner Relations (Fundraising, Member growth, Partner growth, Communications)
+* Head of Service Development (process management, service development, research)
 * Head of Resources (Physical, Human and Financial)
 * Head of Security and Threats (Physical, Organizational and Digital)
 * Head of Legal (IP, Organisation, Licence and Contracts)
