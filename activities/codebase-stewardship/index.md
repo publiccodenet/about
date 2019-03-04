@@ -1,6 +1,6 @@
-# Product Stewardship
+# Codebase Stewardship
 
-Through Product Stewardship we help public source code & policy code products become successful by guaranteeing their marketability and quality. Trustworthy, usable, maintained and sustainable code & code for your city.
+Through Codebase Stewardship we help public source code & policy code products become successful by guaranteeing their marketability and quality. Trustworthy, usable, maintained and sustainable code & code for your city.
 
 We provide the following for products, projects and codebases under our stewardship:
 
