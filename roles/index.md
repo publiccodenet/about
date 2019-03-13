@@ -6,7 +6,7 @@ We're looking for people to join our mission and staff for these roles, if you a
 
 * [Quality Manager](quality.md): Help developers build high quality Public Code (Full time, Amsterdam)
 * [Community Manager](community.md): Grow strong communities around the codebases (Full time, Amsterdam)
-* [Marketing Manager](marketing.md): Make Codebases strong competitors to other solutions out there (Full time, Amsterdam)
+* [Product Marketing Manager](marketing.md): Make Codebases strong competitors to other solutions out there (Full time, Amsterdam)
 * [Support Manager](support.md): Provide answers to questions about usage, contributing, procurement and more (Full time, Amsterdam)
 
 ## Not hiring
