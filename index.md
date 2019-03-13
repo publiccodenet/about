@@ -33,4 +33,4 @@ For more information about what we're doing please reach out to us at:
 [b.vanhoytema@publiccode.net](mailto:b.vanhoytema@publiccode.net)
 
 **Claus Mullie, Staff**  
-[c.mullie@publiccode.net](mailto:claus@publiccode.net)
+[c.mullie@publiccode.net](mailto:c.mullie@publiccode.net)
