@@ -16,8 +16,6 @@ Please look at [the list of Issues marked 'Help Wanted'](https://github.com/publ
 
 If you respond to an issue you will get notified by email of any new responses, you can reply to that email to reply in the thread. If you are interested in a certain discussion but do not want to post, use the 'Subscribe' button.
 
-All of the issues that we are working on and that we prioritize are on the [Kanban Board for this project](https://github.com/publiccodenet/about/projects/1).
-
 ### Identify issues we need to solve
 
 If you have any suggestion about our organisation, improvements to our documentation and communications or questions we invite you to [file an Issue](https://github.com/publiccodenet/about/issues/new).
