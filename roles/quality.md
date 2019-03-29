@@ -6,8 +6,8 @@ We provide review of contributions to Codebases that are in Codebase Stewardship
 
 As a Codebase Steward, Quality for Codebases in our Stewardship you:
 
-* reviewing pull requests and giving feedback on the reusability, documentation and integrity of the codebase
-* updating the standards for quality Public Code that we use to test for
+* review pull requests and give feedback on the reusability, documentation and integrity of the codebase
+* update the standards for quality Public Code that we use to test for
 * partake in the community
 
 If you enjoy working together with a wide array of developers to make Open Source codebases really shine as well as improve the role of technology in society, this is you.
