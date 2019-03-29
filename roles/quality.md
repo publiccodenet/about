@@ -1,6 +1,6 @@
 # Codebase Steward, Quality
 
-The Foundation For Public Code helps the developers of Open Source software for public use – such as in governments and cities – improve the quality of their codebases by making them easier to understand, well documented, and thus highly reusable. 
+The Foundation For Public Code helps the developers of Open Source software for public use – such as in governments and cities – improve the quality of their [Codebases](../glossary/codebase.md) by making them easier to understand, well documented, and thus highly reusable. 
 
 We provide review of contributions to Codebases that are in Codebase Stewardship at the Foundation For Public Code in order to help developers build trusted and reliable software that can be widely reused and can foster a strong community. We test against the quality Public Code standards for code and documentation we set which aim to make Codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure Codebases can be trusted as the infrastructure of society, improve continually, and keep technology and architectural choices open.
 
