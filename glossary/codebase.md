@@ -1,5 +1,7 @@
 # Codebase
 
-All of the code – including source code, policy, documentation and the history – of a  product. Often stored in one or multiple repositories.
+Any discreet package of Code – both source and policy – tests and documentation required to instantiate a piece of policy or software.
 
-Codebases of the [products stewarded by the Foundation For Public Code](../activities/codebase-stewardship/index.md) are hosted and managed by the Foundation For Public Code.
+This can be – for example – a document or a version-control repository.
+
+Codebases of the [products Stewarded by the Foundation For Public Code](../activities/codebase-stewardship/index.md) are hosted and managed by the Foundation For Public Code.

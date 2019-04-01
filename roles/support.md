@@ -1,12 +1,12 @@
 # Codebase Steward, Support
 
-The Foundation For Public Code helps public organizations – such as governments and cities – collaborate on solving their problems by developing Open Source solutions which when reused will become better quality, more cost effective, more resilient and attract more contributors.
+The Foundation For Public Code helps public organizations – such as governments and cities – collaborate on solving their problems by developing Open Source solutions which, when reused, become more cost effective, of a higher quality, more resilient and attract more contributors.
 
-For the public organizations that would benefit from using, or contributing to, these Codebases it might not always be easy to get started, know how to use or procure a solution like this or to trust in the Codebase.
+For the public organizations that would benefit from using, or contributing to, these [Codebases](../glossary/codebase.md) it might not always be easy to get started, know how to use or procure a solution like this or to trust in the Codebase.
 
-As a Codebase Steward, Support for Codebases in our Stewardship you:
+As a Codebase Steward, Support you help:
 
-* help potential users find out how to use codebases
+* potential users find out how to use codebases
 * provide assistance in procuring solutions based on codebases
 * resolve issues in sales of solutions based on codebases
 * connect potential users to potential (trusted) vendors of solutions

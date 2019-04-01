@@ -1,12 +1,12 @@
 # Codebase Steward, Community
 
-The Foundation For Public Code helps makers of Open Source software used to solve problems in public organizations – such as governments and cities – build communities around their Codebases so that the Codebases can become stronger, more knowledge is shared across organizations and the quality of public services improves.
+The Foundation For Public Code helps the makers of Open Source software for public use – such as governments and cities – build communities around their [Codebases](../glossary/codebase.md) so that knowledge is shared across organizations, Codebases can become stronger, and the quality of public services improve.
 
-The Foundation For Public Code builds communities of developers, designers, policy makers, managers and other stakeholders around the Open Source codebases it has in stewardship.
+We build communities of developers, designers, policy makers, managers and other stakeholders around the Open Source codebases it has in its Stewardship.
 
-As a Codebase Steward, Community for Codebases in our Stewardship you:
+As a Codebase Steward, Community you help:
 
-* help connect members of communities
+* connect members of communities
 * organise events and happenings
 * aide the development of governance of communities
 * make sure communities are healthy
