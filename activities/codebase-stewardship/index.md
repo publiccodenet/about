@@ -24,6 +24,6 @@ For local implementations we collaborate with local implementation partners, wor
 
 One of the biggest barriers to uptake of Open Source code & code is the unpredictable nature of maintainers.
 
-Products in the care of the Foundation For Public Code have long term sustainability so that prospective users can trust there will be packages when they need to update their systems and that there will be someone to receive their Pull Request after the original maintainers have moved on.
+Products in the care of the Foundation for Public Code have long term sustainability so that prospective users can trust there will be packages when they need to update their systems and that there will be someone to receive their Pull Request after the original maintainers have moved on.
 
 We provide this sustainability in the first place by creating strong communities of users and developers that can take ownership over the product.
