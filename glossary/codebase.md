@@ -4,4 +4,4 @@ Any discreet package of Code – both source and policy – tests and documentat
 
 This can be – for example – a document or a version-control repository.
 
-Codebases of the [products Stewarded by the Foundation For Public Code](../activities/codebase-stewardship/index.md) are hosted and managed by the Foundation For Public Code.
+Codebases of the [products Stewarded by the Foundation for Public Code](../activities/codebase-stewardship/index.md) are hosted and managed by the Foundation for Public Code.

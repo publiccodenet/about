@@ -1,14 +1,14 @@
 # Codebase Auditing
 
-We perform audits on [codebases](../../glossary/codebase.md) – including source code, policy, documentation and conversations therein – as well as individual contribution to that codebase in order to guarantee that they are compliant with the standards set out by the Foundation For Public Code and the standards set out in the codebase itself.
+We perform audits on [codebases](../../glossary/codebase.md) – including source code, policy, documentation and conversations therein – as well as individual contribution to that codebase in order to guarantee that they are compliant with the standards set out by the Foundation for Public Code and the standards set out in the codebase itself.
 
-The audit performed by auditors of the Foundation For Public Code is meant to complement machine testing. Auditors test for whether documentation is actually understandable and attached, the commit messages make sense, community-oriented guidelines are being followed and other factors that cannot be machine tested.
+The audit performed by auditors of the Foundation for Public Code is meant to complement machine testing. Auditors test for whether documentation is actually understandable and attached, the commit messages make sense, community-oriented guidelines are being followed and other factors that cannot be machine tested.
 
-Certification by the Foundation For Public Code on suggested contributions can provide trust to maintainers trust when deciding whether to incorporate them.
+Certification by the Foundation for Public Code on suggested contributions can provide trust to maintainers trust when deciding whether to incorporate them.
 
 ## The auditing process
 
-The audit happens completely in the version control platform and is designed to fit in to an regular Agile software developement process. When a contribution gets presented for inclusion in to the codebase a Foundation For Public Code staff auditor that knows the codebase will provide a review or certify the contribution. 
+The audit happens completely in the version control platform and is designed to fit in to an regular Agile software developement process. When a contribution gets presented for inclusion in to the codebase a Foundation for Public Code staff auditor that knows the codebase will provide a review or certify the contribution. 
 
 The review and/or certification will happen within 2 business days to enable Agile development and not prevent users and maintainers from advancing.
 
