@@ -1,10 +1,10 @@
 # Contributor Guide 🙇‍
 
-The Foundation For Public Code has [a mission to develop an Open Source ecosystem for cities](mission/index.md). In order to fulfill our mission we – the directors of the Foundation, our advisors and contributors – need your help!
+The Foundation for Public Code has [a mission to develop an Open Source ecosystem for cities](mission/index.md). In order to fulfill our mission we – the directors of the Foundation, our advisors and contributors – need your help!
 
-This repository serves as the 'official source of truth' about the Foundation For Public Code. It contains all of its documentation, procedures and information as well as explanations on what the Foundation For Public Code does. We see it a bit like a 'living' charter.
+This repository serves as the 'official source of truth' about the Foundation for Public Code. It contains all of its documentation, procedures and information as well as explanations on what the Foundation for Public Code does. We see it a bit like a 'living' charter.
 
-In this guide we try to set out all the ways you can contribute to the Foundation For Public Code.
+In this guide we try to set out all the ways you can contribute to the Foundation for Public Code.
 
 ## How you can help
 
@@ -45,7 +45,7 @@ And of course we'd love input into our projects as well, like [`publiccode.yml`]
 
 ## Becoming an advisor
 
-If you provide us with meaningful contributions we might ask you to become an advisor. Our advisors are a group of subject matter experts from different fields that help us to progress the mission of the Foundation For Public Code and have a special position within the Foudation.
+If you provide us with meaningful contributions we might ask you to become an advisor. Our advisors are a group of subject matter experts from different fields that help us to progress the mission of the Foundation for Public Code and have a special position within the Foudation.
 
 ## Responsible disclosure and contact information
 
