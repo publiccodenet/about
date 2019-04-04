@@ -15,4 +15,4 @@ Users and contributors:
 Other interested parties:
 + vendors and the private sector
 + residents (end users)
-+ [journalists, academia, other NGO partners](about/users/journalists-academia-NGO.md)
++ [journalists, academia, other NGO partners](users/journalists-academia-NGO.md)
