@@ -27,12 +27,3 @@ For more information about what we're doing please reach out to us at:
 * [info@publiccode.net](mailto:info@publiccode.net)
 * [github.com/publiccodenet](https://github.com/publiccodenet)
 * [twitter.com/publiccodenet](https://twitter.com/publiccodenet)
-
-**Ben Cerveny, Director**  
-[b.cerveny@publiccode.net](mailto:b.cerveny@publiccode.net)
-
-**Boris van Hoytema, Director**  
-[b.vanhoytema@publiccode.net](mailto:b.vanhoytema@publiccode.net)
-
-**Claus Mullie, Staff**  
-[c.mullie@publiccode.net](mailto:c.mullie@publiccode.net)
