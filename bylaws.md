@@ -1,7 +1,7 @@
-##Mission
+## Mission
 To grow an ecosystem of public purpose open source policy and software.
 
-##Principles
+## Principles
 
 1. We are a non-profit and non-partisan organization.
 2. We publish under licences approved by the Open Source Initiative or Creative Commons licences that do not limit commercial reuse.
