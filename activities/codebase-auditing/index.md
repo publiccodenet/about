@@ -8,14 +8,14 @@ Certification by the Foundation for Public Code on suggested contributions can p
 
 ## The auditing process
 
-The audit happens completely in the version control platform and is designed to fit in to a regular agile software development process. When a contribution gets presented for inclusion in to the codebase a Foundation for Public Code staff auditor that knows the codebase will provide a review or certify the contribution.
+The audit happens completely in the version control platform and is designed to fit in to a regular agile software development process. When a contribution is presented for inclusion in the codebase, a Foundation for Public Code staff auditor familiar with the codebase will provide a review or certify the contribution.
 
-The review and/or certification will happen within 2 business days to enable agile development and not prevent users and maintainers from advancing.
+The review or certification will happen within 2 business days to enable agile development and not block users and maintainers from making progress.
 
-If a contribution passes and is certified the audit the codebase maintainers will be informed.
+The codebase maintainers will be notified when a contribution passes the audit and is certified.
 
 ## Public code codebase and contribution certifications
 
-If an individual contribution to a codebase passes the audit that contribution is certified. If every contribution to a codebase has been certified – or the entire codebase has passed and been certified as one contribution – the codebase is certified.
+If an individual contribution to a codebase passes the audit, that contribution is certified. If every contribution to a codebase has been certified – or the entire codebase has passed and been certified as one contribution – the codebase is certified.
 
-If the public code audit process is added to a codebase farther along in its development new merge requests can be certified, however, the existing code cannot be certified. By auditing every contribution the codebase can move towards being completely certified. For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to be up to the standards.
+If the public code audit process is added to a codebase farther along in its development, new merge requests can be certified but the existing code cannot be. By auditing every contribution the codebase can move towards being completely certified. For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to meet the [Standard for Public Code](http://standard.publiccode.net/).
