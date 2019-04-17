@@ -6,4 +6,4 @@ Here's more information about our internal processes.
 
 In April 2019, we held a first [user mapping session](/users/index.md) to identify:
 + who we think our users are
-+ what their motivations are for engaging with the Foundation for Public code
++ what we think their motivations are for engaging with the Foundation for Public code
