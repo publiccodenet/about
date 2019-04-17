@@ -18,7 +18,7 @@ If you respond to an issue you will get notified by email of any new responses, 
 
 ### Identify issues we need to solve
 
-If you have any suggestion about our organisation, improvements to our documentation and communications or questions we invite you to [file an Issue](https://github.com/publiccodenet/about/issues/new).
+If you have any suggestion about our organisation, improvements to our documentation and communications or questions we invite you to [file an issue](https://github.com/publiccodenet/about/issues/new).
 
 For instance you could give us feedback on this guide, the [README](README.md) or any other file in this repository.
 
@@ -41,7 +41,7 @@ As per [the content governance guide](GOVERNANCE.md) Pull Requests can only be m
 
 ### Contribute to our projects
 
-And of course we'd love input into our projects as well, like [`publiccode.yml`](https://github.com/publiccodenet/publiccode.yml).
+And of course we'd love input into our projects as well, like the [Standard for Public Code](http://standard.publiccode.net/).
 
 ## Becoming an advisor
 
