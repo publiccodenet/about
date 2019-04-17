@@ -8,7 +8,7 @@ We do this through ecosystem level [codebase stewardship](activities/index.md) o
 Read more about:
 
 * [our mission](mission/index.md)
-* [our activities and services](activities/index.md)
+* [our activities and services](activities/index.md) (starting summer 2019)
 * [our roles and open positions](roles/index.md)
 * [glossary of terms and concepts](glossary/index.md)
 
