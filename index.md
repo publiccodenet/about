@@ -1,9 +1,10 @@
 # What we do
 
-We help open source projects for cities become successful, build sustainable communities around them and create a thriving public open source ecosystem.
+We help open source projects for public organizations (like cities) become successful, build sustainable communities around them and create a thriving public open source ecosystem.
 
-[Our mission](mission/index.md) is to create a viable future for cities and civic operating systems that are highly participatory and drive societal engagement.
+[Our mission](mission/index.md) is to create a viable future for public organizations and civic operating systems that are highly participatory and drive societal engagement.
 We do this through ecosystem level [codebase stewardship](activities/index.md) of both computer and civic code enabling collaboration and re-use at scale.
+
 
 Read more about:
 
@@ -16,7 +17,7 @@ Additionally we have separate sites that show our [projects](https://projects.pu
 
 ## We need you
 
-We can [really use your help](CONTRIBUTING.md) in setting up the Foundation for Public Code and making it successful.
+We can [really use your help](joinus.md) in setting up the Foundation for Public Code and making it successful.
 
 ## Contact
 
