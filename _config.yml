@@ -1,4 +1,4 @@
-title: About the Foundation For Public Code
+title: About the Foundation For Public Code
 permalinks: pretty
 
 include:
@@ -17,3 +17,26 @@ exclude:
 
 # Display Table of Contents on every page, disable by adding `toc: false` to the front matter of any file
 toc: true
+
+defaults:
+  -
+    scope: 
+      path: '/glossary/[!index]*'
+    values:
+      breadcrumbs:
+        - name: 'Glossary'
+          path: '/glossary/'
+  -
+    scope: 
+      path: '/roles/[!index]*'
+    values:
+      breadcrumbs:
+        - name: 'Roles'
+          path: '/roles/'
+  -
+    scope: 
+      path: '/activities/[!index]*'
+    values:
+      breadcrumbs:
+        - name: 'Activities'
+          path: '/activities/'
