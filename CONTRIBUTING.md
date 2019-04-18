@@ -15,7 +15,7 @@ In the meantime, please join us in any way you can.
 
 ## Individual contributors
 
-Our [contributor guide for individuals](contributor-guide/individual) explains how to find out what we’re currently working on and what we’re looking for help with.  
+Our [contributor guide for individuals](contributor-guides/individuals.md) explains how to find out what we’re currently working on and what we’re looking for help with.
 
 We’re especially interested in learning what you need to implement the [Standard for Public Code](http://standard.publiccode.net/) in your organisation. Please [raise an issue](http://standard.publiccode.net/CONTRIBUTING.html) or email us at <info@publiccode.net>.
 
