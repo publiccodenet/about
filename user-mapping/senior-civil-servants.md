@@ -2,11 +2,11 @@
 
 This group includes senior civil servants at these levels:
 
-- EU
-- national
-- membership bodies or associations (for example of cities)
-- provincial  
-- municipal
++ EU
++ national
++ membership bodies or associations (for example of cities)
++ provincial  
++ municipal
 
 Positive reasons for why they might be interested in our work:
 
@@ -28,7 +28,7 @@ Negative reasons for why they might be interested in our work:
 
 We enable:
 
-- easier implementation of policy into technology
-- higher quality public services
-- more cost effective implementation, maintenance and upgrading
-- agility for future growth paths
++ easier implementation of policy into technology
++ higher quality public services
++ more cost effective implementation, maintenance and upgrading
++ agility for future growth paths

@@ -2,10 +2,10 @@
 
 This group includes political leaders at these levels:
 
-- EU
-- national
-- provincial  
-- municipal
++ EU
++ national
++ provincial  
++ municipal
 
 Positive reasons for why they might be interested in our work:
 
@@ -27,7 +27,7 @@ Negative reasons for why they might be interested in our work:
 
 We enable:
 
-- policy accurately reflected by tech implementation
-- local control (technological sovereignty)
-- strengthen the local economy
-- building lasting value that transcends the political cycle
++ policy accurately reflected by tech implementation
++ local control (technological sovereignty)
++ strengthen the local economy
++ building lasting value that transcends the political cycle
