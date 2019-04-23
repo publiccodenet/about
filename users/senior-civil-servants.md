@@ -1,13 +1,15 @@
 # Senior civil servants
 
 This group includes senior civil servants at these levels:
-- EU 
+
+- EU
 - national
 - membership bodies or associations (for example of cities)
 - provincial  
 - municipal
 
 Positive reasons for why they might be interested in our work:
+
 + distributes risk of development
 + sense of ownership, pride or craft
 + enlarge communities of practice and share resources
@@ -15,6 +17,7 @@ Positive reasons for why they might be interested in our work:
 + trust and security of public services and underlying technology
 
 Negative reasons for why they might be interested in our work:
+
 + vendor lock in leads to costly maintenance
 + policy changes impossible to implement in closed, constrained software
 + software, contractor or genius empoloyee can suddenly vanish

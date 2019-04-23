@@ -1,4 +1,3 @@
-
 # Business management and procurement for public administrations
 
 Positive reasons for why they might be interested in our work:
