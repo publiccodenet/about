@@ -17,5 +17,5 @@ user-mapping and contributors:
 Other interested parties:
 
 + [vendors and the private sector](user-mapping/vendors-private-sector)
-+ [residents (end user-mapping)](user-mapping/residents.md)
++ [end users (residents and citizens)](user-mapping/residents.md)
 + [journalists, academia, other NGO partners](user-mapping/journalists-academia-NGO.md)
