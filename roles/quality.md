@@ -1,4 +1,4 @@
-# Codebase Steward, Quality
+# Codebase steward for quality
 
 The Foundation for Public Code helps the developers of Open Source software for public use – such as in governments and cities – improve the quality of their [Codebases](../glossary/codebase.md) by making them easier to understand, well documented, and thus highly reusable. 
 
