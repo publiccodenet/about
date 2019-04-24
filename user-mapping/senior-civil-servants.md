@@ -2,9 +2,9 @@
 
 This group includes senior civil servants at these levels:
 
-* EU
+* supranational
 * national
-* membership bodies or associations (for example of cities)
+* membership bodies (for example associations of cities)
 * provincial  
 * municipal
 
