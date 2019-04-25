@@ -40,11 +40,11 @@ As a codebase steward for quality you work together with the community to make t
 
 So, if you enjoy working together with a wide array of developers to make open source codebases really shine as well as improve the role of technology in society, this job is for you.
 
-## More information about this position:
+## More information about this position
 
 This is a full time role in our main offices in Amsterdam, the Netherlands. Compensation is competitive as well as in line with the public mission of the organization. Assistance in relocation possible.
 
-## More about the application process:
+## More about the application process
 
 We enthusiastically encourage people underrepresented in the worlds of technology and government to apply.
 
