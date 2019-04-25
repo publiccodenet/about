@@ -1,3 +1,7 @@
+---
+type: Index
+---
+
 # Codebase stewardship
 
 % The Foundation for Public Code will only start auditing codebases for possible stewardship in summer 2019. %
@@ -29,3 +33,7 @@ One of the biggest barriers to uptake of open source code is the unpredictable n
 Products in the care of the Foundation for Public Code have long term sustainability so that prospective users can trust there will be packages when they need to update their systems and that there will be someone to receive their pull request after the original maintainers have moved on.
 
 We provide this sustainability in the first place by creating strong communities of users and developers that can take ownership of the product.
+
+## Further reading:
+
+* [The Foundation for Public Code website for codebase stewardship](https://publiccode.net/codebase-stewardship/)

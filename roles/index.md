@@ -1,3 +1,7 @@
+---
+type: Index
+---
+
 # Staff Roles and open positions
 
 ## Hiring

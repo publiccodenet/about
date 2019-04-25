@@ -1,3 +1,7 @@
+---
+type: Resource
+---
+
 # Content Governance
 
 This project represents the Foundation for Public Code. Therefore any changes adopted into the `master` branch have to be accepted by the directors of the Foundation for Public Code. The `sprint` branch contains all features approved by at least one director and it represents the current 'working draft' version of the Foundation.

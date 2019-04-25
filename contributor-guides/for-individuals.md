@@ -1,4 +1,9 @@
-# Contributor Guide 🙇‍
+---
+type: Guide
+explains: How you, as an individual, can help the Foundation for Public Code
+---
+
+# Contributor as an individual
 
 The Foundation for Public Code has [a mission to develop an Open Source ecosystem for cities](../mission/index.md). In order to fulfil our mission we – the directors of the Foundation, our advisors and contributors – need your help!
 

@@ -1,3 +1,7 @@
+---
+type: Index
+---
+
 # What we do
 
 We help open source projects for public organizations (like cities) become successful, build sustainable communities around them and create a thriving public open source ecosystem.
@@ -17,13 +21,3 @@ Additionally we have separate sites that show our [projects](https://projects.pu
 ## We need you
 
 We can [really use your help](CONTRIBUTING.md) in setting up the Foundation for Public Code and making it successful.
-
-## Contact
-
-The Foundation for Public Code is currently 'in founding', which means there is no judicial entity for it while we make sure we can get started with the right statutes.
-
-For more information about what we're doing please reach out to us at:
-
-* [info@publiccode.net](mailto:info@publiccode.net)
-* [github.com/publiccodenet](https://github.com/publiccodenet)
-* [twitter.com/publiccodenet](https://twitter.com/publiccodenet)
