@@ -8,7 +8,7 @@ We test against the [Standard for Public Code](http://standard.publiccode.net/) 
 
 ## What do we expect from all our team members?
 
-You must:
+You should:
 
 * share our core values: openness, quality, trust, community, helpfulness
 * understand the value of and be experienced with open source products and communities
