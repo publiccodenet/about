@@ -1,6 +1,6 @@
 # About the Foundation for Public Code
 
-[From our mission](orgainisation/mission.md):
+[From our mission](organization/mission.md):
 
 > [...] We aim to maintain, manage, contribute to and grow an ecosystem of public software and policies that help governments, communities and citizens improve their city.
 

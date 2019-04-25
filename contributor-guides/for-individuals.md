@@ -5,7 +5,7 @@ explains: How you, as an individual, can help the Foundation for Public Code
 
 # Contributor as an individual
 
-The Foundation for Public Code has [a mission to develop an Open Source ecosystem for cities](../mission/index.md). In order to fulfil our mission we – the directors of the Foundation, our advisors and contributors – need your help!
+The Foundation for Public Code has [a mission to develop an Open Source ecosystem for cities](../organization/mission.md). In order to fulfil our mission we – the directors of the Foundation, our advisors and contributors – need your help!
 
 This repository serves as the 'official source of truth' about the Foundation for Public Code. It contains all of its documentation, procedures and information as well as explanations on what the Foundation for Public Code does. We see it a bit like a 'living' charter.
 
@@ -23,7 +23,7 @@ If you respond to an issue you will get notified by email of any new responses, 
 
 ### Identify issues we need to solve
 
-If you have any suggestion about our organisation, improvements to our documentation and communications or questions we invite you to [file an issue](https://github.com/publiccodenet/about/issues/new).
+If you have any suggestion about our organization, improvements to our documentation and communications or questions we invite you to [file an issue](https://github.com/publiccodenet/about/issues/new).
 
 For instance you could give us feedback on this guide, the [README](../README.md) or any other file in this repository.
 

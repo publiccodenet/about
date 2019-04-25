@@ -6,7 +6,7 @@ type: Resource
 
 The Foundation for Public Code helps public organizations – such as governments and cities – collaborate on solving their problems by developing Open Source solutions which, when reused, become more cost effective, of a higher quality, more resilient and attract more contributors.
 
-For the public organizations that would benefit from using, or contributing to, these [Codebases](../glossary/codebase.md) it might not always be easy to get started, know how to use or procure a solution like this or to trust in the Codebase.
+For the public organizations that would benefit from using, or contributing to, these [Codebases](../glossary/codebase-definition.md) it might not always be easy to get started, know how to use or procure a solution like this or to trust in the Codebase.
 
 As a Codebase Steward, Support you help:
 
