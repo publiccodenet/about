@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Codebase Steward, Support
+# Codebase steward for support
 
 The Foundation for Public Code helps public organizations – such as governments and cities – collaborate on solving their problems by developing Open Source solutions which, when reused, become more cost effective, of a higher quality, more resilient and attract more contributors.
 
