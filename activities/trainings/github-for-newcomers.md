@@ -12,11 +12,11 @@ The GitHub labs courses
 
 For our way of working and how we use GitHub following this order makes sense:
 
-* [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github).
-* [Communicating using MarkDown](https://lab.github.com/githubtraining/communicating-using-markdown).
-* [GitHub pages](https://lab.github.com/githubtraining/github-pages)
-* [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests).
-* [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts).
+1. [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github).
+2. [Communicating using MarkDown](https://lab.github.com/githubtraining/communicating-using-markdown).
+3. [GitHub pages](https://lab.github.com/githubtraining/github-pages)
+4. [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests).
+5. [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts).
 
 Tip: If you get stuck because you think the bot should respond but it doesn't it often helps to refresh the page.
 
