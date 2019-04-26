@@ -1,5 +1,7 @@
 # GitHub for newcomers
 
+This guide explains: How to learn to use GitHub effectively for working with the Foundation for Public Code projects.
+
 GitHub is an incredibly powerful tool for collaboration at scale. However it is a power-tool and requires some serious learning and understanding. For this reason, in order to learn effectively and not be frustrated often it pays to really dive deep into what it is and how it works.
 
 If you know what a rebase is, this guide is not for you. If you don't we expect you to know and understand everything that is in these courses.
@@ -10,11 +12,11 @@ The GitHub labs courses
 
 For our way of working and how we use GitHub following this order makes sense:
 
-* [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
-* [Communicating using MarkDown](https://lab.github.com/githubtraining/communicating-using-markdown)
+* [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github).
+* [Communicating using MarkDown](https://lab.github.com/githubtraining/communicating-using-markdown).
 * [GitHub pages](https://lab.github.com/githubtraining/github-pages)
-* [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
-* [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)
+* [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests).
+* [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts).
 
 Tip: If you get stuck because you think the bot should respond but it doesn't it often helps to refresh the page.
 
