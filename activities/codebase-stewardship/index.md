@@ -6,7 +6,7 @@ type: Index
 
 % The Foundation for Public Code will only start auditing codebases for possible stewardship in summer 2019. %
 
-Through codebase stewardship we help public source code and policy code products become successful by guaranteeing their marketability and quality. Trustworthy, usable, maintained and sustainable code for your city.
+Through codebase stewardship we help public source code and policy code products become successful by guaranteeing their quality and marketability. Trustworthy, usable, maintained and sustainable code for your public organisation.
 
 We provide the following for products, projects and codebases under our stewardship:
 
@@ -17,7 +17,7 @@ We provide the following for products, projects and codebases under our stewards
 * Marketing, communications, public relations
 * Developer advocacy, user support, end-user success, training materials
 * Operations: project infrastructure, process management
-* Legal services: IP management, trademark protection
+* Legal services: intellectual property management, trademark protection
 
 ## Making collaboration across contexts possible
 
@@ -36,4 +36,4 @@ We provide this sustainability in the first place by creating strong communities
 
 ## Further reading:
 
-* [The Foundation for Public Code website for codebase stewardship](https://publiccode.net/codebase-stewardship/)
+* [The Foundation for Public Code introduction to codebase stewardship](https://publiccode.net/codebase-stewardship/)
