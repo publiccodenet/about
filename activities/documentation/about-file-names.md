@@ -2,9 +2,9 @@
 type: Guide
 ---
 
-# Naming files in the about
+# Naming files for about.publiccode.net
 
-All files in the about have to be descriptive of their content.
+All files in About have to be descriptive of their content.
 
 Filenames are lowercase with dashes to separate words.
 
