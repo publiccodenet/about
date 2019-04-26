@@ -4,7 +4,7 @@ type: Resource
 
 # Codebase steward for quality
 
-The [Foundation for Public Code](https://publiccode.net) helps the producers of open source software for public use – such as in cities and other public organizations – improve the quality of their [codebases](../glossary/codebase.md) by making them easier to understand, well documented, and thus highly reusable.
+The [Foundation for Public Code](https://publiccode.net) helps the producers of open source software for public use – such as in cities and other public organizations – improve the quality of their [codebases](../glossary/codebase-definition.md) by making them easier to understand, well documented, and thus highly reusable.
 
 We provide review of codebases that are in our stewardship to help developers build trusted and reliable software that can be widely reused and foster a strong community around it.
 
