@@ -2,7 +2,7 @@
 type: Guide
 ---
 
-# Naming files for about.publiccode.net
+# Naming files for <about.publiccode.net>
 
 All files in About have to be descriptive of their content.
 
