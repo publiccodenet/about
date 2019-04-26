@@ -42,7 +42,8 @@ So, if you enjoy working together with a wide array of developers to make open s
 
 ## More information about this position
 
-This is a full time role in our main offices in Amsterdam, the Netherlands. Compensation is competitive as well as in line with the public mission of the organization. Assistance in relocation possible.
+This is a full time role (40 hours/wk) in our main offices in Amsterdam, the Netherlands. Assistance in relocation is possible.
+This is a one year contract, with an option to extend. Compensation is competitive as well as in line with the public mission of the organization.
 
 ## More about the application process
 
