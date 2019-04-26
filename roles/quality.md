@@ -52,4 +52,4 @@ If you want to know more about the position, please get in touch with Boris van 
 
 If you want to apply to the position, please email Mirjam van Tiel at <mirjam@publiccode.net>.
 
-We are looking to fill this position in the very near future and will process applications on a rolling basis.
+We are looking to fill this position in the very near future and will review applications on a rolling basis.
