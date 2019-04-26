@@ -6,24 +6,24 @@ type: Index
 
 The documentation of our work is core to our ability to deliver on our mission together with the community. In order to do this effectively we've made documenting what we do core to our process.
 
-As a rapidly developing organization the information we have changes continuously. In order to be able to both always be able to access the most up to date information as well as being able to change we've centralised knowledge in one place: the 'about'.
+As a rapidly developing organization the information we have changes continuously. In order to always be able to access the most up to date information as well as be able to change it, we've centralised knowledge in one place: <about.publiccode.net>.
 
-## The about repository and site
+## The About repository and site
 
-The 'about' is the canonical source of truth for the organisation. This means that the information on the [about.publiccode.net](https://about.publiccode.net/) website – a reflection of the `master` branch in the [`about` repository](https://github.com/publiccodenet/about) – is the one that takes precedence over any other information.
+About is the canonical source of truth for the organisation. This means that the information on the [about.publiccode.net](https://about.publiccode.net/) website – a reflection of the `master` branch in the [`about` repository](https://github.com/publiccodenet/about) – takes precedence over any other information.
 
 ## Content types
 
-In order to make it easier to navigate and contribute information we try to limit the types of content in the 'about' into three types:
+In order to make it easier to navigate and contribute information we try to limit the types of content in About to three types:
 
 * [Resource](../../glossary/resource-definition.md)
 * [Guide](../../glossary/guide-definition.md)
 * [Index](../../glossary/index-definition.md)
 
-## How to add information to the about
+## How to add information to About
 
 * [How to write a resource](writing-resources.md)
 * [How to write a guide](writing-guides.md)
 * [How to write an index](writing-indexes.md)
-* [File name convention in the about](about-file-names.md)
-* [Folder structure of the about](about-folder-structure.md)
+* [File name convention in About](about-file-names.md)
+* [Folder structure of About](about-folder-structure.md)
