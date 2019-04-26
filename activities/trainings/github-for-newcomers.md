@@ -8,7 +8,7 @@ If you know what a rebase is, this guide is not for you. If you don't we expect 
 
 ## Do it yourself, guided
 
-The GitHub labs courses
+The GitHub labs courses are great courses, so it pays to read them completely as well as watch all the videos.
 
 For our way of working and how we use GitHub following this order makes sense:
 
