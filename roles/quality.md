@@ -1,12 +1,12 @@
 # Codebase steward for quality
 
-The [Foundation for Public Code](https://publiccode.net) helps the producers of open source software for public use – such as in cities and other governmental organizations – improve the quality of their [codebases](../glossary/codebase.md) by making them easier to understand, well documented, and thus highly reusable.
+The [Foundation for Public Code](https://publiccode.net) helps the producers of open source software for public use – such as in cities and other public organizations – improve the quality of their [codebases](../glossary/codebase.md) by making them easier to understand, well documented, and thus highly reusable.
 
 We provide review of codebases that are in our stewardship to help developers build trusted and reliable software that can be widely reused and foster a strong community around it.
 
 We test against the [Standard for Public Code](http://standard.publiccode.net/) to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society, improve continually, and policy makers can keep technology and architectural choices open.
 
-## What do we expect from all our team members?
+## What we expect from all of our team members
 
 You should:
 
@@ -18,7 +18,7 @@ You should:
 * be a strong communicator in English
 * have international experience
 
-## What do we expect from our new codebase steward for quality?
+## What we expect from the codebase steward for quality
 
 We expect our new codebase steward to:
 
@@ -30,7 +30,7 @@ We expect our new codebase steward to:
 * be diplomatic, strategically aware and able to be a strong advocate for the organization
 * be able to deliver constructive and actionable feedback
 
-## What will our new codebase steward for quality be doing?
+## What the codebase steward for quality does
 
 As a codebase steward for quality you work together with the community to make the codebases trusted, reliable and reusable. This means you will be:
 
