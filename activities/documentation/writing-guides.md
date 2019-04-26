@@ -1,19 +1,19 @@
 ---
 type: Guide
-explains: How to clearly explain to others how to do something by making a guide on the about
+explains: How to clearly explain to others how to do something by making a guide on About
 ---
 
 # Write a guide
 
-[Guides](../../glossary/guide-definition.md) are how we explain things to each others. The goal of a guide is always to help others go through a process and get to a result, preferably by themselves.
+[Guides](../../glossary/guide-definition.md) are how we explain things to each other. The goal of a guide is always to help others go through a process and get to a result, preferably by themselves.
 
-Capturing knowledge about our processes as guides helps onboard newcomers and give insight to how we work.
+Capturing knowledge about our processes as guides helps onboard newcomers and give insight into how we work.
 
 A guide is always written to help the reader (you) progress.
 
 ## Where your guide lives
 
-A guide can be anywhere in the about. It should be in a relevant place in the [folder structure](about-folder-structure.md). Often this is with a activity.
+Guides are published on <about.publiccode.net>. It should be in a relevant place in the [folder structure](about-folder-structure.md). Often this is with an activity.
 
 ## Anatomy of a guide
 
@@ -46,7 +46,7 @@ Followed by the content of the guide.
 
 ### Further reading section
 
-At the end of your guide you can add a 'Further reading' section with relevant links to anything inside or outside of the about that people can use in order to understand this topic better.
+At the end of your guide you can add a 'Further reading' section with relevant links to anything inside or outside of About that people can use in order to understand this topic better.
 
 ```markdown
 ## Further reading
