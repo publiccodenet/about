@@ -1,15 +1,56 @@
-# Codebase Steward, Quality
+# Codebase steward for quality
 
-The Foundation for Public Code helps the developers of Open Source software for public use – such as in governments and cities – improve the quality of their [Codebases](../glossary/codebase.md) by making them easier to understand, well documented, and thus highly reusable. 
+The [Foundation for Public Code](https://publiccode.net) helps the producers of open source software for public use – such as in cities and other public organizations – improve the quality of their [codebases](../glossary/codebase.md) by making them easier to understand, well documented, and thus highly reusable.
 
-We provide review of contributions to Codebases that are in Codebase Stewardship at the Foundation for Public Code in order to help developers build trusted and reliable software that can be widely reused and can foster a strong community. We test against the quality Public Code standards for code and documentation we set which aim to make Codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure Codebases can be trusted as the infrastructure of society, improve continually, and keep technology and architectural choices open.
+We provide review of codebases that are in our stewardship to help developers build trusted and reliable software that can be widely reused and foster a strong community around it.
 
-As a Codebase Steward, Quality you help:
+We test against the [Standard for Public Code](http://standard.publiccode.net/) to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society, improve continually, and policy makers can keep technology and architectural choices open.
 
-* review pull requests and give feedback on the reusability, documentation and integrity of the codebase
-* update the standards for quality Public Code that we use to test for
-* partake in the community
+## What we expect from all of our team members
 
-If you enjoy working together with a wide array of developers to make Open Source codebases really shine as well as improve the role of technology in society, this is you.
+You should:
 
-This is a full time role in our main offices in Amsterdam, The Netherlands. Relocation possible. Compensation is competitive as well as in line with the public mission of the organization.
+* share our core values: openness, quality, trust, community, helpfulness
+* understand the value of and be experienced with open source products and communities
+* want to work for the public good
+* have a collaborative work attitude and take pride in making things together
+* be able to work independently
+* be a strong communicator in English
+* have international experience
+
+## What we expect from the codebase steward for quality
+
+We expect our new codebase steward to:
+
+* be experienced in making great reusable open source software
+* be an experienced maintainer in the open source community
+* be motivated to help others make great reusable open source software
+* be excited to help us create our process for codebase auditing
+* be a programming languages polyglot
+* be diplomatic, strategically aware and able to be a strong advocate for the organization
+* be able to deliver constructive and actionable feedback
+
+## What the codebase steward for quality does
+
+As a codebase steward for quality you work together with the community to make the codebases trusted, reliable and reusable. This means you will be:
+
+* reviewing contributions to codebases for compliance with the Standard, and giving constructive and actionable feedback
+* continually developing the Standard for Public Code
+* playing an active role in the communities we work with
+
+So, if you enjoy working together with a wide array of developers to make open source codebases really shine as well as improve the role of technology in society, this job is for you.
+
+## More information about this position
+
+This is a full time role (40 hours/wk) in our main offices in Amsterdam, the Netherlands. Assistance in relocation is possible.
+This is a one year contract, with an option to extend. Compensation is competitive as well as in line with the public mission of the organization.
+
+## More about the application process
+
+We enthusiastically encourage people underrepresented in the worlds of technology and government to apply.
+
+If you want to know more about the position, please get in touch with Boris van Hoytema at <boris@publiccode.net> or +31 6 17 96 02 05.
+
+If you want to apply to the position, please email Mirjam van Tiel at <mirjam@publiccode.net>.
+
+We are looking to fill this position in the very near future and will review applications on a rolling basis.
