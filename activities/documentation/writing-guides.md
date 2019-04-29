@@ -24,7 +24,7 @@ The MarkDown of a guide file starts with the following metadata [`front-matter`]
 ```markdown
 ---
 type: Guide
-explains: How to to do something for people who need to
+explains: How to make pancakes for hungry people
 ---
 ```
 
