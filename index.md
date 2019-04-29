@@ -7,7 +7,7 @@ type: Index
 We help open source projects for public organizations (like cities) become successful, build sustainable communities around them and create a thriving public open source ecosystem.
 
 [Our mission](organization/mission.md) is to create a viable future for public organizations and civic operating systems that are highly participatory and drive societal engagement.
-We do this through ecosystem level [codebase stewardship](activities/index.md) of both computer and civic code enabling collaboration and re-use at scale.
+We do this through ecosystem level [codebase stewardship](activities/index.md) of both software and civic code enabling collaboration and re-use at scale.
 
 Read more about:
 
