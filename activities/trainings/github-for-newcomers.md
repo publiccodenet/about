@@ -27,3 +27,4 @@ With this knowledge you should now be good to go with your GitHub use!
 If you want someone to show you:
 
 * [Git and GitHub for poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (10 minute episodes, in total about 2 hours)
+* [GitHub's Guides YouTube channel](https://www.youtube.com/githubguides)
