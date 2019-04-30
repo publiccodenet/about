@@ -6,7 +6,7 @@ type: Index
 
 The documentation of our work is core to our ability to deliver on our mission together with the community. In order to do this effectively we've made documenting what we do core to our process.
 
-As a rapidly developing organization the information we have changes continuously. In order to always be able to access the most up to date information as well as be able to change it, we've centralised knowledge in one place: <about.publiccode.net>.
+As a rapidly developing organization the information we have changes continuously. In order to always be able to access the most up to date information as well as be able to change it, we've centralised knowledge in one place: [about.publiccode.net](https://about.publiccode.net/).
 
 ## The About repository and site
 
