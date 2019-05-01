@@ -1,3 +1,7 @@
+---
+type: Resource
+---
+
 # Codebase
 
 Any discrete package of code (both source and policy), the tests and documentation required to implement a piece of policy or software.
