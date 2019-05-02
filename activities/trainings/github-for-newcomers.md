@@ -1,3 +1,7 @@
+---
+type: Index
+---
+
 # GitHub for newcomers
 
 This guide explains: How to learn to use GitHub effectively for working with the Foundation for Public Code projects.
