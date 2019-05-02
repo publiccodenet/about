@@ -1,3 +1,7 @@
+---
+type: Resource
+---
+
 # Structural funding and philanthropy
 
 This includes:

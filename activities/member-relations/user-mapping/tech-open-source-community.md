@@ -1,3 +1,7 @@
+---
+type: Resource
+---
+
 # The tech and open source communities
 
 Positive reasons for why they might be interested in our work:

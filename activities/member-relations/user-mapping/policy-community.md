@@ -1,3 +1,7 @@
+---
+type: Resource
+---
+
 # The policy community
 
 Positive reasons for why they might be interested in our work:

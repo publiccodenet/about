@@ -1,3 +1,7 @@
+---
+type: Resource
+---
+
 # Political
 
 This group includes political leaders at these levels:

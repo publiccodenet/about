@@ -1,8 +1,12 @@
+---
+type: Index
+---
+
 # Value proposition hypotheses
 
-Foundation for Public Code value proposition hypotheses to test for user research, organised by probable user groups. 
+Foundation for Public Code value proposition hypotheses to test for user research, organised by probable user groups.
 
-> This information is incomplete - it only reflects our progress in our first session (April 2019).
+> This information is incomplete - it reflects our progress at our first session (April 2019).
 
 Decision makers and sponsors:
 

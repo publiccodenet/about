@@ -1,3 +1,7 @@
+---
+type: Resource
+---
+
 # Senior civil servants
 
 This group includes senior civil servants at these levels:
