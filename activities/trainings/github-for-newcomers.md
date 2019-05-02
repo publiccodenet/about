@@ -1,5 +1,5 @@
 ---
-type: Index
+type: Guide
 ---
 
 # GitHub for newcomers
