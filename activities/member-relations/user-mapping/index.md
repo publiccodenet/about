@@ -1,5 +1,5 @@
 ---
-type: Index
+type: Resource
 ---
 
 # Value proposition hypotheses
