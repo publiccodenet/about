@@ -13,3 +13,4 @@ These are the processes and services that make our operations work:
 
 * [Documentation of the organization](documentation/index.md)
 * [Member relations](member-relations/index.md)
+* [Trainings of the organization](trainings/index.md)
