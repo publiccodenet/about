@@ -27,7 +27,7 @@ We’re especially interested in learning what you need to implement the [Standa
 
 We’re currently looking for innovative public organizations to [join us as founding members](https://www.publiccode.net/founding-membership). As a founding member, you’ll have the chance to shape the Foundation’s processes and governance. Your code will be among the first accepted for Foundation stewardship.
 
-Come lead our community of enterprising public organizations creating public code to power their digital transformations.
+Come lead our community of enterprising public organizations using public code to power their digital transformations.
 
 ## Institutional giving and philanthropy
 
