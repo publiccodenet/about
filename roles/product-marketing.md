@@ -1,6 +1,6 @@
 # Codebase Steward, Product Marketing
 
-The Foundation For Public Code helps public organizations – such as governments and cities – collaborate on solving their problems by developing Open Source solutions which, when reused, become more cost effective, of a higher quality, more resilient, and more attractive to contributors.
+The Foundation for Public Code helps public organizations – such as governments and cities – collaborate on solving their problems by developing Open Source solutions which, when reused, become more cost effective, of a higher quality, more resilient, and more attractive to contributors.
 
 In order to get a wider uptake for these Codebases – that often compete with closed source software products – policy makers, management and developers in public organizations need to get to know the [Codebases](../glossary/codebase.md) and how to use them to solve their problems.
 As a Codebase Steward, Product Marketing you help:
