@@ -13,7 +13,7 @@ You can access the template here: https://docs.google.com/document/d/1jGQYAMkefc
 ## Assumptions:
 * This lightweight/low commitment Expression of Interest can be signed while we work with potential Founding Members on the Founding Membership Proposal
 * This resource is a link to a google doc for now, but might change format soon
-* Any changes to the content of this template must first be made in the About before being propagated into this document
+* Any changes to the content of this template must first be made in About before being propagated into this document
 
 ## Use and Further Development:
 - [ ] Replace the “[highlighted text]” with customised text
