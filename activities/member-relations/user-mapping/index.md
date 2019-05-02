@@ -1,6 +1,8 @@
-# User research brain storming session (part 1)
+# Value proposition hypotheses
 
-Value proposition hypotheses to test for user research, organised by probable user groups.
+Foundation for Public Code value proposition hypotheses to test for user research, organised by probable user groups. 
+
+> This information is incomplete - it only reflects our progress in our first session (April 2019).
 
 Decision makers and sponsors:
 
