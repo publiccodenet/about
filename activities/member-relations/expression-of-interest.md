@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Template_Expression of interest
+# Expression of interest template
 
 ## Goal: 
 This document serves as an expression of interest to be signed by public organisations that are exploring  joining the Foundation for Public Code as a Founding Member.  It gives us permission to talk about our working relationship in the open.
