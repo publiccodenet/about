@@ -12,4 +12,5 @@ These are all of the activities, products and services of the Foundation for Pu
 These are the processes and services that make our operations work:
 
 * [Documentation of the organization](documentation/index.md)
+* [Member relations](member-relations/index.md)
 * [Trainings of the organization](trainings/index.md)
