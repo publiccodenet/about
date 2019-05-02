@@ -1,3 +1,7 @@
+---
+type: Resource
+---
+
 # Public Code
 
 Public code is both civic code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines.
