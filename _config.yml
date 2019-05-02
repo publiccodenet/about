@@ -1,4 +1,4 @@
-title: About the Foundation for Public Code
+title: About the Foundation For Public Code
 permalinks: pretty
 
 include:
@@ -21,29 +21,22 @@ toc: true
 defaults:
   -
     scope: 
-      path: '/roles/*'
-    values:
-      breadcrumbs:
-        - name: 'Roles'
-          path: '/roles/'
-  -
-    scope: 
-      path: '/activities/*'
-    values:
-      breadcrumbs:
-        - name: 'Activities'
-          path: '/activities/'
-  -
-    scope: 
-      path: '/glossary/*'
+      path: '/glossary/[!index]*'
     values:
       breadcrumbs:
         - name: 'Glossary'
           path: '/glossary/'
   -
     scope: 
-      path: '/contributor-guides/*'
+      path: '/roles/[!index]*'
     values:
       breadcrumbs:
-        - name: 'Contributor guides'
-          path: '/contributor-guides/'
+        - name: 'Roles'
+          path: '/roles/'
+  -
+    scope: 
+      path: '/activities/[!index]*'
+    values:
+      breadcrumbs:
+        - name: 'Activities'
+          path: '/activities/'
