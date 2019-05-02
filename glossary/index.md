@@ -1,5 +1,5 @@
 ---
-type: Resource
+type: Index
 ---
 
 # Glossary terms
