@@ -15,11 +15,6 @@ You can access the template here: https://docs.google.com/document/d/1jGQYAMkefc
 * This resource is a link to a google doc for now, but might change format soon
 * Any changes to the content of this template must first be made in the About before being propagated into this document
 
-## Review:
-Version: V0.1 
-Last updated:
-Peer reviewed by:
-
 ## Use and Further Development:
 - [ ] Replace the “[highlighted text]” with customised text
 - [ ] Share with potential members
