@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Journalists, academia and other NGO partners
+# Journalists, academia and NGO partners
 
 Positive reasons for why they might be interested in our work:
 
