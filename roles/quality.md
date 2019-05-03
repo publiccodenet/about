@@ -33,6 +33,7 @@ We expect our new codebase steward to:
 * be a programming languages polyglot
 * be diplomatic, strategically aware and able to be a strong advocate for the organization
 * be able to deliver constructive and actionable feedback
+* be an active particpant in the community you support
 
 ## What the codebase steward for quality does
 
