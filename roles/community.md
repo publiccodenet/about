@@ -6,7 +6,7 @@ type: Resource
 
 The Foundation for Public Code helps public organizations develop and maintain software and policy together.
 
-Part of this effort is to help the makers of open source software for public use – such as governments and cities – build communities around their [codebases](https://about.publiccode.net/glossary/codebase.html). This enables sharing of knowledge across organizations, making codebases stronger, and improve the quality of public services.
+Part of this effort is to help the makers of open source software for public use – such as governments and cities – build communities around their [codebases](https://about.publiccode.net/glossary/codebase.html). This enables sharing of knowledge across organizations, makes codebases stronger and improves the quality of public services.
 
 ## What we expect from all of our team members
 
@@ -19,7 +19,7 @@ You should:
 - be able to work independently
 - be a strong communicator in English
 - have international experience
-- be an active participant in the community you support
+- be an active participant in the codebase community you support
 
 ## What we expect from the codebase steward for community
 
@@ -35,7 +35,7 @@ We expect our new codebase steward for community to:
 As a codebase steward for community you work together with the community to build communities around codebases. This means you will be:
 
 - building and maintaining healthy communities through connecting members, and organizing events
-- continually develop our processes and tools for community management.
+- continually develop our processes and tools for community management
 
 If you enjoy connecting a wide variety of passionate technologists and stakeholders that work for the public good with meaningful interactions as well as believe in open source as a collaboration method, this job is for you.
 
