@@ -18,12 +18,12 @@ Decision makers and sponsors:
 
 Users and contributors:
 
-* [the policy community](policy-community.md)
-* [the tech and open source communities](tech-open-source-community.md)
-* [business management and procurement for public administrations](business-management-procurement.md)
+* the policy community
+* the tech and open source communities
+* business management and procurement for public administrations
 
 Other interested parties:
 
-* [vendors and the private sector](vendors-private-sector.md)
-* [end users (residents and citizens)](residents.md)
-* [journalists, academia and NGO partners](journalists-academia-NGO.md)
+* vendors and the private sector
+* end users (residents and citizens)
+* journalists, academia and non-governmental organizations
