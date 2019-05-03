@@ -41,7 +41,6 @@ As a codebase steward for quality you work together with the community to make t
 
 * reviewing contributions to codebases for compliance with the Standard, and giving constructive and actionable feedback
 * continually developing the Standard for Public Code
-* playing an active role in the communities we work with
 
 So, if you enjoy working together with a wide array of developers to make open source codebases really shine as well as improve the role of technology in society, this job is for you.
 
