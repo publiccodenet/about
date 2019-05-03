@@ -18,7 +18,3 @@ Negative reasons for why they might be interested in our work:
 
 * Facebook, Uber et al now seen as villains - winners need to give back
 * other NGOs offer one-off solutions and consulting, but what's needed are structural platforms
-
-## Our value proposition for them
-
-We enable:
