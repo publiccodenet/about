@@ -16,7 +16,6 @@ Decision makers and sponsors:
 * [senior civil servants](senior-civil-servants.md)
 * [structural funding and philanthropy](structural-funding-philanthropy.md)
 
-
 ### Not yet mapped
 
 Users and contributors:
