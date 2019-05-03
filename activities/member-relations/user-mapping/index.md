@@ -4,9 +4,10 @@ type: Resource
 
 # Value proposition hypotheses
 
+> This information is incomplete - it reflects our progress at our first session (April 2019).
+
 Foundation for Public Code value proposition hypotheses to test for user research, organised by probable user groups.
 
-> This information is incomplete - it reflects our progress at our first session (April 2019).
 
 Decision makers and sponsors:
 
