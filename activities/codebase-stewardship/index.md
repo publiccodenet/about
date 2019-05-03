@@ -4,7 +4,7 @@ type: Index
 
 # Codebase stewardship
 
-% The Foundation for Public Code will only start auditing codebases for possible stewardship in summer 2019. %
+> The Foundation for Public Code will only start auditing codebases for possible stewardship in summer 2019.
 
 Through codebase stewardship we help public source code and policy code products become successful by guaranteeing their quality and marketability. Trustworthy, usable, maintained and sustainable code for your public organization.
 
@@ -36,7 +36,7 @@ We provide this sustainability in the first place by creating strong communities
 
 ## For new or existing projects
 
-For new projects codebase stewardship can add value from the start of the development process. 
+For new projects codebase stewardship can add value from the start of the development process.
 
 If applied to the project after there might be some important considerations about how to transition and budget for that, we've explained what you need to do for this and what you can expect from us in ['Codebase stewardship for existing projects'](for-existing-projects.md).
 
