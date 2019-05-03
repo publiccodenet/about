@@ -26,4 +26,4 @@ Other interested parties:
 
 * [vendors and the private sector](vendors-private-sector.md)
 * [end users (residents and citizens)](residents.md)
-* [journalists, academia, other NGO partners](journalists-academia-NGO.md)
+* [journalists, academia and NGO partners](journalists-academia-NGO.md)
