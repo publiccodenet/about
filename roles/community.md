@@ -2,7 +2,11 @@
 type: Resource
 ---
 
-# Codebase steward for community
+# Do you have a desire to improve the work of local governments? 
+
+And want to help public organizations build and maintain better services by building communities so that public organizations can work together on and share information about policy and open source software? 
+
+# Become our codebase steward for community
 
 The Foundation for Public Code helps public organizations develop and maintain software and policy together.
 
