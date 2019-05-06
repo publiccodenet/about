@@ -6,7 +6,7 @@ type: Index
 
 ## Hiring
 
-We're looking for people to join our mission and staff for these roles, if you are interested in one of the positions below, please get in touch with us at [info@publiccode.net](mailto:info@publiccode.net).
+We're looking for brilliant people to join our mission. We're currently hiring for these roles:
 
 * [Codebase steward for quality](quality.md): Help developers build high quality public code (Full time, Amsterdam)
 * [Codebase steward for community](community.md): Grow strong communities around the codebases (Full time, Amsterdam)
