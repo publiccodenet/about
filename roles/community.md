@@ -6,7 +6,7 @@ type: Resource
 
 The Foundation for Public Code helps public organizations develop and maintain software and policy together.
 
-Part of this effort is to help the makers of open source software for public use – such as governments and cities – build communities around their [codebases](https://about.publiccode.net/glossary/codebase.html). This enables sharing of knowledge across organizations, makes codebases stronger and improves the quality of public services.
+Part of this effort is to help the makers of open source software for public use – such as governments and cities – build communities around their [codebases](/glossary/codebase-definition.md). This enables sharing of knowledge across organizations, makes codebases stronger and improves the quality of public services.
 
 ## What we expect from all of our team members
 
@@ -50,6 +50,6 @@ We enthusiastically encourage people underrepresented in the worlds of technolog
 
 If you want to know more about the position, please get in touch with Boris van Hoytema at boris@publiccode.net or +31 6 17 96 02 05.
 
-If you want to apply to the position, please email Mirjam van Tiel at mirjam@publiccode.net.
+If you want to apply to the position, please email Mirjam van Tiel at mirjam@publiccode.net with a short motivation and a resume or a short explanation of relevant work experience.
 
 We are looking to fill this position in the very near future and will review applications on a rolling basis.
