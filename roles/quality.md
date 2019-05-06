@@ -2,7 +2,11 @@
 type: Resource
 ---
 
-# Codebase steward for quality
+# Do you have a desire to improve the work of local governments? 
+
+And want to help public organizations build and maintain better services by using higher quality codebases? 
+
+# Become our codebase steward for quality
 
 [The Foundation for Public Code](https://publiccode.net) helps public organizations develop and maintain software and policy together.
 
