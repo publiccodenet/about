@@ -36,6 +36,7 @@ We expect our new codebase steward to:
 * be a programming languages polyglot
 * be diplomatic, strategically aware and able to be a strong advocate for the organization
 * be able to deliver constructive and actionable feedback
+* be an active participant in the community you support
 
 ## What the codebase steward for quality does
 
@@ -57,6 +58,6 @@ We enthusiastically encourage people underrepresented in the worlds of technolog
 
 If you want to know more about the position, please get in touch with Boris van Hoytema at <boris@publiccode.net> or +31 6 17 96 02 05.
 
-If you want to apply to the position, please email Mirjam van Tiel at <mirjam@publiccode.net>.
+If you want to apply to the position, please email Mirjam van Tiel at <mirjam@publiccode.net> with a short motivation and a resume or a short explanation of relevant work experience.
 
 We are looking to fill this position in the very near future and will review applications on a rolling basis.
