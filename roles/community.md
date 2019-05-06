@@ -6,7 +6,7 @@ type: Resource
 
 The Foundation for Public Code helps public organizations develop and maintain software and policy together.
 
-Part of this effort is to help the makers of open source software for public use – such as governments and cities – build communities around their [codebases](/glossary/codebase-definition.md). This enables sharing of knowledge across organizations, makes codebases stronger and improves the quality of public services.
+Part of this effort is to help the makers of open source software for public use – such as governments and cities – build communities around their [codebases](../glossary/codebase-definition.md). This enables sharing of knowledge across organizations, makes codebases stronger and improves the quality of public services.
 
 ## What we expect from all of our team members
 
