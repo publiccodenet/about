@@ -1,3 +1,7 @@
+---
+type: Guide
+---
+
 # Join us
 
 Thanks for your interest in the Foundation for Public Code! We’re excited to meet you.
@@ -15,15 +19,15 @@ In the meantime, please join us in any way you can.
 
 ## Individual contributors
 
-Our [contributor guide for individuals](contributor-guides/individuals.md) explains how to find out what we’re currently working on and what we’re looking for help with.
+Our [contributor guide for individuals](contributor-guides/for-individuals.md) explains how to find out what we’re currently working on and what we’re looking for help with.
 
 We’re especially interested in learning what you need to implement the [Standard for Public Code](http://standard.publiccode.net/) in your organization. Please [raise an issue](http://standard.publiccode.net/CONTRIBUTING.html) or email us at <info@publiccode.net>.
 
 ## Public organizations
 
-We’re currently looking for innovative public organizations to join us as founding members. As a founding member, you’ll have the chance to shape the Foundation’s processes and governance. Your code will be among the first accepted for Foundation stewardship. Lead the community of enterprising public organizations creating public code to power their digital transformations.
+We’re currently looking for innovative public organizations to [join us as founding members](http://publiccode.net/membership/founding-membership). As a founding member, you’ll have the chance to shape the Foundation’s processes and governance. Your code will be among the first accepted for Foundation stewardship.
 
-If this sounds like your organization, email us at <membership@publiccode.net>.
+Come lead our community of enterprising public organizations using public code to power their digital transformations.
 
 ## Institutional giving and philanthropy
 
