@@ -56,6 +56,7 @@ If you provide us with meaningful contributions we might ask you to become an ad
 
 [We're currently hiring](../roles/index.md) codebase stewards to review codebase quality and build strong open source communities. If the prospect of building an eco-system of public code thrills you, then we'd love to hear from you.
 
+
 ## Responsible disclosure and contact information
 
 If you see an issue that should be resolved in private like a security or liability issue, please contact directors@publiccode.net.
