@@ -2,7 +2,7 @@
 type: Index
 ---
 
-# Staff Roles and open positions
+# Staff roles and open positions
 
 ## Hiring
 
@@ -16,6 +16,7 @@ We're looking for brilliant people to join our mission. We're currently hiring f
 
 We're currently not looking for these roles, however if you think you fit in to our organization in a way we don't understand yet, please get in touch.
 
-* Chief Executive
-* Chief Operating
-* [Codebase steward for product marketing](product-marketing.md): Make public codebases strong competitors to other solutions out there
+
+* Chief Executive Officer
+* Chief Operating Officer
+* [Codebase steward for product marketing](product-marketing.md): Make codebases strong competitors to other solutions out there

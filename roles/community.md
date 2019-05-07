@@ -6,6 +6,7 @@ type: Resource
 
 Come help the makers of open source software for public use – such as governments and cities – build thriving communities around their [codebases](../glossary/codebase-definition.md). This enables sharing of knowledge across organizations, makes codebases stronger and improves the quality of public services. This role is vital to the Foundation for Public Code's mission to help public organizations develop and maintain software and policy together. 
 
+
 ## What the codebase steward for community does
 
 As a codebase steward for community you work together with the community to build communities around codebases. This means you will:
@@ -14,6 +15,7 @@ As a codebase steward for community you work together with the community to buil
 - continually develop our processes and tools for community management
 
 If you enjoy connecting a wide variety of passionate technologists and stakeholders that work for the public good with meaningful interactions as well as believe in open source as a collaboration method, this job is for you.
+
 
 ## What we expect from all of our team members
 
