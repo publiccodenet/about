@@ -2,5 +2,5 @@
 type: Index
 ---
 
-These are all the trainings of the Foundation for Public Code.
+Here is a list of trainings developed or used by the Foundation for Public Code.
 * [GitHub for newcomers](github-for-newcomers.md)
