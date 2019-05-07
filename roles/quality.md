@@ -4,13 +4,20 @@ type: Resource
 
 # Codebase steward for quality
 
-[The Foundation for Public Code](https://publiccode.net) helps public organizations develop and maintain software and policy together.
+Come help producers of open source software for public use – such as in cities and other public organizations – improve the quality of their [codebases](../glossary/codebase-definition.md) by making them easier to understand, well documented and thus highly reusable.
 
-We help the producers of open source software for public use – such as in cities and other public organizations – improve the quality of their [codebases](../glossary/codebase-definition.md) by making them easier to understand, well documented, and thus highly reusable.
+[The Foundation for Public Code](https://publiccode.net) helps public organizations develop and maintain software and policy together. We provide review of codebases that are in our stewardship to help developers build trusted and reliable software that can be widely reused and foster a strong community around it.
 
-We provide review of codebases that are in our stewardship to help developers build trusted and reliable software that can be widely reused and foster a strong community around it.
+We test against the [Standard for Public Code](http://standard.publiccode.net/) to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society and improve continually, and policy makers can keep technology and architectural choices open.
 
-We test against the [Standard for Public Code](http://standard.publiccode.net/) to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society, improve continually, and policy makers can keep technology and architectural choices open.
+## What the codebase steward for quality does
+
+As a codebase steward for quality you work together with the community to make the codebases trusted, reliable and reusable. This means you will be:
+
+* reviewing contributions to codebases for compliance with the Standard, and giving constructive and actionable feedback
+* continually developing the Standard for Public Code
+
+So, if you enjoy working together with a wide array of developers to make open source codebases really shine as well as improve the role of technology in society, this job is for you.
 
 ## What we expect from all of our team members
 
@@ -37,15 +44,6 @@ We expect our new codebase steward to:
 * be diplomatic, strategically aware and able to be a strong advocate for the organization
 * be able to deliver constructive and actionable feedback
 * be an active participant in the community you support
-
-## What the codebase steward for quality does
-
-As a codebase steward for quality you work together with the community to make the codebases trusted, reliable and reusable. This means you will be:
-
-* reviewing contributions to codebases for compliance with the Standard, and giving constructive and actionable feedback
-* continually developing the Standard for Public Code
-
-So, if you enjoy working together with a wide array of developers to make open source codebases really shine as well as improve the role of technology in society, this job is for you.
 
 ## More information about this position
 
