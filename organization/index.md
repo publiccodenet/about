@@ -2,7 +2,7 @@
 type: Index
 ---
 
-# Organisation
+# Organization
 
 This section has resources on our mission and how we're building the organization to support that.
 
