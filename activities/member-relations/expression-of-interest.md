@@ -15,7 +15,7 @@ You can access the [template here](https://docs.google.com/document/d/1jGQYAMkef
 ## Assumptions
 * This lightweight/low commitment Expression of Interest can be signed while we work with potential Founding Members on the Founding Membership Proposal
 * This resource is a link to a google doc for now, but might change format soon
-* Any proposed changes to the content of this template must first be proposed and merged with master branch of 'About' before being implemented here 
+* Any proposed changes to the content of this template must first be proposed and merged with [the `master` branch of About](https://github.com/publiccodenet/about/tree/master) before being implemented here 
 
 ## Use and further development
 - [ ] Replace the “[highlighted text]” with customized text
