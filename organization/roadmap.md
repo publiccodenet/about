@@ -55,7 +55,7 @@ This phase is over when: the members are willing to commit to stage 3 and scalin
 
 Foundation For Public Code:
 
-* Codebase stewardship at scale
+* Provide codebase stewardship at scale
 * Grow member base aggressively
 * Consolidate partner and affiliated organizations
 
