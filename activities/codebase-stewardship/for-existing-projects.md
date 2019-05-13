@@ -1,5 +1,5 @@
 ---
-type: resource
+type: Resource
 ---
 
 # Codebase stewardship for existing projects

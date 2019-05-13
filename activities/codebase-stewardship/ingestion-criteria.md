@@ -1,8 +1,6 @@
 ---
 type: Resource
-bpmn: lifecycle.bpmn
 ---
-
 
 # Criteria  for codebase stewardship
 
