@@ -10,7 +10,7 @@ As a rapidly developing organization the information we have changes continuousl
 
 ## The About repository and site
 
-About is the canonical source of truth for the organization. This means that the information on the [about.publiccode.net](https://about.publiccode.net/) website – a reflection of the `master` branch in the [`about` repository](https://github.com/publiccodenet/about) – takes precedence over any other information.
+About is the canonical source of truth for our organization. This means that the information on the [about.publiccode.net](https://about.publiccode.net/) website – a reflection of the `master` branch in the [`about` repository](https://github.com/publiccodenet/about) – takes precedence over any other information.
 
 ## Content types
 
