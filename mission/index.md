@@ -4,5 +4,5 @@ We create a viable future for cities and civic operating systems that are highly
 
 To achieve this we maintain, manage, contribute to and grow an ecosystem of public software and policies that help governments, communities and citizens improve their city.
 
-##Founding principles
+## Founding principles
 Though not established in law yet, the Foundation for Public Code has [draft principles](/principles.md) which will form part of Foundation's legal bylaws.
