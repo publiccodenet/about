@@ -6,7 +6,7 @@ type: Index
 
 This section has resources on our mission and how we're building the organization to support that.
 
-* [Mission](mission.md)
+* [Mission & founding principles](mission.md)
 * [Goals](goals.md)
 * [Cultural values](cultural-values.md)
 * [Keys to success](keys-to-success.md)
