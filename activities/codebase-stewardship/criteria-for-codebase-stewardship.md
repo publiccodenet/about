@@ -6,8 +6,7 @@ bpmn: lifecycle.bpmn
 
 # Criteria  for codebase stewardship
 
-These are the criteria for codebase stewardship used before and after the 'Assess' phase in the codebase stewardship lifecycle. The staff of the Foundation for Public Code will use these to help evaluate whether a codebase is ready/condusive for incubation. They are in no particular order of importance.
-
+Here are the criteria the staff of the Foundation for Public Code will use to help evaluate whether a codebase is ready/condusive for incubation. They are used before and after the 'Assess' phase in the codebase stewardship lifecycle. 
 
 * Community
    * Does the codebase have an active and engaged community?
@@ -26,3 +25,4 @@ These are the criteria for codebase stewardship used before and after the 'Asses
 * Story
   * What is the story-telling and communication value of this codebase becoming Public Code and being reused?  
 
+Note: They are in no particular order of importance.
