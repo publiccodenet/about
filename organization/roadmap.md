@@ -10,7 +10,7 @@ This roadmap serves as a model for how we're developing, growing and scaling our
 
 Foundation For Public Code:
 
-* Building team
+* Build team
 * Mapping potential members
 
 This phase is over when: the organization has a legal entity
