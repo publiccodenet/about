@@ -1,3 +1,7 @@
+---
+type: resource
+---
+
 # Codebase stewardship for existing projects
 
 Here we explain what organisations that want a existing project to be in [codebase stewardship](index.md) have to do and what we will do to support them in this process.
