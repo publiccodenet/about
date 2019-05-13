@@ -20,7 +20,7 @@ This phase is over when: the organization has a legal entity
 Foundation For Public Code:
 
 * Building diverse founding member base
-* Business casing
+* Develop business cases and case study material
 * Pilot codebase stewardship
 * Research service development
 * Define value proposition
