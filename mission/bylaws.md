@@ -1,4 +1,4 @@
-#Draft founding principles for the Foundation for Public Code
+# Draft founding principles for the Foundation for Public Code
 
 ## Mission
 To grow an ecosystem of public purpose open source policy and software.
