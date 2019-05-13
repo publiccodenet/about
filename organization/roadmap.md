@@ -8,7 +8,7 @@ This roadmap serves as a model for how we're developing, growing and scaling our
 
 ## Phase 0: get the organization founded
 
-Foundation For Public Code:
+Foundation for Public Code:
 
 * Build team
 * Mapping potential members
@@ -17,7 +17,7 @@ This phase is over when: the organization has a legal entity
 
 ## Phase 1: developing founding membership
 
-Foundation For Public Code:
+Foundation for Public Code:
 
 * Build a diverse founding member base
 * Develop business cases and case study material
@@ -38,7 +38,7 @@ This phase is over when: when there is a member base willing to commit resources
 
 ## Phase 2: Building the organization to scale
 
-Foundation For Public Code:
+Foundation for Public Code:
 
 * (Beta) codebase stewardship (no long term guarantees)
 * Develop scalable operations and communication
@@ -53,7 +53,7 @@ This phase is over when: the members are willing to commit to stage 3 and scalin
 
 ## Phase 3: Scale
 
-Foundation For Public Code:
+Foundation for Public Code:
 
 * Provide codebase stewardship at scale
 * Grow our member base aggressively
