@@ -16,7 +16,7 @@ Staff of the Foundation for Public Code:
 
 This phase is over when: the organization has a legal entity
 
-## Phase 1: developing founding membership
+## Phase 1: Developing founding membership
 
 Staff of the Foundation for Public Code:
 
