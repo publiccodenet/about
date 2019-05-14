@@ -30,7 +30,7 @@ Members:
 
 * Become founding members
 * Take co-ownership over the organization
-* First conference for founding members and stakeholders
+* Organize the first conference for founding members and stakeholders
 * Build organizational alignment within their organizations and with other members
 * Shape the governance and financial structure of the organization
 
