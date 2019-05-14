@@ -42,7 +42,7 @@ Foundation for Public Code:
 
 * (Beta) codebase stewardship (no long term guarantees)
 * Develop scalable operations and communication
-* Clear value and impact model
+* Establish a clear and convincing value proposition and impact model
 
 Members:
 
