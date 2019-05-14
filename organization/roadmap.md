@@ -27,7 +27,7 @@ Staff of Foundation for Public Code:
 * Define the value proposition for members
 * Define what founding membership would entail
 
-Members of the Foundation for Public Code:
+Founding members of the Foundation for Public Code:
 
 * Become founding members
 * Take co-ownership over the organization
