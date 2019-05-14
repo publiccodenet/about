@@ -31,7 +31,7 @@ Founding members of the Foundation for Public Code:
 
 * Become founding members
 * Take co-ownership over the organization
-* Organize the first conference for founding members and stakeholders
+* Organize the first conference for founding members and other stakeholders
 * Build organizational alignment within their organizations and with other members
 * Shape the governance and financial structure of the organization
 
