@@ -32,7 +32,7 @@ We use the list of issues to:
 
 ## Structure
 
-The title of the issue should be short, to the point an descriptive. Enhancements can have verbs in them. Detail, technical or otherwise, should be in the body of the issue.
+The title of the issue should be short, to the point and descriptive. Enhancements can have verbs in them. Detail, technical or otherwise, should be in the body of the issue.
 
 * Context: why are you filing this issue
 * Problem or idea
