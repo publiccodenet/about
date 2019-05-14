@@ -1,3 +1,7 @@
+---
+type: Resource
+---
+
 # Codebase stewardship for existing projects
 
 This explains:
