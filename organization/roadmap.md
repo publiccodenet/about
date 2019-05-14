@@ -23,7 +23,7 @@ Foundation for Public Code:
 * Develop business cases and case study material
 * Pilot codebase stewardship
 * Research service development
-* Define value proposition
+* Define the value proposition for members
 * Define founding membership
 
 Members:
