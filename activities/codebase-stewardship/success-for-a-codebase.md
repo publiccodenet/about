@@ -6,7 +6,7 @@ type: resource
 
 This is how we define the sucess of codebase stewardship on a codebase:
 
-> Success = (contributorsx2)x(maintainersx10)
+> Success = (contributors)x(maintainersx5)
 
 Additional considerations:
 * 'users' has not been included as this is dificult to measure 
