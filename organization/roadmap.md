@@ -47,7 +47,7 @@ Foundation for Public Code:
 Members:
 
 * Develop a scalable business and governance model
-* Develop a growth model
+* Develop a growth model for the organization
 
 This phase is over when: the members are willing to commit to stage 3 and scaling
 
