@@ -15,4 +15,3 @@ Here are the criteria the staff of the Foundation for Public Code will use to he
 * Societal impact: what is the potential societal impact of the codebase becoming public code and being reused?
 * Story: what is the story-telling and communication value of this codebase becoming public code and being reused?  
 
-
