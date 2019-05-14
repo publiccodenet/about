@@ -24,7 +24,7 @@ Foundation for Public Code:
 * Pilot codebase stewardship
 * Research service development
 * Define the value proposition for members
-* Define founding membership
+* Define what founding membership would entail
 
 Members:
 
