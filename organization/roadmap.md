@@ -40,7 +40,7 @@ This phase is over when: when there is a member base willing to commit resources
 
 Foundation for Public Code:
 
-* (Beta) codebase stewardship (no long term guarantees)
+* Provide (beta) codebase stewardship (no long term guarantees)
 * Develop scalable operations and communication
 * Establish a clear and convincing value proposition and impact model
 
