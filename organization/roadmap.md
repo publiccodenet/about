@@ -12,6 +12,7 @@ Staff of Foundation for Public Code:
 
 * Build team
 * Map potential members
+* Establish a legal entity
 
 This phase is over when: the organization has a legal entity
 
