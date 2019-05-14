@@ -32,7 +32,7 @@ Members:
 * Take co-ownership
 * First conference for founding members and stakeholders
 * Build organizational alignment
-* Shaping the governance and financial structure
+* Shape the governance and financial structure of the organization
 
 This phase is over when: when there is a member base willing to commit resources and finances for phase 2
 
