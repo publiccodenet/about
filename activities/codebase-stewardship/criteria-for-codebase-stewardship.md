@@ -14,4 +14,3 @@ Here are the criteria the staff of the Foundation for Public Code will use to he
 * Reuse potential: to what extent can the codebase be reused, both in a different context or for a different purpose?
 * Societal impact: what is the potential societal impact of the codebase becoming public code and being reused?
 * Story: what is the story-telling and communication value of this codebase becoming public code and being reused?  
-
