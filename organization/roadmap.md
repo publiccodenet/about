@@ -28,7 +28,7 @@ Foundation for Public Code:
 
 Members:
 
-* Become members
+* Become founding members
 * Take co-ownership over the organization
 * First conference for founding members and stakeholders
 * Build organizational alignment within their organizations and with other members
