@@ -31,9 +31,10 @@ Founding members of the Foundation for Public Code:
 
 * Become founding members
 * Take co-ownership over the organization
-* Organize the first conference for founding members and other stakeholders
+* Organize the first conference for founding members and stakeholders
 * Build organizational alignment within their organizations and with other members
 * Shape the governance and financial structure of the organization
+* Commit time, resources and codebases to support the development of the organization and its activities
 
 This phase is over when: when there is a member base willing to commit resources and finances for phase 2
 
@@ -41,9 +42,10 @@ This phase is over when: when there is a member base willing to commit resources
 
 Staff of the Foundation for Public Code:
 
-* Provide (beta) codebase stewardship (no long term guarantees)
+* Provide beta codebase stewardship (no long term guarantees)
 * Develop scalable operations and communication
 * Establish a clear and convincing value proposition and impact model
+* Evaluate and refine activities together with members
 
 Members of the Foundation for Public Code:
 
@@ -52,7 +54,7 @@ Members of the Foundation for Public Code:
 
 This phase is over when: the members are willing to commit to stage 3 and scaling
 
-## Phase 3: Scale
+## Phase 3: Scale the organization
 
 Staff of the Foundation for Public Code:
 
