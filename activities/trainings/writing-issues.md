@@ -27,7 +27,7 @@ We use the list of issues to:
 
 * understand what needs to be done
 * prioritize what to do
-* collaborating with each other on finding solutions
+* collaborate with each other on finding solutions
 * help new contributors find out how they can contribute
 
 ## Structure
