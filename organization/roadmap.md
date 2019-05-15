@@ -61,7 +61,7 @@ Staff of the Foundation for Public Code:
 * Grow our member base aggressively
 * Engage with partner and affiliated organizations
 
-Members of the Foundation for Public Code:
+Members of the Foundation for Public Code will:
 
 * Govern the organization
 * Actively participate in codebase stewardship and other activities of the organization
