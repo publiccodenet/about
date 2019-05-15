@@ -35,7 +35,7 @@ Founding members of the Foundation for Public Code:
 * Shape the governance and financial structure of the organization
 * Commit time, resources and codebases to support the development of the organization and its activities
 
-This phase is over when: when there is a member base willing to commit resources and finances for phase 2
+This phase is over when: there is a member base willing to commit resources and finances for phase 2
 
 ## Phase 2: Building a scalable organization
 
