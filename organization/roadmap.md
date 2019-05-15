@@ -22,8 +22,7 @@ Staff of the Foundation for Public Code:
 
 * Build a diverse founding member base
 * Develop business cases and case study material
-* Pilot codebase stewardship
-* Research service development
+* Research and develop alpha codebase stewardship
 * Define the value proposition for members
 * Define what founding membership would entail
 
@@ -31,7 +30,7 @@ Founding members of the Foundation for Public Code:
 
 * Become founding members
 * Take co-ownership over the organization
-* Organize the first conference for founding members and stakeholders
+* Organize the first conference for founding members and other interested stakeholders
 * Build organizational alignment within their organizations and with other members
 * Shape the governance and financial structure of the organization
 * Commit time, resources and codebases to support the development of the organization and its activities
@@ -43,8 +42,8 @@ This phase is over when: when there is a member base willing to commit resources
 Staff of the Foundation for Public Code:
 
 * Provide beta codebase stewardship (no long term guarantees)
-* Develop scalable operations and communication
-* Establish a clear and convincing value proposition and impact model
+* Develop scalable operations and communications
+* Establish a clear and convincing value proposition, impact model, business cases, and case studies
 * Evaluate and refine activities together with members
 
 Members of the Foundation for Public Code:
@@ -60,10 +59,12 @@ Staff of the Foundation for Public Code:
 
 * Provide codebase stewardship at scale
 * Grow our member base aggressively
-* Consolidate partner and affiliated organizations
+* Engage partner and affiliated organizations
 
 Members of the Foundation for Public Code:
 
 * Govern the organization
+* Actively participate in codebase stewardship and other activities of the organization
+* Support the long term sustainability and growth of the organization for the benefit of all members
 
-This phase is over when: when the mission is fulfilled
+This phase is over when: when the [mission](/mission.md) is fulfilled
