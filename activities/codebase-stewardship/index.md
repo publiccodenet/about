@@ -40,6 +40,8 @@ For new projects codebase stewardship can add value from the start of the develo
 
 If applied to the project after there might be some important considerations about how to transition and budget for that, we've explained what you need to do for this and what you can expect from us in ['Codebase stewardship for existing projects'](for-existing-projects.md).
 
+Before entering the [codebase stewardship lifecycle](lifecycle.md) all potential codebases are evaluated according to our [criteria for codebase stewardship](criteria-for-codebase-stewardship.md)
+
 ## Further reading:
 
 * [The Foundation for Public Code introduction to codebase stewardship](https://publiccode.net/codebase-stewardship/)
