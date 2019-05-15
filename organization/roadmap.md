@@ -8,7 +8,7 @@ This roadmap serves as a model for how we're developing, growing and scaling our
 
 ## Phase 0: Get the organization founded
 
-Staff of the Foundation for Public Code:
+Staff of the Foundation for Public Code will:
 
 * [Build team](../roles/)
 * Map potential members
