@@ -55,7 +55,7 @@ This phase is over when members are able to commit to stage 3 and scaling.
 
 ## Phase 3: Scale the organization
 
-Staff of the Foundation for Public Code:
+Staff of the Foundation for Public Code will:
 
 * Provide codebase stewardship at scale
 * Grow our member base aggressively
