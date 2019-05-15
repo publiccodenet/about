@@ -26,7 +26,7 @@ Staff of the Foundation for Public Code will:
 * Define the [value proposition for members](../activities/member-relations/user-mapping/index.md) 
 * Define what [founding membership entails](http://publiccode.net/membership/founding-membership)
 
-Founding members of the Foundation for Public Code:
+Founding members of the Foundation for Public Code will:
 
 * Become founding members
 * Take co-ownership of the organization
