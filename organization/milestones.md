@@ -34,3 +34,20 @@ Upcoming milestones:
 * First non-director gift @nebster
 * First non-director grant @nebster
 * Standard v2.0.0 @elenafdr
+
+## How to use milestones
+
+Milestones can be used in GitHub, they can be added to issues as well as pull requests which makes it easier to find and version things.
+
+In our office we have a wall with the milestones on it.
+
+## How to add a milestone
+
+1. Add a milestone to the GitHub repository where possible
+    * Mention the owner in the description
+    * Set the due date if available
+2. Add the milestone to the list above
+    * Add an owner
+    * Add a due date if available
+    * Link to the repository milestone
+3. Update the milestone wall in the office
