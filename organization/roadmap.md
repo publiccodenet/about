@@ -10,7 +10,7 @@ This roadmap serves as a model for how we're developing, growing and scaling our
 
 Staff of the Foundation for Public Code:
 
-* Build team
+* [Build team](../roles/)
 * Map potential members
 * Establish a legal entity
 
@@ -24,18 +24,18 @@ Staff of the Foundation for Public Code:
 * Develop business cases and case study material
 * Research and develop alpha [codebase stewardship](../activities/codebase-stewardship/index.md)
 * Define the [value proposition for members](../activities/member-relations/user-mapping/index.md) 
-* Define what [founding membership would entail](http://publiccode.net/membership/founding-membership)
+* Define what [founding membership entails](http://publiccode.net/membership/founding-membership)
 
 Founding members of the Foundation for Public Code:
 
 * Become founding members
-* Take co-ownership over the organization
+* Take co-ownership of the organization
 * Organize the first conference for founding members and other interested stakeholders
 * Build organizational alignment within their organizations and with other members
 * Shape the governance and financial structure of the organization
 * Commit time, resources and codebases to support the development of the organization and its activities
 
-This phase is over when: there is a member base willing to commit resources and finances for phase 2
+This phase is over when members are able to commit resources and finances for phase 2.
 
 ## Phase 2: Building a scalable organization
 
@@ -43,7 +43,7 @@ Staff of the Foundation for Public Code:
 
 * Provide beta codebase stewardship (no long term guarantees)
 * Develop scalable operations and communications
-* Establish a clear and convincing value proposition, impact model, business cases, and case studies
+* Establish a clear and convincing value proposition, impact model, business cases and case studies
 * Evaluate and refine activities together with members
 
 Members of the Foundation for Public Code:
@@ -51,7 +51,7 @@ Members of the Foundation for Public Code:
 * Develop a scalable business and governance model
 * Develop a growth model for the organization
 
-This phase is over when: the members are willing to commit to stage 3 and scaling
+This phase is over when members are able to commit to stage 3 and scaling.
 
 ## Phase 3: Scale the organization
 
@@ -59,7 +59,7 @@ Staff of the Foundation for Public Code:
 
 * Provide codebase stewardship at scale
 * Grow our member base aggressively
-* Engage partner and affiliated organizations
+* Engage with partner and affiliated organizations
 
 Members of the Foundation for Public Code:
 
