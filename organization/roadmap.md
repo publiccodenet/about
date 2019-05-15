@@ -18,7 +18,7 @@ This phase is over when: the organization has a legal entity
 
 ## Phase 1: Developing founding membership
 
-Staff of the Foundation for Public Code:
+Staff of the Foundation for Public Code will:
 
 * Build a diverse founding member base
 * Develop business cases and case study material
