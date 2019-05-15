@@ -39,7 +39,7 @@ This phase is over when members are able to commit resources and finances for ph
 
 ## Phase 2: Building a scalable organization
 
-Staff of the Foundation for Public Code:
+Staff of the Foundation for Public Code will:
 
 * Provide beta codebase stewardship (no long term guarantees)
 * Develop scalable operations and communications
