@@ -67,4 +67,4 @@ Members of the Foundation for Public Code:
 * Actively participate in codebase stewardship and other activities of the organization
 * Support the long term sustainability and growth of the organization for the benefit of all members
 
-This phase is over when: when the [mission](../organization/mission.md) is fulfilled
+This phase is over when: when the [mission](mission.md) is fulfilled
