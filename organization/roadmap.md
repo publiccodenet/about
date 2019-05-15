@@ -46,7 +46,7 @@ Staff of the Foundation for Public Code:
 * Establish a clear and convincing value proposition, impact model, business cases and case studies
 * Evaluate and refine activities together with members
 
-Members of the Foundation for Public Code:
+Members of the Foundation for Public Code will:
 
 * Develop a scalable business and governance model
 * Develop a growth model for the organization
