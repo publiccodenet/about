@@ -52,6 +52,11 @@ And of course we'd love input into our projects as well, like the [Standard for 
 
 If you provide us with meaningful contributions we might ask you to become an advisor. Our advisors are a group of subject matter experts from different fields that help us to progress the mission of the Foundation for Public Code and have a special position within the Foundation.
 
+## Work for the Foundation
+
+[We're currently hiring](../roles/index.md) codebase stewards to review codebase quality and build strong open source communities. If the prospect of building an eco-system of public code thrills you, then we'd love to hear from you.
+
+
 ## Responsible disclosure and contact information
 
 If you see an issue that should be resolved in private like a security or liability issue, please contact directors@publiccode.net.
