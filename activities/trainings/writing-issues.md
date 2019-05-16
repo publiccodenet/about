@@ -31,9 +31,9 @@ The title of the issue should be short, to the point and descriptive. Enhancemen
 * Problem or idea and this issue's definition of done
 * Solution or next step: request feedback from others, propose changes or propose further investigation
 
-## Tag relevant contributors and other issues
+## Defining done for issues
 
-Context is key, so use the GitHub functionality of tagging other contributors when relevant as well as mentioning other issues and pull requests.
+It can help those who solve the issue to know when they've actually fixed it. If there are multiple factors in this it might help adding them as checkboxes, then they can be resolved and tracked one by one.
 
 ## Writing a bug
 
@@ -50,9 +50,9 @@ An enhancement is something that could be better. In order to understand what th
 * a motivation: what users will benefit from this
 * a description of how you envision this to be or how you would solve this
 
-## Defining done for issues
+## Add labels to issues to help keep overview
 
-It can help those who solve the issue to know when they've actually fixed it. If there are multiple factors in this it might help adding them as checkboxes at the end of the issue, then they can be resolved and tracked one by one.
+Standard labels include `bug`, `enhanncement`, `help wanted`, `duplicate` and `good first issue`. Apart from these different codebases can have labels specific to them. For example for prioritization or team assignment.
 
 ## Make your issue a good first issue
 
