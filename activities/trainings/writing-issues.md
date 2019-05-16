@@ -70,4 +70,4 @@ A good first issue describes the issue as well as providing a step by step instr
 ## Further reading
 
 * ["Writing meaningful GitHub issues results in better commit messages" by Michael Thorne](https://www.userx.co.za/journal/writing-good-github-issues-makes-for-better-commit-messages/)
-* =["How we write our GitHub issues" by Wirecraft](https://wiredcraft.com/blog/how-we-write-our-github-issues/)
+* ["How we write our GitHub issues" by Wirecraft](https://wiredcraft.com/blog/how-we-write-our-github-issues/)
