@@ -67,6 +67,12 @@ Issues labeled `good first issue` provide an easy way for new contributors to ge
 
 A good first issue describes the issue as well as providing a step by step instruction on how to resolve it.
 
+## Closing an issue
+
+When an issue is something that cannot be worked on and prioritized it can be closed. Closed issues stay available and will turn up in search results so that people can see that it has been considered and the conversation will stay available.
+
+Closing an issue doesn't mean that this issue is never to be solved, but that it doesn't have a place in the shared backlog right now.
+
 ## Further reading
 
 * ["Writing meaningful GitHub issues results in better commit messages" by Michael Thorne](https://www.userx.co.za/journal/writing-good-github-issues-makes-for-better-commit-messages/)
