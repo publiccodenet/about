@@ -23,7 +23,9 @@ We write good issues because:
 * the person filing an issue is not always the person to fix it, they might have different skillsets
 * commit messages become better with more context
 
-We use the list of issues to:
+## The issue list
+
+Every repository has a list of issues. We use the list of issues to:
 
 * understand what needs to be done
 * prioritize what to do
