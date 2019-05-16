@@ -61,11 +61,13 @@ An enhancement is something that could be better. In order to understand what th
 
 It can help those who solve the issue to know when they've actually fixed it. If there are multiple factors in this it might help adding them as checkboxes at the end of the issue, then they can be resolved and tracked one by one.
 
-## Good first issues
+## Make your issue a good first issue
 
-Issues labeled `good first issue` provide an easy way for new contributors to get into committing. 
+Issues labeled `good first issue` provide an easy way for new contributors to get into committing.
 
 A good first issue describes the issue as well as providing a step by step instruction on how to resolve it.
+
+If you have an issue that is easy to resolve consider explaining how to do that and have it fixed by a newcomer to the community.
 
 ## Closing an issue
 
