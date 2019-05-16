@@ -50,6 +50,10 @@ An enhancement is something that could be better. In order to understand what th
 * a motivation: what users will benefit from this
 * a description of how you envision this to be or how you would solve this
 
+## Tag relevant contributors and other issues
+
+Context is key, so use the GitHub functionality of tagging other contributors when relevant as well as mentioning other issues and pull requests.
+
 ## Add labels to issues to help keep overview
 
 Standard labels include `bug`, `enhanncement`, `help wanted`, `duplicate` and `good first issue`. Apart from these different codebases can have labels specific to them. For example for prioritization or team assignment.
