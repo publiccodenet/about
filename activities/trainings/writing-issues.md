@@ -42,7 +42,7 @@ The title of the issue should be short, to the point and descriptive. Enhancemen
 
 Context is key, so use the GitHub functionality of tagging other contributors when relevant as well as mentioning other issues and pull requests.
 
-## Writing bugs
+## Writing a bug
 
 A bug is something that is wrong. In order to clearly communicate what is wrong it helps to answer the following questions:
 
@@ -50,7 +50,7 @@ A bug is something that is wrong. In order to clearly communicate what is wrong 
 * What did you expect
 * What did you find
 
-## Writing enhancements
+## Writing an enhancement
 
 An enhancement is something that could be better. In order to understand what the enhancement really is it can help to specify:
 
