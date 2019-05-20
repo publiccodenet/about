@@ -34,5 +34,5 @@ Negative reasons for why they might be interested in our work:
 
 * black boxes make security impossible
 * development is risky, especially if team members leave
-* mismatch between the employment norms and cultures of many public administrations and the open source community
+* discrepancy between the employment norms and culture of some public administrations and the open source community
 * skepticism about government and public administrations' ability to do open source properly at scale
