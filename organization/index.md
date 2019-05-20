@@ -7,6 +7,7 @@ type: Index
 This section has resources on our mission and how we're building the organization to support that.
 
 * [Mission](mission.md)
+* [Roadmap](roadmap.md)
 * [Goals](goals.md)
 * [Cultural values](cultural-values.md)
 * [Milestones](milestones.md)
