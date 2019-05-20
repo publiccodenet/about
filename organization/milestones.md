@@ -10,12 +10,12 @@ Milestones have an owner and can have a due date.
 
 Upcoming milestones:
 
-* Standard v0.2.0 2019-05-13 @bvhme
 * Choose name 2019-05-30 @bvhme
 * Hire codebase steward for community @bvhme
 * Hire codebase steward for quality @bvhme
 * Hire codebase steward for support @bvhme
 * Found association 2019-05-30 @bvhme
+* Standard v0.2.0 @elenafdr
 * First intention agreement @nebster
 * First member @nebster
 * First national-level member @nebster
