@@ -21,11 +21,11 @@ Positive reasons for why they might be interested in our work:
 
 Negative reasons for why they might be interested in our work:
 
-* data and processes owned by private actors
+* public data and processes owned by private actors
 * poor resident experience is politically costly
 * companies evolve to rip off government
-* high failure rate of huge IT projects
-* political change keeps cutting successes of opponent, which are then lost
+* high failure rate of huge IT projects, especially in those commissioned by governments
+* political change keeps cutting successes of opponent
 
 ## Our value proposition for them
 
