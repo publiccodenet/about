@@ -13,7 +13,7 @@ This group includes political leaders at these levels:
 
 Positive reasons for why they might be interested in our work:
 
-* translate local policy changes into tech solutions
+* translate policy changes into tech solutions
 * public opinion shifting towards critique of tech giants
 * a place to stash work before leaving office
 * involve local partners and stimulate the local economy
