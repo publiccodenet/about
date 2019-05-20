@@ -22,7 +22,7 @@ Positive reasons for why they might be interested in our work:
 
 Negative reasons for why they might be interested in our work:
 
-* vendor lock in leads to costly maintenance
+* vendor lock-in leads to costly maintenance
 * policy changes impossible to implement in closed, constrained software
 * software, contractor or genius empoloyee can suddenly vanish
 * no technological sovereignty (tech dependence)
