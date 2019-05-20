@@ -16,8 +16,11 @@ Upcoming milestones:
 * Found association 2019-05-30 @bvhme
 * Standard v0.2.0 @elenafdr
 * First member @nebster
+* First national-level intention agreement @nebster
 * First national-level member @nebster
+* First supranational-level intention agreement @nebster
 * First supranational-level member @nebster
+* First non-European intention agreement @nebster
 * First non-European member @nebster
 * First Public Code conference @elenafdr
 * First business case and value/impact model published @clausmullie
