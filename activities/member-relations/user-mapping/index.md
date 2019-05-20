@@ -24,8 +24,10 @@ Users and contributors:
 * the tech and open source communities
 * business management and procurement for public administrations
 
-Other interested parties:
-
+Affiliates and partners:
 * vendors and the private sector
+* non-governmental organizations and non-profits aligned with our mission
+
+Other interested parties:
 * end users (residents and citizens)
-* journalists, academia and non-governmental organizations
+* journalists and academia and 
