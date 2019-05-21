@@ -13,8 +13,8 @@ type: Resource
 ## Announcing job opening:
 
 1. Place job posting(s) on website
-2. Bring job opening(s) under the attention of network of current team. (mail, LI, social media)
-3. Bring job opening(s) under the attention of the job opening(s) via (specialized) sites and bureaus
+2. Bring job opening(s) under the attention of network of current team (via mail, LinkedIn, social media)
+3. Bring job opening(s) under the attention of the job opening(s) via (specialized) sites and possibly bureaus
 
 ## Processing reactions of people expressing interest:
 
