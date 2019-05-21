@@ -11,7 +11,7 @@ This guide outlines the information points that Foundation for Public Code staff
 
 The information collected will be used to structure and keep track of our ongoing relationships with members. 
 
-It is based on our mission and the first iterations of the founding member proposal template. In line with our communication principles, this should be concise and hypertextual where possible. 
+It is based on our [mission](../../organization/mission.md) and the first iterations of the [founding member proposal template](founding-membership-proposal.md). In line with our communication principles, this should be concise and hypertextual where possible. 
 
 As information collected may include personal or sensitive information, this is not public but stored in a private and secure environment.
 
