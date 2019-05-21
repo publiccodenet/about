@@ -16,7 +16,7 @@ As a prospective intern we ask you to send us a proposal on how you see yourself
 
 ### Join as intern codebase steward
 
-As a inter [codebase steward](https://publiccode.net/codebase-stewardship/) you will be paired with and mentored by one of our senior codebase stewards to make the Foundation's codebases more trusted, reliable and reusable. 
+As a intern [codebase steward](https://publiccode.net/codebase-stewardship/) you will be paired with and mentored by one of our codebase stewards to make the Foundation's codebases more trusted, reliable and reusable. 
 
 For more information on our four types of codebase stewards please see:
 * [Quality - help make codebases more reusable](quality.md)
