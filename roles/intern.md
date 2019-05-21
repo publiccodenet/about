@@ -14,9 +14,9 @@ We test against the [Standard for Public Code](http://standard.publiccode.net/) 
 
 As a prospective intern we ask you to send us a proposal on how you see yourself fit best within the Foundation's activities, based on the information below, your skills and your interests. 
 
-### Join as intern codebase steward
+### Join as an intern codebase steward
 
-As a intern [codebase steward](https://publiccode.net/codebase-stewardship/) you will be paired with and mentored by one of our codebase stewards to make the Foundation's codebases more trusted, reliable and reusable. 
+As an intern [codebase steward](https://publiccode.net/codebase-stewardship/) you will be paired with and mentored by one of our codebase stewards to make the Foundation's codebases more trusted, reliable and reusable. 
 
 For more information on our four types of codebase stewards please see:
 * [Quality - help make codebases more reusable](quality.md)
