@@ -14,9 +14,9 @@ We test against the [Standard for Public Code](http://standard.publiccode.net/) 
 
 As a prospective intern we ask you to send us a proposal on how you see yourself fit best within the Foundation's activities, based on the information below, your skills and your interests. 
 
-### Join as junior codebase stewards
+### Join as intern codebase steward
 
-As a junior [codebase steward](https://publiccode.net/codebase-stewardship/) you will be paired with and mentored by one of our senior codebase stewards to make the Foundation's codebases more trusted, reliable and reusable. 
+As a inter [codebase steward](https://publiccode.net/codebase-stewardship/) you will be paired with and mentored by one of our senior codebase stewards to make the Foundation's codebases more trusted, reliable and reusable. 
 
 For more information on our four types of codebase stewards please see:
 * [Quality - help make codebases more reusable](quality.md)
@@ -49,7 +49,7 @@ We expect interns to join us for at least 3 months, and at least 3 days/week. We
 
 We are open to all types of applications, including as part of your studies (like a thesis or final project), as a student placement before/after graduation, or independently of an educational program. We will provide some financial compensation for people not covered by their institutions/training program.
 
-The position of junior codebase stewards can fulfilled either in our Amsterdam office or remote, with trips to our head office in Amsterdam for training and important events. The position for general interns is based in our Amsterdam office.
+The position of intern codebase steward can be fulfilled either in our Amsterdam office or remote, with trips to our head office in Amsterdam for training and important events. The position for general interns is based in our Amsterdam office.
 
 ## More about the application process
 
