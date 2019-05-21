@@ -26,7 +26,7 @@ For more information on our four types of codebase stewards please see:
 ### Join as a general intern 
 As a growing organization we also regularly need help from talented indivudals on transversal issues. This could range from researching and developing case studies on the economics of open source for public use, improving how we measure impact, organizing epic events, or supporting ongoing operations in an open-by-default and community-driven organization. 
 
-For the latest list of things we are solliciting from contributors, please check out our GitHub repositories or our contributors page. 
+For the latest list of things we are solliciting from contributors, please check out our [GitHub repositories](https://github.com/publiccodenet) or our [individual contributors](../contributor-guides/for-individuals.md) page. 
 
 ## What we expect from all of our team members
 
