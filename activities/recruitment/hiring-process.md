@@ -1,7 +1,7 @@
 ---
 type: Resource
 ---
-# Process for recruiting and hiring candidates at PublicCode.net
+# Process for recruiting and hiring candidates
 
 ## Roles in this process:
 
