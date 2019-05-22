@@ -37,10 +37,10 @@ The purpose of reviewing these merges carefully is to make sure that we only pub
 
 ## Checklist template
 
-- [ ] Spell check
+- [ ] Spell checked
 - [ ] Correct Markdown and formatting
-- [ ] All hyperlinks
+- [ ] All hyperlinks work
 - [ ] All new files are linked in indices
 - [ ] Front matter is present and correct
-- [ ] Bullets and numbered lists
-- [ ] Reviewed all content
+- [ ] Bullets and numbered lists are correct
+- [ ] All content reviewed
