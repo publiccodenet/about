@@ -25,7 +25,7 @@ Negative reasons for why they might be interested in our work:
 * vendor lock-in leads to costly maintenance
 * policy changes are impossible to implement in closed, constrained software
 * software, contractor or genius employee can suddenly vanish
-* there is lack technological sovereignty (tech dependence)
+* there is lack of technological sovereignty (tech dependence)
 * it is very hard to find tech talent in the public sector
 
 ## Our value proposition for them
