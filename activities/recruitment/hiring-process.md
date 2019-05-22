@@ -26,7 +26,7 @@ type: Resource
 ## Planned recruitment and hiring process
 
 7\. Current job openings have no closing date and applications are considered on a rolling basis. When we find a suitable candidate, we hire and close the opening. This means applications are considered ‘by themselves’ and not ‘in competition’ with a certain set of other applications.
-8\. HRM confirms receipt to candidates and does first ‘sorting out’.
+8\. HRM confirms receipt to candidates and does first round of evaluation.
 9\. HRM brings possibly suitable candidates to the attention of CEO and supervisor. These 2 make +/- judgement, without consulting each other. If judgement is not equal, a short discussion follows and judgement is made.
 10\. HRM notifies candidates (thank you or invitation for interview).
 11\. First interview: CEO and HRM, 1 hr, partially on the basis of a pre-established list of desirable competences and other characteristics (i.e. fit for role, fit for organization (culture, growth, leadership, long/short term)). Half of the interview is spent presenting PublicCode.net, in the other half, the candidate has a chance to present themselves. Immediately after the interview both HRM and CEO score the candidate on the items on the list and determine if the candidate should progress to a second interview.
