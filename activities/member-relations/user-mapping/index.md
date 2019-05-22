@@ -26,4 +26,4 @@ Affiliates and partners:
 
 Other interested parties:
 * end users (residents and citizens)
-* journalists and academia and 
+* journalists and academia 
