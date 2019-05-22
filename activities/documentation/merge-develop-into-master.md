@@ -22,18 +22,18 @@ The purpose of reviewing these merges carefully is to make sure that we only pub
 
 ### If you find a problem
 
-5. Create a new branch. 
-6. Fix any uncontroversial problems in your branch (for example typos).
+6. Create a new branch. 
+7. Fix any uncontroversial problems in your branch (for example typos).
 8. Add large or controversial problems that prevent publication to the 'Review checklist' in your original pull request (for example factual errors).
-10. Add any other problems or questions to Issues (for example new content suggestions).
+9. Add any other problems or questions to Issues (for example new content suggestions).
 
 ### Resolving problems 
 
-11. Ask a second reviewer to validate new problems added to the review checklist together, preferably at the same time. 
-12. Create a new branch for each large and controversial checklist problem.
-13. Merge all new branches into 'develop'. 
-15. Update your orginal pull request.
-16. Restart the review process at step 3.
+10. Ask a second reviewer to validate new problems added to the review checklist together, preferably at the same time. 
+11. Create a new branch for each large and controversial checklist problem.
+12. Merge all new branches into 'develop'. 
+13. Update your orginal pull request.
+14. Restart the review process at step 3.
 
 ## Checklist template
 ```
