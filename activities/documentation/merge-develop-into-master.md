@@ -36,7 +36,7 @@ The purpose of reviewing these merges carefully is to make sure that we only pub
 14. Restart the review process at step 3.
 
 ## Checklist template
-```
+
 - [ ] Spell check
 - [ ] Correct Markdown and formatting
 - [ ] All hyperlinks
