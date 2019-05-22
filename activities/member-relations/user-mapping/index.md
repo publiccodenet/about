@@ -17,7 +17,7 @@ Decision makers and sponsors:
 Users and contributors:
 
 * the policy community
-* [developers, designers](developers-and-designers.md) and the open source community
+* [developers, designers and the open source community](developers-and-designers.md)
 * business management and procurement for public administrations
 
 Affiliates and partners:
