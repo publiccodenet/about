@@ -1,4 +1,3 @@
-
 ---
 type: Guide
 explains: How to publish new content on About for Foundation staff 
