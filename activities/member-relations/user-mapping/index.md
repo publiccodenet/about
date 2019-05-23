@@ -21,9 +21,11 @@ Users and contributors:
 * business management and procurement for public administrations
 
 Affiliates and partners:
+
 * vendors and the private sector
 * non-governmental organizations and non-profits aligned with our mission
 
 Other interested parties:
+
 * end users (residents and citizens)
-* journalists and academia and 
+* journalists and academia
