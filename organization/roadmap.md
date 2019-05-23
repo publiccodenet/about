@@ -10,7 +10,7 @@ This roadmap serves as a model for how we're developing, growing and scaling our
 
 Staff of the Foundation for Public Code will:
 
-* [Build team](../roles/)
+* [Build team](../roles/index.md)
 * Map potential members
 * Establish a legal entity
 
