@@ -20,7 +20,7 @@ We write good issues because:
 
 * it helps communicate things that need to be done
 * planning becomes easier if you understand the context of a change
-* the person filing an issue is not always the person to fix it, they might have different skillsets
+* the person filing an issue is not always the person to fix it - they might have different skillsets
 * commit messages become better with more context
 
 ## Structure
