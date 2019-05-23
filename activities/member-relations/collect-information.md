@@ -1,16 +1,14 @@
 ---
-type: Guide
+type: Resource
 ---
 
-# How to collect information for member relations
+# What information to collect about members for member relations 
 
 ## Introduction
 
-This guide outlines the information points that Foundation for Public Code staff use to map member relations.
+This resource outlines the information points that Foundation for Public Code staff use to map member relations.
 
-The information collected will be used to structure and keep track of our ongoing relationships with members. 
-
-It is based on our [mission](../../organization/mission.md) and the first iterations of the [founding member proposal template](founding-membership-proposal.md). In line with our communication principles, this should be concise and hypertextual where possible. 
+The information collected will be used to structure and keep track of our ongoing relationships with members. It is based on our [mission](../../organization/mission.md) and the first iterations of the [founding member proposal template](founding-membership-proposal.md). In line with our communication principles, this should be concise and hypertextual where possible. 
 
 As information collected may include personal or sensitive information, this is not public but stored in a private and secure environment.
 
@@ -27,7 +25,7 @@ As information collected may include personal or sensitive information, this is 
    * Internal skeptics: ```Outline the top two-three internal stakeholders who are/remain skeptical of our mission, for whom we can develop/test our value proposition mapping and assumptions```
 * Concrete value propositions and next steps
    * Title 1: ```Include a titles that is actionable and descriptive, such as "assess for stewardship", and reference a project in 'Background'```
-     * Value proposition: ```Briefly outline the main value propositions for the member, other members, the Foundation or the general ecosystem of this action.```
+    * Value proposition: ```Briefly outline the main value propositions for the member, other members, the Foundation or the general ecosystem of this action.```
      * Effort: ```If possible, provide a sense of estimated effort required (including staff time, contributors, financial etc) and/or any dificulties you can anticipate``` 
      * Next steps: ```List the main high-level actions and decisions that need to be taken to move foward. Sprint-level details should be captured in tickets on the Kanban board.```
    * Title 2:```Repeat above```
