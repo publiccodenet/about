@@ -46,7 +46,7 @@ As per [the content governance guide](../GOVERNANCE.md) pull requests can only b
 
 ### Contribute to our projects
 
-And of course we'd love input into our projects as well, like the [Standard for Public Code](http://standard.publiccode.net/).
+And of course we'd love input into our projects as well, like the [Standard for Public Code](https://standard.publiccode.net/).
 
 ## Become an advisor
 

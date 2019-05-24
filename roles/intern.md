@@ -8,7 +8,7 @@ Our program offers you the opportunity to work on high value public code project
 
 [The Foundation for Public Code](https://publiccode.net) helps public organizations develop and maintain software and policy together. We provide review of codebases that are in our stewardship to help developers build trusted and reliable software that can be widely reused and foster a strong community around it.
 
-We test against the [Standard for Public Code](http://standard.publiccode.net/) to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society. The Standard supports continual improvement of codebases and helps policy makers keep technology and architectural choices open.
+We test against the [Standard for Public Code](https://standard.publiccode.net/) to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society. The Standard supports continual improvement of codebases and helps policy makers keep technology and architectural choices open.
 
 ## What interns do
 
