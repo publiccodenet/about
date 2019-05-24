@@ -15,7 +15,7 @@ Positive reasons for why they might be interested in our work:
 
 * translating policy changes into tech solutions
 * responding to public opinion becoming more critical of tech giants
-* having a place to stash work before leaving office
+* having a place to store work before leaving office
 * increased ability to involve local partners and stimulate the local economy
 * getting access to higher level government funding
 
