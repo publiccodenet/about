@@ -20,13 +20,13 @@ As information collected may include personal or sensitive information, this is 
    * Additional initiatives: ```Provide a short description of other initiatives not directly related to, but adjacent to our mission```
 
 * Relationship to the Foundation for Public Code
-   * Decision makers: ```Outline the top two-three budget holders, policy makers and managers who decide on membership of the Foundation```
-   * Internal champions: ```Outline the top two-three internal champions who can help promote our mission and act as ambassadors internally```
-   * Internal skeptics: ```Outline the top two-three internal stakeholders who are/remain skeptical of our mission, for whom we can develop/test our value proposition mapping and assumptions```
+   * Decision makers: ```Outline the top two or three budget holders, policy makers and managers who decide on Foundation membership```
+   * Internal champions: ```Outline the top two or three internal champions who can help promote our mission and act as ambassadors internally```
+   * Internal skeptics: ```Outline the top two or three internal stakeholders who are skeptical of our mission, for whom we can develop and test our value proposition mapping and assumptions```
 * Concrete value propositions and next steps
-   * Title 1: ```Include a titles that is actionable and descriptive, such as "assess for stewardship", and reference a project in 'Background'```
+   * Title 1: ```Include a title that is actionable and descriptive, such as "assess for stewardship", and reference a project in 'Background'```
     * Value proposition: ```Briefly outline the main value propositions for the member, other members, the Foundation or the general ecosystem of this action.```
-     * Effort: ```If possible, provide a sense of estimated effort required (including staff time, contributors, financial etc) and/or any dificulties you can anticipate``` 
+     * Effort: ```If possible, provide a sense of estimated effort required (including staff time, contributors, financial etc) and any dificulties you can anticipate``` 
      * Next steps: ```List the main high-level actions and decisions that need to be taken to move foward. Sprint-level details should be captured in tickets on the Kanban board.```
    * Title 2:```Repeat above```
 
