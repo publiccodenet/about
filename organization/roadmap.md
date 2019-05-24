@@ -10,7 +10,7 @@ This roadmap serves as a model for how we're developing, growing and scaling our
 
 Staff of the Foundation for Public Code will:
 
-* [Build team](../roles/)
+* [Build team](../roles/index.md)
 * Map potential members
 * Establish a legal entity
 
@@ -58,7 +58,7 @@ This phase is over when members are able to commit to stage 3 and scaling.
 Staff of the Foundation for Public Code will:
 
 * Provide codebase stewardship at scale
-* Grow our member base aggressively
+* Grow our member base proactively
 * Engage with partner and affiliated organizations
 
 Members of the Foundation for Public Code will:
