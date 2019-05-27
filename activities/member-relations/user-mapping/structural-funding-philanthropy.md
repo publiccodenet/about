@@ -12,7 +12,7 @@ This includes:
 Positive reasons for why they might be interested in our work:
 
 * get the most out of other tech impact investments
-* enable a myriad of public institutions with one investment
+* support many public institutions with one investment
 * have an impact on improving services for citizens, reducing risks for governments as well as on new business opportunities for (local) providers
 
 Negative reasons for why they might be interested in our work:
