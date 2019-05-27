@@ -8,7 +8,7 @@ type: Resource
 
 This resource outlines the information that Foundation for Public Code staff use to map member relations.
 
-The information collected will be used to structure and keep track of our ongoing relationships with members. It is based on our [mission](../../organization/mission.md) and the first iterations of the [founding member proposal template](founding-membership-proposal.md). In line with our communication principles, this should be concise and hypertextual where possible. 
+The information collected is used to structure and keep track of our ongoing relationships with members. It is based on our [mission](../../organization/mission.md) and the first iterations of the [founding member proposal template](founding-membership-proposal.md). In line with our communication principles, it is concise and hypertextual where possible. 
 
 As information collected may include personal or sensitive information, this is not public but stored in a private and secure environment.
 
