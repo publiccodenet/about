@@ -36,4 +36,4 @@ The index should give a high level explanation of the topic. It should provide e
 
 ### Resources and guides
 
-List(s) to the resources and guides that are available under this topic or in this folder.
+This section lists the resources and guides that are available under this topic or in this folder.
