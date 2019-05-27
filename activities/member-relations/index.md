@@ -4,7 +4,7 @@ type: Index
 
 # Member relations
 
-These are all the activities, documents, guides and templates for member relations:
+These are the activities, documents, and templates used for member relations:
 
 * [Expression of Interest template](expression-of-interest.md)
 * [Founding Membership Proposal template](founding-membership-proposal.md)
