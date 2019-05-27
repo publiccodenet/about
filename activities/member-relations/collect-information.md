@@ -14,11 +14,10 @@ As information collected may include personal or sensitive information, this is 
 
 ## Information collected 
 
-* Background: ```Lists existing work and/or projects relevant to the Foundation's mission.``` 
+* Background:
    * Aligned projects: ```Provide a short description of notable public-purpose open and collaborative software and policy projects```
    * Opportunity projects: ```Provide a short description of notable software and policy projects with strong potential to become more open, collaborative and/or public-purpose```
    * Additional initiatives: ```Provide a short description of other initiatives not directly related to, but adjacent to our mission```
-
 * Relationship to the Foundation for Public Code
    * Decision makers: ```Outline the top two or three budget holders, policy makers and managers who decide on Foundation membership```
    * Internal champions: ```Outline the top two or three internal champions who can help promote our mission and act as ambassadors internally```
