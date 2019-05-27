@@ -15,6 +15,7 @@ As information collected may include personal or sensitive information, this is 
 ## Information collected 
 
 * Background:
+   * History: `Provide a short outline of the organizations' history with open and collaborative code, including for example notable success stories, failed projects, or strong political movements`
    * Aligned projects: ```Provide a short description of notable public-purpose open and collaborative software and policy projects```
    * Opportunity projects: ```Provide a short description of notable software and policy projects with strong potential to become more open, collaborative and/or public-purpose```
    * Additional initiatives: ```Provide a short description of other initiatives not directly related to, but adjacent to our mission```
