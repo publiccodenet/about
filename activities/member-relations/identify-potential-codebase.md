@@ -15,7 +15,7 @@ Identified codebases will then be evaluated according to the [criteria for codeb
 ## Research replication of member codebases
 Identify which member codebases are currently being reused or being considered for reuse by other Foundation members, and/or their wider networks, in order to help support direct replication.
 
-## Research on use cases for Public Code
+## Research on use case archetypes for Public Code
 
 Identify which type of software and policy code initiatives most often run into problems with:
 * Excessive cost (eg. upward spiraling development and/or liscencing costs)
@@ -28,7 +28,7 @@ Identify which type of software and policy code initiatives are easiest to repli
 * Code reusability (eg. codebase written in a way that makes it easy to be reused)
 * Reuse potential (eg. codebase that can be reused, either in a different context or for a different purpose)
 
-## Research on use cases for Codebase Stewardship
+## Research on use case archetypes for Codebase Stewardship
 
 Identify which existing codebases public organizations (or other third parties) are currently, or want to in the future, reuse widely as Public Code but which struggle with:
 * Stewardship (eg. lack of neutral third party to manage codebase and maintain minimum standards)
