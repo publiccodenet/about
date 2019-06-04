@@ -4,13 +4,13 @@ type: Resource
 
 # Identifying potential codebases for Foundation Stewardship
 
-This outlines ways in which the Foundation for Public Code identifies potential codebases for Stewardship.
+This outlines ways in which the Foundation for Public Code could identify potential codebases for Stewardship.
 
 This helps inform individual members and the Foundation about:
 * Which existing projects have a need for codebase stewardship
 * The best types of use cases for Public Code 
 
-Identified codebases are evaluated according to the [criteria for codebase stewardship](../codebase-stewardship/criteria-for-codebase-stewardship.md).
+Identified codebases will then be evaluated according to the [criteria for codebase stewardship](../codebase-stewardship/criteria-for-codebase-stewardship.md).
 
 ## Research replication of member codebases
 Identify which member codebases are currently being reused or being considered for reuse by other Foundation members, and/or their wider networks, in order to help support direct replication.
