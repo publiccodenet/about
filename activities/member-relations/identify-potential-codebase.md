@@ -18,15 +18,15 @@ Identify which member codebases are currently being reused or being considered f
 ## Research on use cases for Public Code
 
 Identify which type of software and policy code initiatives most often run into problems with:
-* Excessive cost (eg upward spiraling development and/or liscencing costs)
-* Excessive risk (eg high failure rate, delays or underperformance )
-* Lack of control (eg vendor lock-in or inability to to implement policy code due to proprietary software code)
-* Lack of upgrade potential (eg technical debt and reduced agility for future innovation)
+* Excessive cost (eg. upward spiraling development and/or liscencing costs)
+* Excessive risk (eg. high failure rate, delays or underperformance )
+* Lack of control (eg. vendor lock-in or inability to to implement policy code due to proprietary software code)
+* Lack of upgrade potential (eg. technical debt and reduced agility for future innovation)
 
 Identify which type of software and policy code initiatives are easiest to replicate in an open and collaborative way, including:
-* Co-develop-ability (eg a codebase that is easy to collaborate on) 
-* Code reusability (eg codebase written in a way that makes it easy to be reused)
-* Reuse potential (eg codebase that can be reused, either in a different context or for a different purpose)
+* Co-develop-ability (eg. a codebase that is easy to collaborate on) 
+* Code reusability (eg. codebase written in a way that makes it easy to be reused)
+* Reuse potential (eg. codebase that can be reused, either in a different context or for a different purpose)
 
 ## Research on use cases for Codebase Stewardship
 
