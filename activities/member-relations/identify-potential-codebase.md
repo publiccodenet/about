@@ -23,6 +23,11 @@ Identify which type of software and policy code initiatives most often run into 
 * Lack of control (eg vendor lock-in or inability to to implement policy code due to proprietary software code)
 * Lack of upgrade potential (eg technical debt and reduced agility for future innovation)
 
+Identify which type of software and policy code initiatives are easiest to replicate in an open and collaborative way, including:
+* Co-develop-ability (eg a codebase that is easy to collaborate on) 
+* Code reusability (eg codebase written in a way that makes it easy to be reused)
+* Reuse potential (eg codebase that can be reused, either in a different context or for a different purpose)
+
 ## Research on use cases for Codebase Stewardship
 
 Identify which existing codebases public organizations (or other third parties) are currently, or want to in the future, reuse widely as Public Code but which struggle with:
