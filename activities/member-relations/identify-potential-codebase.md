@@ -4,7 +4,7 @@ type: Resource
 
 # Identifying potential codebases for Foundation Stewardship
 
-This outlines ways in which the Foundation for Public Code could identify potential codebases for Stewardship.
+This outlines ways in which the Foundation for Public Code could identify potential codebases for stewardship.
 
 This helps inform individual members and the Foundation about:
 * Which existing projects have a need for codebase stewardship
