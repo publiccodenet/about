@@ -64,7 +64,7 @@ Issues labeled `good first issue` provide an easy way for new contributors to ge
 
 A good first issue describes the issue as well as providing a step by step instruction on how to resolve it.
 
-If you have an issue that is easy to resolve consider explaining how to do that and have it fixed by a newcomer to the community.
+If you have an issue that is easy to resolve, consider explaining how to do that so it can be fixed by someone new to the community.
 
 ## Closing an issue
 
