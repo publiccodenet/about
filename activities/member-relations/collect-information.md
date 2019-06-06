@@ -27,7 +27,7 @@ As information collected may include personal or sensitive information, this is 
 * Concrete value propositions and next steps
    * ```Include a title for the value proposition that is actionable and descriptive, outlining how potential activities with the Foundation can solve a problem or create value for the member - such as "steward codebase X to help it be reused internationally"```
       * Value proposition: ```Briefly outline the main value proposition - problem solved or value created - for the member, other members, the Foundation or the general ecosystem of this action.```
-      * Effort: ```If possible, provide a sense of estimated effort required (including staff time, contributors, financial etc) and any dificulties you can anticipate``` 
+      * Effort: ```If possible, provide a sense of estimated effort required (including staff time, contributors, financial etc) and any dificulties you anticipate``` 
       * Next steps: ```List the main high-level actions and decisions that need to be taken to move foward. Sprint-level details should be captured in tickets on the Kanban board.```
    *```Repeat above```
 
