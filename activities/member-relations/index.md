@@ -22,7 +22,7 @@ At this stage, the Foundation and the public organization work together to ident
 
 This stage is over when both parties agree on the '[Founding Membership Proposal](founding-membership-proposal.md)'.
 
-This stage may include a '[founding membership workshop}](founding-membership-workshop.md)'.
+This stage may include a [founding membership workshop](founding-membership-workshop.md).
 
 ## 3. Founding membership contract
 
