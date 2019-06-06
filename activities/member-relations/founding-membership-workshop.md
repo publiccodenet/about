@@ -18,7 +18,7 @@ Break (10 min)
 Deep dive into Foundation processes (3x30min)
 * [Codebase stewardship process](https://about.publiccode.net/activities/codebase-stewardship/)
 * [Standard for Public Code](http://standard.publiccode.net/)
-* Governance & Financial model
+* Governance and Financial model
 
 Break (10 min)
 
