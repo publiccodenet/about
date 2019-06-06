@@ -4,18 +4,16 @@ type: Resource
 
 This is a template agenda for workshops or discussions between potential founding members and the Foundation for Public Code staff
 
-# ```Organization name``` and Foundation for Public Code
+# Agenda
 
-When: 
-Who: 
-Where: 
-Status: 
-
-## Agenda
+* When: 
+* Who: 
+* Where: 
+* Status: 
 
 Introduction round (10min)
 
-Background to the Foundation & current status (15min)
+Background to the Foundation and current status (15min)
 
 Review membership proposal (30min)
 * Foundation governance structure, finacial set up, workflow and 2019 roadmap, high-level overview of potential founding member's codebases for stewardship
