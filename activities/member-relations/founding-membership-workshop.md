@@ -6,11 +6,6 @@ This is a template agenda for workshops or discussions between potential foundin
 
 # Agenda
 
-* When: 
-* Who: 
-* Where: 
-* Status: 
-
 Introduction round (10min)
 
 Background to the Foundation and current status (15min)
