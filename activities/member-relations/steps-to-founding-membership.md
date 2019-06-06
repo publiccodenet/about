@@ -33,4 +33,4 @@ This stage is over when both parties sign a founding membership contract.
 
 From 2020, each member will have an annual membership contract.
 
-With the annual membership contract, members become co-owners of the Foundation. This includes steering and setting priorities for the Foundation and voting in the General Assembly. 
+With the annual membership contract, members become co-owners of the Foundation. This includes steering and setting priorities for the Foundation and voting in the General Assembly.
