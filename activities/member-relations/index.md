@@ -2,7 +2,6 @@
 type: Index
 ---
 
-These are all the activities, documents and templates for member relations:
 
 # Stages to becoming a founding member
 
