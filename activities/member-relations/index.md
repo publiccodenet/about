@@ -2,7 +2,6 @@
 type: Index
 ---
 
-
 # Stages to becoming a founding member
 
 This outlines the stages by which a public organization becomes a founding member.
@@ -16,7 +15,7 @@ This stage is over when the public organization signs the '[Expression of Intere
 ## 2. Founding membership proposal
 
 At this stage, the Foundation and the public organization work together to identify:
-* appropriate codebases for Foundation codebase auditing, certification and stewardship activities
+* [appropriate codebases](identify-potential-codebase.md) for Foundation codebase auditing, certification and stewardship activities
 * next steps in the collaboration
 * timeline and milestones for 2019
 
