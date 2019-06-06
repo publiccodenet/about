@@ -26,6 +26,7 @@ This stage may include a [founding membership workshop](founding-membership-work
 
 ## 3. Founding membership contract
 
+> Founding membership contracts are only available to founding members in 2019. From 2020, all members will have an annual membership contracts.
 At this stage, the Foundation and the public organization sign a legally binding contract, including a financial settlement and the founding membership proposal (attached as an annex).
 
 This stage is over when both parties sign a founding membership contract.
