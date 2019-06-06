@@ -30,7 +30,6 @@ At this stage, the Foundation and the public organization sign a legally binding
 
 This stage is over when both parties sign a founding membership contract.
 
-> Founding membership contracts are only available to founding members in 2019. From 2020, all members will have an annual membership contracts.
 
 ## 4. Membership of the Foundation
 
