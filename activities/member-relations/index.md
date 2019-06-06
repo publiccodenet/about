@@ -2,7 +2,6 @@
 type: Index
 ---
 
-
 # Stages to becoming a founding member
 
 This outlines the stages by which a public organization becomes a founding member.

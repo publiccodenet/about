@@ -23,7 +23,7 @@ Staff of the Foundation for Public Code will:
 * Build a diverse founding member base
 * Develop business cases and case study material
 * Research and develop alpha [codebase stewardship](../activities/codebase-stewardship/index.md)
-* Define the [value proposition for members](../activities/member-relations/user-mapping/index.md) 
+* Define the [value proposition for members](../activities/value-and-impact/user-mapping/index.md) 
 * Define what [founding membership entails](https://publiccode.net/membership/founding-membership)
 
 Founding members of the Foundation for Public Code will:
