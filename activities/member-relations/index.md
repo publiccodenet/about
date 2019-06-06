@@ -1,6 +1,7 @@
 ---
 type: Index
 ---
+# Member relations
 
 These are all the activities, documents and templates for member relations:
 
