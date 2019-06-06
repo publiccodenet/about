@@ -29,5 +29,5 @@ As information collected may include personal or sensitive information, this is 
       * Value proposition: ```Briefly outline the main value proposition - problem solved or value created - for the member, other members, the Foundation or the general ecosystem of this action.```
       * Effort: ```If possible, provide a sense of estimated effort required (including staff time, contributors, financial etc) and any dificulties you anticipate``` 
       * Next steps: ```List the main high-level actions and decisions that need to be taken to move foward. Sprint-level details should be captured in tickets on the Kanban board.```
-   *```Repeat above```
+   * ```Repeat above```
 
