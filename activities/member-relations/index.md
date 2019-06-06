@@ -18,7 +18,7 @@ This stage is over when the public organization signs the '[Expression of Intere
 At this stage, the Foundation and the public organization work together to identify:
 * appropriate codebases for Foundation codebase auditing, certification and stewardship activities
 * next steps in the collaboration
-* timelines and milestones for 2019
+* timeline and milestones for 2019
 
 This stage is over when both parties agree on the '[Founding Membership Proposal](founding-membership-proposal.md)'.
 
