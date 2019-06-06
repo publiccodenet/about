@@ -2,37 +2,42 @@
 type: Resource
 ---
 
-# Identifying potential codebases for Foundation Stewardship
+# Identifying potential codebases for Foundation stewardship
 
-This outlines ways in which the Foundation for Public Code could identify potential codebases for stewardship.
+This outlines ways that the Foundation for Public Code could identify potential codebases for stewardship.
 
-This helps inform individual members and the Foundation about:
-* Which existing projects have a need for codebase stewardship
-* The best types of use cases for Public Code 
+This helps individual members and the Foundation understand:
 
-Identified codebases will then be evaluated according to the [criteria for codebase stewardship](../codebase-stewardship/criteria-for-codebase-stewardship.md).
+* which existing projects have a need for codebase stewardship
+* the most common use cases for public code
 
-## Research replication of member codebases
-Identify which member codebases are currently being reused or being considered for reuse by other Foundation members, and/or their wider networks, in order to help support direct replication.
+Codebases can then be evaluated according to the [criteria for codebase stewardship](../codebase-stewardship/criteria-for-codebase-stewardship.md).
 
-## Research on use case archetypes for Public Code
+## Replication of member codebases
 
-Identify which type of software and policy code initiatives most often run into problems with:
-* Excessive cost (eg. upward spiraling development and/or liscencing costs)
-* Excessive risk (eg. high failure rate, delays or underperformance )
-* Lack of control (eg. vendor lock-in or inability to to implement policy code due to proprietary software code)
-* Lack of upgrade potential (eg. technical debt and reduced agility for future innovation)
+We could research which member codebases are currently being reused or being considered for reuse by other Foundation members and their wider networks, in order to encourage direct replication.
 
-Identify which type of software and policy code initiatives are easiest to replicate in an open and collaborative way, including:
-* Co-develop-ability (eg. a codebase that is easy to collaborate on) 
-* Code reusability (eg. codebase written in a way that makes it easy to be reused)
-* Reuse potential (eg. codebase that can be reused, either in a different context or for a different purpose)
+## Use case archetypes for public code
 
-## Research on use case archetypes for Codebase Stewardship
+We could research which types of software and policy code initiatives most often run into problems with:
 
-Identify which existing codebases public organizations (or other third parties) are currently, or want to in the future, reuse widely as Public Code but which struggle with:
-* Stewardship (eg. lack of neutral third party to manage codebase and maintain minimum standards)
-* Quality (eg. low reusability and/or lack of appropriate documentation for the codebase)
-* Community (eg. no support for an active and long-term community around the codeabse)
-* Product (eg. no active marketing to ensure wider reuse of and engagement around the codebase)
-* Support (eg. no technical, procurement or legal support for the replication of the codebase)
+* excessive cost (for example upward spiraling development or licencing costs)
+* excessive risk (for example high failure rate, delays or underperformance )
+* lack of control (for example through vendor lock-in or inability to implement policy code due to proprietary software code)
+* lack of upgrade potential (for example due to technical debt and reduced agility for future innovation)
+
+We could research which type of software and policy code initiatives are easiest to replicate in an open and collaborative way, including:
+
+* co-developability (i.e. a codebase that is easy to collaborate on)
+* code reusability (i.e. codebase written in a way that makes it easy to be reused)
+* reuse potential (i.e. codebase that can be reused, either in a different context or for a different purpose)
+
+## Need for codebase stewardship
+
+We could research existing codebases that public organizations (or other third parties) are currently, or want to in the future, reuse widely as public code but which struggle with:
+
+* stewardship (i.e. lack of neutral third party to manage codebase and maintain minimum standards)
+* quality (i.e. low reusability or lack of appropriate documentation for the codebase)
+* community (i.e. no support for an active and long-term community around the codebase)
+* product (i.e. no active marketing to ensure wider reuse of and engagement around the codebase)
+* support (i.e. no technical, procurement or legal support for replication of the codebase)
