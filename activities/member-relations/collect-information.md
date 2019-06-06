@@ -30,4 +30,3 @@ As information collected may include personal or sensitive information, this is 
       * Effort: ```If possible, provide a sense of estimated effort required (including staff time, contributors, financial etc) and any dificulties you anticipate``` 
       * Next steps: ```List the main high-level actions and decisions that need to be taken to move foward. Sprint-level details should be captured in tickets on the Kanban board.```
    * ```Repeat above```
-
