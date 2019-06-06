@@ -36,8 +36,8 @@ We could research which type of software and policy code initiatives are easiest
 
 We could research existing codebases that public organizations (or other third parties) are currently, or want to in the future, reuse widely as public code but which struggle with:
 
-* stewardship (i.e. lack of neutral third party to manage codebase and maintain minimum standards)
-* quality (i.e. low reusability or lack of appropriate documentation for the codebase)
-* community (i.e. no support for an active and long-term community around the codebase)
-* product (i.e. no active marketing to ensure wider reuse of and engagement around the codebase)
-* support (i.e. no technical, procurement or legal support for replication of the codebase)
+* stewardship (for example, a lack of neutral third party to manage codebase and maintain minimum standards)
+* quality (for example, low reusability or lack of appropriate documentation for the codebase)
+* community (for example, no support for an active and long-term community around the codebase)
+* product (for example, no active marketing to ensure wider reuse of and engagement around the codebase)
+* support (for example, no technical, procurement or legal support for replication of the codebase)
