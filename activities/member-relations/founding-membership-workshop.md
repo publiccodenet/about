@@ -16,14 +16,14 @@ Review membership proposal (30min)
 Break (10 min)
 
 Deep dive into Foundation processes (3x30min)
-* [Codebase stewardship process](.../codebase-stewardship/)
+* [Codebase stewardship process](../codebase-stewardship/)
 * [Standard for Public Code](http://standard.publiccode.net/)
 * Foundation governance and financial model
 
 Break (10 min)
 
 Deep dive into founding member's codebases (45 min)
-* Based on proposed [codebase criteria](.../codebase-stewardship/criteria-for-codebase-stewardship.html)
+* Based on proposed [codebase criteria](../codebase-stewardship/criteria-for-codebase-stewardship.html)
 
 Recap and next steps (10 min)
 
