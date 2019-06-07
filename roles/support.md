@@ -8,7 +8,7 @@ The Foundation for Public Code helps public organizations – such as government
 
 For the public organizations that would benefit from using, or contributing to, these [Codebases](../glossary/codebase-definition.md) it might not always be easy to get started, know how to use or procure a solution like this or to trust in the Codebase.
 
-As a Codebase Steward, Support you help:
+As a Codebase Steward for Support you help:
 
 * potential users find out how to use codebases
 * provide assistance in procuring solutions based on codebases
