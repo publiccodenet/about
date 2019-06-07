@@ -16,7 +16,7 @@ Staff of the Foundation for Public Code will:
 
 This phase is over when: the organization has a legal entity
 
-## Phase 1: Developing founding membership
+## Phase 1: Develop founding membership
 
 Staff of the Foundation for Public Code will:
 
@@ -37,7 +37,7 @@ Founding members of the Foundation for Public Code will:
 
 This phase is over when members are able to commit resources and finances for phase 2.
 
-## Phase 2: Building a scalable organization
+## Phase 2: Build a scalable organization
 
 Staff of the Foundation for Public Code will:
 
@@ -67,4 +67,4 @@ Members of the Foundation for Public Code will:
 * Actively participate in codebase stewardship and other activities of the organization
 * Support the long term sustainability and growth of the organization for the benefit of all members
 
-This phase is over when: the [mission](mission.md) is fulfilled
+This phase is over when: the [mission](mission.md) is fulfilled.

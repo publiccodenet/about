@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Mission & founding principles
+# Mission and founding principles
 
 ## Mission
 
