@@ -4,7 +4,7 @@ type: Index
 
 # Organization
 
-This section has resources on our mission and how we're building the organization to support that.
+This section has resources on our mission and how we're building the organization to support it.
 
 * [Mission](mission.md)
 * [Roadmap](roadmap.md)
