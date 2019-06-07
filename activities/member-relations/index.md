@@ -50,5 +50,5 @@ With regular membership, members become co-owners of the Foundation. This means 
 ### Assumptions
 
 * Beyond paying dues, and any other obligations stipulated in this contract
-* The Foundation will be no obligation incurred by the Foundation by accepting membership dues, other than the governance process set out in the assocation bylaws.
+* The Foundation will not incur obligations to individual members by accepting membership dues, other than the governance process set out in the assocation bylaws.
 * This contract will be governed by Dutch law.
