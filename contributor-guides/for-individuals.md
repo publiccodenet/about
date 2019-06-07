@@ -5,7 +5,7 @@ explains: How individuals can help the Foundation for Public Code
 
 # Contribute as an individual
 
-The Foundation for Public Code has [a mission to develop an open source ecosystem for public organizations](../organization/mission.md). In order to fulfil our mission we – the directors of the Foundation, our advisors and contributors – need your help!
+The Foundation for Public Code has [a mission to enable public-purpose software and policy that is open and collaborative](../organization/mission.md). In order to fulfil our mission we – the directors of the Foundation, our advisors and contributors – need your help!
 
 This repository serves as the 'official source of truth' about the Foundation for Public Code. It contains all of its documentation, procedures and information as well as explanations on what the Foundation for Public Code does. We see it as a living charter.
 
@@ -50,12 +50,11 @@ And of course we'd love input into our projects as well, like the [Standard for 
 
 ## Become an advisor
 
-If you provide us with meaningful contributions we might ask you to become an advisor. Our advisors are a group of subject matter experts from different fields that help us to progress the mission of the Foundation for Public Code and have a special position within the Foundation.
+If you provide us with meaningful contributions we might ask you to become an advisor. Our advisors are a group of subject matter experts from different fields that help us progress the mission of the Foundation for Public Code and have a special position within the Foundation.
 
 ## Work for the Foundation
 
-[We're currently hiring](../roles/index.md) codebase stewards to review codebase quality and build strong open source communities. If the prospect of building an eco-system of public code thrills you, then we'd love to hear from you.
-
+[We're currently hiring](../roles/index.md) codebase stewards to review codebase quality and build strong open source communities. If the prospect of building an ecosystem of public code thrills you, then we'd love to hear from you.
 
 ## Responsible disclosure and contact information
 
