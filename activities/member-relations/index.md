@@ -53,8 +53,8 @@ All members pay membership yearly dues. [See financial model]. Failure to pay ca
 A mediation structure will be set up to handle any disputes that may arise between members and the Foundation or between individual members.
 
 ### Assumptions
-* Members will not incur obligations to the Foundation beyond paying dues and any other obligations stipulated in this contract.
-* The Foundation will not incur obligations to individual members by accepting membership dues, other than the governance process set out in the assocation bylaws.
 * This contract will be governed by Dutch law.
 * Member dues payment will not be through procurement or tendering procedures.
 * The procedures members use to pay their dues will differ based on local legal context -  for example, some could use a grant.
+* Members will not incur obligations to the Foundation beyond paying dues and any other obligations stipulated in this contract.
+* The Foundation will not incur obligations to individual members by accepting membership dues, other than the governance process set out in the assocation bylaws.
