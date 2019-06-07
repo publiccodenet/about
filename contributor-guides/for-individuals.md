@@ -5,7 +5,7 @@ explains: How individuals can help the Foundation for Public Code
 
 # Contribute as an individual
 
-The Foundation for Public Code has [a mission to develop an open source ecosystem for public organizations](../organization/mission.md). In order to fulfil our mission we – the directors of the Foundation, our advisors and contributors – need your help!
+The Foundation for Public Code has [a mission to enable public-purpose software and policy that is open and collaborative](../organization/mission.md). In order to fulfil our mission we – the directors of the Foundation, our advisors and contributors – need your help!
 
 This repository serves as the 'official source of truth' about the Foundation for Public Code. It contains all of its documentation, procedures and information as well as explanations on what the Foundation for Public Code does. We see it as a living charter.
 
