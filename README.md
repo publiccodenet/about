@@ -1,8 +1,8 @@
 # About the Foundation for Public Code
 
-[From our mission](organization/mission.md):
+[Our mission](organization/mission.md) is:
 
-> [...] We aim to maintain, manage, contribute to and grow an ecosystem of public software and policies that help governments, communities and citizens improve their city.
+> [...] to enable public-purpose software and policy that is open and collaborative.
 
 This repository is meant to reflect the concept of the Foundation for Public Code and hold all information about it.
 It's `master` branch is the official ['source of truth'](GOVERNANCE.md) and central repository for all information about the Foundation for Public Code.
