@@ -56,7 +56,7 @@ A mediation structure will be set up to handle any disputes that may arise betwe
 * This contract will be governed by Dutch law.
 * Members will not pay dues through procurement or tendering procedures.
 * The procedures members use to pay their dues will differ based on local legal context -  for example, some could use a grant.
-* Members will not incur obligations to the Foundation beyond paying dues and any other obligations stipulated in the contract.
+* Members will not incur obligations to the Foundation beyond paying dues.
 * The Foundation will not incur obligations to individual members by accepting membership dues, other than the governance process set out in the assocation bylaws.
 * Disputes about Foundation activites could include, for example:
     * Codebase stewardship: excessive delays to development due to codebase stewardship activites
