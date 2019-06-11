@@ -38,6 +38,6 @@ The founding members are currently working on:
 * what in-kind contributions can be made instead of cash, and how to value these
 * what financial governance and documentation do members require for their internal budgeting and auditing processes
 
-## Government subsidies and philanthropic donations
+## Grants, subsidies and philanthropic donations
 
 As our focus is on long term sustainability, our financial model should not rely on grants, subsidies or philanthropic donations.
