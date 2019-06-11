@@ -29,7 +29,7 @@ At this stage, public organizations become founding members by signing a foundin
 
 Founding members are co-owners of the Foundation and help shape its future activities and regular membership structure. 
 
-This stage is over after 2019, when the founding members have shaped the foundation's activities and regular membership structure.
+This stage is over after 2019, when the founding members have shaped the Foundation's activities and regular membership structure.
 
 ## 4. Membership of the Foundation (2020 onwards)
 
