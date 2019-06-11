@@ -10,6 +10,8 @@ This outlines the stages by which a public organization becomes a founding membe
 
 At this stage, the public organization confirms their interest in becoming a member by signing the '[Expression of Interest](expression-of-interest.md)'.
 
+The Foundation will start to [collect potential member information](collect-information.md).
+
 ## 2. Founding membership proposal
 
 At this stage, the Foundation and the public organization work together on the '[Founding Membership Proposal](founding-membership-proposal.md)'.
