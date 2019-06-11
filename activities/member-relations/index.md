@@ -10,7 +10,7 @@ This outlines the stages by which a public organization becomes a founding membe
 
 At this stage, the public organization confirms their interest in becoming a member by signing the '[Expression of Interest](expression-of-interest.md)'. 
 
-This grants both parties the right to discuss this collaboration publicly and is signed by a policy lead and/or technical development lead in the public organization.
+This grants both parties the right to discuss this collaboration publicly. It's signed by a policy lead and/or technical development lead in the public organization.
 
 This stage is over when the expression of interest has been signed.
 
@@ -34,7 +34,7 @@ At this stage, public organizations become founding members by signing a foundin
 
 Founding members are co-owners of the foundation and help shape its future activities and regular membership structure. 
 
-This stage is over after 2019, when the founding members have shaped the foundation's activities and regular membership structure.
+This stage is over after 2019, when the founding members have shaped the Foundation's activities and regular membership structure.
 
 ### Assumptions
 
@@ -54,12 +54,12 @@ A mediation structure will be set up to handle any disputes that may arise betwe
 
 ### Assumptions
 * This contract will be governed by Dutch law.
-* Member dues payment will not be through procurement or tendering procedures.
+* Members will not pay dues through procurement or tendering procedures.
 * The procedures members use to pay their dues will differ based on local legal context -  for example, some could use a grant.
-* Members will not incur obligations to the Foundation beyond paying dues and any other obligations stipulated in this contract.
+* Members will not incur obligations to the Foundation beyond paying dues and any other obligations stipulated in the contract.
 * The Foundation will not incur obligations to individual members by accepting membership dues, other than the governance process set out in the assocation bylaws.
 * Disputes about Foundation activites could include, for example:
     * Codebase stewardship: excessive delays to development due to codebase stewardship activites
     * Codebase auditing: malicious or unprofessional advice on code, leading to codebase failure
-    * Codebase marketing: libel or false advertizing about a codebase
+    * Codebase marketing: libel or false advertising about a codebase
     * Codebase support: failed procurements based on Foundation advice
