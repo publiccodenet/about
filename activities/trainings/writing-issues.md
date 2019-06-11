@@ -33,7 +33,7 @@ The title of the issue should be short, to the point and descriptive. Enhancemen
 
 ## Defining done for issues
 
-It can help those who solve the issue to know when they've actually fixed it. If there are multiple factors in this it might help adding them as checkboxes, then they can be resolved and tracked one by one.
+It's helpful for the person who solves the issue to know when they've actually fixed it. List multiple steps or actions with checkboxes so they can be tracked and resolved.
 
 ## Writing a bug
 
