@@ -16,7 +16,7 @@ This means members are responsible for and steer the Foundation's operations, in
 
 The Foundation consists of four bodies:
 * general assembly
-* board of directors
+* committee
 * advisory board
 * secretariat 
 
@@ -26,7 +26,7 @@ All members are represented in the general assembly.
 
 The general assembly: 
 * approves the Foundation's operational plan for the coming year
-* elects the board of directors
+* elects the committee
 
 These decisions are agreed through a majority vote. Voting rights are proportional to members' membership dues. This ensures democratic ownership and control by all members.
 
@@ -34,21 +34,21 @@ The general assembly meets at least once every year. Minutes from the general as
 
 We commit to holding all meaningful votes electronically, so that all members can be represented regardless of ability to attend physically.
 
-### Board of directors
+### Committee
 
-The board of directors is elected by the general assembly. By law, it must include a chair, a secretary and a treasurer. The general assembly can vote to add more roles to the board.
+The committee is elected by the general assembly. By law, it must include a chair, a secretary and a treasurer. The general assembly can vote to add more roles to the committee.
 
-The board of directors:
+The committee:
 * proposes the Foundation's operational plan and budgeting for the coming year
 * approves membership applications
 
 These decisions are agreed upon through majority vote.
 
-The board meets regularly and is required to keep the general assembly informed about its activities.
+The committee meets regularly and is required to keep the general assembly informed about its activities.
 
 ### Advisory board
 
-The advisory board is a set of experts that suppport the general assembly, board of directors and the secretariat. There are some decisions for which they must be consulted.
+The advisory board is a set of experts that suppport the general assembly, committee and the secretariat. There are some decisions for which they must be consulted.
 
 ### Secretariat
 
