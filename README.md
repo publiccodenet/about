@@ -1,8 +1,8 @@
 # About the Foundation for Public Code
 
-[From our mission](organization/mission.md):
+[Our mission](organization/mission.md) is:
 
-> [...] We aim to maintain, manage, contribute to and grow an ecosystem of public software and policies that help governments, communities and citizens improve their city.
+> [...] to enable public-purpose software and policy that is open and collaborative.
 
 This repository is meant to reflect the concept of the Foundation for Public Code and hold all information about it.
 It's `master` branch is the official ['source of truth'](GOVERNANCE.md) and central repository for all information about the Foundation for Public Code.
@@ -13,11 +13,11 @@ We are looking for people like you to [contribute](CONTRIBUTING.md) to this proj
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. Please be lovely to all other community members.
 
-## Preview, Build and Deploy
+## Preview, build and deploy
 
 The repository builds to a static site deployed at [about.publiccode.net](https://about.publiccode.net/). It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
-### Branches and Travis CI Build status
+### Branches and Travis CI build status
 
 All branches are tested with every change for broken links, so if some site we link to on the internet goes down the 'Build Status' down here will go red.
 
