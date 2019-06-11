@@ -27,7 +27,7 @@ This stage is over when both parties agree to the proposal.
 
 At this stage, public organizations become founding members by signing a founding membership contract. This contract consists of the proposal agreed in the previous stage, along with any extra legal framing required.
 
-Founding members are co-owners of the foundation and help shape its future activities and regular membership structure. 
+Founding members are co-owners of the Foundation and help shape its future activities and regular membership structure. 
 
 This stage is over after 2019, when the founding members have shaped the foundation's activities and regular membership structure.
 
