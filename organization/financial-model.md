@@ -40,4 +40,4 @@ The founding members are currently working on:
 
 ## Government subsidies and philanthropic donations
 
-As our focus is on long term sustainability, our financial model should not rely on government subsidies or philanthropic donations.
+As our focus is on long term sustainability, our financial model should not rely on grants, subsidies or philanthropic donations.
