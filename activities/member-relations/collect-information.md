@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# What information to collect about potential members for member relations 
+# Potential member information collected by the Foundation
 
 ## Introduction
 
