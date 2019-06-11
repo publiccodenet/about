@@ -33,6 +33,6 @@ This stage is over after 2019, when the founding members have shaped the foundat
 
 ## 4. Membership of the Foundation (2020 onwards)
 
-From 2020, each member will have an regular membership contract.
+From 2020, each member will have a regular membership contract.
 
 With a regular membership contract, members become co-owners of the Foundation. This includes steering and setting priorities for the Foundation and voting in the General Assembly.
