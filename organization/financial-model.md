@@ -16,8 +16,6 @@ Our funding is used for codebase stewardship and to support the public code ecos
 
 Examples of things we pay for are: codebase stewards' and support staff salaries, travel to work with members, hosting and attending conferences and events, office expenses, and associated materials like the Standard for Public Code.
 
-> Read more about out our budgeting process, financial oversight and auditing. 
-
 ## Membership dues: facts
 
 To achieve our mission, our operations prioritize long term sustainability for the benefit of our members. This means all core operations should be covered by membership dues. 
