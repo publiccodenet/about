@@ -10,7 +10,7 @@ This conceptual model helps founding members shape the Foundation's financial mo
 
 The Foundation for Public Code is a member-owned association. Its mission is to enable public-purpose software and policy that is open and collaborative.
 
-This means we are primarily member-funded, with additional support from government subsidies and philanthropic donations.
+This means we are primarily member-funded, with additional support from grants, subsidies and philanthropic donations.
 
 Our funding is used for codebase stewardship and to support the public code ecosystem. 
 
