@@ -8,7 +8,7 @@ This provides a non-legal summary of the Foundation's governance model as establ
 
 ## Overview 
 
-The Foundation for Public Code is a [member-owned association (vereniging) under Dutch law](https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/).
+The Foundation for Public Code is a [member-owned association (vereniging) under Dutch law](https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/). Only wholly publicly owned organizations may become members.
 
 This means members are responsible for and steer the Foundation's operations, including priorities and annual budget for the organization.
 
