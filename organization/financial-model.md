@@ -29,7 +29,7 @@ Membership dues:
 * can change from year to year
 * are paid yearly
 
-> Read more about the [association bylaws] and [governance model].
+More information can be found in the [governance model](governance-model.md) and association bylaws.
 
 ## Membership dues: open discussion points
 
