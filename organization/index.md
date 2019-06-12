@@ -32,4 +32,4 @@ We're registered as a vereniging (association) under Dutch law. Our full name is
 
 Our Kamer van Koophandel registration number is 74996452.
 
-Our bank number is:
+> Our bank number is:

@@ -18,7 +18,7 @@ Our single source of truth is this website. Watch us work and join our discussio
 + github.com/publiccodenet
 
 We publish our news and announcements on:
-+ [our blog](blog.publiccode.net)
+> + [our blog](blog.publiccode.net)
 + [Twitter](twitter.com/publiccodenet)
 
 We occasionally update:
