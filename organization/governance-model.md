@@ -46,6 +46,14 @@ These decisions are agreed upon through majority vote.
 
 The committee meets regularly and is required to keep the general assembly informed about its activities.
 
+The current committee members are:
+
+* Ben Cerveny (Chairman)
+* Arnout Schuijff (Treasurer)
+* Boris van Hoytema (Secretary)
+* Pieter van der Does
+
+
 ### Advisory board
 
 The advisory board is a set of experts that suppport the general assembly, committee and the secretariat. There are some decisions for which they must be consulted.
