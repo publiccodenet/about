@@ -2,15 +2,34 @@
 type: Index
 ---
 
-# Organization
+# About us
 
-This section has resources on our mission and how we're building the organization to support that.
+The Foundation for Public Code's mission is to enable public-purpose software and policy that is open and collaborative. Read more about [our goals and founding principles](mission.md).
 
-* [Mission](mission.md)
+[Contact us](contact-us.md) - we'd love to hear from you.
+
+## How we're organized
+
+This is how we're building the organization to support our mission:
+
 * [Roadmap](roadmap.md)
-* [Goals](goals.md)
-* [Cultural values](cultural-values.md)
 * [Milestones](milestones.md)
+* [Legal registration and banking information]
+* [Governance model](governance-model.md)
+* [Financial model](financial-model.md)
+
+This is how we approach our work:
+
+* [Cultural values](cultural-values.md)
 * [Keys to success](keys-to-success.md)
-* [Communication channels](communication-channels.md)
 * [Definition of done](definition-of-done.md)
+
+## Legal registration and banking information
+
+We're registered as a vereniging (association) under Dutch law. Our full name is the Foundation for Public Code Vereniging. 
+
+[See our association bylaws].
+
+Our Kamer van Koophandel registration number is 74996452.
+
+Our bank number is:

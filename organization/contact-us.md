@@ -25,12 +25,3 @@ We occasionally update:
 + [LinkedIn](https://www.linkedin.com/company/27007004/)
 + [Facebook](https://www.facebook.com/publiccodenet/)
 
-## Legal registration and banking information
-
-We're registered as a vereniging (association) under Dutch law. Our full name is the Foundation for Public Code Vereniging. 
-
-[See our association bylaws].
-
-Our Kamer van Koophandel registration number is 74996452.
-
-Our bank number is:
