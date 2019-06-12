@@ -23,4 +23,4 @@ Additionally we have separate sites that show our [projects](https://projects.pu
 
 ## We need you
 
-We can [really use your help](CONTRIBUTING.md) in setting up the Foundation for Public Code and making it successful.
+We can [really use your help](CONTRIBUTING.md) to make the Foundation for Public Code a success.
