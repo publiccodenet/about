@@ -6,7 +6,7 @@ type: Resource
 
 This group includes senior civil servants at these levels:
 
-* supranational
+* supranational (like the European Union)
 * national
 * membership bodies (for example associations of cities)
 * provincial  
