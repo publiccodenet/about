@@ -9,6 +9,7 @@ This group includes political leaders at these levels:
 * supranational (for example the European Union)
 * national
 * inter-regional
+* membership bodies (for example associations of cities)
 * provincial  
 * municipal
 
