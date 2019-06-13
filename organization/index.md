@@ -25,10 +25,10 @@ This is how we approach our work:
 
 ## Legal registration and banking information
 
-We're registered as a vereniging (association) under Dutch law. Our full name is the Foundation for Public Code Vereniging.
+We're registered as an association (vereniging met volledige rechtsbevoegdheid) under Dutch law. Our full name is the Foundation for Public Code Vereniging. 
 
 >[See our association bylaws].
 
-Our Kamer van Koophandel registration number is 74996452.
+Our chamber of commerce (KvK) registration number is 74996452.
 
 > Our bank number is:
