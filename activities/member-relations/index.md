@@ -46,7 +46,7 @@ This stage is over after 2019, when the founding members have shaped the Foundat
 
 From 2020, each member has a regular membership contract.
 
-With regular membership, members become co-owners of the Foundation. This means members can vote in the general assembly and are responsible for and steer the Foundation’s operations, including priorities and annual budget for the organization. [Read more about Foundation governance].
+With regular membership, members become co-owners of the Foundation. This means members can vote in the general assembly and are responsible for and steer the Foundation’s operations, including priorities and annual budget for the organization. [Read more about Foundation governance](../../organization/governance-model.md).
 
 All members pay membership yearly dues. [See financial model]. Failure to pay can result in termination of membership as stipulated in the [foundation bylaws]. 
 
