@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-This is a template agenda for workshops or discussions between potential founding members and the Foundation for Public Code staff
+This is a template agenda for workshops or discussions between potential founding members and the Foundation for Public Code staff.
 
 # Agenda
 
