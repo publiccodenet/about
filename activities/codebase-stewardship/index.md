@@ -12,16 +12,16 @@ We provide the following for products, projects and codebases under our stewards
 
 * [Codebase auditing](../codebase-auditing/index.md): code, policy and documentation quality assurance
 * Community management: processing feedback and contributions, events
-* Productization services: branding, communication, refactoring for reuse
+* Productization: branding, communication, refactoring for reuse
 * Packaging, distributing official versions, compatibility updating
 * Marketing, communications, public relations
 * Developer advocacy, user support, end-user success, training materials
 * Operations: project infrastructure, process management
-* Legal services: intellectual property management, trademark protection
+* Legal: intellectual property management, trademark protection
 
 ## Making collaboration across contexts possible
 
-We provide these services explicitly at _ecosystem level_ – not at a national or city level – to make sure that context specific code or policy does not become a barrier to implementation.
+We provide these activities explicitly at _ecosystem level_ – not at a national or city level – to make sure that context specific code or policy does not become a barrier to implementation.
 This means that we make sure that code is reusable across contexts globally.
 
 For local implementations we collaborate with local implementation partners, working actively with them to both integrate effectively in the local context while simultaneously making it easier for others to implement as well.
