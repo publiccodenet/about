@@ -14,7 +14,6 @@ This is how we're building the organization to support our mission:
 
 * [Roadmap](roadmap.md)
 * [Milestones](milestones.md)
-* [Legal registration and banking information]
 * [Governance model](governance-model.md)
 * [Financial model](financial-model.md)
 
@@ -28,7 +27,7 @@ This is how we approach our work:
 
 We're registered as a vereniging (association) under Dutch law. Our full name is the Foundation for Public Code Vereniging. 
 
-[See our association bylaws].
+>[See our association bylaws].
 
 Our Kamer van Koophandel registration number is 74996452.
 

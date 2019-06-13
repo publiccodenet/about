@@ -4,7 +4,7 @@ type: Resource
 
 ## Contact us
 
-Our mission requires collaboration! We're eager to hear your questions or suggestions.
+Our mission requires collaboration! We're eager for your questions or suggestions.
 
 + email: <info@publiccode.net>
 + post: Keizersgracht 617, 1017 DS, Amsterdam, the Netherlands
@@ -24,4 +24,3 @@ We publish our news and announcements on:
 We occasionally update:
 + [LinkedIn](https://www.linkedin.com/company/27007004/)
 + [Facebook](https://www.facebook.com/publiccodenet/)
-
