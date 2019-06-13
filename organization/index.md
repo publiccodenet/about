@@ -25,7 +25,7 @@ This is how we approach our work:
 
 ## Legal registration and banking information
 
-We're registered as a vereniging (association) under Dutch law. Our full name is the Foundation for Public Code Vereniging. 
+We're registered as a vereniging (association) under Dutch law. Our full name is the Foundation for Public Code Vereniging.
 
 >[See our association bylaws].
 
