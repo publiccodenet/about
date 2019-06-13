@@ -12,7 +12,7 @@ These are all of the activities and products of the Foundation for Public Code
 These are the processes, activities and products that make our operations work:
 
 * [Communication](communication/index.md)
-* [Documentation of the organization](documentation/index.md)
+* [Documentation](documentation/index.md)
 * [Member relations](member-relations/index.md)
-* [Trainings of the organization](trainings/index.md)
+* [Trainings](trainings/index.md)
 * [Value and impact](value-and-impact/index.md)
