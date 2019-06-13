@@ -6,7 +6,7 @@ type: Resource
 
 This group includes political leaders at these levels:
 
-* supranational (like the European Union)
+* supranational (for example the European Union)
 * national
 * inter-regional
 * provincial  
