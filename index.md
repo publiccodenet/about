@@ -14,7 +14,7 @@ The documentation of our work here on [About](activities/documentation/index.md)
 
 Read more about:
 
-* [our activities and services](activities/index.md) (starting summer 2019)
+* [our activities](activities/index.md) (starting summer 2019)
 * [our organization](organization/index.md)
 * [our roles and open positions](roles/index.md)
 * [glossary of terms and concepts](glossary/index.md)
