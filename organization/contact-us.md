@@ -13,7 +13,7 @@ Our mission requires collaboration! We're eager for your questions or suggestion
 
 ## Communications channels
 
-Our single source of truth is this website. Watch us work and join our discussions at:
+Our canonical source of truth is this website. Watch us work and join our discussions at:
 
 + github.com/publiccodenet
 
