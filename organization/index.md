@@ -23,7 +23,7 @@ This is how we approach our work:
 * [Keys to success](keys-to-success.md)
 * [Definition of done](definition-of-done.md)
 
-## Legal registration and banking information
+## Legal registration
 
 We're registered as a vereniging (association) under Dutch law. Our full name is the Foundation for Public Code Vereniging.
 
