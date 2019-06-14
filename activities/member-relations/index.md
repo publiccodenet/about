@@ -16,7 +16,7 @@ This stage is over when the expression of interest has been signed.
 
 ## 2. Founding membership proposal
 
-At this stage, the Foundation and the public organization work together on the '[Founding Membership Proposal](founding-membership-proposal.md)'.
+At this stage, the Foundation and the public organization work together on the [founding membership proposal](founding-membership-proposal.md).
 
 This includes identifying:
 
