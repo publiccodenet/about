@@ -23,7 +23,7 @@ We publish our news and announcements on:
 + [Twitter](http://www.twitter.com/publiccodenet)
 
 We occasionally update:
-+ [LinkedIn](https://www.linkedin.com/company/publiccodenet)
++ [LinkedIn](http://www.linkedin.com/company/publiccodenet)
 + [Facebook](http://www.facebook.com/publiccodenet/)
 
 ## Brand
