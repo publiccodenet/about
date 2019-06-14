@@ -25,3 +25,7 @@ We publish our news and announcements on:
 We occasionally update:
 + [LinkedIn](http://www.linkedin.com/company/publiccodenet/)
 + [Facebook](https://www.facebook.com/publiccodenet/)
+
+## Brand
+
+[We have a separate website](https://brand.publiccode.net) for information about the Foundation for Public Code brand.
