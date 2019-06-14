@@ -19,8 +19,8 @@ Our canonical source of truth is this website. Watch us work and join our discus
 
 We publish our news and announcements on:
 
-+ [our blog](blog.publiccode.net)
-+ [Twitter](twitter.com/publiccodenet)
++ [our blog](https://blog.publiccode.net)
++ [Twitter](https://twitter.com/publiccodenet)
 
 We occasionally update:
 + [LinkedIn](https://www.linkedin.com/company/27007004/)

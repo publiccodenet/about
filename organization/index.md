@@ -25,7 +25,7 @@ This is how we approach our work:
 
 ## Legal registration
 
-We're registered as an association (vereniging met volledige rechtsbevoegdheid) under Dutch law. Our full name is the Foundation for Public Code Vereniging. 
+We're registered as an association (vereniging met volledige rechtsbevoegdheid) under Dutch law. Our full name is the Foundation for Public Code Vereniging.
 
 [See our association bylaws in Dutch](association-bylaws-Dutch.md).
 
