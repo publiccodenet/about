@@ -14,7 +14,7 @@ The documentation of our work here on [About](activities/documentation/index.md)
 
 Read more about:
 
-* [our activities and services](activities/index.md) (starting summer 2019)
+* [our activities](activities/index.md) (starting summer 2019)
 * [our organization](organization/index.md)
 * [our roles and open positions](roles/index.md)
 * [glossary of terms and concepts](glossary/index.md)
@@ -23,4 +23,4 @@ Additionally we have separate sites that show our [projects](https://projects.pu
 
 ## We need you
 
-We can [really use your help](CONTRIBUTING.md) in setting up the Foundation for Public Code and making it successful.
+We can [really use your help](CONTRIBUTING.md) to make the Foundation for Public Code a success.
