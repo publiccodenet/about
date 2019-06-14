@@ -18,7 +18,8 @@ Our canonical source of truth is this website. Watch us work and join our discus
 + [github.com/publiccodenet](https://github.com/publiccodenet/)
 
 We publish our news and announcements on:
-> + [our blog](blog.publiccode.net)
+
++ [our blog](blog.publiccode.net)
 + [Twitter](twitter.com/publiccodenet)
 
 We occasionally update:
