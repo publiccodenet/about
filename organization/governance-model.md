@@ -4,7 +4,7 @@ type: Resource
 
 # Governance model for the Foundation for Public Code
 
-This provides a non-legal summary of the Foundation's governance model as established in the association bylaws.
+This provides a non-legal summary of the Foundation's governance model as established in the [association bylaws](association-bylaws-Dutch.md).
 
 ## Overview
 
@@ -66,6 +66,6 @@ The secretariat is the staff of the Foundation for Public Code. They carry out t
 
 The secretariat is responsible for:
 
-* [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/), including codebase auditing 
+* [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/), including codebase auditing
 * maintaining the [Standard for Public Code](https://standard.publiccode.net)
 * administering the Foundation, including organizing member events and financial administration
