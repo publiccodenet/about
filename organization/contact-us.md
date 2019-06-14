@@ -15,7 +15,7 @@ Our mission requires collaboration! We're eager for your questions or suggestion
 
 Our canonical source of truth is this website. Watch us work and join our discussions at:
 
-+ github.com/publiccodenet
++ [github.com/publiccodenet](https://github.com/publiccodenet/)
 
 We publish our news and announcements on:
 > + [our blog](blog.publiccode.net)
