@@ -59,8 +59,10 @@ A mediation structure will be set up to handle any disputes that may arise betwe
 * The procedures members use to pay their dues will differ based on local legal context -  for example, some could use a grant.
 * Members will not incur obligations to the Foundation beyond paying dues.
 * The Foundation will not incur obligations to individual members by accepting membership dues, other than the governance process set out in the assocation bylaws.
-* Disputes about Foundation activites could include, for example:
-    * Codebase stewardship: excessive delays to development due to codebase stewardship activites
-    * Codebase auditing: malicious or unprofessional advice on code, leading to codebase failure
-    * Codebase marketing: libel or false advertising about a codebase
-    * Codebase support: failed procurements based on Foundation advice
+
+Disputes about Foundation activites could include, for example:
+
+* Codebase stewardship: excessive delays to development due to codebase stewardship activites
+* Codebase auditing: malicious or unprofessional advice on code, leading to codebase failure
+* Codebase marketing: libel or false advertising about a codebase
+* Codebase support: failed procurements based on Foundation advice
