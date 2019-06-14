@@ -22,9 +22,7 @@ We publish our news and announcements on:
 + [our blog](https://blog.publiccode.net/)
 + [Twitter](http://www.twitter.com/publiccodenet)
 
-We occasionally update:
-+ [LinkedIn](http://www.linkedin.com/company/publiccodenet)
-+ [Facebook](http://www.facebook.com/publiccodenet/)
+We very occasionally update our Facebook and LinkedIn pages.
 
 ## Brand
 
