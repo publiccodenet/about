@@ -6,7 +6,7 @@ type: Resource
 
 This provides a non-legal summary of the Foundation's governance model as established in the association bylaws.
 
-## Overview 
+## Overview
 
 The Foundation for Public Code is a [member-owned association (vereniging) under Dutch law](https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/). Only wholly publicly owned organizations may become members.
 
@@ -15,18 +15,20 @@ This means members are responsible for and steer the Foundation's operations, in
 ## Foundation bodies
 
 The Foundation consists of four bodies:
+
 * general assembly
-* committee
+* board of directors
 * advisory board
-* secretariat 
+* secretariat
 
 ### General assembly
 
-All members are represented in the general assembly. 
+All members are represented in the general assembly.
 
-The general assembly: 
+The general assembly:
+
 * approves the Foundation's operational plan for the coming year
-* elects the committee
+* elects the board of directors
 
 These decisions are agreed through a majority vote. Voting rights are proportional to members' membership dues. This ensures democratic ownership and control by all members.
 
@@ -34,27 +36,36 @@ The general assembly meets at least once every year. Minutes from the general as
 
 We commit to holding all meaningful votes electronically, so that all members can be represented regardless of ability to attend physically.
 
-### Committee
+### Board of directors
 
-The committee is elected by the general assembly. By law, it must include a chair, a secretary and a treasurer. The general assembly can vote to add more roles to the committee.
+The board of directors is elected by the general assembly. By law, it must include a chair, a secretary and a treasurer. The general assembly can vote to add more roles to the board of directors.
 
-The committee:
+The board of directors:
+
 * proposes the Foundation's operational plan and budgeting for the coming year
 * approves membership applications
 
 These decisions are agreed upon through majority vote.
 
-The committee meets regularly and is required to keep the general assembly informed about its activities.
+The board of directors meets regularly and is required to keep the general assembly informed about its activities.
+
+The current board members are:
+
+* Ben Cerveny (Chairman)
+* Arnout Schuijff (Treasurer)
+* Boris van Hoytema (Secretary)
+* Pieter van der Does
 
 ### Advisory board
 
-The advisory board is a set of experts that suppport the general assembly, committee and the secretariat. There are some decisions for which they must be consulted.
+The advisory board is a set of experts that suppport the general assembly, board of directors and the secretariat. There are some decisions for which they must be consulted.
 
 ### Secretariat
 
 The secretariat is the staff of the Foundation for Public Code. They carry out the Foundation's day to day work.
 
 The secretariat is responsible for:
+
 * [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/), including codebase auditing 
 * maintaining the [Standard for Public Code](https://standard.publiccode.net)
 * administering the Foundation, including organizing member events and financial administration
