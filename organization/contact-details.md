@@ -9,7 +9,7 @@ Our mission requires collaboration! We're eager for your questions or suggestion
 + email: <info@publiccode.net>
 + post: Keizersgracht 617, 1017 DS, Amsterdam, the Netherlands
 + telephone: +31 6 17 96 02 05 (Boris van Hoytema's phone)
-+ twitter: [@publiccodenet](twitter.com/publiccodenet)
++ twitter: [@publiccodenet](http://www.twitter.com/publiccodenet)
 
 ## Communications channels
 
@@ -19,12 +19,12 @@ Our canonical source of truth is this website. Watch us work and join our discus
 
 We publish our news and announcements on:
 
-+ [our blog](https://www.blog.publiccode.net)
-+ [Twitter](https://www.twitter.com/publiccodenet)
++ [our blog](http://www.blog.publiccode.net)
++ [Twitter](http://www.twitter.com/publiccodenet)
 
 We occasionally update:
 + [LinkedIn](http://www.linkedin.com/company/publiccodenet/)
-+ [Facebook](https://www.facebook.com/publiccodenet/)
++ [Facebook](http://www.facebook.com/publiccodenet/)
 
 ## Brand
 
