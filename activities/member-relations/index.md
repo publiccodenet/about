@@ -53,6 +53,7 @@ All members pay membership yearly dues. [See financial model](../../organization
 A mediation structure will be set up to handle any disputes that may arise between members and the Foundation or between individual members.
 
 ### Assumptions
+
 * This contract will be governed by Dutch law.
 * Members will not pay dues through procurement or tendering procedures.
 * The procedures members use to pay their dues will differ based on local legal context -  for example, some could use a grant.
