@@ -6,8 +6,10 @@ type: Resource
 
 This group includes political leaders at these levels:
 
-* EU
+* supranational (for example the European Union)
 * national
+* inter-regional
+* membership bodies (for example associations of cities)
 * provincial  
 * municipal
 
@@ -21,11 +23,11 @@ Positive reasons for why they might be interested in our work:
 
 Negative reasons for why they might be interested in our work:
 
-* data and processes are owned by private actors
+* public data and processes are owned by private actors
 * poor resident experience is politically costly
 * companies evolve to rip off government
-* huge IT projects have a high failure rate
-* political change keeps cutting successes, which are then lost
+* huge government IT projects have a high failure rate
+* political change resulting in the undoing of previous successes
 
 ## Our value proposition for them
 
