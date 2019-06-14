@@ -23,5 +23,5 @@ We publish our news and announcements on:
 + [Twitter](https://twitter.com/publiccodenet)
 
 We occasionally update:
-+ [LinkedIn](https://www.linkedin.com/company/27007004/)
++ [LinkedIn](https://www.linkedin.com/company/publiccodenet/)
 + [Facebook](https://www.facebook.com/publiccodenet/)
