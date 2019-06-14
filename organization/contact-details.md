@@ -24,7 +24,3 @@ We publish our news and announcements on:
 + [Twitter](http://www.twitter.com/publiccodenet)
 
 We very occasionally update our Facebook and LinkedIn pages.
-
-## Brand
-
-[We have a separate website](https://brand.publiccode.net) for information about the Foundation for Public Code brand.
