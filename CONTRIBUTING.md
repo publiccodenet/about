@@ -24,7 +24,7 @@ Our [contributor guide for individuals](contributor-guides/for-individuals.md) e
 
 We’re especially interested in learning what you need to implement the [Standard for Public Code](https://standard.publiccode.net/) in your organization. Please [raise an issue](https://standard.publiccode.net/CONTRIBUTING.html) or email us at <info@publiccode.net>.
 
-We're currently hiring codebase stewards - [see our open roles](../roles/index.md).
+We're currently hiring codebase stewards - [see our open roles](roles/index.md).
 
 ## Public organizations
 
