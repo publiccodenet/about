@@ -2,16 +2,16 @@
 type: Resources
 ---
 
-# Job title
+# [Job title]
 
 Come help producers of open source software for public use – such as in cities and other public organizations – develop and maintain software and policy together. The Foundation for Public Code provides review of codebases that are in our stewardship to help developers build trusted and reliable software that can be widely reused and foster a strong community around it.
 
 We test against the Standard for Public Code to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society and improve continually, and policy makers can keep technology and architectural choices open.
 Part of this effort is to [bespoke text contextualising role in broader foundation work].
 
-## What the JOB TITLE does
+## What the [JOB TITLE] does
 
-As a JOB TITLE you work together with the community to [bespoke text]. This means you will:
+As a [JOB TITLE] you work together with the community to [bespoke text]. This means you will:
 [bespoke text starting with a verb]
 
 [CALL TO ACTION - bespoke text e.g. So, if you enjoy working together with a wide array of developers to make open source codebases really shine as well as improve the role of technology in society, this job is for you.]
@@ -28,9 +28,9 @@ You should:
 * have international experience
 * be an active participant in the codebase community you support
 
-## What we expect from the JOB TITLE
+## What we expect from the [JOB TITLE]
 
-We expect our new JOB TITLE to:
+We expect our new [JOB TITLE] to:
 [bespoke text, starting with a verb]
 ...
 
