@@ -4,8 +4,7 @@ type: Resource
 
 # Codebase steward for community
 
-Come help the makers of open source software for public use – such as governments and cities – build thriving communities around their [codebases](../glossary/codebase-definition.md). This enables sharing of knowledge across organizations, makes codebases stronger and improves the quality of public services. This role is vital to the Foundation for Public Code's mission to help public organizations develop and maintain software and policy together. 
-
+Come help the makers of open source software for public use – such as governments and cities – build thriving communities around their [codebases](../glossary/codebase-definition.md). This enables sharing of knowledge across organizations, makes codebases stronger and improves the quality of public services. This role is vital to the Foundation for Public Code's mission to enable public-purpose software and policy that is open and collaborative.
 
 ## What the codebase steward for community does
 
@@ -15,7 +14,6 @@ As a codebase steward for community you work together with the community to buil
 - continually develop our processes and tools for community management
 
 If you enjoy connecting a wide variety of passionate technologists and stakeholders that work for the public good with meaningful interactions as well as believe in open source as a collaboration method, this job is for you.
-
 
 ## What we expect from all of our team members
 
@@ -41,7 +39,7 @@ We expect our new codebase steward for community to:
 
 ## More information about this position
 
-This is a full time role (40 hours/week) in our main offices in Amsterdam, the Netherlands. Assistance in relocation is possible. 
+This is a full time role (40 hours/week) in our main offices in Amsterdam, the Netherlands. Assistance in relocation is possible.
 This is a one year contract, with an option to extend. Compensation is competitive as well as in line with the public mission of the organization.
 
 ## More about the application process
