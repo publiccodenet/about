@@ -10,7 +10,7 @@ An issue is a story explaining why something should be changed. It serves as the
 Issues can be of two types:
 
 * Bug: something that isn't as it is supposed to be, this is broken
-* Enhancement: an improvement that could be done to make it better
+* Enhancement: an improvement that could be done to make something better
 
 The goal of an issue is to provide knowledge about and context on what to fix or improve. You can make issues alone or together.
 
