@@ -19,7 +19,7 @@ The Foundation consists of four bodies:
 * general assembly
 * board of directors
 * advisory board
-* secretariat
+* staff
 
 ### General assembly
 
@@ -58,13 +58,13 @@ The current board members are:
 
 ### Advisory board
 
-The advisory board is a set of experts that suppport the general assembly, board of directors and the secretariat. There are some decisions for which they must be consulted.
+The advisory board is a set of experts that suppport the general assembly, board of directors and staff. There are some decisions for which they must be consulted.
 
-### Secretariat
+### Staff
 
-The secretariat is the staff of the Foundation for Public Code. They carry out the Foundation's day to day work.
+The staff of the Foundation for Public Code carry out the Foundation's day to day work.
 
-The secretariat is responsible for:
+The staff are responsible for:
 
 * [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/), including codebase auditing
 * maintaining the [Standard for Public Code](https://standard.publiccode.net)
