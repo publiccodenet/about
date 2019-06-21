@@ -27,7 +27,7 @@ You should:
 * be able to work independently
 * be a strong communicator in English
 * have international experience
-* be an active participant in the codebase community you support
+* [for codebase steward roles: be an active participant in the codebase community you support]
 
 ## What we expect from the [JOB TITLE]
 
