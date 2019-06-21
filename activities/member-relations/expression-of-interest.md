@@ -10,7 +10,7 @@ This document serves as an expression of interest to be signed by public organiz
 
 ## Resource
 
-You can access the [template here.](https://docs.google.com/document/d/1jGQYAMkefcEtkblIrJXc6KpIzQZQCjL2QJBDA6wbHfc/edit?usp=sharing)
+You can access the [template here](https://docs.google.com/document/d/1jGQYAMkefcEtkblIrJXc6KpIzQZQCjL2QJBDA6wbHfc/edit?usp=sharing).
 
 ## Assumptions
 
