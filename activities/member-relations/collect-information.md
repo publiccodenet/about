@@ -25,6 +25,7 @@ As information collected may include personal or sensitive information, this is 
    * Internal champions: Outline the top two or three internal champions who can help promote our mission and act as ambassadors internally
    * Internal skeptics: Outline the top two or three internal stakeholders who are skeptical of our mission, for whom we can develop and test our value proposition mapping and assumptions
    * Code owners: Outline the top two or three internal stakeholders who own/manage code bases that are, or might be, stewarded by the Foundation
+   
 * Concrete value propositions and next steps
    * Value proposition: Briefly outline the main value proposition - problem solved or value created - for the member, other members, the Foundation or the general ecosystem. This should be an actionable item.
    * Effort: If possible, provide a sense of estimated effort required (including staff time, contributors, financial etc) and any dificulties you anticipate
