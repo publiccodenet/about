@@ -116,10 +116,10 @@ Can the relevant policy be bundled with the code in English?
 
 What is the potential societal impact of the codebase becoming public code and being reused?
 
-### Evaluation questions
+
 
 ## Story
 
 What is the story-telling and communication value of this codebase becoming public code and being reused?  
 
-### Evaluation questions
+
