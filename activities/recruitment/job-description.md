@@ -1,5 +1,5 @@
 ---
-type: Resources
+type: Resource
 ---
 
 # [Job title]
