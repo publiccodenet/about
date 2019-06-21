@@ -17,9 +17,9 @@ Here are the criteria the staff of the Foundation for Public Code will use to he
 * Societal impact: what is the potential societal impact of the codebase becoming public code and being reused?
 * Story: what is the story-telling and communication value of this codebase becoming public code and being reused?  
 
-The current owners of potential codebases are asked to answer the evaluation questions.
-
 ## Evaluation questions
+
+The current owners of potential codebases are asked to answer these evaluation questions to help complete the evaluation.
 
 ### Business case
 
