@@ -14,12 +14,12 @@ We test against the Standard for Public Code to make codebases understandable, r
 
 Part of this effort is to [bespoke text contextualising role in broader foundation work].
 
-### What the [JOB TITLE] does
+### What the [Job title] does
 
-As a [JOB TITLE] you work together with the community to [bespoke text]. This means you will:
+As a [Job title] you work together with the community to [bespoke text]. This means you will:
 [bespoke text starting with a verb]
 
-[CALL TO ACTION - bespoke text e.g. So, if you enjoy working together with a wide array of developers to make open source codebases really shine as well as improve the role of technology in society, this job is for you.]
+[Call to action - bespoke text e.g. So, if you enjoy working together with a wide array of developers to make open source codebases really shine as well as improve the role of technology in society, this job is for you.]
 
 ### What we expect from all of our team members
 
@@ -33,9 +33,9 @@ You should:
 * have international experience
 * [for codebase steward roles: be an active participant in the codebase community you support]
 
-### What we expect from the [JOB TITLE]
+### What we expect from the [Job title]
 
-We expect our new [JOB TITLE] to:
+We expect our new [Job title] to:
 [bespoke text, starting with a verb]
 ...
 
