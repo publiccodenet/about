@@ -10,7 +10,7 @@ This document serves as a draft proposal to send to public organizations that ar
 
 ## Resource
 
-You can access the [template here.](https://docs.google.com/document/d/1icscB-9jPUF2psL1pm8mM_53BKQ5gEIKqmHnsTicKKY/edit?usp=sharing).
+You can access the [template here](https://docs.google.com/document/d/1icscB-9jPUF2psL1pm8mM_53BKQ5gEIKqmHnsTicKKY/edit?usp=sharing).
 
 ## Assumptions
 
