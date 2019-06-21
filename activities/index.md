@@ -16,4 +16,3 @@ These are the processes, activities and products that make our operations work:
 * [Member relations](member-relations/index.md)
 * [Trainings](trainings/index.md)
 * [Value and impact](value-and-impact/index.md)
-* [Human resources](human-resources/index.md)
