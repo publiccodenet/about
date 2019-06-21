@@ -23,16 +23,27 @@ Does the codebase lend itself to collaborative development?
 ### Evaluation questions
 
 What percentage of codebase covered by tests?
+
 Can developers run the tests on their laptop?
+
 What are the buildtime and runtime dependencies?
+
 How many modules does the codebase have?
+
 How many lines of code does the codebase have?
+
 Is there a diagram and description of the system architecture?
+
 What portion of the APIs are documented?
+
 What portion of the code is commented/has inline documentation?
+
 What portion of the documentation exists in English?
+
 Are there any proprietary dependencies?
+
 Are there written engineering guidelines to inform architectural and code structure decisions?
+
 Are there explicit style guidelines for how code should look?
 
 ## Community
@@ -42,13 +53,21 @@ Does the codebase have an active and engaged community?
 ### Evaluation questions
 
 What portion of contributors are staff, contractors/freelancer, 3rd party procurement/vendors or volunteer?
+
 How many contributors have contributed in the last 6 months?
+
 What is the average number of commits per week in 2019?
+
 How many organizations contribute to this codebase?
+
 Which of these does your community have for discussion among users: email at a specific addres, email list, forum, bugtracking system, other (write in)?
+
 Which of these does your community have for discussion among developers: email at a specific addres, email list, forum, bugtracking system, other (write in)?
+
 Do you have contributor guidelines to help new people contribute?
+
 Does the community currently use English?
+
 What other languages does your community use?
 
 ## Community potential
@@ -58,11 +77,17 @@ Is there a strong potential for the community to grow beyond its existing member
 ### Evaluation questions
 
 Is there a 2 to 4 year roadmap?
+
 Is there a public backlog in English or one you can make public?
+
 How far through your current set of goals are you?
+
 How realistic vs ambitious are your goals in the next 6 months?
+
 Is there a public bugtracking system in English or one you can make public?
+
 Is the codebase being deployed by another organization?
+
 Has any other organization expressed an interest in deploying the code?
 
 ## Code reusability
@@ -72,6 +97,7 @@ Is the code written in a way that makes it easy to be reused?
 ### Evaluation questions
 
 How long would it take a team of 2 devs to extract to make the code configurable such that it could be deployed for a different org?
+
 What languages are used in your project?
 
 ## Reuse potential
@@ -81,7 +107,9 @@ To what extent can the codebase be reused, both in a different context or for a 
 ### Evaluation questions
 
 What portion of the codebase is only understood by 1 or 2 people?
+
 Is the relevant policy bundled with the code?
+
 Can the relevant policy be bundled with the code in English?
 
 ## Societal impact
