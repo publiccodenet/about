@@ -44,7 +44,7 @@ This is a one year contract, with an option to extend. Compensation is competiti
 ## More about the application process
 
 We enthusiastically encourage people underrepresented in the worlds of technology and government to apply.
-If you want to know more about the position, please get in touch with Boris van Hoytema at boris@publiccode.net or +31 6 17 96 02 05.
+If you want to know more about the position, please get in touch with Boris van Hoytema at boris@publiccode.net.
 
 To apply for this position, please email Mirjam van Tiel at mirjam@publiccode.net.
 
