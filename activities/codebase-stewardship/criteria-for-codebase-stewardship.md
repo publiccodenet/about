@@ -19,7 +19,7 @@ These are the evaluation criteria the staff of the Foundation for Public Code us
 
 ## Evaluation questions
 
-The current owners of potential codebases are asked to answer these evaluation questions to help complete the evaluation.
+The current owners of potential codebases are asked to answer these questions to help us better understand their codebase.
 
 ### Business case
 
@@ -75,4 +75,4 @@ The current owners of potential codebases are asked to answer these evaluation q
 
 ### Societal impact
 
-## Story
+### Story
