@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-This is a template agenda for workshops or discussions between potential founding members and the Foundation for Public Code staff.
+This is a template agenda for workshops or discussions between potential founding members and the Foundation for Public Code staff. It should be sent together with specific information or requests on how to prepare for the meeting.
 
 # Agenda
 
@@ -26,6 +26,3 @@ Deep dive into founding member's codebases (45 min)
 * Based on proposed [codebase criteria](../codebase-stewardship/criteria-for-codebase-stewardship.md)
 
 Recap and next steps (10 min)
-
-## Preparation
-```Insert custom preparation notes here```
