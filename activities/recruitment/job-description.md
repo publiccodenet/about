@@ -2,7 +2,11 @@
 type: Resource
 ---
 
-# [Job title]
+# Job description template
+
+This is the template from which we generate new job descriptions.
+
+## [Job title]
 
 Come help producers of open source software for public use – such as in cities and other public organizations – develop and maintain software and policy together. The Foundation for Public Code provides review of codebases that are in our stewardship to help developers build trusted and reliable software that can be widely reused and foster a strong community around it.
 
@@ -10,14 +14,14 @@ We test against the Standard for Public Code to make codebases understandable, r
 
 Part of this effort is to [bespoke text contextualising role in broader foundation work].
 
-## What the [JOB TITLE] does
+### What the [JOB TITLE] does
 
 As a [JOB TITLE] you work together with the community to [bespoke text]. This means you will:
 [bespoke text starting with a verb]
 
 [CALL TO ACTION - bespoke text e.g. So, if you enjoy working together with a wide array of developers to make open source codebases really shine as well as improve the role of technology in society, this job is for you.]
 
-## What we expect from all of our team members
+### What we expect from all of our team members
 
 You should:
 * share our core values: openness, quality, trust, community, helpfulness
@@ -29,7 +33,7 @@ You should:
 * have international experience
 * [for codebase steward roles: be an active participant in the codebase community you support]
 
-## What we expect from the [JOB TITLE]
+### What we expect from the [JOB TITLE]
 
 We expect our new [JOB TITLE] to:
 [bespoke text, starting with a verb]
