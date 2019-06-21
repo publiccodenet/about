@@ -2,9 +2,9 @@
 type: Resource
 ---
 
-# Criteria for codebase stewardship
+# Evaluation criteria for codebase stewardship
 
-These are the criteria the staff of the Foundation for Public Code use to help evaluate whether a codebase is ready and suitable for incubation. They are used before and after the 'Assess' phase in the [codebase stewardship lifecycle](lifecycle.md).
+These are the evaluation criteria the staff of the Foundation for Public Code use to help evaluate whether a codebase is ready and suitable for incubation. They are used before and after the 'Assess' phase in the [codebase stewardship lifecycle](lifecycle.md).
 
 ## Evaluation criteria
 
