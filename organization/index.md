@@ -24,10 +24,12 @@ This is how we approach our work:
 * [Keys to success](keys-to-success.md)
 * [Definition of done](definition-of-done.md)
 
-## Legal registration
+## Legal registration, chamber of commerce and bank account numbers
 
 We're registered as an association (vereniging met volledige rechtsbevoegdheid) under Dutch law. Our full name is the Foundation for Public Code Vereniging.
 
 [See our association bylaws in Dutch](association-bylaws.nl.md).
 
 Our chamber of commerce (KvK) registration number is 74996452.
+
+Our bank account number (IBAN) is NL78 RABO 0342 6453 31.
