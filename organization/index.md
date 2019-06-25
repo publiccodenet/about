@@ -31,4 +31,4 @@ We're registered as an association (vereniging met volledige rechtsbevoegdheid) 
 
 Our chamber of commerce (KvK) registration number is 74996452.
 
-Our bank account number (IBAN) is NL39 RABO 0342 6386 61.
+Our bank account number (IBAN) is NL78 RABO 0342 6453 31.
