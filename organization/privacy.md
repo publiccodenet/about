@@ -10,7 +10,7 @@ We keep contact details for:
 
 The bases for processing this information are respectively consent, legitimate interest and to fulfill a contract.
 
-## What data we collect from you
+## What personal information we collect from you
 
 For people who have signed up to get our news, we collect:
 
@@ -32,18 +32,23 @@ For staff and interns, we collect:
 * bank details to pay salaries
 * health information to manage sickness absence (if applicable)
 
-## What we do with your data
+## What we do with your personal information
 
 We store it.
 We use it for our work.
 
 ## Data retention
 
-We'll review the data we hold at least once a year and delete any data 
+We'll review the personal  we hold at least once a year and delete any data 
 
 ## Your rights
 
 You have the right to:
 
-- tell us if something's wrong so we can correct
-- have your data deleted 
+* know what personal information we have about you
+* tell us if something's wrong so we can correct it
+* have your personal information deleted
+
+If you have a question or concern, please [contact us](contact-details.md).
+
+We hope we can resolve it for you. If we can't, you have the right to complain to your local data protection authority. 
