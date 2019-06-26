@@ -10,7 +10,7 @@ This outlines the stages by which a public organization becomes a founding membe
 
 At this stage, the public organization confirms their interest in becoming a member by signing the [expression of interest](expression-of-interest.md). This grants both parties the right to discuss this collaboration publicly. It's signed by a policy lead and/or technical development lead in the public organization.
 
-This stage may include the '[Information about Founding Membership](information-about-founding-membership.md)'.
+This stage may include [information about founding membership](information-about-founding-membership.md).
 
 This stage is over when the expression of interest has been signed.
 
