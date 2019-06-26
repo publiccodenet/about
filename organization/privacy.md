@@ -34,7 +34,8 @@ For staff and interns, we collect:
 
 ## What we do with your data
 
-We store it. We use it for our work. 
+We store it.
+We use it for our work.
 
 ## Data retention
 
@@ -43,5 +44,6 @@ We'll review the data we hold at least once a year and delete any data
 ## Your rights
 
 You have the right to:
+
 - tell us if something's wrong so we can correct
 - have your data deleted 
