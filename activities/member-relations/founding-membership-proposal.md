@@ -18,8 +18,3 @@ You can access the [template here](https://docs.google.com/document/d/1icscB-9jP
 * We first send potential founding members this draft full proposal, which invites them to sign a light-weight/low-commitment [Expression of Interest](expression-of-interest.md). This means we can talk about our working with them in the open, while continuing to tailor the details of this proposal
 * This resource is a link to a Google doc for now, but might change format
 * Any proposed changes to the content of this template must first be proposed on, and merged with, [the `master` branch of About](https://github.com/publiccodenet/about/tree/master) before being implemented here
-
-### Use and further development
-
-- [ ] Share with potential members
-- [ ] Revise template with feedback once shared with 2-3 potential founding members
