@@ -10,19 +10,18 @@ This outlines the stages by which a public organization becomes a founding membe
 
 At this stage, the public organization confirms their interest in becoming a member by signing the [expression of interest](expression-of-interest.md). This grants both parties the right to discuss this collaboration publicly. It's signed by a policy lead and/or technical development lead in the public organization.
 
-This stage may include the '[Information about Founding Membership](information-about-founding-membership.md)'.
+This stage may include [information about founding membership](information-about-founding-membership.md).
 
 This stage is over when the expression of interest has been signed.
-
 
 ## 2. Founding membership proposal
 
 At this stage, the Foundation and the public organization work together on the [founding membership proposal](founding-membership-proposal.md).
 
-This includes identifying:
+This includes:
 
-* [appropriate codebases](identify-potential-codebase.md) for Foundation codebase auditing, certification and stewardship activities
-* next steps in the collaboration
+* [evaluating codebases](../codebase-stewardship/criteria-for-codebase-stewardship.md) proposed by members for [codebase stewardship](../codebase-stewardship/index.md)
+* identifying next steps in the collaboration
 * timeline and milestones for 2019
 
 This stage may include a [founding membership workshop](founding-membership-workshop.md).
