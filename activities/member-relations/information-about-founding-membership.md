@@ -6,7 +6,7 @@ type: Resource
 
 ## Resource
 
-You can access the [template here](https://docs.google.com/document/d/165RXZmeU6klU_QmCR06ACvY8SAtN27de1nilqOmi8Nw/edit?usp=sharing).
+You can access the [information about founding membership template here](https://docs.google.com/document/d/165RXZmeU6klU_QmCR06ACvY8SAtN27de1nilqOmi8Nw/edit?usp=sharing).
 
 ## Assumptions
 
