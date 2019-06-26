@@ -16,7 +16,8 @@ For people who have signed up to get our news, we collect:
 
 * name
 * email address
-* organizational affiliation if applicable
+* job title if applicable
+* organizational if applicable
 
 For people we work with, we collect:
 
@@ -41,6 +42,8 @@ We use it for our work.
 
 We'll review the personal  we hold at least once a year and delete any data 
 
+"As a contact for a piece of work, we may contact you where a work matter requires your input. Once you leave the role, we will update or delete the information we hold about you. This will take place at least once a year."
+
 ## Your rights
 
 You have the right to:
@@ -48,6 +51,10 @@ You have the right to:
 * know what personal information we have about you
 * tell us if something's wrong so we can correct it
 * have your personal information deleted
+
+OR
+
+You have the right to access, update, or delete your personal information.
 
 If you have a question or concern, please [contact us](contact-details.md).
 
