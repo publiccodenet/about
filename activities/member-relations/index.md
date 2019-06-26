@@ -18,10 +18,10 @@ This stage is over when the expression of interest has been signed.
 
 At this stage, the Foundation and the public organization work together on the [founding membership proposal](founding-membership-proposal.md).
 
-This includes identifying:
+This includes:
 
-* [appropriate codebases](identify-potential-codebase.md) for Foundation codebase auditing, certification and stewardship activities
-* next steps in the collaboration
+* [evaluating codebases](identify-potential-codebase.md) proposed by members for [codebase stewardship](../codebase-stewardship/index.md)
+* identifying next steps in the collaboration
 * timeline and milestones for 2019
 
 This stage may include a [founding membership workshop](founding-membership-workshop.md).
