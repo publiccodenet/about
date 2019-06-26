@@ -20,7 +20,7 @@ At this stage, the Foundation and the public organization work together on the [
 
 This includes:
 
-* [evaluating codebases](identify-potential-codebase.md) proposed by members for [codebase stewardship](../codebase-stewardship/index.md)
+* [evaluating codebases](../codebase-stewardship/criteria-for-codebase-stewardship.md) proposed by members for [codebase stewardship](../codebase-stewardship/index.md)
 * identifying next steps in the collaboration
 * timeline and milestones for 2019
 
