@@ -8,7 +8,7 @@ This explains the Foundation for Public Code's approach to remuneration.
 
 ## Staff, contractors and interns
 
-Foundation staff salaries are competitive as well as in line with the social mission of the organization.
+Foundation salaries are competitive as well as in line with the social mission of the organization.
 
 The Foundation will reimburse reasonable expenses for staff, contractors and interns.
 
@@ -27,5 +27,5 @@ We reimburse reasonable expenses incurred while working for the Foundation for e
 We consider reasonable expenses to be:
 
 * costs incurred while working towards the [Foundation's mission](mission.md)
-* public transport incurred during business trips: flights (economy class only), train (2nd class only), bus or other local public transport, [OV bike](https://www.ns.nl/en/door-to-door/ov-fiets) or taxis
+* public transport costs incurred during business trips: flights (economy class only), train (2nd class only), bus or other local public transport, [OV bike](https://www.ns.nl/en/door-to-door/ov-fiets) or taxis
 * private transport used for business trips: kilometers logged in private vehicles (eg cars, motorcycles or bicycles) for business trips
