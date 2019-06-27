@@ -1,4 +1,4 @@
-# Privacy and GDPR
+# Privacy
 
 The Foundation strongly supports individuals' right to privacy. For this reason we don't have an analytics package installed on any of our websites.
 
@@ -17,32 +17,37 @@ For people who have signed up to get our news, we collect:
 * name
 * email address
 * job title if applicable
-* organizational if applicable
+* organization if applicable
 
 For people we work with, we collect:
 
 * name
-* contact details: email address, home adddress or phone number
-* organizational affiliation (if applicable)
+* contact details: email address, physical adddress or phone number
+* job title if applicable
+* organization if applicable
 
 For staff and interns, we collect:
 
 * name
 * date of birth
-* contact details: email address, home adddress or phone number
+* contact details: email address, physical adddress and phone number
 * bank details to pay salaries
-* health information to manage sickness absence (if applicable)
+* health information to manage sickness absence if applicable
 
 ## What we do with your personal information
 
 We store it.
 We use it for our work.
 
+We won't share it or sell it.
+
 ## Data retention
 
-We'll review the personal  we hold at least once a year and delete any data 
+People can always unsubscribe from our mailing list.
 
-"As a contact for a piece of work, we may contact you where a work matter requires your input. Once you leave the role, we will update or delete the information we hold about you. This will take place at least once a year."
+As a contact for a piece of work, we may contact you where a work matter requires your input. Once you leave the role, we will update or delete the information we hold about you. This will take place at least once a year.
+
+We keep staff data for up to seven years, as required by Dutch law.
 
 ## Your rights
 
