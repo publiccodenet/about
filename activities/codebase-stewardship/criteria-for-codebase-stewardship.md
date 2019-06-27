@@ -23,9 +23,9 @@ This is a list of questions to ask the current owners of potential codebases to 
 
 ### Business case
 
-1. What, if any, is the budget currently committed to the codebase?
+1. Do you have a business case for the codebase that you can share?
 2. Do you have any financial forecasting or modelling of the cost of the codebase over its lifetime that you can share?
-3. Do you have a business case for the codebase that you can share?
+3. What, if any, is the budget currently committed to the codebase?
 4. Did this codebase replace a previous IT solution or service? Why was the previous one discontinued?
 
 ### Co-develop-ability
