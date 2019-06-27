@@ -65,10 +65,10 @@ This is a list of questions to ask the current owners of potential codebases to 
 ### Code reusability
 
 1. How long would it take a team of two developers to extract to make the code configurable such that it could be deployed for a different organization?
-2. which programming languages are used in your project?
+2. Which programming languages are used in your project?
 
 ### Reuse potential
 
-1. What portion of the codebase is only understood by 1 or 2 people?
+1. What portion of the codebase is only understood by one or two people?
 2. Is the relevant policy bundled with the code?
 3. Can the relevant policy be bundled with the code in English?
