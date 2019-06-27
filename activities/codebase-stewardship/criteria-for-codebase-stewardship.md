@@ -24,6 +24,9 @@ This is a list of questions to ask the current owners of potential codebases to 
 ### Business case
 
 1. What, if any, is the budget currently committed to the codebase?
+2. Do you have any financial forecasting or modelling of the cost of the codebase over its lifetime that you can share?
+3. Do you have a business case for the codebase that you can share?
+4. Did this codebase replace a previous IT solution or service? Why was the previous one discontinued?
 
 ### Co-develop-ability
 
@@ -72,3 +75,16 @@ This is a list of questions to ask the current owners of potential codebases to 
 1. What portion of the codebase is only understood by one or two people?
 2. Is the relevant policy bundled with the code?
 3. Can the relevant policy be bundled with the code in English?
+
+### Societal impact
+
+1. Who are the end users of the codebase or the service the codebase powers?
+2. Do you have any success metrics for this codebase or the service it powers (like the [UK government's performance dashboard](https://www.gov.uk/performance))?
+
+### Story
+
+1. Does this codebase already have a public facing website?
+2. Has there already been a communications campaign about this codebase or the service it powers? If so, please provide links.
+3. Has this codebase or the service it powers received any press coverage? If so, please provide links.
+4. Is there anything about this codebase or the service it powers that you would describe as innovative, groundbreaking or really clever?
+5. What makes you proud to work on this codebase?
