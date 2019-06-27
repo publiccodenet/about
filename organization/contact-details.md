@@ -7,7 +7,7 @@ type: Resource
 Our mission requires collaboration! We're eager for your questions or suggestions.
 
 + email: <info@publiccode.net>
-+ post: Keizersgracht 617, 1017 DS, Amsterdam, the Netherlands
++ post: Keizersgracht 617, 1017 DS Amsterdam, the Netherlands
 + twitter: [@publiccodenet](http://www.twitter.com/publiccodenet)
 
 You can call chief executive Boris van Hoytema at +31 6 1796 0205.

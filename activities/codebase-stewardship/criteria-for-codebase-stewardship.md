@@ -72,7 +72,3 @@ The current owners of potential codebases are asked to answer these questions to
 1. What portion of the codebase is only understood by 1 or 2 people?
 2. Is the relevant policy bundled with the code?
 3. Can the relevant policy be bundled with the code in English?
-
-### Societal impact
-
-### Story
