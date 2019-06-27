@@ -58,9 +58,9 @@ This is a list of questions to ask the current owners of potential codebases to 
 ### Community potential
 
 1. Is there a two to four year roadmap?
-2. Is there a public backlog in English or one you can make public?
-3. Are your goals for the next 6 months more ambitious or realistic?
-4. How far through your current set of goals are you?
+2. Are your goals for the next 6 months more ambitious or realistic?
+3. How far through your current set of goals are you?
+4. Is there a public backlog in English or one you can make public?
 5. Is there a public bugtracking system in English or one you can make public?
 6. Is the codebase being deployed by another organization?
 7. Has any other organization expressed an interest in deploying the code?
