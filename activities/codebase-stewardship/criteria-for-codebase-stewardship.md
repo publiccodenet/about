@@ -79,7 +79,7 @@ This is a list of questions to ask the current owners of potential codebases to 
 ### Societal impact
 
 1. Who are the end users of the codebase or the service the codebase powers?
-2. Do you have any success metrics for this codebase or the service it powers (like the [UK government's performance dashboard](https://www.gov.uk/performance))?
+2. Do you have any performance metrics for this codebase or the service it powers (like the [UK government's performance dashboard](https://www.gov.uk/performance))?
 
 ### Story
 
