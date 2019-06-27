@@ -41,7 +41,7 @@ We use it to send people information about our news and events.
 
 We use it to work directly with people to carry out the work of the Foundation.
 
-we use it to efficiently, predictably and lawfully manage and support staff.
+We use it to efficiently, predictably and lawfully manage and support staff.
 
 ## Who we share your personal information with
 
