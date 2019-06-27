@@ -1,6 +1,6 @@
 # Privacy
 
-The Foundation strongly supports individuals' right to privacy. For this reason we don't have an analytics package installed on any of our websites.
+The Foundation strongly supports individuals' right to privacy. For this reason we don't have an analytics package that tracks individual users on any of our websites.
 
 We keep contact details for:
 
@@ -36,10 +36,19 @@ For staff and interns, we collect:
 
 ## What we do with your personal information
 
-We store it.
-We use it for our work.
+We use it to send people information about our news and events.
 
-We won't share it or sell it.
+We use it to work directly with people to carry out the work of the Foundation.
+
+we use it to efficiently, predictably and lawfully manage and support staff.
+
+## Who we share your personal information with
+
+We don't share your personal information with third parties or sell it.
+
+Because your personal information is stored on our IT systems, it's shared with our data processors who provide email, document management and storage services.
+
+While your personal data is stored on our systems and shared with our data processors, it may be transferred and stored securely outside the European Union. Where this is the case it will be subject to equivalent legal protection through the use of model contract clauses.
 
 ## Data retention
 
@@ -47,7 +56,7 @@ People can always unsubscribe from our mailing list.
 
 As a contact for a piece of work, we may contact you where a work matter requires your input. Once you leave the role, we will update or delete the information we hold about you. This will take place at least once a year.
 
-We keep staff data for up to seven years, as required by Dutch law.
+We keep staff data for [as long as is required by Dutch law](https://www.tuxx.nl/bewaartermijnen/documenten/#Algemene%20bedrijfsmatige%20documenten) (but no longer than 10 years).
 
 ## Your rights
 
