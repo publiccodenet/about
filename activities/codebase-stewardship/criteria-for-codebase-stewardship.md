@@ -86,8 +86,8 @@ This is a list of questions to ask the current owners of potential codebases to 
 
 ### Story
 
-1. Does this codebase already have a public facing website?
-2. Has there already been a communications campaign about this codebase or the service it powers? If so, please provide links.
+1. Does this codebase have a public facing website?
+2. Has there been a communications campaign about this codebase or the service it powers? If so, please provide links.
 3. Has this codebase or the service it powers received any press coverage? If so, please provide links.
 4. Is there anything about this codebase or the service it powers that you would describe as innovative, groundbreaking or really clever?
 5. What makes you proud to work on this codebase?
