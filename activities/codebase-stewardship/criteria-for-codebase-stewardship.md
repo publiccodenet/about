@@ -58,7 +58,7 @@ This is a list of questions to ask the current owners of potential codebases to 
 2. Is there a public backlog in English or one you can make public?
 3. Is there a public bugtracking system in English or one you can make public?
 4. How far through your current set of goals are you?
-5. How realistic vs ambitious are your goals in the next 6 months?
+5. Would you describe your goals in the next six months as realistic or ambitious?
 6. Is the codebase being deployed by another organization?
 7. Has any other organization expressed an interest in deploying the code?
 
