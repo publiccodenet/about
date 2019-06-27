@@ -29,6 +29,7 @@ For people we work with, we collect:
 For staff and interns, we collect:
 
 * name
+* job title
 * date of birth
 * contact details: email address, physical adddress and phone number
 * bank details to pay salaries
