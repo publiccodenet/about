@@ -23,7 +23,7 @@ This is a list of questions to ask the current owners of potential codebases to 
 
 ### Business case
 
-1. What is the current budget committed to the codebase?
+1. What, if any, is the budget currently committed to the codebase?
 
 ### Co-develop-ability
 
