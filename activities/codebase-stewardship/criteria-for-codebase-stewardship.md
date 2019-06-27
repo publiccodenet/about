@@ -35,6 +35,7 @@ This is a list of questions to ask the current owners of potential codebases to 
 3. What are the buildtime and runtime dependencies?
 4. How many modules does the codebase have?
 5. How many lines of code does the codebase have?
+
 6. Is there a diagram and description of the system architecture?
 7. What portion of the APIs are documented?
 8. What portion of the code is commented/has inline documentation?
