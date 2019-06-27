@@ -23,11 +23,11 @@ This is a list of questions to ask the current owners of potential codebases to 
 
 ### Business case
 
-1. What's the current budget committed?
+1. What is the current budget committed to the codebase?
 
 ### Co-develop-ability
 
-1. What percentage of codebase covered by tests?
+1. What percentage of the codebase is covered by tests?
 2. Can developers run the tests on their laptop?
 3. What are the buildtime and runtime dependencies?
 4. How many modules does the codebase have?
@@ -54,11 +54,11 @@ This is a list of questions to ask the current owners of potential codebases to 
 
 ### Community potential
 
-1. Is there a 2 to 4 year roadmap?
+1. Is there a two to four year roadmap?
 2. Is there a public backlog in English or one you can make public?
-3. How far through your current set of goals are you?
-4. How realistic vs ambitious are your goals in the next 6 months?
-5. Is there a public bugtracking system in English or one you can make public?
+3. Is there a public bugtracking system in English or one you can make public?
+4. How far through your current set of goals are you?
+5. How realistic vs ambitious are your goals in the next 6 months?
 6. Is the codebase being deployed by another organization?
 7. Has any other organization expressed an interest in deploying the code?
 
