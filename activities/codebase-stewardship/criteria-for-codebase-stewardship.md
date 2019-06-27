@@ -75,6 +75,8 @@ This is a list of questions to ask the current owners of potential codebases to 
 1. What portion of the codebase is only understood by one or two people?
 2. Is the relevant policy bundled with the code?
 3. Can the relevant policy be bundled with the code in English?
+4. Is the full policy that the codebase implements available online?
+5. Does the policy rely on published research or academic papers?
 
 ### Societal impact
 
