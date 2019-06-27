@@ -65,7 +65,7 @@ This is a list of questions to ask the current owners of potential codebases to 
 ### Code reusability
 
 1. How long would it take a team of two developers to extract to make the code configurable such that it could be deployed for a different organization?
-2. What languages are used in your project?
+2. which programming languages are used in your project?
 
 ### Reuse potential
 
