@@ -59,9 +59,9 @@ As a contact for a piece of work, we may contact you where a work matter require
 
 We keep staff data for [as long as is required by Dutch law](https://www.tuxx.nl/bewaartermijnen/documenten/#Algemene%20bedrijfsmatige%20documenten) (but no longer than 10 years).
 
-## Changes to this notice
+## Changes to this information
 
-[See all versions of this notice](https://github.com/publiccodenet/about/commits/master/organization/privacy.md).
+[See all versions of this page](https://github.com/publiccodenet/about/commits/master/organization/privacy.md).
 
 ## Your rights
 
@@ -77,4 +77,4 @@ You have the right to access, update, or delete your personal information.
 
 If you have a question or concern, please [contact us](contact-details.md).
 
-We hope we can resolve it for you. If we can't, you have the right to complain to your local data protection authority. 
+We hope we can resolve it for you. If we can't, you have the right to complain to your local data protection authority.
