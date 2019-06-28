@@ -19,7 +19,7 @@ These are the evaluation criteria the staff of the Foundation for Public Code us
 
 ## Evaluation questions
 
-This is a list of questions for current owners of potential codebases to help us better understand their codebase before the [Assess phase](https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html).
+This is a list of questions for current owners of potential codebases to help us better understand their codebase before the [assess phase](https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html).
 
 ### Business case
 
