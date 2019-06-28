@@ -12,14 +12,17 @@ Upcoming milestones:
 
 * Hire first codebase steward for community @bvhme
 * Hire first codebase steward for support @bvhme
-* Standard v0.2.0 @elenafdr
+* Publish financial model for Foundation @clausmullie
+* Publish membership contract @mvtiel
+* Publish concise overview of codebase stewardship
+* First Public Code conference @elenafdr
+* [Standard v0.2.0](https://github.com/publiccodenet/standard/milestone/2) @elenafdr
 * First member @nebster
 * First national-level member @nebster
 * First supranational-level intention agreement @nebster
 * First supranational-level member @nebster
 * First non-European intention agreement @nebster
 * First non-European member @nebster
-* First Public Code conference @elenafdr
 * First business case and value/impact model published @clausmullie
 * First codebase in Assessment @clausmullie
 * First codebase in Incubation @clausmullie
