@@ -12,7 +12,7 @@ Upcoming milestones:
 
 * Hire first codebase steward for community @bvhme
 * Hire first codebase steward for support @bvhme
-* Publish membership pack @clausmullie
+* [Publish membership pack](https://github.com/publiccodenet/about/milestone/5) @clausmullie
 * Publish membership contract @mvtiel
 * Publish concise overview of codebase stewardship
 * First Public Code conference @elenafdr
