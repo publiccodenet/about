@@ -57,7 +57,7 @@ This is a list of questions for current owners of potential codebases to help us
 
 ### Community potential
 
-1. Is there a two to four year roadmap?
+1. Is there a 2 to 4 year roadmap?
 2. Are your goals for the next 6 months more ambitious or realistic?
 3. How far through your current set of goals are you?
 4. Is there a public backlog in English or one you can make public?
@@ -67,12 +67,12 @@ This is a list of questions for current owners of potential codebases to help us
 
 ### Code reusability
 
-1. How long would it take a team of two developers to extract to make the code configurable such that it could be deployed for a different organization?
+1. How long would it take a team of 2 developers to extract to make the code configurable such that it could be deployed for a different organization?
 2. Which programming languages are used in your project?
 
 ### Reuse potential
 
-1. What portion of the codebase is only understood by one or two people?
+1. What portion of the codebase is only understood by 1 or 2 people?
 2. Is the relevant policy bundled with the code?
 3. Can the relevant policy be bundled with the code in English?
 4. Is the full policy that the codebase implements available online?
