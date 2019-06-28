@@ -12,7 +12,7 @@ Upcoming milestones:
 
 * Hire first codebase steward for community @bvhme
 * Hire first codebase steward for support @bvhme
-* Publish financial model for Foundation @clausmullie
+* Publish membership pack @clausmullie
 * Publish membership contract @mvtiel
 * Publish concise overview of codebase stewardship
 * First Public Code conference @elenafdr
