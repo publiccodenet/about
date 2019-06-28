@@ -19,7 +19,7 @@ These are the evaluation criteria the staff of the Foundation for Public Code us
 
 ## Evaluation questions
 
-This is a list of questions for current owners of potential codebases to help us better understand their codebase before the [Assess phase](https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html).
+This is a list of questions for current owners of potential codebases to help us better understand their codebase before the [assess phase](https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html).
 
 ### Business case
 
@@ -35,7 +35,6 @@ This is a list of questions for current owners of potential codebases to help us
 3. What are the buildtime and runtime dependencies?
 4. How many modules does the codebase have?
 5. How many lines of code does the codebase have?
-
 6. Is there a diagram and description of the system architecture?
 7. What portion of the APIs are documented?
 8. What portion of the code is commented/has inline documentation?
@@ -58,7 +57,7 @@ This is a list of questions for current owners of potential codebases to help us
 
 ### Community potential
 
-1. Is there a two to four year roadmap?
+1. Is there a 2 to 4 year roadmap?
 2. Are your goals for the next 6 months more ambitious or realistic?
 3. How far through your current set of goals are you?
 4. Is there a public backlog in English or one you can make public?
@@ -68,12 +67,12 @@ This is a list of questions for current owners of potential codebases to help us
 
 ### Code reusability
 
-1. How long would it take a team of two developers to extract to make the code configurable such that it could be deployed for a different organization?
+1. How long would it take a team of 2 developers to extract to make the code configurable such that it could be deployed for a different organization?
 2. Which programming languages are used in your project?
 
 ### Reuse potential
 
-1. What portion of the codebase is only understood by one or two people?
+1. What portion of the codebase is only understood by 1 or 2 people?
 2. Is the relevant policy bundled with the code?
 3. Can the relevant policy be bundled with the code in English?
 4. Is the full policy that the codebase implements available online?
