@@ -68,7 +68,13 @@ If you have an issue that is easy to resolve, consider explaining how to do that
 
 ## Closing an issue
 
-When an issue is something that cannot be worked on and prioritized it can be closed. Closed issues stay available and will turn up in search results so that people can see that it has been considered and the conversation will stay available.
+An issue can be closed if it:
+
+* is something that can't be worked on right now
+* isn't a current priority
+* has been resolved in some other way
+
+Closed issues stay available and will turn up in search results so that people can see that it has been considered and the conversation will stay available.
 
 Closing an issue doesn't mean that this issue is never to be solved, but that it doesn't have a place in the shared backlog right now.
 
