@@ -38,7 +38,7 @@ Upcoming milestones:
 
 ## How to use milestones
 
-Milestones can be used in GitHub, they can be added to issues as well as pull requests which makes it easier to find and version things.
+Milestones can be used in GitHub. They can be added to issues as well as pull requests which makes it easier to find and version things.
 
 In our office we have a wall with the milestones on it.
 
