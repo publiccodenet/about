@@ -71,7 +71,6 @@ You have the right to:
 * get a copy of the personal information we have about you in a machine readable format (only for people on our mailing list and people who have a contract with the Foundation)
 * tell us if something's wrong so we can correct it
 * have your personal information deleted
-* SOMETHING ABOUT THE RIGHT TO OBJECT TO PROCESSING FOR LEGITIMATE INTEREST (https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-object/)
 
 If you have a question or concern, please [contact us](contact-details.md). We hope we can resolve it for you - we'll do this within a month.
 
