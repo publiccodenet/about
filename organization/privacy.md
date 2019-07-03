@@ -70,6 +70,7 @@ You have the right to:
 * know what personal information we have about you
 * get a copy of the personal information we have about you in a machine readable format (only for people on our mailing list and people who have a contract with the Foundation)
 * tell us if something's wrong so we can correct it
+* ask us to stop processing your personal information under certain circumstances (known as '[the right to object to processing](https://gdpr-info.eu/art-21-gdpr/)')
 * have your personal information deleted
 
 If you have a question or concern, please [contact us](contact-details.md). We hope we can resolve it for you - we'll do this within a month.
