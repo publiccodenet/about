@@ -10,13 +10,11 @@ Milestones have an owner and can have a due date.
 
 Upcoming milestones:
 
-* Hire codebase steward for community @bvhme
-* Hire codebase steward for quality @bvhme
-* Hire codebase steward for support @bvhme
-* Found association 2019-05-30 @bvhme
-* Standard v0.2.0 @elenafdr
+* Hire first codebase steward for community @bvhme
+* Hire first codebase steward for support @bvhme
+* [Publish membership pack](https://github.com/publiccodenet/about/milestone/5) @clausmullie
+* [Standard v0.2.0](https://github.com/publiccodenet/standard/milestone/2) @elenafdr
 * First member @nebster
-* First national-level intention agreement @nebster
 * First national-level member @nebster
 * First supranational-level intention agreement @nebster
 * First supranational-level member @nebster
@@ -35,6 +33,8 @@ Upcoming milestones:
 * First non-director gift @nebster
 * First non-director grant @nebster
 * Standard v2.0.0 @elenafdr
+
+[See our past milestones](past-milestones.md).
 
 ## How to use milestones
 

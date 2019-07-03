@@ -19,15 +19,18 @@ These are the evaluation criteria the staff of the Foundation for Public Code us
 
 ## Evaluation questions
 
-The current owners of potential codebases are asked to answer these questions to help us better understand their codebase.
+This is a list of questions for current owners of potential codebases to help us better understand their codebase before the [assess phase](https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html).
 
 ### Business case
 
-1. What's the current budget committed?
+1. Do you have a business case for the codebase that you can share?
+2. Do you have any financial forecasting or modelling of the cost of the codebase over its lifetime that you can share?
+3. What, if any, is the budget currently committed to the codebase?
+4. Did this codebase replace a previous IT solution or service? Why was the previous one discontinued?
 
 ### Co-develop-ability
 
-1. What percentage of codebase covered by tests?
+1. What percentage of the codebase is covered by tests?
 2. Can developers run the tests on their laptop?
 3. What are the buildtime and runtime dependencies?
 4. How many modules does the codebase have?
@@ -55,20 +58,35 @@ The current owners of potential codebases are asked to answer these questions to
 ### Community potential
 
 1. Is there a 2 to 4 year roadmap?
-2. Is there a public backlog in English or one you can make public?
+2. Are your goals for the next 6 months more ambitious or realistic?
 3. How far through your current set of goals are you?
-4. How realistic vs ambitious are your goals in the next 6 months?
+4. Is there a public backlog in English or one you can make public?
 5. Is there a public bugtracking system in English or one you can make public?
 6. Is the codebase being deployed by another organization?
 7. Has any other organization expressed an interest in deploying the code?
 
 ### Code reusability
 
-1. How long would it take a team of 2 devs to extract to make the code configurable such that it could be deployed for a different org?
-2. What languages are used in your project?
+1. How long would it take a team of 2 developers to extract to make the code configurable such that it could be deployed for a different organization?
+2. Which programming languages are used in your project?
 
 ### Reuse potential
 
 1. What portion of the codebase is only understood by 1 or 2 people?
 2. Is the relevant policy bundled with the code?
 3. Can the relevant policy be bundled with the code in English?
+4. Is the full policy that the codebase implements available online?
+5. Does the policy rely on published research or academic papers?
+
+### Societal impact
+
+1. Who are the end users of the codebase or the service the codebase powers?
+2. Do you have any performance metrics for this codebase or the service it powers (like the [UK government's performance dashboard](https://www.gov.uk/performance))?
+
+### Story
+
+1. Does this codebase have a public facing website?
+2. Has there been a communications campaign about this codebase or the service it powers? If so, please provide links.
+3. Has this codebase or the service it powers received any press coverage? If so, please provide links.
+4. Is there anything about this codebase or the service it powers that you would describe as innovative, groundbreaking or really clever?
+5. What makes you proud to work on this codebase?
