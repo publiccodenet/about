@@ -13,7 +13,7 @@ The Foundation for Public Code's mission is to enable public-purpose software an
 This is how we're building the organization to support our mission:
 
 * [Roadmap](roadmap.md)
-* [Milestones](milestones.md)
+* [Milestones](milestones/index.md)
 * [Governance model](governance-model.md)
 * [Financial model](financial-model.md)
 
