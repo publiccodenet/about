@@ -13,17 +13,19 @@ The Foundation for Public Code's mission is to enable public-purpose software an
 This is how we're building the organization to support our mission:
 
 * [Roadmap](roadmap.md)
-* [Milestones](milestones.md)
+* [Milestones](milestones/index.md)
 * [Governance model](governance-model.md)
 * [Financial model](financial-model.md)
+* [Remuneration policy](remuneration-policy.md)
 
 This is how we approach our work:
 
 * [Cultural values](cultural-values.md)
 * [Keys to success](keys-to-success.md)
 * [Definition of done](definition-of-done.md)
+* [Privacy and GDPR](privacy.md)
 
-## Legal registration, chamber of commerce and bank account numbers
+## Legal registration and bank account number
 
 We're registered as an association (vereniging met volledige rechtsbevoegdheid) under Dutch law. Our full name is the Foundation for Public Code Vereniging.
 
