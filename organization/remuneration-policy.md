@@ -4,25 +4,25 @@ type: resource
 
 # Remuneration policy
 
-This explains the Foundation for Public Code's approach to remuneration.
+This explains the Foundation for Public Code vereniging's approach to remuneration.
 
 ## Staff, contractors and interns
 
-Foundation salaries are competitive as well as in line with the social mission of the organization.
+Foundation for Public Code salaries are competitive as well as in line with the social mission of the organization.
 
-The Foundation will reimburse reasonable expenses for staff, contractors and interns.
+The Foundation for Public Code will reimburse reasonable expenses for staff, contractors and interns.
 
 ## Board of directors
 
-Members of the Board of directors are not paid for their work as directors. The Foundation will reimburse directors for expenses incurred as a result of their role as director of the Foundation.
+Members of the Board of directors are not paid for their work as directors. The Foundation for Public Code vereniging will reimburse directors for expenses incurred as a result of their role as director.
 
 ## Volunteers
 
-Volunteers are not paid for their work for the Foundation. We will reimburse reasonable expenses.
+Volunteers are not paid for their work for the Foundation for Public Code. We will reimburse reasonable expenses.
 
 ## Definition of reasonable expenses
 
-We reimburse reasonable expenses incurred while working for the Foundation for everyone who works with us.
+We reimburse reasonable expenses incurred while working for the Foundation for Public Code for everyone who works with us.
 
 We consider reasonable expenses to be:
 
