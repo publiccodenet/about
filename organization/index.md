@@ -16,6 +16,7 @@ This is how we're building the organization to support our mission:
 * [Milestones](milestones/index.md)
 * [Governance model](governance-model.md)
 * [Financial model](financial-model.md)
+* [Remuneration policy](remuneration-policy.md)
 
 This is how we approach our work:
 
@@ -23,7 +24,7 @@ This is how we approach our work:
 * [Keys to success](keys-to-success.md)
 * [Definition of done](definition-of-done.md)
 
-## Legal registration, chamber of commerce and bank account numbers
+## Legal registration and bank account number
 
 We're registered as an association (vereniging met volledige rechtsbevoegdheid) under Dutch law. Our full name is the Foundation for Public Code Vereniging.
 
