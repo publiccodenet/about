@@ -14,7 +14,7 @@ The Foundation will reimburse reasonable expenses for staff, contractors and int
 
 ## Board of directors
 
-Members of the Board of directors are not paid for their work as directors. A director may separately be hired and paid by the Foundation for work carried out in a different role (for example, Chief Executive Officer). The Foundation will reimburse directors for expenses incurred as a result of their role as director of the Foundation.
+Members of the Board of directors are not paid for their work as directors. A director may separately be hired and paid by the Foundation for Public Code for work carried out in a different role (for example as a manager or contractor). The Foundation will reimburse directors for expenses incurred as a result of their role as director of the Foundation.
 
 ## Volunteers
 
