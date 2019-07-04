@@ -64,11 +64,15 @@ This is a list of questions for current owners of potential codebases to help us
 5. Is there a public bugtracking system in English or one you can make public?
 6. Is the codebase being deployed by another organization?
 7. Has any other organization expressed an interest in deploying the code?
+8. Is there a defined process for contributing to the code base?
 
 ### Code reusability
 
 1. How long would it take a team of 2 developers to extract to make the code configurable such that it could be deployed for a different organization?
 2. Which programming languages are used in your project?
+3. Are operational requirements (hosting requirements etc.) documented and tested?
+4. Are there any technical documentation for how the solution is implemented?
+5. Does the codebase exist in more than one version?
 
 ### Reuse potential
 
