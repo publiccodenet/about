@@ -28,4 +28,4 @@ We consider reasonable expenses to be:
 
 * costs incurred while working towards the [mission](mission.md)
 * public transport costs incurred during business trips: flights (economy class only), train (2nd class only), bus or other local public transport, [OV bike](https://www.ns.nl/en/door-to-door/ov-fiets) or taxis
-* private transport used for business trips: kilometers logged in private vehicles ( cars, motorcycles or bicycles) for business trips
+* private transport used for business trips: kilometers logged in private vehicles (cars, motorcycles or bicycles) for business trips
