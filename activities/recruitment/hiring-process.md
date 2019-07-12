@@ -7,8 +7,8 @@ type: Resource
 ## Roles in this process
 
 * Head of human resources (HRM), responsible for the hiring process
+* Lead codebase steward, with a role in the first interview of applicants for codebase stewardship roles
 * Chief Executive (CEO), responsible for who we hire
-* Chief Operations (COO), responsible for how this person works in the organization
 * Directors Foundation for Public Code (BOD), responsible for oversight
 
 ## Announcing job opening
@@ -25,9 +25,9 @@ Questions about the content of the position are routed to CEO. Questions about t
 2. HRM confirms receipt to candidates and does first round of evaluation.
 3. HRM brings possibly suitable candidates to the attention of CEO and the role's future supervisor. These 2 make +/- judgement, without consulting each other. If judgement is not equal, a short discussion follows and judgement is made.
 4. HRM notifies candidates (thank you or invitation for interview).
-5. First interview: CEO and HRM, 1 hr, partially on the basis of a pre-established list of desirable competences and other characteristics (i.e. fit for role, fit for organization (culture, growth, leadership, long/short term)). Half of the interview is spent presenting PublicCode.net, in the other half, the candidate has a chance to present themselves. Immediately after the interview both HRM and CEO score the candidate on the items on the list and determine if the candidate should progress to a second interview.
-6. Second interview: COO with HRM, also partially based on the pre-established list, and with attention to issues not discussed in the first interview. Approximately. 80-90% of the time is spent on questioning the candidate. Immediately after the interview HRM and COO score the candidate, based on the list and other impressions gathered. HRM takes this input to CEO, and HRM and CEO determine if the candidate should receive an offer.
+5. First interview: a lead codebase stward and HRM, 1 hr, partially on the basis of a pre-established list of desirable competences and other characteristics (i.e. fit for role, fit for organization (culture, growth, leadership, long/short term)). Half of the interview is spent presenting PublicCode.net, in the other half, the candidate has a chance to present themselves. Immediately after the interview both HRM and CEO score the candidate on the items on the list and determine if the candidate should progress to a second interview.
+6. Second interview: CEO with HRM, also partially based on the pre-established list, and with attention to issues not discussed in the first interview. Approximately. 80-90% of the time is spent on questioning the candidate. Immediately after the interview HRM and COO score the candidate, based on the list and other impressions gathered. HRM takes this input to CEO, and HRM and CEO determine if the candidate should receive an offer.
 7. CEO and HRM determination of the offer, including salary range and benefits.
-8. Third interview, hopefully a formality, of the preferred candidate with a BOD member (of the legal entity hiring).
+8. Third interview, hopefully a formality, of the preferred candidate with a BOD member.
 9. HRM makes the offer to the candidate and negotiates, always in consultation with CEO and the director(s).
 10. Signing of contract and starting by the new team member, supervised by their hierarchical supervisor.
