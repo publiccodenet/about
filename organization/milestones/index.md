@@ -15,7 +15,7 @@ Upcoming milestones:
 * First committed member from a different kind of organization
 * Secure budget with committed resources (led by members)
 * Assessment started for every committed member
-* Assessment done
+* Assessment finished without incubation
 * First codebase in incubation
 
 [See our past milestones](past-milestones.md).
