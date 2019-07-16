@@ -13,7 +13,7 @@ Upcoming milestones:
 * First committed member
 * First committed member from another country
 * First committed member from a different kind of organization
-* Secure budget with committed resources
+* Secure budget with committed resources (led by members)
 * Assessment started for every committed member
 * Assessment done
 * First codebase in incubation
