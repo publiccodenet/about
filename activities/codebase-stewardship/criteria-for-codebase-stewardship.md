@@ -64,7 +64,6 @@ This is a list of questions for current owners of potential codebases to help us
 5. Is there a public bugtracking system in English or one you can make public?
 6. Is the codebase being deployed by another organization?
 7. Has any other organization expressed an interest in deploying the code?
-8. Is there a defined process for contributing to the code base?
 
 ### Code reusability
 
