@@ -41,7 +41,7 @@ We expect our new codebase steward for product marketing to:
 
 * have strong experience in marketing, communications or product management
 * work with a codebase's existing community to build a network of open source enthusiasts in government, government procurement experts, vendors, the wider open source and govtech communities and other stakeholders
-* have previous experience with the open source community or government procurement
+* have previous experience with the open source community or government [procurement vs technology adoption]
 * be excited to help us develop the product marketing process for public code
 * be diplomatic, strategically aware and able to be a strong advocate for the organization
 
