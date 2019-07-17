@@ -10,7 +10,7 @@ We test against the Standard for Public Code to make codebases understandable, r
 
 Part of this effort is to get a wider uptake for these codebases - reused codebases become more cost effective, higher quality, more resilient, and more attractive to contributors. This means policy makers, management and developers in public organizations need to get to know the [codebases](../glossary/codebase-definition.md) and how to use them to solve their problems.
 
-## What the Codebase steward for product marketing does
+## What the codebase steward for product marketing does
 
 As a codebase steward for product marketing, you work together with the community to make your codebase compelling to others. This means you help:
 
@@ -39,11 +39,11 @@ You should:
 
 We expect our new codebase steward for product marketing to:
 
-- have strong experience in marketing, communications or product management
-- work with a codebase's existing community to build a network of open source enthusiasts in government, government procurement experts, vendors, the wider open source and govtech communities and other stakeholders
-- have previous experience with the open source community or government procurement
-- be excited to help us develop the product marketing process for public code
-- be diplomatic, strategically aware and able to be a strong advocate for the organization
+* have strong experience in marketing, communications or product management
+* work with a codebase's existing community to build a network of open source enthusiasts in government, government procurement experts, vendors, the wider open source and govtech communities and other stakeholders
+* have previous experience with the open source community or government procurement
+* be excited to help us develop the product marketing process for public code
+* be diplomatic, strategically aware and able to be a strong advocate for the organization
 
 ## More information about this position
 
