@@ -2,7 +2,7 @@
 type: Index
 ---
 
-# What we do
+# About us
 
 We help open source projects for public organizations (like cities) become successful, build sustainable communities around them and create a thriving public open source ecosystem.
 
