@@ -24,3 +24,5 @@ Additionally we have separate sites that show our [projects](https://projects.pu
 ## We need you
 
 We can [really use your help](CONTRIBUTING.md) to make the Foundation for Public Code a success.
+
+You can also [join our mailing list](https://forms.gle/gn7wR2Eaxbv5g1BF9) to get our news delivered directly to you.
