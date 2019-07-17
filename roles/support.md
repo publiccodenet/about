@@ -16,6 +16,8 @@ For the public organizations that would benefit from using, or contributing to, 
 
 >As a codebase steward for support, you work together with the community to [bespoke text].
 
+> As a codebase steward for product marketing, you remove technical obstacles to help newcomers adopt a codebase.
+
 This means you help:
 
 * potential users find out how to use codebases
@@ -44,7 +46,8 @@ You should:
 We expect our new  codebase steward for support to:
 
 > + be a strong community builder and leader who brings together developers, designers, policy makers, managers and other stakeholders around the open source codebases the Foundation for Public Code has in its stewardship
-* have experience with supporting open source communities
+> * have experience with supporting open source communities
+* have experience with sales engineering or technology-focused consulting
 * be excited to help us develop our codebase support process
 * be diplomatic, strategically aware and able to be a strong advocate for the organization
 
