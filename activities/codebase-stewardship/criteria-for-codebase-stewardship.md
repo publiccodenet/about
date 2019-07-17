@@ -51,7 +51,7 @@ This is a list of questions for current owners of potential codebases to help us
 4. How many organizations contribute to this codebase?
 5. Which of these does your community have for discussion among users: email at a specific addres, email list, forum, bugtracking system, other (write in)?
 6. Which of these does your community have for discussion among developers: email at a specific addres, email list, forum, bugtracking system, other (write in)?
-7. Do you have contributor guidelines to help new people contribute?
+7. Is there a defined process to help new people contribute to the codebase?
 8. Does the community currently use English?
 9. What other languages does your community use?
 
