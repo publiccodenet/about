@@ -6,17 +6,13 @@ type: Resource
 
 Come help producers of open source software for public use – such as in cities and other public organizations – develop and maintain software and policy together. The Foundation for Public Code provides review of codebases that are in our stewardship to help developers build trusted and reliable software that can be widely reused and foster a strong community around it.
 
-We test against the Standard for Public Code to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society and improve continually, and policy makers can keep technology and architectural choices open.
+We test against the [Standard for Public Code](https://standard.publiccode.net/) to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society and improve continually, and policy makers can keep technology and architectural choices open.
 
-> Part of this effort is to [bespoke text contextualising role in broader foundation work].
-
-For the public organizations that would benefit from using, or contributing to, these [Codebases](../glossary/codebase-definition.md) it might not always be easy to get started, know how to use or procure a solution like this or to trust in the Codebase.
+Part of this effort is to make reuse as easy as possible - for the public organizations that would benefit from using or contributing to these [codebases](../glossary/codebase-definition.md), it's not always easy to get started, know how to use or procure a solution like this, or even to trust the codebase.
 
 ## What the codebase steward for support does
 
->As a codebase steward for support, you work together with the community to [bespoke text].
-
-> As a codebase steward for product marketing, you remove technical obstacles to help newcomers adopt a codebase.
+As a codebase steward for support, you help remove technical obstacles to help potential reusers adopt and use a codebase.
 
 This means you help:
 
@@ -27,6 +23,8 @@ This means you help:
 * provide a contact point for issues surrounding a codebase
 * provide support for the community around a codebase to answer these questions themselves
 * partake in the community
+
+If you enjoy using your expertise and network to solve gnarly technical and contractual problems, being a continuous hero and enabler, this role might be for you.
 
 ### What we expect from all of our team members
 
