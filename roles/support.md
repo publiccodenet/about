@@ -24,7 +24,7 @@ This means you help:
 * provide support for the community around a codebase to answer these questions themselves
 * partake in the community
 
-If you enjoy using your expertise and network to solve gnarly technical and contractual problems, being a continuous hero and enabler, this role might be for you.
+If you enjoy applying your expertise and network to solve gnarly technical and procurement problems, connecting problems with solutions, this role might be for you.
 
 ### What we expect from all of our team members
 
@@ -39,13 +39,13 @@ You should:
 * have international experience
 * be an active participant in the codebase community you support
 
-### What we expect from the  codebase steward for support 
+### What we expect from the codebase steward for support
 
 We expect our new  codebase steward for support to:
 
-> + be a strong community builder and leader who brings together developers, designers, policy makers, managers and other stakeholders around the open source codebases the Foundation for Public Code has in its stewardship
-> * have experience with supporting open source communities
-* have experience with sales engineering or technology-focused consulting
+* be a strong community connector who brings together vendors, government procurement experts, developers, designers, managers and other stakeholders around the open source codebases the Foundation for Public Code has in its stewardship
+* have experience with supporting open source or government technology communities
+* have experience with technology-focused consulting or sales engineering
 * be excited to help us develop our codebase support process
 * be diplomatic, strategically aware and able to be a strong advocate for the organization
 

@@ -22,7 +22,7 @@ As a codebase steward for product marketing, you work together with the communit
 * create a buzz around the codebase
 * partake in the community
 
-So if you delight in connecting a product to its natural users and helping them understand that joining an existing open source community is like discovering friends you never knew you had, this may be the role for you.
+So if you delight in making codebases shine and connecting public purpose codebases to their ideal users, this may be the role for you.
 
 ### What we expect from all of our team members
 
@@ -42,8 +42,8 @@ You should:
 We expect our new codebase steward for product marketing to:
 
 * have strong experience in marketing, communications or product management
-* work with a codebase's existing community to build a network of open source enthusiasts in government, government procurement experts, vendors, the wider open source and govtech communities and other stakeholders
-* have previous experience with the open source community or government [procurement vs technology adoption]
+* work with a codebase's existing community to build a network of people excited for their codebase, including open source enthusiasts in government, government procurement experts, vendors, the wider open source and govtech communities and other stakeholders
+* have previous experience with the open source community or government technology adoption
 * be excited to help us develop the product marketing process for public code
 * be diplomatic, strategically aware and able to be a strong advocate for the organization
 
