@@ -16,6 +16,7 @@ This is how we're building the organization to support our mission:
 * [Milestones](milestones/index.md)
 * [Governance model](governance-model.md)
 * [Financial model](financial-model.md)
+* [Staff](staff.md)
 * [Remuneration policy](remuneration-policy.md)
 
 This is how we approach our work:
