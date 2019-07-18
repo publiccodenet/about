@@ -8,7 +8,7 @@ Come help producers of open source software for public use – such as in cities
 
 We test against the Standard for Public Code to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society and improve continually, and policy makers can keep technology and architectural choices open.
 
-Part of this effort is to get a wider uptake for these codebases - reused codebases become more cost effective, higher quality, more resilient, and more attractive to contributors. This means policy makers, management and developers in public organizations need to get to know the [codebases](../glossary/codebase-definition.md) and how to use them to solve their problems.
+Part of this effort is to get a wider uptake for these codebases - reused codebases become more cost effective, higher quality, more resilient and more attractive to contributors. This means policy makers, management and developers in public organizations need to get to know the [codebases](../glossary/codebase-definition.md) and how to use them to solve their problems.
 
 ## What the codebase steward for product marketing does
 
@@ -21,6 +21,8 @@ As a codebase steward for product marketing, you work together with the communit
 * help others sell the codebase to their management, coworkers or clients
 * create a buzz around the codebase
 * partake in the community
+
+So if you delight in connecting a product to its natural users and helping them understand that joining an existing open source community is like discovering friends you never knew you had, this may be the role for you.
 
 ### What we expect from all of our team members
 
