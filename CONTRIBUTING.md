@@ -35,3 +35,7 @@ Come lead our community of enterprising public organizations using public code t
 ## Institutional giving and philanthropy
 
 If you believe there should be a structural solution to making open source software viable at scale for public organizations, we’d love to hear from you. Email us at <giving@publiccode.net>.
+
+## International sanctions
+
+The Foundation for Public Code follows [EU law regarding international sanctions](https://sanctionsmap.eu/#/main).
