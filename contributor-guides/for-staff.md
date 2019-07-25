@@ -17,3 +17,10 @@ Here are some important things to figure out in the first couple of days:
 * Rituals: sprint retrospective & planning - review the kanbans beforehand
 
 Any of your new coworkers will be glad to help! <3
+
+## Useful tools
+
+These are some tools some of us find helpful:
+
+* [HackMD.io](https://hackmd.io/) - for collaborating on draft documents in Markdown with people outside the organization (especially helpful for content we plan to publish)
+* [Markdown Here](https://markdown-here.com/) - for formatting emails written using Markdown
