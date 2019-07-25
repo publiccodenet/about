@@ -22,6 +22,7 @@ This is how we approach our work:
 
 * [Cultural values](cultural-values.md)
 * [Keys to success](keys-to-success.md)
+* [Contributing as a staff member](../contributor-guides/for-staff.md)
 * [Definition of done](definition-of-done.md)
 * [Privacy and GDPR](privacy.md)
 
