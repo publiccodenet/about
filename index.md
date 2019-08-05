@@ -4,7 +4,7 @@ type: Index
 
 # About us
 
-We help open source projects for public organizations (like cities) become successful, build sustainable communities around them and create a thriving public open source ecosystem.
+We help open source projects for public organizations to become successful, build sustainable communities around them and create a thriving public open source ecosystem.
 
 [Our mission](organization/mission.md) is to enable public-purpose software and policy that is open and collaborative.
 
