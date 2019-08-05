@@ -10,7 +10,9 @@ We help open source projects for public organizations to become successful, buil
 
 We do this through ecosystem level [codebase stewardship](activities/index.md) of both software and civic code, enabling collaboration and reuse at scale.
 
-The documentation of our work here on [About](activities/documentation/index.md) is core to our ability to deliver on our mission together with the community effectively.
+## Information and processes
+
+The [About site](activities/documentation/index.md) is home to all of our staff information, decision-making rules and processes. It is our staff manual that can be developed collaboratively with the community and reused by everyone.
 
 Read more about:
 
