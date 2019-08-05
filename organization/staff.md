@@ -22,11 +22,13 @@ Responsibilities:
 
 Roles:
 
-* [Coordinator](#coordinator) operations: Claus Mullie
+* [Coordinator](#coordinator) operations:
+  Claus Mullie
 * [Codebase steward for community](../roles/community.md)
 * [Codebase steward for product marketing](../roles/product-marketing.md)
 * [Codebase steward for quality](../roles/quality.md)
-  * [Lead](#lead): Eric Herman
+  * [Lead](#lead):
+    Eric Herman
 * [Codebase steward for support](../roles/support.md)
 * [Intern](../roles/intern.md)
 
@@ -41,7 +43,8 @@ Responsibilities:
 
 Roles:
 
-* [Coordinator](#coordinator) communications: Elena Findley-de Regt
+* [Coordinator](#coordinator) communications:
+  Elena Findley-de Regt
 * [Intern](../roles/intern.md)
 
 ### General management
@@ -59,8 +62,12 @@ Responsibilities:
 
 Roles:
 
-* [Chief](#chief) executive: Boris van Hoytema
-* [Lead](#lead) value and finances: Mirjam van Tiel
+* [Chief](#chief) executive:
+  Boris van Hoytema
+  who also serves as Secretary of the Board of Directors
+* [Lead](#lead) value and finances:
+  Mirjam van Tiel
+
 ## Coordination team
 
 The coordination team consists of:
