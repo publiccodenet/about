@@ -45,6 +45,9 @@ Roles:
 
 * [Coordinator](#coordinator) communications:
   Elena Findley-de Regt
+* Illustrator:
+  Floris Deerenberg
+  (contractor A Studio Called Quest)
 * [Intern](../roles/intern.md)
 
 ### President
