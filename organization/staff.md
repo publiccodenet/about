@@ -47,6 +47,17 @@ Roles:
   Elena Findley-de Regt
 * [Intern](../roles/intern.md)
 
+### President
+
+The president is the main spokesperson for the organization. The president represents the organization in order to raise funds, grow membership and grow awareness of our work.
+
+Roles:
+
+* President:
+  Ben Cerveny
+  (contractor Multiple Ventures BV)
+  who also serves as Chairman of the Board of Directors
+
 ### General management
 
 The general management provides leadership as well as making sure the organization can operate.
