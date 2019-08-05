@@ -19,7 +19,7 @@ Read more about:
 * [our roles and open positions](roles/index.md)
 * [glossary of terms and concepts](glossary/index.md)
 
-Additionally we have separate sites that show our [projects](https://projects.publiccode.net) and [how to use the brand](https://brand.publiccode.net/).
+Additionally, we have separate sites that show our [projects](https://projects.publiccode.net) and [how to use the brand](https://brand.publiccode.net/).
 
 ## We need you
 
