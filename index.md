@@ -8,7 +8,7 @@ We help open source projects for public organizations to become successful, buil
 
 [Our mission](organization/mission.md) is to enable public-purpose software and policy that is open and collaborative.
 
-We do this through ecosystem level [codebase stewardship](activities/index.md) of both software and civic code enabling collaboration and re-use at scale.
+We do this through ecosystem level [codebase stewardship](activities/index.md) of both software and civic code, enabling collaboration and reuse at scale.
 
 The documentation of our work here on [About](activities/documentation/index.md) is core to our ability to deliver on our mission together with the community effectively.
 
