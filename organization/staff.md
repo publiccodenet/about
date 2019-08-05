@@ -61,6 +61,14 @@ Roles:
 
 * [Chief](#chief) executive: Boris van Hoytema
 * [Lead](#lead) value and finances: Mirjam van Tiel
+## Coordination team
+
+The coordination team consists of:
+
+* Chief executive
+* Lead value and finances
+* Communications coordinator
+* Operations coordinator
 
 ## Role qualifiers
 
@@ -86,12 +94,3 @@ They do this by:
 ### Chief
 
 A chief is a manager with signing power granted by the board of directors.
-
-## Coordination team
-
-The coordination team consists of:
-
-* Chief executive
-* Lead value and finances
-* Communications coordinator
-* Operations coordinator
