@@ -6,7 +6,7 @@ type: Index
 
 Through codebase stewardship we help public source code and policy code products become [a successful codebase](success-for-a-codebase.md) by guaranteeing their quality and marketability.
 
-We provide the following for products, projects and codebases under our stewardship:
+We provide the following for codebases under our stewardship:
 
 * [Codebase auditing](../codebase-auditing/index.md): code, policy and documentation quality assurance
 * Community management: processing feedback and contributions, events
