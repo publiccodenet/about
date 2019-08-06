@@ -5,17 +5,20 @@ type: Resource
 # Codebase stewardship for existing projects
 
 This explains:
+
 * what organizations that want a existing project to be in [codebase stewardship](index.md) have to do
 * what we do to support them in this process
 
 ## What developing organizations need to do
 
 The developing organization needs to commit developer time and budget to:
+
 * make their contributions compliant with the standard
 * make their contributions, as well as the entire project, reusable by others
 * partake in the community to further development and help others reuse the codebase
 
 We also need the developing organization to give us:
+
 * support in product marketing and access to other organizations in order to enable reuse
 * organizational knowledge on procurement and technology to help others reuse the codebase
 
