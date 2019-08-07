@@ -7,27 +7,38 @@ type: Index
 Through codebase stewardship we help public source code and policy code products become [successful](success-for-a-codebase.md) in being collaboratively developed and maintained at scale, reused widely and sustainable.
 We can provide codebase stewardship from the beginning of the development or for [existing projects](for-existing-projects.md).
 
-How codebase stewardship works:
+## What codebase stewardship is
 
 * [goals of codebase stewardship](goals.md)
+
+## How codebase stewardship works
+
 * [the codebase stewardship lifecycle](lifecycle.md)
 * [how codebase stewardship works for existing projects](for-existing-projects.md)
 * [stewardship assesment criteria for existing codebases](criteria-for-codebase-stewardship.md)
 
-Activities performed in codebase stewardship, split into four domains:
+## Activities performed in codebase stewardship
+
+Split into four domains:
 
 * Community stewardship
-  * Community management: processing feedback and contributions, events
+  * Supporting, consulting on and executing governance
+  * Organizing events
+  * Processing feedback and contributions
 * Product marketing stewardship
-  * Productization services: branding, communication, refactoring for reuse
-  * Marketing, communications, public relations
+  * Codebase branding
+  * Codebase storytelling, communications and public relations
+  * Marketing
+  * Developer advocacy
 * Quality stewardship
   * [Codebase auditing](../codebase-auditing/index.md): code, policy and documentation quality assurance
+  * Packaging and distributing official versions
+  * Security and compatibility monitoring
 * Support stewardship
-  * Developer advocacy, user support, end-user success, training materials
-  * Packaging, distributing official versions, compatibility updating
-  * Operations: project infrastructure, process management
-  * Legal services: intellectual property management, trademark protection
+  * User support
+  * Trainings
+  * Project infrastructure and process management
+  * Intellectual property management and trademark protection
 
 ## Further reading
 
