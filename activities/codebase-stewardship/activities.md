@@ -4,11 +4,11 @@ type: Resource
 
 # Activities performed in codebase stewardship
 
-Split into four domains, codebase stewardship is at least:
+Split into four domains; codebase stewardship is at least:
 
 * Community stewardship
   * Supporting, consulting on and executing governance
-  * Supporting commitees such as technical steering comittees
+  * Supporting committees such as technical steering committees
   * Organizing events
   * Processing feedback and contributions
 * Product marketing stewardship
@@ -28,9 +28,13 @@ Split into four domains, codebase stewardship is at least:
 
 ## We represent the codebase
 
-We work to further the [goals of codebase stewardship](goals.md), this means that we represent the future of the codebase and community. We do not work specifically to serve the needs of community members individually, we serve the needs of the community as a whole.
+We work to further the [goals of codebase stewardship](goals.md).
+We represent the future of the codebase and community.
+We do not work to serve the needs of community members individually.
+We serve the needs of the community as a whole.
 
-## Only at ecosystem level
+## Only at the ecosystem level
 
-We perform the activities in codebase stewardship exclusively on the [ecosystem level](../../glossary/ecosystem-level-definition.md) as we are there to get the codebase the largest possible uptake.
+Our role in the development and community of a codebase is to maximize reuse.
+We perform the activities in codebase stewardship exclusively on the [ecosystem level](../../glossary/ecosystem-level-definition.md).
 We intentionally do not work on a local level or a tied to a specific legal context as it is our responsibility to keep the code reusable and the community inclusive.
