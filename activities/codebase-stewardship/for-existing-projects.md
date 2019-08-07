@@ -4,7 +4,10 @@ type: Resource
 
 # Codebase stewardship for existing projects
 
-This explains:
+Codebase stewardship can be provided to a codebase after it has already been developed.
+In that case there might be some important considerations about how to transition and budget for that.
+
+Before entering the [codebase stewardship lifecycle](lifecycle.md) all potential codebases are evaluated according to our [criteria for codebase stewardship](criteria-for-codebase-stewardship.md).
 
 * what organizations that want a existing project to be in [codebase stewardship](index.md) have to do
 * what we do to support them in this process

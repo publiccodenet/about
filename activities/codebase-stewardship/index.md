@@ -4,7 +4,8 @@ type: Index
 
 # Codebase stewardship
 
-Through codebase stewardship we help public source code and policy code products become [a successful codebase](success-for-a-codebase.md) by guaranteeing their quality and marketability.
+Through codebase stewardship we help public source code and policy code products become [successful](success-for-a-codebase.md) in being reused and collaboratively developed at scale.
+We can provide codebase stewardship from the beginning of the development or for [existing projects](for-existing-projects.md).
 
 Codebase stewardship is split into four domains that support codebases in multiple ways:
 
@@ -41,14 +42,6 @@ One of the biggest barriers to uptake of open source code is the unpredictable n
 Products in the care of the Foundation for Public Code have long term sustainability so that prospective users can trust there will be packages when they need to update their systems and that there will be someone to receive their pull request after the original maintainers have moved on.
 
 We provide this sustainability in the first place by creating strong communities of users and developers that can take ownership of the product.
-
-## For new or existing projects
-
-For new projects codebase stewardship can add value from the start of the development process.
-
-If applied to the project after there might be some important considerations about how to transition and budget for that, we've explained what you need to do for this and what you can expect from us in ['Codebase stewardship for existing projects'](for-existing-projects.md).
-
-Before entering the [codebase stewardship lifecycle](lifecycle.md) all potential codebases are evaluated according to our [criteria for codebase stewardship](criteria-for-codebase-stewardship.md)
 
 ## Further reading
 
