@@ -21,6 +21,12 @@ Codebase stewardship is split into four domains that support codebases in multip
 * Operations: project infrastructure, process management
   * Legal services: intellectual property management, trademark protection
 
+How codebase stewardship works:
+
+* [the codebase stewardship lifecycle](lifecycle.md)
+* [criteria for codebase stewardship](criteria-for-codebase-stewardship.md)
+* [how codebase stewardship works for existing projects](for-existing-projects.md)
+
 ## Making collaboration across contexts possible
 
 We provide these activities explicitly at _ecosystem level_ – not at a national or city level – to make sure that context specific code or policy does not become a barrier to implementation.
@@ -44,6 +50,6 @@ If applied to the project after there might be some important considerations abo
 
 Before entering the [codebase stewardship lifecycle](lifecycle.md) all potential codebases are evaluated according to our [criteria for codebase stewardship](criteria-for-codebase-stewardship.md)
 
-## Further reading:
+## Further reading
 
 * [The Foundation for Public Code introduction to codebase stewardship](https://publiccode.net/codebase-stewardship/)
