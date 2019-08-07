@@ -10,23 +10,23 @@ We can provide codebase stewardship from the beginning of the development or for
 Codebase stewardship is split into four domains that support codebases in multiple ways:
 
 * Community stewardship
-* Community management: processing feedback and contributions, events
+  * Community management: processing feedback and contributions, events
 * Product marketing stewardship
   * Productization services: branding, communication, refactoring for reuse
-* Marketing, communications, public relations
+  * Marketing, communications, public relations
 * Quality stewardship
   * [Codebase auditing](../codebase-auditing/index.md): code, policy and documentation quality assurance
 * Support stewardship
-* Developer advocacy, user support, end-user success, training materials
+  * Developer advocacy, user support, end-user success, training materials
   * Packaging, distributing official versions, compatibility updating
-* Operations: project infrastructure, process management
+  * Operations: project infrastructure, process management
   * Legal services: intellectual property management, trademark protection
 
 How codebase stewardship works:
 
 * [the codebase stewardship lifecycle](lifecycle.md)
-* [criteria for codebase stewardship](criteria-for-codebase-stewardship.md)
 * [how codebase stewardship works for existing projects](for-existing-projects.md)
+* [stewardship assesment criteria for existing codebases](criteria-for-codebase-stewardship.md)
 
 ## Making collaboration across contexts possible
 
