@@ -4,7 +4,7 @@ type: Index
 
 # Codebase stewardship
 
-Through codebase stewardship we help public source code and policy code products become [successful](success-for-a-codebase.md) in being collaboratively developed and maintained at scale, reused widely and sustainable.
+Through codebase stewardship, we help public source code and policy code products become [successful](success-for-a-codebase.md) at being collaboratively developed and maintained at scale, reused widely and sustainable.
 We can provide codebase stewardship from the beginning of the development or for [existing projects](for-existing-projects.md).
 
 ## What codebase stewardship is
