@@ -4,9 +4,6 @@ type: Resource
 
 # Activities performed in codebase stewardship
 
-We perform the activities in codebase stewardship exclusively on the [ecosystem level](../../glossary/ecosystem-level-definition.md) as we are there to get the codebase the largest possible uptake.
-We intentionally do not work on a local level or a tied to a specific legal context as it is our responsibility to keep the code reusable and the community inclusive.
-
 Split into four domains, codebase stewardship is at least:
 
 * Community stewardship
@@ -27,3 +24,8 @@ Split into four domains, codebase stewardship is at least:
   * Trainings
   * Project infrastructure and process management
   * Intellectual property management and trademark protection
+
+## Only at ecosystem level
+
+We perform the activities in codebase stewardship exclusively on the [ecosystem level](../../glossary/ecosystem-level-definition.md) as we are there to get the codebase the largest possible uptake.
+We intentionally do not work on a local level or a tied to a specific legal context as it is our responsibility to keep the code reusable and the community inclusive.
