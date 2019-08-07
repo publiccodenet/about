@@ -6,16 +6,20 @@ type: Index
 
 Through codebase stewardship we help public source code and policy code products become [a successful codebase](success-for-a-codebase.md) by guaranteeing their quality and marketability.
 
-We provide the following for codebases under our stewardship:
+Codebase stewardship is split into four domains that support codebases in multiple ways:
 
-* [Codebase auditing](../codebase-auditing/index.md): code, policy and documentation quality assurance
+* Community stewardship
 * Community management: processing feedback and contributions, events
-* Productization: branding, communication, refactoring for reuse
-* Packaging, distributing official versions, compatibility updating
+* Product marketing stewardship
+  * Productization services: branding, communication, refactoring for reuse
 * Marketing, communications, public relations
+* Quality stewardship
+  * [Codebase auditing](../codebase-auditing/index.md): code, policy and documentation quality assurance
+* Support stewardship
 * Developer advocacy, user support, end-user success, training materials
+  * Packaging, distributing official versions, compatibility updating
 * Operations: project infrastructure, process management
-* Legal: intellectual property management, trademark protection
+  * Legal services: intellectual property management, trademark protection
 
 ## Making collaboration across contexts possible
 
