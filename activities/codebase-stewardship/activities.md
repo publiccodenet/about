@@ -7,7 +7,8 @@ type: Resource
 Split into four domains, codebase stewardship is at least:
 
 * Community stewardship
-  * Supporting, consulting on and executing governance and (technical) steering comittees
+  * Supporting, consulting on and executing governance
+  * Supporting commitees such as technical steering comittees
   * Organizing events
   * Processing feedback and contributions
 * Product marketing stewardship
