@@ -9,7 +9,7 @@
       <bpmn:incoming>SequenceFlow_08d141r</bpmn:incoming>
       <bpmn:outgoing>SequenceFlow_0oj6v0p</bpmn:outgoing>
     </bpmn:task>
-    <bpmn:exclusiveGateway id="ExclusiveGateway_013z67l" name="is ready for incubation?">
+    <bpmn:exclusiveGateway id="ExclusiveGateway_013z67l" name="Is ready for incubation?">
       <bpmn:incoming>SequenceFlow_0oj6v0p</bpmn:incoming>
       <bpmn:outgoing>SequenceFlow_08d141r</bpmn:outgoing>
       <bpmn:outgoing>SequenceFlow_0c67fp8</bpmn:outgoing>
