@@ -9,9 +9,6 @@ In that case there might be some important considerations about how to transitio
 
 Before entering the [codebase stewardship lifecycle](lifecycle.md) all potential codebases are evaluated according to our [criteria for codebase stewardship](criteria-for-codebase-stewardship.md).
 
-* what organizations that want a existing project to be in [codebase stewardship](index.md) have to do
-* what we do to support them in this process
-
 ## What developing organizations need to do
 
 The developing organization needs to commit developer time and budget to:
