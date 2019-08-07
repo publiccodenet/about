@@ -7,7 +7,7 @@ type: Resource
 Split into four domains, codebase stewardship is at least:
 
 * Community stewardship
-  * Supporting, consulting on and executing governance
+  * Supporting, consulting on and executing governance and (technical) steering comittees
   * Organizing events
   * Processing feedback and contributions
 * Product marketing stewardship
@@ -24,6 +24,8 @@ Split into four domains, codebase stewardship is at least:
   * Trainings
   * Project infrastructure and process management
   * Intellectual property management and trademark protection
+
+## We represent the codebase
 
 ## Only at ecosystem level
 
