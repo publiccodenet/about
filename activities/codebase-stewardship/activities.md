@@ -6,7 +6,7 @@ type: Resource
 
 Split into four domains; codebase stewardship is at least:
 
-* Community stewardship
+Community stewardship activities include:
   * Supporting, consulting on and executing governance
   * Supporting committees such as technical steering committees
   * Organizing events
