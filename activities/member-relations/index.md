@@ -48,7 +48,7 @@ From 2020, each member has a regular membership contract.
 
 With regular membership, members become co-owners of the Foundation. This means members can vote in the general assembly and are responsible for and steer the Foundation’s operations, including priorities and annual budget for the organization. [Read more about Foundation governance](../../organization/governance-model.md).
 
-All members pay membership yearly dues. [See financial model](../../organization/financial-model.md). Failure to pay can result in termination of membership as stipulated in the foundation bylaws. 
+All members pay membership yearly dues. [See financial model](../../organization/financial-model.md). Failure to pay can result in termination of membership as stipulated in the [articles of association](articles-of-association.en.md).
 
 A mediation structure will be set up to handle any disputes that may arise between members and the Foundation or between individual members.
 
