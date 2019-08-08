@@ -7,7 +7,7 @@ bpmn: lifecycle.bpmn
 
 How we deliver codebase stewardship is based around the lifecycle of stewardship.
 
-## Assesment
+## Assessment
 
 In order to decide on if and how we can perform incubating stewardship we assess the codebase and its community together with the community.
 
