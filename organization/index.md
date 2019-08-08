@@ -30,7 +30,7 @@ This is how we approach our work:
 
 We're registered as an association (vereniging met volledige rechtsbevoegdheid) under Dutch law. Our full name is the Foundation for Public Code Vereniging.
 
-[See our association bylaws in Dutch](association-bylaws.nl.md).
+[See our association bylaws in English](articles-of-association.en.md) or [Dutch](articles-of-association.nl.md).
 
 Our chamber of commerce (KvK) registration number is 74996452.
 

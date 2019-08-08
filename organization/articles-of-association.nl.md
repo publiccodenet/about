@@ -443,7 +443,7 @@ Het eerste boekjaar eindigt op éénendertig december tweeduizendtwintig.
 
 Dit artikel vervalt na verloop van het eerste boekjaar.
 
-### Slot
+## Slot
 
 Ten slotte verklaart de comparante, handelend als gemeld:
 

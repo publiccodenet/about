@@ -1,5 +1,5 @@
 ---
-type: resource
+type: Resource
 ---
 LW/EV 9299.01 CREATION OF FOUNDATION FOR PUBLIC CODE ASSOCIATION (5)
 
