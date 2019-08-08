@@ -4,7 +4,7 @@ type: resource
 
 # Remuneration policy
 
-This explains the Foundation for Public Code vereniging's approach to remuneration.
+This explains the Foundation for Public Code vereniging's approach to remuneration. Our policy is that remuneration in the organization will not exceed market rates.
 
 ## Staff, contractors and interns
 

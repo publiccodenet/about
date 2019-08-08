@@ -24,6 +24,7 @@ As a [Job title] you work together with the community to [bespoke text]. This me
 ### What we expect from all of our team members
 
 You should:
+
 * share our core values: openness, quality, trust, community, helpfulness
 * understand the value of and be experienced with open source products and communities
 * want to work for the public good
