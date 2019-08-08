@@ -25,7 +25,7 @@ As an organization we deem this codebase, its ecosystem and its community to be 
 
 ## Attic
 
-Codebases that have been mature at one point but that have lost interest from the community are moved to the attic.
+Codebases that have been mature at one point but whose community has lost interest are moved to the attic.
 In the attic codebases and communities are no longer stewarded.
 The code will stay available.
 
