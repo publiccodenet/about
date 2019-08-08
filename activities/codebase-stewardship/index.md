@@ -22,7 +22,7 @@ We can provide codebase stewardship from the beginning of the development or for
 
 * [the codebase stewardship lifecycle](lifecycle.md)
 * [how codebase stewardship works for existing projects](for-existing-projects.md)
-* [stewardship assesment criteria for existing codebases](criteria-for-codebase-stewardship.md)
+* [stewardship assessment criteria for existing codebases](criteria-for-codebase-stewardship.md)
 
 ## Further reading
 
