@@ -8,7 +8,7 @@ The staff of the Foundation for Public Code Vereniging are employees that execut
 
 Some roles in our organization are fulfilled by contractors. For transparency, these are mentioned with the legal entity they bill through.
 
-As we are a community leadership organization that mostly helps others we aim for minimal hierarchy and overhead and maximal autonomy for the specialists who further [our mission](mission.md).
+As we are a community leadership organization that mostly helps others, we aim for minimal hierarchy and overhead and maximal autonomy for the specialists who further [our mission](mission.md).
 
 The staff consists of a manager, [a coordination team](#coordination-team) and specialists.
 
