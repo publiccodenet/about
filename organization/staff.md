@@ -4,11 +4,11 @@ type: Resource
 
 # Staff and contractors
 
-The staff of the Foundation for Public Code vereniging are employees that execute the work agreed on by the [general assembly](../organization/governance-model.md#general-assembly) under direction of the [Board of directors](../organization/governance-model.md#board-of-directors).
+The staff of the Foundation for Public Code Vereniging are employees that execute the work agreed on by the [general assembly](../organization/governance-model.md#general-assembly) under direction of the [board of directors](../organization/governance-model.md#board-of-directors).
 
-Some roles in our organization are fulfilled by contractors. these are mentioned with the legal entity they bill through for transparency.
+Some roles in our organization are fulfilled by contractors. For transparency, these are mentioned with the legal entity they bill through.
 
-As we are a community leadership organization that mostly helps others we aim for minimal hierarchy and overhead and maximal autonomy for the specialists who further [our mission](mission.md).
+As we are a community leadership organization that mostly helps others, we aim for minimal hierarchy and overhead and maximal autonomy for the specialists who further [our mission](mission.md).
 
 The staff consists of a manager, [a coordination team](#coordination-team) and specialists.
 
