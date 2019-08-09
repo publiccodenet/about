@@ -50,7 +50,7 @@ hereby agree as follows:
 
 ## Article 4: Voting rights in the general assembly
 
-The member acknowledges that their voting rights in the general assembly in a given year depend on the amount of membership dues they paid for that year. On the basis of the first membership dues, the member has [number of votes to be filled in] votes in the general assembly in the [year to be filled in] calendar year.
+The member acknowledges that their voting rights in the general assembly in a given year depend on the amount of membership dues they paid for that year. On the basis of the first membership dues, the member has [number] votes in the general assembly in the [year] calendar year.
 
 ## Article 5: Other provisions
 
