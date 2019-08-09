@@ -4,7 +4,7 @@ type: Resource
 
 # Governance model for the Foundation for Public Code
 
-This provides a non-legal summary of the Foundation's governance model as established in the [articles of association](articles-of-association.en.md).
+This provides a non-legal summary of the Foundation's governance model as established in the [articles of association](articles-of-association.md).
 
 ## Overview
 
