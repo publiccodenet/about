@@ -17,7 +17,7 @@ This is how we're building the organization to support our mission:
 * [Governance model](governance-model.md)
 * [Financial model](financial-model.md)
 * [Remuneration policy](remuneration-policy.md)
-* [Articles of association]((articles-of-association.md))
+* [Articles of association](articles-of-association.md)
 
 This is how we approach our work:
 
