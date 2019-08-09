@@ -4,7 +4,7 @@ sitemap: false
 ---
 {% comment %}
 
-This page is here because we spread its link, it is not linked from elsewhere on the about.
+This page is here because we spread its link, it is not linked from elsewhere on the About.
 
 {% endcomment %}
 
