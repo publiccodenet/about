@@ -18,8 +18,11 @@ Read more about:
 
 * [our activities](activities/index.md) (starting summer 2019)
 * [our organization](organization/index.md)
-* [our roles and open positions](roles/index.md)
 * [glossary of terms and concepts](glossary/index.md)
+
+## Our sites
+
+Our [home page at publiccode.net](https://publiccode.net) features a [high level overview of codebase stewardship](https://publiccode.net/codebase-stewardship/) as well as [the careers page with open positions](https://publiccode.net/careers/).
 
 Additionally, we have separate sites that show our [projects](https://projects.publiccode.net) and [how to use the brand](https://brand.publiccode.net/).
 

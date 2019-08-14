@@ -27,6 +27,7 @@ Quality stewardship includes:
   * Security and compatibility monitoring
 
 Support stewardship includes:
+
   * User support
   * Trainings
   * Project infrastructure and process management
