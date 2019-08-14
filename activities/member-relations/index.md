@@ -32,7 +32,7 @@ This stage is over when both parties agree to the proposal.
 
 At this stage, public organizations become founding members by signing a founding membership contract. This contract consists of the proposal agreed in the previous stage, along with any extra legal framing required. This commits both the member and the Foundation to the mutually agreed proposal.
 
-Founding members are co-owners of the Foundation and help shape its future activities and regular membership structure. 
+Founding members are co-owners of the Foundation and help shape its future activities and regular membership structure.
 
 This stage is over after 2019, when the founding members have shaped the Foundation's activities and regular membership structure.
 
@@ -44,11 +44,11 @@ This stage is over after 2019, when the founding members have shaped the Foundat
 
 ## 4. Membership of the Foundation (2020 onwards)
 
-From 2020, each member has a regular membership contract.
+From 2020, each member has a [regular membership contract](membership-contract.md).
 
 With regular membership, members become co-owners of the Foundation. This means members can vote in the general assembly and are responsible for and steer the Foundation’s operations, including priorities and annual budget for the organization. [Read more about Foundation governance](../../organization/governance-model.md).
 
-All members pay membership yearly dues. [See financial model](../../organization/financial-model.md). Failure to pay can result in termination of membership as stipulated in the foundation bylaws. 
+All members pay membership yearly dues. [See financial model](../../organization/financial-model.md). Failure to pay can result in termination of membership as stipulated in the [association bylaws](../../organization/articles-of-association.md).
 
 A mediation structure will be set up to handle any disputes that may arise between members and the Foundation or between individual members.
 

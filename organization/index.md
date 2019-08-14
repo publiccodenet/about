@@ -17,19 +17,19 @@ This is how we're building the organization to support our mission:
 * [Governance model](governance-model.md)
 * [Financial model](financial-model.md)
 * [Remuneration policy](remuneration-policy.md)
+* [Articles of association](articles-of-association.md)
 
 This is how we approach our work:
 
 * [Cultural values](cultural-values.md)
 * [Keys to success](keys-to-success.md)
+* [Contributing as a staff member](../contributor-guides/for-staff.md)
 * [Definition of done](definition-of-done.md)
 * [Privacy and GDPR](privacy.md)
 
 ## Legal registration and bank account number
 
 We're registered as an association (vereniging met volledige rechtsbevoegdheid) under Dutch law. Our full name is the Foundation for Public Code Vereniging.
-
-[See our association bylaws in Dutch](association-bylaws.nl.md).
 
 Our chamber of commerce (KvK) registration number is 74996452.
 
