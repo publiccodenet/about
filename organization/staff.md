@@ -26,13 +26,13 @@ Roles:
 
 * [Coordinator](#coordinator) operations:
   Claus Mullie
-* [Codebase steward for community](../roles/community.md)
-* [Codebase steward for product marketing](../roles/product-marketing.md)
-* [Codebase steward for quality](../roles/quality.md)
+* Codebase steward for community
+* Codebase steward for product marketing
+* Codebase steward for quality
   * [Lead](#lead):
     Eric Herman
-* [Codebase steward for support](../roles/support.md)
-* [Intern](../roles/intern.md)
+* Codebase steward for support
+* Intern
 
 ### Communications
 
@@ -50,7 +50,7 @@ Roles:
 * Illustrator:
   Floris Deerenberg
   (contractor A Studio Called Quest)
-* [Intern](../roles/intern.md)
+* Intern
 
 ### President
 
