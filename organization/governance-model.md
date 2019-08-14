@@ -62,7 +62,7 @@ The advisory board is a set of experts that suppport the general assembly, board
 
 ### Staff
 
-The staff of the Foundation for Public Code carry out the Foundation's day to day work.
+The [staff of the Foundation for Public Code](staff.md) carry out the Foundation's day to day work.
 
 The staff are responsible for:
 
