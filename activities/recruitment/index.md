@@ -2,7 +2,7 @@
 type: Index
 ---
 
-# Recruitment 
+# Recruitment
 
 These are the resources and processes used for recruitment:
 

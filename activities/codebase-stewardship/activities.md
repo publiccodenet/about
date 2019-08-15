@@ -8,30 +8,30 @@ Stewardship activities take place in 4 domains: community, product marketing, qu
 
 Community stewardship includes:
 
-  * Supporting, consulting on and executing governance
-  * Supporting committees such as technical steering committees
-  * Organizing events
-  * Processing feedback and contributions
+* Supporting, consulting on and executing governance
+* Supporting committees such as technical steering committees
+* Organizing events
+* Processing feedback and contributions
   
 Product marketing stewardship includes:
 
-  * Codebase branding
-  * Codebase storytelling, communications and public relations
-  * Marketing
-  * Developer advocacy
+* Codebase branding
+* Codebase storytelling, communications and public relations
+* Marketing
+* Developer advocacy
   
-Quality stewardship includes: 
+Quality stewardship includes:
 
-  * [Codebase auditing](../codebase-auditing/index.md): code, policy and documentation quality assurance
-  * Packaging and distributing official versions
-  * Security and compatibility monitoring
+* [Codebase auditing](../codebase-auditing/index.md): code, policy and documentation quality assurance
+* Packaging and distributing official versions
+* Security and compatibility monitoring
 
 Support stewardship includes:
 
-  * User support
-  * Trainings
-  * Project infrastructure and process management
-  * Intellectual property management and trademark protection
+* User support
+* Trainings
+* Project infrastructure and process management
+* Intellectual property management and trademark protection
 
 ## We represent the codebase
 
