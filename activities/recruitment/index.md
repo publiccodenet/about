@@ -13,3 +13,7 @@ For possible applicants:
 
 * [Careers section with open positions on the homepage](https://publiccode.net/careers/)
 * [Our Stackoverflow organization page](https://stackoverflow.com/jobs/companies/foundation-for-public-code)
+
+See also:
+
+* [Staff](../../organization/staff.md)
