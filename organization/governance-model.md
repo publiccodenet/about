@@ -4,7 +4,7 @@ type: Resource
 
 # Governance model for the Foundation for Public Code
 
-This provides a non-legal summary of the Foundation's governance model as established in the [association bylaws](association-bylaws.nl.md).
+This provides a non-legal summary of the Foundation's governance model as established in the [articles of association](articles-of-association.md).
 
 ## Overview
 
@@ -62,7 +62,7 @@ The advisory board is a set of experts that suppport the general assembly, board
 
 ### Staff
 
-The staff of the Foundation for Public Code carry out the Foundation's day to day work.
+The [staff of the Foundation for Public Code](staff.md) carry out the Foundation's day to day work.
 
 The staff are responsible for:
 
