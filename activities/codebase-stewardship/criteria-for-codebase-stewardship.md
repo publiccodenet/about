@@ -2,11 +2,11 @@
 type: Resource
 ---
 
-# Evaluation criteria for codebase stewardship
+# Stewardship assessment criteria for existing codebases
 
-These are the evaluation criteria the staff of the Foundation for Public Code use to help evaluate whether a codebase is ready and suitable for incubation. They are used before and after the 'Assess' phase in the [codebase stewardship lifecycle](lifecycle.md).
+These are the criteria the staff of the Foundation for Public Code use to help evaluate whether a codebase is ready and suitable for incubation. They are used during the Assess phase in the [codebase stewardship lifecycle](lifecycle.md).
 
-## Evaluation criteria
+## Criteria
 
 * Business case: what is the business case for the codebase becoming public code and being reused?
 * Co-develop-ability: does the codebase lend itself to collaborative development?
@@ -17,9 +17,9 @@ These are the evaluation criteria the staff of the Foundation for Public Code us
 * Societal impact: what is the potential societal impact of the codebase becoming public code and being reused?
 * Story: what is the story-telling and communication value of this codebase becoming public code and being reused?  
 
-## Evaluation questions
+## How the criteria are assessed
 
-This is a list of questions for current owners of potential codebases to help us better understand their codebase before the [assess phase](https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html).
+This is a list of questions for current owners of potential codebases to help us better understand their codebase.
 
 ### Business case
 
@@ -51,7 +51,7 @@ This is a list of questions for current owners of potential codebases to help us
 4. How many organizations contribute to this codebase?
 5. Which of these does your community have for discussion among users: email at a specific addres, email list, forum, bugtracking system, other (write in)?
 6. Which of these does your community have for discussion among developers: email at a specific addres, email list, forum, bugtracking system, other (write in)?
-7. Do you have contributor guidelines to help new people contribute?
+7. Is there a defined process to help new people contribute to the codebase?
 8. Does the community currently use English?
 9. What other languages does your community use?
 
@@ -69,6 +69,9 @@ This is a list of questions for current owners of potential codebases to help us
 
 1. How long would it take a team of 2 developers to extract to make the code configurable such that it could be deployed for a different organization?
 2. Which programming languages are used in your project?
+3. Are operational requirements (hosting requirements etc.) documented and tested?
+4. Are there any technical documentation for how the solution is implemented?
+5. Does the codebase exist in more than one version?
 
 ### Reuse potential
 

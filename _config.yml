@@ -20,3 +20,7 @@ toc: true
 
 # show_navigation: true
 show_breadcrumbs: true
+
+# Display the headings separately
+titles_from_headings:
+  strip_title: true
