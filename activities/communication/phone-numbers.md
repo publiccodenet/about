@@ -13,7 +13,3 @@ type: Resource
 * +31 20 2 444 555: Boris VAN HOYTEMA
 * +31 20 2 444 561: Claus MULLIE
 * +31 20 2 444 562: Mirjam VAN TIEL
-
-## Management
-
-Phone numbers and lines are managed in our VOIP suppliers [online management tool](https://freedom.voys.nl/).
