@@ -1,9 +1,10 @@
 ---
 type: Resource
 ---
-LW/EV 9299.01 CREATION OF FOUNDATION FOR PUBLIC CODE ASSOCIATION (5)
 
 # ARTICLES OF ASSOCIATION: FOUNDATION FOR PUBLIC CODE VERENIGING
+
+LW/EV 9299.01 CREATION OF FOUNDATION FOR PUBLIC CODE ASSOCIATION (5)
 
 > This is an unofficial translation of the [original Dutch version of the Foundation for Public Code's articles of association](articles-of-association.nl.md).
 
