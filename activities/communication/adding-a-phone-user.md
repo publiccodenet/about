@@ -14,7 +14,7 @@ explains: How to add a user to the Voys phone infrastructure and connect them to
 
 ## Allocating a VoIP account
 
-1. In ['Admin'>'VoIP accounts'](https://freedom.voys.nl/client/415559/user/add/) select the line to assign and change it's name to who is going to use it
+1. In ['Admin'>'VoIP accounts'](https://freedom.voys.nl/client/415559/user/add/) select the line to assign and change its name to who is going to use it
 2. To associate this with a user as an outgoing number you can add it to their profile in ['Admin'>'Users'](https://freedom.voys.nl/client/415559/user/) under 'Telephony settings'
 3. To associate this user with a new personal phone number you'll have to add a ['Dial plan'](https://freedom.voys.nl/client/415559/routing/).
 
