@@ -6,7 +6,7 @@ type: Resource
 
 ## Making collaboration across contexts possible
 
-We provide the codebase stewardship activities explicitly at [ecosystem level](../../glossary/ecosystem-level-definition.md). 
+We provide codebase stewardship activities explicitly at [ecosystem level](../../glossary/ecosystem-level-definition.md).
 We do not operate at a national or city level.
 Working at the ecosystem level makes sure that context-specific code or policy does not become a barrier to implementation.
 Codebase stewardship means making sure that code is reusable across contexts globally.
