@@ -13,7 +13,7 @@ A guide is always written to help the reader (you) progress.
 
 ## Where your guide lives
 
-Guides are published on <about.publiccode.net>. It should be in a relevant place in the [folder structure](about-folder-structure.md). Often this is with an activity.
+Guides are published on [about.publiccode.net](about.publiccode.net). It should be in a relevant place in the [folder structure](/about-folder-structure.md). Often this is with an activity.
 
 ## Anatomy of a guide
 
