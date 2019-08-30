@@ -1,6 +1,6 @@
 ---
 type: Guide
-explains: How to approach the requirements of your employment with the Foundation for Public Code
+explains: The basics for being a staff member of the Foundation for Public Code
 ---
 
 # How to staff at the Foundation for Public Code
