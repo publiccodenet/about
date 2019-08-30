@@ -19,6 +19,7 @@ This is how we're building the organization to support our mission:
 * [Staff](staff.md)
 * [Remuneration policy](remuneration-policy.md)
 * [Articles of association](articles-of-association.md)
+* [Policy plan 2019-2022](policy-plan.md)
 
 This is how we approach our work:
 
