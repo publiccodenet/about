@@ -10,7 +10,7 @@ Everyone in the organization works to accomplish these milestones.
 
 Upcoming milestones:
 
-* First committed member from the Netherlands (municipality)
+* First committed member
 * First committed member from another country (municipality)
 * First committed member from a different kind of public organization
 * Secure budget with committed resources (led by members)
