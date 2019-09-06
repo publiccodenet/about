@@ -26,7 +26,8 @@ Roles:
 
 * [Coordinator](#coordinator) operations:
   Claus Mullie
-* Codebase steward for community: Jan Ainali
+* Codebase steward for community: 
+  * Jan Ainali
 * Codebase steward for product marketing
 * Codebase steward for quality
   * [Lead](#lead):
