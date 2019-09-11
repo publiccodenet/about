@@ -10,7 +10,7 @@ During the Assess phase in the [codebase stewardship lifecycle](lifecycle.md), t
 * the [Standard for Public Code](https://standard.publiccode.net/)
 * the stewardship assessment criteria on this page
 
-Based on this, staff and a potential codebase's current maintainers can estimate how much work will be needed during incubation.
+Based on this, staff and a potential codebase's current maintainers can estimate how much work will be needed during incubation. We expect that these questions are best answered by the current project managers and developers of a potential codebase.
 
 
 
