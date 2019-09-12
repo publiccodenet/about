@@ -4,7 +4,7 @@ type: Resource
 
 # Milestones
 
-We use milestones to plan our work around and set priorities. Milestones replace what other organisations would call 'projects' by focussing on the key achievements over certain deliverables.
+We use milestones to plan our work around and set priorities. Milestones replace what other organizations would call 'projects' by focussing on the key achievements over certain deliverables.
 
 Everyone in the organization works to accomplish these milestones.
 
@@ -12,10 +12,10 @@ Upcoming milestones:
 
 * First committed member
 * First committed member from another country
-* First committed member from a different kind of organization
+* First committed member from a different kind of public organization
 * Secure budget with committed resources (led by members)
 * Assessment started for a codebase suggested by every committed member
-* Assessment finished without incubation
+* Assessment of a codebase finished without incubation
 * First codebase in incubation
 
 [See our past milestones](past-milestones.md).

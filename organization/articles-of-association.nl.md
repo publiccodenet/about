@@ -2,8 +2,6 @@
 type: Resource
 ---
 
-LW/EV 9299.01 OPRICHTING FOUNDATION FOR PUBLIC CODE VERENIGING (5)
-
 # AKTE VAN OPRICHTING FOUNDATION FOR PUBLIC CODE VERENIGING
 
 > This is the original Dutch version of the Foundation for Public Code's articles of association. [Read the unofficial English translation](articles-of-association.md).
