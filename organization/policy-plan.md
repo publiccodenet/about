@@ -10,7 +10,7 @@ This policy plan sets out the Foundation for Public Code Vereniging’s current 
 
 This policy plan was adopted at the 23 August 2019 board of directors meeting and approved by the general assembly. This policy plan covers 2019-2022, but can be modified annually by the general assembly if needed.
 
-The Foundation for Public Code Vereniging (referred to hereafter as the Foundation for Public Code or ‘the association’) was established to solve an infrastructure gap in public sector collaboration. Public organizations (like cities) are both more interested in and producing more open source software than ever before. [Persuaded by open source's advantages](https://fsfe.org/campaigns/publiccode/brochure.en.html), public organisations then struggle to:
+The Foundation for Public Code Vereniging (referred to hereafter as the Foundation for Public Code or ‘the association’) was established to solve an infrastructure gap in public sector collaboration. Public organizations (like cities) are both more interested in and producing more open source software than ever before. [Persuaded by open source's advantages](https://fsfe.org/campaigns/publiccode/brochure.en.html), public organizations then struggle to:
 
 * discover existing open source software that they can adopt
 * build open source software flexible enough that other public organizations can adopt it
@@ -36,7 +36,7 @@ Public code stewarded by the Foundation is openly available for reuse by everyon
 The association seeks to achieve its goal by carrying out the following activities (article 3.2. of the association bylaws):
 
 * a.    the provision of services that can increase the sustainability, quality and re-use of public code
-* b.    facilitating and encouraging the sharing of existing public code between public members and other public organisations
+* b.    facilitating and encouraging the sharing of existing public code between public members and other public organizations
 * c.    carrying out research for the (further) development of public code
 * d.    drawing attention to problems ascertained and giving advice with regard to the public code they use
 * e.    everything related to or conducive to the above, all in the broadest sense
