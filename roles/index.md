@@ -2,13 +2,14 @@
 type: Index
 sitemap: false
 ---
+
+# Staff roles and open positions
+
 {% comment %}
 
 This page is here because we spread its link, it is not linked from elsewhere on the About.
 
 {% endcomment %}
-
-# Staff roles and open positions
 
 ## Hiring
 

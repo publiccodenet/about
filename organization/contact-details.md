@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-## Contact us
+# Contact us
 
 Our mission requires collaboration! We're eager for your questions or suggestions.
 

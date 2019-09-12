@@ -4,9 +4,19 @@ type: Resource
 
 # Stewardship assessment criteria for existing codebases
 
-These are the criteria the staff of the Foundation for Public Code use to help evaluate whether a codebase is ready and suitable for incubation. They are used during the Assess phase in the [codebase stewardship lifecycle](lifecycle.md).
+During the Assess phase in the [codebase stewardship lifecycle](lifecycle.md), the staff of the Foundation for Public Code evaluate whether a codebase is ready and suitable for incubation by checking it against:
 
-## Criteria
+
+* the [Standard for Public Code](https://standard.publiccode.net/)
+* the stewardship assessment criteria on this page
+
+Based on this, staff and a potential codebase's current maintainers can estimate how much work will be needed during incubation.
+
+
+
+## The assessment criteria
+
+These criteria enable us to decide whether the codebase is a good fit for the Foundation for Public Code:
 
 * Business case: what is the business case for the codebase becoming public code and being reused?
 * Co-develop-ability: does the codebase lend itself to collaborative development?
@@ -19,7 +29,7 @@ These are the criteria the staff of the Foundation for Public Code use to help e
 
 ## How the criteria are assessed
 
-This is a list of questions for current owners of potential codebases to help us better understand their codebase.
+This list of questions for current maintainers of potential codebases helps us understand their codebase better.
 
 ### Business case
 
