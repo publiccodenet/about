@@ -12,19 +12,20 @@ Community stewardship includes:
 * Supporting committees such as technical steering committees
 * Organizing events
 * Processing feedback and contributions
-  
+
 Product marketing stewardship includes:
 
 * Codebase branding
 * Codebase storytelling, communications and public relations
 * Marketing
 * Developer advocacy
-  
+
 Quality stewardship includes:
 
 * [Codebase auditing](../codebase-auditing/index.md): code, policy and documentation quality assurance
 * Packaging and distributing official versions
 * Security and compatibility monitoring
+* Monitoring codebase compliance towards any future versions of the [Standard for Public Code](https://standard.publiccode.net/) 
 
 Support stewardship includes:
 
