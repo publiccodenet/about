@@ -25,14 +25,12 @@ Phone numbers and lines are managed in our VOIP supplier Voys' [online managemen
 
 In order to clearly convey who is communicating, this template for email signature could be used. It has no styling in order to make it more probable that email clients and mailing lists will handle the signature gracefully.
 
-\---  
 Name  
 Role  
 Foundation for Public code  
 https://publiccode.net  
 
 *Example:*
-\---  
 Boris van Hoytema  
 Chief Executive Officer  
 Foundation for Public code  
