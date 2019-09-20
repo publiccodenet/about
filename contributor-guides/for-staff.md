@@ -24,3 +24,7 @@ These are some tools some of us find helpful:
 
 * [HackMD.io](https://hackmd.io/) - for collaborating on draft documents in Markdown with people outside the organization (especially helpful for content we plan to publish)
 * [Markdown Here](https://markdown-here.com/) - for formatting emails written using Markdown
+
+## Useful context
+
+* [Public Money? Public Code! - Panel @ Nextcloud Conference 2019](https://youtube.com/watch?v=QHFkD4xfd6c) Touches on topics like procurement and law and more.
