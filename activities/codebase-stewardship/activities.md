@@ -12,6 +12,7 @@ Community stewardship includes:
 * Supporting committees such as technical steering committees
 * Organizing events
 * Processing feedback and contributions
+* Organizing [community calls](https://hackmd.io/@clausmullie/BJGGtcGRE)
 
 Product marketing stewardship includes:
 
@@ -25,7 +26,7 @@ Quality stewardship includes:
 * [Codebase auditing](../codebase-auditing/index.md): code, policy and documentation quality assurance
 * Packaging and distributing official versions
 * Security and compatibility monitoring
-* Monitoring codebase compliance towards any future versions of the [Standard for Public Code](https://standard.publiccode.net/) 
+* Monitoring codebase compliance towards any future versions of the [Standard for Public Code](https://standard.publiccode.net/)
 
 Support stewardship includes:
 
