@@ -34,15 +34,15 @@ Consider putting a Foundation poster on the wall behind you.
 1. Opening the call
 
 * [ ] Introduction round (All)
-* [ ] Short update from the Foundation for Public Code (Jan)
+* [ ] Short update from the Foundation for Public Code (chair)
 
 2. Substance of the call
 
 
 ## 1. Opening the call
 
-Call-in link: https://meet.google.com/tfd-acmn-tkb
-Agenda link: https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit
+Call-in link: [https://meet.google.com/tfd-acmn-tkb[(https://meet.google.com/tfd-acmn-tkb)
+Agenda link: [https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit)
 
 ### No-show
 
