@@ -27,4 +27,4 @@ These are some tools some of us find helpful:
 
 ## Useful context
 
-* [Public Money? Public Code! - Panel @ Nextcloud Conference 2019](https://youtube.com/watch?v=QHFkD4xfd6c) Touches on topics like procurement and law and more.
+* [Public Money? Public Code! - Panel @ Nextcloud Conference 2019](https://youtube.com/watch?v=QHFkD4xfd6c) Touches on topics like procurement, law and more.
