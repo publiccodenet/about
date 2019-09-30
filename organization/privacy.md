@@ -5,7 +5,7 @@ The Foundation strongly supports individuals' right to privacy. For this reason 
 We keep contact details for:
 
 * people who have signed up to get our news
-* people we work with
+* people (and their organizations) we work with
 * staff and interns
 
 The bases for processing this information are respectively consent, legitimate interest and to fulfill a contract.
@@ -16,15 +16,16 @@ For people who have signed up to get our news, we collect:
 
 * name
 * email address
-* job title if applicable
-* organization if applicable
+* job title if applicable and provided
+* organization if applicable and provided
 
 For people we work with, we collect:
 
 * name
 * contact details: email address, physical adddress or phone number
 * job title if applicable
-* organization if applicable
+* name of the organization if applicable, 
+* bank account number, VAT number, registration number Chamber of Commerce, in case of billing relationship
 
 For staff and interns, we collect:
 
@@ -33,31 +34,31 @@ For staff and interns, we collect:
 * date of birth
 * contact details: email address, physical adddress and phone number
 * bank details to pay salaries
-* health information to manage sickness absence if applicable
+* other information necessary for proper human resources management
 
 ## What we do with your personal information
 
-We use it to send people information about our news and events.
+* We use it to send people information about our news and events.
 
-We use it to work directly with people to carry out the work of the Foundation.
+* We use it to work directly with people to carry out the work of the Foundation.
 
-We use it to efficiently, predictably and lawfully manage and support staff.
+* We use it to efficiently, predictably and lawfully manage and support staff.
 
 ## Who we share your personal information with
 
 We don't share your personal information with third parties or sell it.
 
-Because your personal information is stored on our IT systems, it's shared with our data processors who provide email, document management and storage services.
+Because your personal information is stored on our IT systems, it's shared with our data processors who provide us with email, document management and storage services.
 
 While your personal data is stored on our systems and shared with our data processors, it may be transferred and stored securely outside the European Union. Where this is the case it will be subject to equivalent legal protection through the use of model contract clauses.
 
 ## How long we keep your personal information
 
-People can always unsubscribe from our mailing list.
+* People can always unsubscribe from our mailing list.
 
-As a contact for a piece of work, we may contact you where a work matter requires your input. Once you leave the role, we'll update or delete the information we hold about you. This will take place at least once a year.
+* As a contact for a piece of work, we may contact you where a work matter requires your input. Once you leave the role, we'll update or delete the information we hold about you. This will take place at least once a year.
 
-We keep staff data for [as long as is required by Dutch law](https://www.tuxx.nl/bewaartermijnen/documenten/#Algemene%20bedrijfsmatige%20documenten) (but no longer than 10 years).
+* We keep staff data for [as long as is required by Dutch law](https://www.tuxx.nl/bewaartermijnen/documenten/#Algemene%20bedrijfsmatige%20documenten) (but no longer than 10 years).
 
 ## Changes to this information
 
