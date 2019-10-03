@@ -38,7 +38,6 @@ Consider putting a Foundation poster on the wall behind you.
 
 2. Substance of the call
 
-
 ## 1. Opening the call
 
 Call-in link: [https://meet.google.com/tfd-acmn-tkb[(https://meet.google.com/tfd-acmn-tkb)
