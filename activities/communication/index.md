@@ -23,7 +23,3 @@ Phone numbers and lines are managed in our VOIP supplier Voys' [online managemen
 * ['Users'](https://freedom.voys.nl/client/415559/user/): Who can log in
 * ['VoIP accounts'](https://freedom.voys.nl/client/415559/phoneaccount/): Basically lines we can assign
 * ['Voicemails'](https://freedom.voys.nl/client/415559/voicemail/): Voice mail boxes
-
-
-
-
