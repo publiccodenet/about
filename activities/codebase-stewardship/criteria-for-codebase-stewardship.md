@@ -29,7 +29,7 @@ These criteria enable us to decide whether the codebase is a good fit for the Fo
 
 ## How the criteria are assessed
 
-This list of questions for current maintainers of potential codebases helps us understand their codebase better.
+This list of questions for current maintainers of potential codebases helps us understand their codebase better. To collaborate with current maintainers we use a shared spreadsheet. Use [this guide for creating a new one](create-assessment-spreadsheet.md).
 
 ### Business case
 
