@@ -24,3 +24,5 @@ We publish our news and announcements on:
 + [Twitter](http://www.twitter.com/publiccodenet)
 
 We very occasionally update our Facebook and LinkedIn pages.
+
+We arrange bi-weekly community calls: [agenda](https://hackmd.io/@clausmullie/BJGGtcGRE).
