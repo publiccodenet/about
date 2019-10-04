@@ -25,15 +25,15 @@ The notetaker will take notes during the call in the same document.
 
 Each person should use their own computer so everyone on the call is symbolically equal.
 
-The chair should be on the call 5 min before the call start.
+The chair should be on the call 5 minutes before the call starting time.
 
-Consider putting a Foundation poster on the wall behind you.
+Consider putting a Foundation for Public Code poster on the wall behind you.
 
 ## Templated agenda items
 
 1. Opening the call
 
-* [ ] Introduction round (All)
+* [ ] Introduction round (all)
 * [ ] Short update from the Foundation for Public Code (chair)
 
 2. Substance of the call
@@ -45,7 +45,7 @@ Agenda link: [https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit](https://hackmd.io/-
 
 ### No-show
 
-In the case of nobody being on time for when the call starts, wait at least 15 minutes before closing the call. If possible, leave the call open the entire hour for potential late drop-ins.
+In the case of nobody being on time for the call starting time, wait at least 15 minutes before closing the call. If possible, leave the call open the entire hour for potential late drop-ins.
 
 ### Introduction round
 
@@ -53,7 +53,7 @@ The chair:
 
 * welcomes everyone to the community call on behalf of the Foundation for Public Code
 * briefly mentions what is on the agenda for today (without being so specific that discussions start)
-* notes that the call will be minuted, but not recorded, and the minutes published on our blog. Everyone on the call will get the chance to review/fix the minutes before they're published.
+* notes that the call will be minuted, but not recorded, and the minutes published on our blog. Everyone on the call will get the chance to review and fix the minutes before they're published.
 * asks everyone to introduce themselves - who are you, do you represent an organization, what's your interest in public code and/or the topic for this call?
 * starts with themselves
 * asks someone else to go next (for example, someone they know to be excited about the topic, or a friend of the Foundation, or an extrovert)
@@ -90,10 +90,10 @@ The chair then either:
 
 ## 3. Closing the call
 
-When either the time is up, or the feeling is that all topics are exhausted, the chair:
+When either the time is up, or all topics have been exhausted, the chair:
 
 * asks if anyone has anything else to add/ask before closing the call
-* reminds everyone that there is another call in two weeks and opens up for suggestions on topics for that call
+* reminds everyone that there is another call in two weeks and asks for suggested topics for that call
 * explains that the minutes will be sent out for review
 * thanks everyone for participating in the call
 
@@ -101,7 +101,7 @@ When either the time is up, or the feeling is that all topics are exhausted, the
 
 The notetaker reworks the call notes into a call summary. 
 
-The notetaker will share the call summary with people who were on the call for approval/amendment before:
+The notetaker shares the call summary with people who were on the call for amendment and approval before:
 
 * publishing on <blog.publiccode.net>
 * linking from any relevant GitHub issues or pull requests
