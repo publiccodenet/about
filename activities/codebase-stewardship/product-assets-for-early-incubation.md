@@ -36,7 +36,7 @@ We assume the product asset order will be different for greenfield development.
 | 12 | Codebase name | Creates proposal | Product |
 | 13 | Contextual explainer (including policy explanation, users, and process owners) | Provides assistance | Product |
 | 14 | High level overview of what's in the codebase | Confirms | Product, Quality |
-| 15 | README | Provides assistance | Product: is this findable and usable?Quality: is all the right information included? |
+| 15 | README | Provides assistance | Product: is this findable and usable? Quality: is all the right information included? |
 | 16 | Codebase maturity label | Responsible | Quality (release management) |
 | 17 | Codebase brand or logo | Creates proposal | Product |
 | 18 | List of codebase stakeholders with their role (real people) | Provides assistance | Community |
