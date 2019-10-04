@@ -6,13 +6,10 @@ type: Resource
 
 During the Assess phase in the [codebase stewardship lifecycle](lifecycle.md), the staff of the Foundation for Public Code evaluate whether a codebase is ready and suitable for incubation by checking it against:
 
-
 * the [Standard for Public Code](https://standard.publiccode.net/)
 * the stewardship assessment criteria on this page
 
-Based on this, staff and a potential codebase's current maintainers can estimate how much work will be needed during incubation.
-
-
+Based on this, staff and a potential codebase's current maintainers (for example the project managers or developers) can estimate how much work will be needed during incubation.
 
 ## The assessment criteria
 
