@@ -44,7 +44,7 @@ We assume the product asset order will be different for greenfield development.
 | 20 | Simple architectural model | Confirms | Quality |
 | 21 | Community fora (or links if hosted elsewhere) | Responsible | Community |
 | 22 | Reports from user research into how codebase is working/could be improved | Provides assistance| Community |
-| 23 | How to deploy/quickstart deployment guide | Verifies/Provides assistance (put into both categories!) | Support |
+| 23 | Quickstart deployment guide | Confirms | Support |
 | 24 | Quickstart user guide | Provides assistance | Support |
 | 25 | Choose license | Provides assistance | Support |
 | 26 | A publiccode.yml file | Creates proposal | Product |
