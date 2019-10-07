@@ -16,8 +16,8 @@ For people who have signed up to get our news, we collect:
 
 * name
 * email address
-* job title if applicable and provided
-* organization if applicable and provided
+* job title if provided
+* organization if provided
 
 For people we work with, we collect:
 
