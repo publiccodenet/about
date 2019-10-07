@@ -99,7 +99,7 @@ When either the time is up, or all topics have been exhausted, the chair:
 
 ## After the call
 
-The notetaker reworks the call notes into a call summary. 
+The notetaker reworks the call notes into a call summary.
 
 The notetaker shares the call summary with people who were on the call for amendment and approval before:
 
