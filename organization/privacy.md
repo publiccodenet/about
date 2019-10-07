@@ -24,25 +24,31 @@ For people we work with, we collect:
 * name
 * contact details: email address, physical adddress or phone number
 * job title if applicable
-* name of the organization if applicable, 
-* bank account number, VAT number, registration number Chamber of Commerce, in case of billing relationship
+* name of the organization if applicable
 
-For staff and interns, we collect:
+For job applicants, staff and interns, we collect:
 
 * name
 * job title
 * date of birth
 * contact details: email address, physical adddress and phone number
+
+We may also collect:
+
 * bank details to pay salaries
-* other information necessary for proper human resources management
+* information to manage absence
+* nationality and visa status
+* emergency contact details
 
 ## What we do with your personal information
 
-* We use it to send people information about our news and events.
+For people:
 
-* We use it to work directly with people to carry out the work of the Foundation.
+* who have signed up  - we use it to send people information about our news and events
 
-* We use it to efficiently, predictably and lawfully manage and support staff.
+* we work with - we use it to work directly with people to carry out the work of the Foundation
+
+* who work for the Foundation - we use it to efficiently, predictably and lawfully recruit, manage and support staff
 
 ## Who we share your personal information with
 
@@ -54,11 +60,11 @@ While your personal data is stored on our systems and shared with our data proce
 
 ## How long we keep your personal information
 
-* People can always unsubscribe from our mailing list.
+People can always unsubscribe from our mailing list.
 
-* As a contact for a piece of work, we may contact you where a work matter requires your input. Once you leave the role, we'll update or delete the information we hold about you. This will take place at least once a year.
+As a contact for a piece of work, we may contact you where a work matter requires your input. We'll keep your contact information for at least 5 years. If we learn that you've the role, we'll update or delete the information we hold about you promptly.
 
-* We keep staff data for [as long as is required by Dutch law](https://www.tuxx.nl/bewaartermijnen/documenten/#Algemene%20bedrijfsmatige%20documenten) (but no longer than 10 years).
+We keep staff data for [as long as is required by Dutch law](https://www.tuxx.nl/bewaartermijnen/documenten/#Algemene%20bedrijfsmatige%20documenten) (but no longer than 10 years).
 
 ## Changes to this information
 
