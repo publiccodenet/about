@@ -22,7 +22,7 @@ For people who have signed up to get our news, we collect:
 For people we work with, we collect:
 
 * name
-* contact details: email address, physical adddress or phone number
+* contact details: email address, physical address or phone number
 * job title if applicable
 * name of the organization if applicable
 
@@ -31,7 +31,7 @@ For job applicants, staff and interns, we collect:
 * name
 * job title
 * date of birth
-* contact details: email address, physical adddress and phone number
+* contact details: email address, physical address and phone number
 
 We may also collect:
 
