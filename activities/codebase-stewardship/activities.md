@@ -6,6 +6,7 @@ type: Resource
 
 Stewardship activities take place in 4 domains: community, product marketing, quality and support.
 
+
 Community stewardship includes:
 
 * Supporting, consulting on and executing governance
