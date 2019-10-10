@@ -4,7 +4,11 @@ type: Resource
 
 # Activities performed in codebase stewardship
 
-Stewardship activities take place in 4 domains: community, product marketing, quality and support.
+Stewardship activities take place in 4 domains: 
+* community
+* product marketing
+* quality
+* support
 
 ## Community
 
