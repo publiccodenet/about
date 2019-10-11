@@ -17,8 +17,8 @@ We publish all job postings on the [careers section on the homepage](https://pub
 
 We also use the current team's network to spread awareness of the job opening (via email, LinkedIn, social media). We may use (specialized) job sites and recruiters including:
 
-* The [2 StackOverflow Jobs](https://stackoverflow.com/jobs/companies/foundation-for-public-code) slots we have.
-* Our [Twitter account](https://twitter.com/publiccodenet).
+* the [2 StackOverflow Jobs](https://stackoverflow.com/jobs/companies/foundation-for-public-code) slots we have
+* our [Twitter account](https://twitter.com/publiccodenet)
 
 ## Processing reactions of people expressing interest
 

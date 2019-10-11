@@ -34,7 +34,7 @@ Support stewardship includes:
 * Trainings
 * Project infrastructure and process management
 * Intellectual property management and trademark protection
-* Support with vendor relations, including maintenance, implementation and integration partners as well as hosting providers.
+* Support with vendor relations, including maintenance, implementation and integration partners as well as hosting providers
 
 ## We represent the codebase
 
