@@ -4,8 +4,6 @@ type: Resource
 
 # ARTICLES OF ASSOCIATION: FOUNDATION FOR PUBLIC CODE VERENIGING
 
-LW/EV 9299.01 CREATION OF FOUNDATION FOR PUBLIC CODE ASSOCIATION (5)
-
 > This is an unofficial translation of the [original Dutch version of the Foundation for Public Code's articles of association](articles-of-association.nl.md).
 
 On the 3rd of June 2019 appears before me, Mr Lourens Wouter de Waard, civil-law notary with registered office in Amsterdam:
