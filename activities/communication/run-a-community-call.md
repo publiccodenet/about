@@ -1,8 +1,9 @@
 ---
-type: Resource
+type: Guide
+explains: what to set up and how to run and follow up on a community call
 ---
 
-# How to run a community call
+# Running a community call
 
 The roles on the community call are:
 
