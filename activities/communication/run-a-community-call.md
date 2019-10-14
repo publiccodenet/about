@@ -16,7 +16,7 @@ The roles on the community call are:
 The chair and the notetaker:
 
 * create a notes HackMD.io document for this call
-* add "updates since the last community call" to the notes - keep this to three items or less (we want the community call to be a dialogue, not a broadcast). If possible, focus on community related updates
+* add "updates since the last community call" to the notes - keep this to three items or fewer (we want the community call to be a dialogue, not a broadcast). If possible, focus on community related updates
 * put these in the call notes doc
 
 Ask the [communications coordinator](../../organization/staff.md#communications) if you need help with Foundation updates.
