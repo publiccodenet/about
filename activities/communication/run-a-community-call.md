@@ -33,10 +33,8 @@ Consider putting a Foundation for Public Code poster on the wall behind you.
 ## Templated agenda items
 
 1. Opening the call
-
-* Introduction round (all)
-* Short update from the Foundation for Public Code (chair)
-
+  * Introduction round (all)
+  * Short update from the Foundation for Public Code (chair)
 2. Substance of the call
 
 ## 1. Opening the call
@@ -70,13 +68,13 @@ The chair:
 * gives optional Foundation intro
 * gives update since the last community call (from the notes document)
 
-> #### Optional intro to the Foundation
+#### Optional intro to the Foundation
 
-> The Foundation for Public Code is a member-driven, member-funded and member-governed association of public organizations.
+The Foundation for Public Code is a member-driven, member-funded and member-governed association of public organizations.
 
-> We work to enable open and collaborative public-purpose software for public organizations internationally.
+We work to enable open and collaborative public-purpose software for public organizations internationally.
 
-> The Foundation for Public Code supports software at the codebase level through codebase stewardship and by publishing the Standard for Public Code.
+The Foundation for Public Code supports software at the codebase level through codebase stewardship and by publishing the Standard for Public Code.
 
 ## 2. Substance of the call
 
