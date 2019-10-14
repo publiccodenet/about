@@ -104,5 +104,5 @@ The notetaker reworks the call notes into a call summary.
 
 The notetaker shares the call summary with people who were on the call for amendment and approval before:
 
-* publishing on [blog.publiccode.net](https://blog.publiccode.net/)
 * linking from any relevant GitHub issues or pull requests
+* publishing anywhere else
