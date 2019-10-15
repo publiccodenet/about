@@ -13,7 +13,10 @@ An assessment spreadsheet is meant to be shared with current maintainers in orde
 4. Import the values for the answers from the new spreadsheet into a new column in the [Codebase Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1wUrlZ73S-4BK3sGz87C28d0ReYELCCP4MZnKpB0UKqM/edit#gid=1451436268) (not publicly available), on the tab DASHBOARD.
     * Use the function IMPORTRANGE to link in the answers.
     * Since IMPORTRANGE cannot be drag-copy-cell number increased in Google Sheets, it can save time to use concatenate in Libre Office.
-         * Example of Libre Office that could be drag-copy-cell number increased and pasted into the dashboard just swap out the URL with the one for the newly created spreadsheet:
+
+## Libre Office example
+
+ This Libre Office example can be drag-copy-cell number increased and pasted into the dashboard. Just swap out the URL with the one for the newly created spreadsheet.
 
 | A1 | B1 | C1 |
 | -- | -- | -- |
