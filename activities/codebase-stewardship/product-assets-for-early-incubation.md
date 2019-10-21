@@ -50,4 +50,5 @@ We assume the product asset order will be different for greenfield development.
 | 25 | Choose license | Provides assistance | Support |
 | 26 | A publiccode.yml file | Creates proposal | Product |
 
-
+## Further reading
+* [Governance exercice](governance-exercise.md)
