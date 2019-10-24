@@ -5,7 +5,7 @@ The Foundation strongly supports individuals' right to privacy. For this reason 
 We keep contact details for:
 
 * people who have signed up to get our news
-* people (and their organizations) we work with
+* people and organizations we work with
 * staff and interns
 
 The bases for processing this information are respectively consent, legitimate interest and to fulfill a contract.
@@ -24,7 +24,7 @@ For people we work with, we collect:
 * name
 * contact details: email address, physical address or phone number
 * job title if applicable
-* name of the organization if applicable
+* organization name if applicable
 
 For job applicants, staff and interns, we collect:
 
@@ -42,13 +42,11 @@ We may also collect:
 
 ## What we do with your personal information
 
-For people:
+We use your personal information to:
 
-* who have signed up  - we use it to send people information about our news and events
-
-* we work with - we use it to work directly with people to carry out the work of the Foundation
-
-* who work for the Foundation - we use it to efficiently, predictably and lawfully recruit, manage and support staff
+* send information about our news and events (if you've signed up to our mailing list)
+* work directly with people to carry out the work of the Foundation (if you work with the Foundation)
+* efficiently, predictably and lawfully recruit, manage and support staff (if you work for the Foundation)
 
 ## Who we share your personal information with
 
