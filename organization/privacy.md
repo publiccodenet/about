@@ -60,7 +60,7 @@ While your personal data is stored on our systems and shared with our data proce
 
 People can always unsubscribe from our mailing list.
 
-As a contact for a piece of work, we may contact you where a work matter requires your input. We'll keep your contact information for at least 5 years. If we learn that you've the role, we'll update or delete the information we hold about you promptly.
+As a contact for a piece of work, we may contact you where a work matter requires your input. We'll keep your contact information for at least 5 years. If we learn that you've left the role, we'll update or delete the information we hold about you promptly.
 
 We keep staff data for [as long as is required by Dutch law](https://www.tuxx.nl/bewaartermijnen/documenten/#Algemene%20bedrijfsmatige%20documenten) (but no longer than 10 years).
 
