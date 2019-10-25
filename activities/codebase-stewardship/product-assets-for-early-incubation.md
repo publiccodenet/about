@@ -57,8 +57,8 @@ This list is based on assumptions that we're testing as we assess codebases.
 These include that:
 
 * making clear which responsibilities the Foundation has vs other parties is useful
-* which other party is responsible will differ by codebase
-* for some codebases, multiple parties will share responsibility for non-Foundation tasks (for example, a codebase's current maintainers and a replicator working together)
-* the size of each task will depend on codebase size and complexity
+* which other party is responsible differs by codebase
+* for some codebases, multiple parties share responsibility for non-Foundation tasks (for example, a codebase's current maintainers and a replicator working together)
+* the size of each task depends on codebase size and complexity
 * this list can be used as a checklist or plan of work during incubation
 * it might be useful to reframe these as user needs, user stories or jobs to be done
