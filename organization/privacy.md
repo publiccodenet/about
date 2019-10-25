@@ -49,7 +49,11 @@ We don't share your personal information with third parties or sell it.
 
 Because your personal information is stored on our IT systems, it's shared with our data processors who provide email, document management and storage services.
 
-While your personal data is stored on our systems and shared with our data processors, it may be transferred and stored securely outside the European Union. Where this is the case it will be subject to equivalent legal protection through the use of model contract clauses.
+While your personal data is stored on our systems and shared with our data processors, it may be transferred and stored securely outside the European Union. Where this is the case it will be subject to equivalent legal protection through the use of model contract clauses or binding corporate rules.
+
+[Read more about the tools we use to process your data and their GDPR compliance] .
+
+
 
 ## How long we keep your personal information
 
