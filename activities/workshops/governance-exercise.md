@@ -10,17 +10,12 @@ This exercise lets the participants co-create a governance model. The participan
 
 Each of these should have an introduction to the task and explaining the expectations of the outcome so that everybody participating knows what to do.
 
-- A current situation
-
-  - Reason: to get their brains started and see that the process is both complex and probably incomplete.
-
-- An ideal situation
-
-  - Reason: If the participants get to design a new process after describing what they have, they will be part of a process of change. Since they themselves have identified a gap to where they want to be they have internalized that change is coming.
-
-- Discussion
-
-  - Reason: By discussing what they came up with they will realize what went through the different participants heads.
+* A current situation
+  * Reason: to get their brains started and see that the process is both complex and probably incomplete.
+* An ideal situation
+  * Reason: If the participants get to design a new process after describing what they have, they will be part of a process of change. Since they themselves have identified a gap to where they want to be they have internalized that change is coming.
+* Discussion
+  * Reason: By discussing what they came up with they will realize what went through the different participants heads.
 
 ## Preparation
 
@@ -50,9 +45,9 @@ Feel free to draw upon your own experience and prejudice about municipal work. I
 
 Use the available icons and arrows to show what actors are involved. What are the relations? Show:
 
-- _how decisions are being made_
-- _information flows_
-- _money_, etc.
+* _how decisions are being made_
+* _information flows_
+* _money_, etc.
 
 Write on the arrows to make clear what they mean. You are encouraged to write on the icons to help you distinguish them better. If you need more icons or arrows, ask.
 
@@ -98,10 +93,10 @@ Is there anything particular that stood out to them while doing this? Any realiz
 
 ## Resources
 
-- [Icon sheets](governance-exercise-icons.pdf)
-- [Instructions for A current situation for participants](governance-exercise-instructions-1.odt)
-- [Instructions for An ideal situation for participants](governance-exercise-instructions-2.odt)
-- [Problem cards](governance-exercise-problem-cards.pdf)
+* [Icon sheets](governance-exercise-icons.pdf)
+* [Instructions for A current situation for participants](governance-exercise-instructions-1.odt)
+* [Instructions for An ideal situation for participants](governance-exercise-instructions-2.odt)
+* [Problem cards](governance-exercise-problem-cards.pdf)
 
 ## Credits
 
