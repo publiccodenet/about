@@ -19,4 +19,3 @@ For possible applicants:
 See also:
 
 * [Staff](../../organization/staff.md)
-
