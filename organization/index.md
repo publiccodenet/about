@@ -29,12 +29,14 @@ This is how we approach our work:
 * [Definition of done](definition-of-done.md)
 * [Privacy and GDPR](privacy.md)
 
-## Legal registration and bank account number
+## Legal registration
 
-We're registered as an association (vereniging met volledige rechtsbevoegdheid) under Dutch law. Our full name is the Foundation for Public Code Vereniging.
+We're registered as an association (vereniging met volledige rechtsbevoegdheid) under Dutch law. Our full name is the Foundation for Public Code Vereniging. We're recognized as a [public benefit organization (ANBI)](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/other_subjects/public_benefit_organisations/) by the Dutch Tax and Customs Administration.
 
 Our chamber of commerce (KvK) registration number is 74996452.
 
 Our identification number for legal entities (RSIN) is 860102294.
+
+## Bank account number
 
 Our bank account number (IBAN) is NL78 RABO 0342 6453 31 (BIC/SWIFT: RABONL2U).
