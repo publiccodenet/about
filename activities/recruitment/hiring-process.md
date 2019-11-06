@@ -17,8 +17,8 @@ We publish all job postings on the [careers section on the homepage](https://pub
 
 We also use the current team's network to spread awareness of the job opening (via email, LinkedIn, social media). We may use (specialized) job sites and recruiters including:
 
-* The [2 StackOverflow Jobs](https://stackoverflow.com/jobs/companies/foundation-for-public-code) slots we have.
-* Our [Twitter account](https://twitter.com/publiccodenet).
+* the [2 StackOverflow Jobs](https://stackoverflow.com/jobs/companies/foundation-for-public-code) slots we have
+* our [Twitter account](https://twitter.com/publiccodenet)
 
 ## Processing reactions of people expressing interest
 
@@ -36,3 +36,10 @@ Questions about the content of the position are routed to CEO. Questions about t
 8. Third interview, hopefully a formality, of the preferred candidate with a BOD member.
 9. HRM makes the offer to the candidate and negotiates, always in consultation with CEO and the director(s).
 10. Signing of contract and starting by the new team member, supervised by their hierarchical supervisor.
+
+## Resources for interviewers
+
+For interviewers the following resources are available. Access to these documents, since it might give an candidate insights into the questions we want to ask, is secret and limited to interviewers.
+
+* [Candidate evaluation sheet for community (secret)](https://docs.google.com/spreadsheets/d/1khdHvzk241xmkiih_4fTLj9QVdTIiK8TelBrg9QX_3k/edit#gid=0): to perform a quick post-interview exercise to highlight the candidate's strengths and weaknesses
+* [Example questions to ask in an interview (secret)](https://docs.google.com/document/d/10J9i2komx8HnlPqQAMyby97ambdoU1VdHQccUO5WKYI/edit?usp=sharing)

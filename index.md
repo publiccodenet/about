@@ -16,7 +16,7 @@ The [About site](activities/documentation/index.md) is home to all of our staff 
 
 Read more about:
 
-* [our activities](activities/index.md) (starting summer 2019)
+* [our activities](activities/index.md)
 * [our organization](organization/index.md)
 * [glossary of terms and concepts](glossary/index.md)
 
