@@ -10,7 +10,7 @@ This is a template agenda for our regular all hands meeting
 
 In this session, we make sure the important life signs of the organisation are shared with everyone and that the whole team knows of changes that will impact them all.
 
-## Preparation 
+## Preparation
 
 If you are chairing this meeting you should prepare it fully
 Each meeting, someone (not the chair) is responsible for facilitating remote participation.
