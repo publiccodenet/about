@@ -7,7 +7,7 @@ explains: This is a template agenda for our regular retrospective
 
 ## Goal
 
-In this session, we look back at how things went in the team and try to identify what can be done better
+In this session, we look back at how things went in the team and try to identify what can be done better, and identify next steps
 
 ## Preparation
 
