@@ -1,9 +1,10 @@
 ---
 type: Resource
-explains: This is a template agenda for a staff debrief after an event
 ---
 
 # Event debrief
+
+This is a template agenda for a staff debrief after an event
 
 ## Goal
 
