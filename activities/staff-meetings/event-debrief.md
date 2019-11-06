@@ -3,13 +3,13 @@ type: Resource
 explains: This is a template agenda for a staff debrief after an event
 ---
 
-# Agenda
+# Template agenda
 
 1) New contacts
 * who are the interesting people we met?
 * why do we think they are interesting for us as an organization?
 
-2) What could the event and our participation in it mean for:
+2) What could the event and our participation in it mean for
 * membership
 * codebase stewardship
 * the Standard for Public Code
