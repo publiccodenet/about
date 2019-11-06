@@ -65,13 +65,11 @@ Imagine again that you all are living and working in Middletown **municipality**
 
 Together with **three other municipalities** you have developed an **open source IT system**. It is a festival managing system. You use it for managing festivals taking place in your respective municipalities. It is in use since two years. The main **end users** of the system are civil servants in your municipality.
 
-You all have competent but small **IT departments** with some **in-house developers**. As **commissioning public organizations** you have outsourced most of the work to 
+You all have competent but small **IT departments** with some **in-house developers**. As **commissioning public organizations** you have outsourced most of the work to **developer vendors**.
 
-<u><strong>developer vendors</strong>.</u>
+**Each of you have a separate deployment of the system.**
 
-<u>Each of you have a separate deployment of the system.</u>
-
-<u>In this universe you have already established a collaboration with the <strong>Foundation for Public Code</strong>.</u>
+**In this universe you have already established a collaboration with the Foundation for Public Code.**
 
 ### Exercise
 
