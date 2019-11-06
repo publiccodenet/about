@@ -19,4 +19,4 @@ For possible applicants:
 See also:
 
 * [Staff](../../organization/staff.md)
-
+* [Staff contributor guide](../../contributor-guides/for-staff.md)

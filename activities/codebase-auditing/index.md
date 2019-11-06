@@ -4,8 +4,6 @@ type: Index
 
 # Codebase auditing
 
-> The Foundation for Public Code will only start auditing codebases in summer 2019.
-
 We perform audits on [codebases](../../glossary/codebase-definition.md) – including source code, policy, documentation and conversations therein – as well as individual contribution to that codebase in order to guarantee that they are compliant with:
 
 * the [Standard for Public Code](https://standard.publiccode.net/)
