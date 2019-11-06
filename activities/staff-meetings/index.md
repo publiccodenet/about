@@ -7,4 +7,4 @@ explains: This index contains the resources and guides for staff to run and part
 
 * [Event debrief](event-debrief.md) 
 * [Retrospective](retrospective-agenda.md)
-
+* [All hands](all-hands.md)
