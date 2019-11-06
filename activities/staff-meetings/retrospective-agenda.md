@@ -23,7 +23,7 @@ What you need to prepare:
     * Notes on what went well
     * Notes on what went poorly
     * Notes of appreciation
-3) One by one everyone puts their notes on the wall explaining them. Whilst doing this the rest  listens, no interruptions except for clarifying questions
+3) One by one everyone puts their notes on the wall explaining them. Whilst doing this the rest listens, no interruptions except for clarifying questions
 
 4) 5 minute break
 
