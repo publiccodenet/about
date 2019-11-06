@@ -19,7 +19,7 @@ As such, all our activities are explicitly targeted at the codebase level. We do
 
 ## Community
 
-Successful open source codebases build a diverse community of public organizations and vendors to implement and support the product. This includes multiple public organizations contracting new development work, and multiple developing parties adding code to the GitHub repository.
+Successful open source codebases build a diverse community of public organizations and vendors to implement and support the product. This includes multiple public organizations contracting new development work, and multiple developing parties adding code to the repository.
 
 The Foundation for Public Code will help facilitate these interactions around the code - by for example setting up community calls and forums, answering questions for newcomers, and facilitating the governance and technical steering in a way that is open and inclusive to everyone working at the code level (including developers, implementers, and open source enthusiasts). This will help avoid duplicate work, and ensure new actors beyond those already involved can join and participate easily.
 
@@ -36,7 +36,7 @@ Community stewardship includes:
 
 Successful open source codebases leverage economies of scale in a decentralized manner - various developers add features and fixing bugs, while various implementers support public organizations in their implementations.
 
-The Foundation for Public Code will help guarantee that all the code and corresponding documentation is ready for reuse. This includes a quality check on all new code added to the GitHub repository, and making sure everything is properly explained so other people can use it in their work. This helps all parties involved to trust each other’s code and work - allowing them to build on each other.
+The Foundation for Public Code will help guarantee that all the code and corresponding documentation is ready for reuse. This includes a quality check on all new code added to the repository, and making sure everything is properly explained so other people can use it in their work. This helps all parties involved to trust each other’s code and work - allowing them to build on each other.
 
 Quality stewardship includes:
 
