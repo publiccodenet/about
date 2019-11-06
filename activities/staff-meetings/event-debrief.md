@@ -3,7 +3,7 @@ type: Resource
 explains: This is a template agenda for a staff debrief after an event
 ---
 
-# Template agenda
+# Event debrief
 
 1) New contacts
 * who are the interesting people we met?
