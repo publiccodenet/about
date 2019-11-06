@@ -13,7 +13,7 @@ As an organization which cares about helping people to collaborate there will be
 * Appoint someone who is responsible for this particular event. Even though responsibilities might be delegated, it helps to be clear on who has authority to make decisions. This also reduces the risk that a task might be left undone.
 * Decide on date and place for the event. Book the space as early as possible.
 * Create internal awareness. In order to enable synergies, sharing the overall plans with the rest of the organization is important.
-* As a team, consider how you'll get longer term value from the event - can you design reusable workshops, or film the talks so that people can access them later?
+* As a team, consider how you'll get longer term value from the event. Can you design reusable workshops, or film the talks so that people can access them later?
 
 ## In the months and weeks leading up to the events
 
