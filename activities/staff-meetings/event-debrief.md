@@ -32,4 +32,4 @@ Individually, develop high level notes on who you met, what you learnt and poten
 * assign next steps to a team of owners (at least 2 staff members)
 * define a timeframe, if relevant
 
-4) Decide if it would be useful to run a retro for this event
+4) Decide if it would be useful to run a [retrospective](retrospective-agenda.md) for our preparation, participation and debrief for this event
