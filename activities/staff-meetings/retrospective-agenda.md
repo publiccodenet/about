@@ -1,9 +1,9 @@
 ---
 type: Resource
-explains: This is a template agenda for our regular retro events
+explains: This is a template agenda for our regular retrospective
 ---
 
-# Retro events
+# Retrospective
 
 ## Goal
 
