@@ -1,9 +1,10 @@
 ---
 type: Resource
-explains: This is a template agenda for our regular all hands meeting
 ---
 
 # All hands
+
+This is a template agenda for our regular all hands meeting
 
 ## Goal
 
