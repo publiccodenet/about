@@ -18,6 +18,7 @@ Activities that support the above as well as make staff operations work:
 * [Organizing events](organizing-events/index.md)
 * [Procurement](procurement/index.md)
 * [Recruitment](recruitment/index.md)
+* [Staff meetings](staff-meetings/index.md)
 * [Trainings](trainings/index.md)
 * [Value and impact](value-and-impact/index.md)
-* [Staff meetings](staff-meetings/index.md)
+* [Workshops](workshops/index.md)
