@@ -1,9 +1,10 @@
 ---
 type: Resource
-explains: This is a template agenda for our regular retrospective
 ---
 
 # Retrospective
+
+This is a template agenda for our regular retrospective
 
 ## Goal
 
