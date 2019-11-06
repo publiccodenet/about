@@ -6,5 +6,5 @@ explains: This index contains the resources and guides for staff to run and part
 # Staff meetings at the Foundation for Public Code
 
 * [Event debrief](event-debrief.md) 
-* [Retro](retrospective-agenda.md)
+* [Retrospective](retrospective-agenda.md)
 
