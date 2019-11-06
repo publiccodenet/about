@@ -63,7 +63,7 @@ Support stewardship includes:
 
 Successful open source codebases involve a wide community to partake in the actions described above.
 
-The Foundation for Public Code will support the marketing of codebases to reach public organizations and vendors beyond (the network of) the current consortium. This can include help with the codebase’s branding, storytelling and marketing assets. This will help make the codebase attractive internationally and to new vendors, and easier to scale in the local context.
+The Foundation for Public Code will support the marketing of codebases to reach public organizations and vendors beyond (the network of) the current community. This can include help with the codebase’s branding, storytelling and marketing assets. This will help make the codebase attractive internationally and to new vendors, and easier to scale in the local context.
 
 Product marketing stewardship includes:
 
