@@ -19,3 +19,4 @@ Activities that support the above as well as make staff operations work:
 * [Recruitment](recruitment/index.md)
 * [Trainings](trainings/index.md)
 * [Value and impact](value-and-impact/index.md)
+* [Staff meetings](staff-meetings/index.md)
