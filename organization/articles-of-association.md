@@ -4,8 +4,6 @@ type: Resource
 
 # ARTICLES OF ASSOCIATION: FOUNDATION FOR PUBLIC CODE VERENIGING
 
-LW/EV 9299.01 CREATION OF FOUNDATION FOR PUBLIC CODE ASSOCIATION (5)
-
 > This is an unofficial translation of the [original Dutch version of the Foundation for Public Code's articles of association](articles-of-association.nl.md).
 
 On the 3rd of June 2019 appears before me, Mr Lourens Wouter de Waard, civil-law notary with registered office in Amsterdam:
@@ -118,7 +116,7 @@ The person appearing (comparante), acting as described, declares that the founde
 
 7.1.    Founders do not owe any membership dues.
 
-7.2.    Every public member has to pay annual membership dues.  
+7.2.    Every public member has to pay annual membership dues.
 
 The annual membership dues payable by a public member for a given financial year of the association shall be agreed between the board of directors and that public member no later than 1 December in the financial year preceding the financial year to which the membership dues relate. The board of directors and a public member can also agree on the membership dues for several financial years.
 
@@ -326,9 +324,9 @@ If no advisory board has been set up, the powers conferred on the advisory board
 
 23.5.    The advisory board consists of a number of members to be determined by the advisory board, it being understood that when the advisory board is set up, the initiator of the advisory board shall determine the number of persons on the advisory board.
 
-Only natural persons can be members of the advisory board.  
+Only natural persons can be members of the advisory board.
 
-A director cannot be a member of the advisory board.  
+A director cannot be a member of the advisory board.
 
 A founder may be a member of the advisory board.
 
