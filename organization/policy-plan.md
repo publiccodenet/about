@@ -10,7 +10,7 @@ This policy plan sets out the Foundation for Public Code Vereniging’s current 
 
 This policy plan was adopted at the 23 August 2019 board of directors meeting and approved by the general assembly. This policy plan covers 2019-2022, but can be modified annually by the general assembly if needed.
 
-The Foundation for Public Code Vereniging (referred to hereafter as the Foundation for Public Code or ‘the association’) was established to solve an infrastructure gap in public sector collaboration. Public organizations (like cities) are both more interested in and producing more open source software than ever before. [Persuaded by open source's advantages](https://fsfe.org/campaigns/publiccode/brochure.en.html), public organisations then struggle to:
+The Foundation for Public Code Vereniging (referred to hereafter as the Foundation for Public Code or ‘the association’) was established to solve an infrastructure gap in public sector collaboration. Public organizations (like cities) are both more interested in and producing more open source software than ever before. [Persuaded by open source's advantages](https://fsfe.org/campaigns/publiccode/brochure.en.html), public organizations then struggle to:
 
 * discover existing open source software that they can adopt
 * build open source software flexible enough that other public organizations can adopt it
@@ -36,7 +36,7 @@ Public code stewarded by the Foundation is openly available for reuse by everyon
 The association seeks to achieve its goal by carrying out the following activities (article 3.2. of the association bylaws):
 
 * a.    the provision of services that can increase the sustainability, quality and re-use of public code
-* b.    facilitating and encouraging the sharing of existing public code between public members and other public organisations
+* b.    facilitating and encouraging the sharing of existing public code between public members and other public organizations
 * c.    carrying out research for the (further) development of public code
 * d.    drawing attention to problems ascertained and giving advice with regard to the public code they use
 * e.    everything related to or conducive to the above, all in the broadest sense
@@ -54,7 +54,7 @@ If the Foundation for Public Code’s board of directors decides to dissolve the
 
 ### 2.2 Mission
 
-The Foundation for Public Code’s mission is ‘to enable public-purpose software and policy that is open and collaborative’ (established in article 3.1 of the bylaws). Public-purpose software and policy stewarded by the Foundation will be available for easy, free reuse or improvement by anyone, anywhere.
+The Foundation for Public Code’s mission is "to enable public-purpose software and policy that is open and collaborative" (established in article 3.1 of the bylaws). Public-purpose software and policy stewarded by the Foundation will be available for easy, free reuse or improvement by anyone, anywhere.
 
 The Foundation for Public Code is completely unique. There is no other organization that provides impartial codebase stewardship services designed to support public organizations collaborating with each other for the benefit of citizens and taxpayers. This distinguishes it from organizations providing open source codebase stewardship for private sector projects, from vendors selling open source software development to public organizations, and from activist groups lobbying governments to spend taxpayer money only on open source software.
 
@@ -124,7 +124,7 @@ The Foundation for Public Code’s income and assets come primarily from:
 
 The association’s income and assets enable it to achieve its mission. In line with its mission, the Foundation for Public Code spends its income on codebase stewardship and to support the public code ecosystem.
 
-Our current budgetary goals are to raise €3 million for Phase 1 and 2, so that we can meet our expected level of expenditure. Please note that the Foundation for Public Code will not actively pursue donations and gifts and will spend no or very limited time on fundraising (not more than 5% of its budget).
+Our current budgetary goals are to raise €3 million for phase 1 and 2, so that we can meet our expected level of expenditure. Please note that the Foundation for Public Code will not actively pursue donations and gifts and will spend no or very limited time on fundraising (not more than 5% of its budget).
 
 ### 4.2 Asset management
 

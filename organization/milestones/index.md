@@ -4,7 +4,7 @@ type: Resource
 
 # Milestones
 
-We use milestones to plan our work around and set priorities. Milestones replace what other organisations would call 'projects' by focussing on the key achievements over certain deliverables.
+We use milestones to plan our work around and set priorities. Milestones replace what other organizations would call 'projects' by focussing on the key achievements over certain deliverables.
 
 Everyone in the organization works to accomplish these milestones.
 
