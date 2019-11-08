@@ -22,7 +22,7 @@ We also use the current team's network to spread awareness of the job opening (v
 
 ## Processing reactions of people expressing interest
 
-Questions about the content of the position are routed to CEO (Boris@publiccode.net). Questions about the hiring procedure and the conditions are routed to HRM (Mirjam@publiccode.net). Applications are also sent to HRM for processing.
+Questions about the content of the position are routed to chief executive. Questions about the hiring procedure and the conditions are routed to HRM. Applications are also sent to HRM for processing.
 
 ## Planned recruitment and hiring process
 
