@@ -2,3 +2,8 @@
 type: Index
 ---
 
+# Existing pain points
+
+This index lists existing pain points for users of the Foundation for Public code products and activities.
+
+[Public organizations](public-organizations.md)
