@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# 
+# Business management and procurement for public administrations
 
 ## What can codebase stewardship mean for my organization?
 
