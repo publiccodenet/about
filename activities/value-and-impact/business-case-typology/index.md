@@ -4,11 +4,13 @@ type: Index
 
 # Business case typology for codebase stewardship 
 
-The Foundation's mission is to enable public software and policy that is open and collaborative. It does this through [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/). Codebase stewardship is a 'complex product' as it has a multi-faceted value proposition at different timescales. 
+The Foundation's mission is to enable public software and policy that is open and collaborative. It does this through [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/). 
 
-Our current model is 'trust-based sell' with known organizations in our network. These are 'mature' organizations who understand the value proposition and have either self-diagnosed the 'need' and/or iterated on (parts) of our 'product'.
+Making a business case for codebase stewardship includes multi-faceted value propositios at different timescales. 
 
-In order to improve the understanding of codebase stewardship, this resource maps out different typologies of use cases and corresponding value propositions and busines cases.
+Our founding members are 'mature' organizations who understand the value proposition and have either self-diagnosed the 'need' and/or have experience with (parts) of our 'activities'.
+
+In order to improve the understanding of codebase stewardship, and help members make the business case for codebase stewardship, this resource maps out different typologies of use cases, corresponding value propositions and associated busines cases.
 
 For each typology it maps:
 * Need/problem of the organization
