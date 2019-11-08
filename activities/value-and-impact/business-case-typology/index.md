@@ -25,8 +25,8 @@ The typologies are based on the 4 axes of our value proposition:
 * Improve Control
 
 Currently mapped typologies include:
-* Reducing risk of future codebases
-* Reducing risks of existing codebases
-* Reducing costs of future codebases
-* Reducing costs of current codebases
+* Reducing risk of future codebase
+* Reducing risks of existing codebase
+* Reducing costs of future codebase
+* Reducing costs of current codebase
 * Improving control of core operations
