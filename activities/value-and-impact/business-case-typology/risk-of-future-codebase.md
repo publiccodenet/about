@@ -6,7 +6,7 @@ type: Resource
 
 ## Need/problem 
 
-* organization(s) procuring or building a large and complex codebase(s)
+* Organization(s) procuring or building a large and complex codebase(s)
 
 ## Value proposition of codebase stewardship 
 

@@ -6,7 +6,7 @@ type: Resource
 
 ## Need/problem: 
 
-* organization(s) developing a new codebase with a high reuse potential
+* Organization(s) developing a new codebase with a high reuse potential
 
 ## Value proposition of codebase stewardship: 
 

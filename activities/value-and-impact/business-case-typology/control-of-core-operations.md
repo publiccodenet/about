@@ -6,7 +6,7 @@ type: Resource
 
 ## Need/problem: 
 
-* organization with codebase that is critical to core operations and needs to be malleable 
+* Organization with codebase that is critical to core operations and needs to be malleable 
 
 ## Value proposition of codebase stewardship: 
 

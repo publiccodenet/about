@@ -6,7 +6,7 @@ type: Resource
 
 ## Need/problem: 
 
-* organization(s) with large codebase(s) with high technical debt, either in production or failed development not in production. 
+* Organization(s) with large codebase(s) with high technical debt, either in production or failed development not in production. 
 
 ## Value proposition of codebase stewardship: 
 

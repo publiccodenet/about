@@ -6,7 +6,7 @@ type: Resource
 
 ## Need/problem: 
 
-* organization with existing high-value codebase that is not being reused or contributed to
+* Organization with existing high-value codebase that is not being reused or contributed to
 
 ## Value proposition of codebase stewardship: 
 
