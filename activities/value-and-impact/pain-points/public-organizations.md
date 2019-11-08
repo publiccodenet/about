@@ -2,6 +2,8 @@
 type: Resource
 ---
 
+# Public organizations maturing in their approach to digital public infrastructure
+
 As public organizations mature in their approaches to their digital public infrastructure, typical challenges include: 
 
 * **Operational delivery**: developing the exertise to operationally manage digital innovation projects, including in-house development, procurement, and the management of third party vendors, often without in-house technical expertise 
