@@ -18,7 +18,7 @@ Docusign's [GDPR Basics and How DocuSign Can Help](https://www.docusign.com/gdpr
 
 ## G Suite
 
-We use G Suite for its internal email and document management.
+We use G Suite for email and internal document management.
 
 Google's [introduction to Google Cloud & the General Data Protection Regulation (GDPR)](https://cloud.google.com/security/gdpr/) says that G Suite relies on model contracts:
 
