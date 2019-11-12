@@ -1,5 +1,5 @@
 ---
-type:resource
+type: Resource
 ---
 
 # Events
