@@ -61,7 +61,7 @@ As an organization which cares about helping people to collaborate there will be
 
 ## Further reading
 
-* Example of an [event logistics tracking spreadsheet](https://docs.google.com/spreadsheets/d/1l5-DuHCEq4cSF01vkUpZb806to-sqQ3BDcy2IAPpSMg/edit#gid=0) (not publicly shared)
+* Example of an [event logistics tracking spreadsheet (secret)](https://docs.google.com/spreadsheets/d/1l5-DuHCEq4cSF01vkUpZb806to-sqQ3BDcy2IAPpSMg/edit#gid=0). Since this example contains names and email addresses, it can not be publicly shared.
 
 ## Credits
 
