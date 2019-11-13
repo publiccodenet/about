@@ -13,7 +13,7 @@ Our office:
 * supports different kinds of work, from collaboration to focus
 * the office is always ready to support the work that needs to be done inside it
 
-We have an office is because it enables a level of collaboration otherwise very hard to achieve. The office serves as one of the tools at our availability to achieve our mission.
+We have an office because it enables a level of collaboration otherwise very hard to achieve. The office serves as one of the tools at our availability to achieve our mission.
 
 We are a community organization so working with those outside of our office is the main priority in how we use the space. We want the costs for collaboration with anyone outside to be as low as possible.
 
@@ -71,4 +71,4 @@ Please remember to keep our office professional:
 
 * Tidy a space at the end of your use, remove cups, trash, put chairs back, and keep the door open to indicate it is free.
 * When leaving the office, make sure your desk is tidy and connected so others can use your it, help the cleaners and keep the office professional.
-* Don't eat in any other spaces than the lunch space, excepting the meeting space if a meeting is catered.
+* Don't eat in any other spaces than the lunch space, except if you participate in a catered meeting in the meeting space.
