@@ -26,7 +26,7 @@ As an organization which cares about helping people to collaborate there will be
 
 * Upload photos to some storage solution.
 * If just one person attended the event, do at least a debrief at the daily standup and offer to venture deeper with anyone who may be interested.
-* If two people attended the event sit down for a short debrief with each other.
+* If two people attended the event, sit down for a short debrief with each other.
 * If three or more people attended the event, consider doing a [retrospective](../staff-meetings/retrospective-agenda.md).
 * Evalute if the goals setup for the event were met.
 * Process all expenses for the event.
