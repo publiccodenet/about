@@ -15,7 +15,7 @@ As an organization which cares about helping people to collaborate there will be
 * Appoint someone who is responsible for this particular event. Even though responsibilities might be delegated, it helps to be clear on who has authority to make decisions. This also reduces the risk that a task might be left undone.
 * Take in consideration that if the event is large, being at least two attending can be crucial to cover all the things that are important for the goals to be met.
 * Create internal awareness. In order to enable synergies, sharing the overall plans with the rest of the organization is important.
-* Check the agenda, if someone happen to be connected to any of the speakers, consider reaching out.
+* Check the agenda, if someone happens to be connected to any of the speakers, consider reaching out.
 * Consider bringing the printed version of the Standard for Public Code or other informational material we have to give away to people that want to get to know us better.
 
 ### During the event
