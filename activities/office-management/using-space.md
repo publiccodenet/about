@@ -71,4 +71,4 @@ Please remember to keep our office professional:
 
 * Tidy a space at the end of your use, remove cups, trash, put chairs back, and keep the door open to indicate it is free.
 * When leaving the office, make sure your desk is tidy and connected so others can use your it, help the cleaners and keep the office professional.
-* Don't eat in any other spaces than the lunch space, excepting the meeting space if a meeting is catered.
+* Don't eat in any other spaces than the lunch space, except if you participate in a catered meeting in the meeting space.
