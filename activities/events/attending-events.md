@@ -36,7 +36,7 @@ As an organization which cares about helping people to collaborate there will be
 ### Before the event
 
 * As a team, agree publicly shareable goals for your attendance at the event that can be used as elevator pitches and calls to action in communications (in addition to any private goals).
-* Draft generic tweets for each session or speaker the team will attend.
+* Draft generic tweets for each session the team will attend.
 * Draft clever, thoughtful tweets to support any presentations we give.
 
 ### During the event
