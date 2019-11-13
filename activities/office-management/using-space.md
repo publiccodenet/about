@@ -13,7 +13,7 @@ Our office:
 * supports different kinds of work, from collaboration to focus
 * the office is always ready to support the work that needs to be done inside it
 
-We have an office is because it enables a level of collaboration otherwise very hard to achieve. The office serves as one of the tools at our availability to achieve our mission.
+We have an office because it enables a level of collaboration otherwise very hard to achieve. The office serves as one of the tools at our availability to achieve our mission.
 
 We are a community organization so working with those outside of our office is the main priority in how we use the space. We want the costs for collaboration with anyone outside to be as low as possible.
 
