@@ -41,7 +41,7 @@ As an organization which cares about helping people to collaborate there will be
 
 ### During the event
 
-* Tweet the URL of any HackMD running notes document so we create crowdsourced event notes in English.
+* Tweet the URL of any HackMD running notes document so we create crowdsourced event notes in English. If you decide to do this, ensure you do not include secret notes in the document. 
 * Ask the team to share good photos on the group chat.
 * Tweet at least once per session - follow the generic tweet with specific comments crafted during the session.
 
