@@ -7,6 +7,7 @@ explains: The basics for being a staff member of the Foundation for Public Code
 
 Here are some important things to figure out in the first couple of days:
 
+* [Using space guide](../activities/office-management/using-space.md) - how we use the spaces in the office
 * Email - you should have an account, make sure you can send and receive
 * Team Public Code chat - say hello, we're a welcoming bunch
 * Calendar - add your holidays to the team calendar
