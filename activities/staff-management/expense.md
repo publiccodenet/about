@@ -9,7 +9,7 @@ In order to achieve our mission we need to spend money.
 For larger institutional expenses we pay invoices from our bank account.
 For smaller expenses it might be practical for staff to pay for them and file an expense report with the relevant documentation.
 
-As a matter of professional bookkeeping practive we will always have the complete documentation for each expense, and will also make sure that expenses are not only documented properly but also proper per sé. We actively strive to reduce the overhead of processing invoices, as well as reduce access risks.
+As a matter of professional bookkeeping practice we will always have the complete documentation for each expense, and will also make sure that expenses are not only documented properly but also proper per sé. We actively strive to reduce the overhead of processing invoices, as well as reduce access risks.
 
 What you can expense is described in our [remuneration policy](../../organization/remuneration-policy.md).
 
