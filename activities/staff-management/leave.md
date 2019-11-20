@@ -8,7 +8,7 @@ explains: how to take leave for vacation or personal matters
 ## Vacation
 
 You need to plan your vacation together with your direct colleagues and your manager.
-Please add your vacation to your calendar so that colleagues don't invite you to events.
+Please add your vacation to your calendar so that colleagues don't invite you to meetings or events.
 
 Staff have a limited amount of vacation days.
 More days can be bought at cost rate in agreement of your manager and <hr@publiccode.net>.
