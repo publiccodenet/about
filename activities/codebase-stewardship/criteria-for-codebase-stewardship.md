@@ -22,7 +22,7 @@ These criteria enable us to decide whether the codebase is a good fit for the Fo
 * Code reusability: is the code written in a way that makes it easy to be reused?
 * Reuse potential: to what extent can the codebase be reused, both in a different context or for a different purpose?
 * Societal impact: what is the potential societal impact of the codebase becoming public code and being reused?
-* Story: what is the story-telling and communication value of this codebase becoming public code and being reused?  
+* Story: what is the story-telling and communication value of this codebase becoming public code and being reused?
 
 ## How the criteria are assessed
 

@@ -43,7 +43,7 @@ De comparante, handelend als gemeld, verklaart dat de oprichters een vereniging 
 
 1.3. Verwijzingen naar artikelen zijn verwijzingen naar artikelen van deze statuten tenzij uitdrukkelijk anders aangegeven.
 
-1.4. Verwijzingen naar mannelijke personen zoals "hij", "hem" of "zijn" dienen tevens te worden gelezen als een verwijzing naar vrouwelijke personen.  
+1.4. Verwijzingen naar mannelijke personen zoals "hij", "hem" of "zijn" dienen tevens te worden gelezen als een verwijzing naar vrouwelijke personen.
 
 ### Artikel 2: Naam, zetel en duur
 
@@ -96,7 +96,7 @@ advies met betrekking tot de door hen gebruikte public code;
 * a) in geval van een founder:
   * i. door overlijden van de founder;
   * ii. door opzegging door de founder;
-  * iii. doordat de founder onder curatele wordt gesteld; of  
+  * iii. doordat de founder onder curatele wordt gesteld; of
   * iv. door ontzetting zoals bedoeld in artikel 2:35 Burgerlijk Wetboek.
 
 * b) in geval van een public member:
@@ -106,11 +106,11 @@ advies met betrekking tot de door hen gebruikte public code;
   * iii. opzegging door de vereniging met inachtneming van het bepaalde in lid 4; of
   * iv. door ontzetting zoals bedoeld in artikel 2:35 Burgerlijk Wetboek.
 
-6.3. Opzegging door een public member dient schriftelijk te geschieden tegen het einde van het kalenderjaar met inachtneming van een opzegtermijn van ten minste zes (6) maanden.  
+6.3. Opzegging door een public member dient schriftelijk te geschieden tegen het einde van het kalenderjaar met inachtneming van een opzegtermijn van ten minste zes (6) maanden.
 
 6.4. Opzegging door de vereniging dient schriftelijk aan de desbetreffende public member te geschieden. De vereniging hoeft bij geen termijn in acht te nemen. Opzegging door de vereniging kan uitsluitend plaatsvinden indien:
 
-* a) een public member, na daartoe te zijn aangemaand, gedurende drie maanden in gebreke is gebleven te voldoen aan zijn contributie;  
+* a) een public member, na daartoe te zijn aangemaand, gedurende drie maanden in gebreke is gebleven te voldoen aan zijn contributie;
 * b) de public member niet langer kwalificeert als publieke organisatie;
 * c) het bestuur en/of de algemene ledenvergadering is gebleken dat het desbetreffende lid de middelen (zoals software en beleid) van de vereniging gebruikt op een manier die in strijd is met de openbare orde en/of de goede zeden.
 
@@ -130,7 +130,7 @@ Het bedrag van de jaarlijkse contributie die door een public member over een bep
 
 7.6. Indien het lidmaatschap gedurende het boekjaar eindigt, blijft de jaarlijkse contributie van dat jaar volledig verschuldigd.
 
-7.7. Het bestuur houdt een overzicht bij van de overeengekomen en daadwerkelijk ontvangen contributie in het ledenregister van de vereniging.  
+7.7. Het bestuur houdt een overzicht bij van de overeengekomen en daadwerkelijk ontvangen contributie in het ledenregister van de vereniging.
 
 ### Artikel 8: Organisatie
 
@@ -154,7 +154,7 @@ Indien het bestuur aan een verzoek van de leden dan wel van het lid als hiervoor
 
 ### Artikel 11: Toegang tot de algemene ledenvergadering
 
-11.1. Ieder lid heeft toegang tot de vergaderingen van de algemene ledenvergadering, waarbij iedere public member die wil deelnemen aan de vergadering gehouden is een lid van zijn bestuursorgaan, zijn secretaris, zijn griffier of andere voor hem werkzame ambtenaar als vertegenwoordiger aan te wijzen die de public member op de vergadering zal vertegenwoordigen.  
+11.1. Ieder lid heeft toegang tot de vergaderingen van de algemene ledenvergadering, waarbij iedere public member die wil deelnemen aan de vergadering gehouden is een lid van zijn bestuursorgaan, zijn secretaris, zijn griffier of andere voor hem werkzame ambtenaar als vertegenwoordiger aan te wijzen die de public member op de vergadering zal vertegenwoordigen.
 
 Elke vertegenwoordiger van een public member legt bij aanvang van de vergadering op een door het bestuur te bepalen wijze schriftelijke verklaring over waaruit zijn volmacht blijkt om de public member te vertegenwoordigen.
 
