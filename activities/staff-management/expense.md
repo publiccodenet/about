@@ -32,5 +32,6 @@ How to submit an expense form:
 8. Add a photo of the documentation as an attachment.
 9. Press send to submit the expense.
 
-The expense can now be approved by your manager, followed by an approval step by the accountant. Expense requests may be rejected or returned to you for further clarification or documentation through the NMBRS app as well.
-After approval the reimbursement is added to your next salary slip.
+The expense can now be approved by your manager, followed by an approval step by the accountant.
+Expense requests may be rejected or returned to you for further clarification or documentation through the NMBRS app as well.
+After approval the reimbursement is added to your next salary.
