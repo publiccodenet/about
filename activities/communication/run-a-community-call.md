@@ -18,6 +18,8 @@ The chair and the notetaker:
 * create a notes HackMD.io document for this call
 * add "updates since the last community call" to the notes - keep this to three items or fewer (we want the community call to be a dialogue, not a broadcast). If possible, focus on community related updates
 * put these in the call notes doc
+* update the [agenda](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit)
+* send out invitations ([template](community-call-invite-template.md))
 
 Ask the [communications coordinator](../../organization/staff.md#communications) if you need help with Foundation updates.
 
@@ -42,7 +44,7 @@ Consider putting a Foundation for Public Code poster on the wall behind you.
 
 Call-in link: [https://meet.google.com/tfd-acmn-tkb[(https://meet.google.com/tfd-acmn-tkb)
 
-Agenda link: [https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit)
+Agenda link: [https://hackmd.io/-OegeqvoThCbAsw3c3gIjw](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw)
 
 ### No-show
 
