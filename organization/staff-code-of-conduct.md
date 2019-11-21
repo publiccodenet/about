@@ -8,11 +8,11 @@ Staff of the Foundation for Public Code fulfills a crucial role in achieving our
 
 As the Foundation for Public Code is a non-partisan organization that operates in sectors of the economy that have significant political interests it is crucial that the organization as well as its staff are visibly independent, impartial, and objective.
 
-## Community code of conduct
+## Comply with the community code of conduct
 
 Staff are expected to follow the general [code of conduct](../../CODE_OF_CONDUCT.md) that applies to our community. The code of conduct is effectively a part of this staff code of conduct.
 
-## Conflict of interest
+## Conflicts of interest
 
 Any personal interest or any interest in any business or organisation that could compromise the respect of these obligations must be declared immediately.
 
@@ -32,3 +32,9 @@ As an exception a gift can be accepted without prior approval when:
 * and there is no accumulation.
 
 If hospitality is included in the participation of a mission, conference, workshop or other meeting that has been approved it will not require separate approval.
+
+## Security
+
+## Language
+
+## Secrecy
