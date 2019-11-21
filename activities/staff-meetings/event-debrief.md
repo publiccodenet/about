@@ -19,6 +19,7 @@ Individually, develop high level notes on who you met, what you learnt and poten
 1) New contacts:
   * who are the interesting people we met?
   * why do we think they are interesting for us as an organization?
+  * what newsletters, mailing lists or future events should we invite them to?
 
 2) What could the event and our participation in it mean for:
   * membership
