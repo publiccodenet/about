@@ -73,7 +73,7 @@ You all have competent but small **IT departments** with some **in-house develop
 
 ### Exercise
 
-Try to map out how you want to maintain the system. That is, try to place the  actors involved and show what is happening between them. Feel free to invent new actors that did not exist in the first exercise.
+Try to map out how you want to maintain the system. That is, try to place the actors involved and show what is happening between them. Feel free to invent new actors that did not exist in the first exercise.
 
 Use the available icons and arrows to show the relationships between all actors. Specify the relations are and how decisions are being made. Write on the arrows to make clear what they mean. You are encouraged to write on the icons to help you distinguish them better. If you need more icons or arrows, ask.
 
