@@ -44,7 +44,7 @@ Call-in link: [https://meet.google.com/tfd-acmn-tkb[(https://meet.google.com/tfd
 
 Agenda link: [https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit)
 
-### No-show
+### No show
 
 If nobody joins at the call starting time, wait at least 15 minutes before closing the call. If possible, leave the call open the entire hour for potential late drop-ins.
 
