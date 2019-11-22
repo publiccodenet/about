@@ -11,8 +11,8 @@ An assessment spreadsheet is meant to be shared with current maintainers in orde
 2. Rename the new file by switching "copy of TEMPLATE" for the name of the codebase that will be assessed.
 3. Share the file with existing maintainers of the codebase to do the assessment collaboratively.
 4. Import the values for the answers from the new spreadsheet into a new column in the [codebase tracker spreadsheet](https://docs.google.com/spreadsheets/d/1wUrlZ73S-4BK3sGz87C28d0ReYELCCP4MZnKpB0UKqM/edit#gid=1451436268) (not publicly available), on the tab DASHBOARD.
-    * Use the function IMPORTRANGE to link in the answers
-    * Since IMPORTRANGE cannot be drag-copy-cell number increased in Google Sheets, it can save time to use concatenate in Libre Office
+    * Use the function IMPORTRANGE to link in the answers.
+    * Since IMPORTRANGE cannot be drag-copy-cell number increased in Google Sheets, it can save time to use concatenate in Libre Office.
 
 ## Libre Office example
 
