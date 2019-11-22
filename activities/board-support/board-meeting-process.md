@@ -4,51 +4,47 @@ type: resource
 
 # Board meeting process, agendas and minutes
 
-The secretary of the Foundation for Public Code Vereniging is responsible for the preparation and continuity of the board meetings
+The secretary of the Foundation for Public Code Vereniging is responsible for the preparation and continuity of the board meetings.
 
 The secretary can be assisted in these tasks with:
 
-* tracking progress by members on agreed actions,
-* helping board members provide input in a timely and complete manner,
-* minuting, noting and colating information that the board can use,
-* helping craft a complete agenda.
+* tracking progress by members on agreed actions
+* helping board members provide input in a timely and complete manner
+* minuting, noting and collating information that the board can use
+* helping craft a complete agenda
 
 ## When what happens
 
-2 weeks before the board meeting the secretary sends one email with the:
+2 weeks before the board meeting the secretary sends an email with the:
 
-* notification of upcoming meeting,
-* request for agenda items and attachments and announcement of the deadline in 6 days,
-* overview of the open action items.
+* notification of upcoming meeting
+* request for agenda items and attachments, and announcement of the deadline in 6 days
+* overview of the open action items
 
-1 week before the board meeting the secretary sends out:
+One week before the board meeting, the secretary sends out the meeting agenda and all its attachments as 1 (printable) PDF to the board members.
 
-* the meeting agenda and all its attachments as 1 (printable) PDF to the board members.
+The board meeting is minuted. The secretary is responsible for the minutes but can be assisted.
 
-At the board meeting, minutes are taken. The secretary is responsible for these but can be assisted.
+One week after the board meeting the secretary sends out 1 (printable) PDF with:
 
-1 week after the board meeting the secretary sends out 1 (printable) PDF with:
+* the decisions made (decision list)
+* the actions the board members agreed to perform (action list)
+* the notes of the board meeting (minutes)
 
-* the decisions made (decision list),
-* the actions the board members agreed to perform (action list),
-* the notes of the board meeting (minutes).
-
-In all other weeks an email can be sent to all board members with:
-
-* overview of the open action items.
+Board members may be sent an overview of the open action items between meetings.
 
 ## Archive
 
 The archive of the board will be kept on a secret shared drive.
 
-The drive is accessable to board members whilst a member. Future board members can see the historical archive as well. Access is also granted to those assisting the secretary.
+The drive is accessible to board members whilst a member. Future board members can also see the historical archive. Access is also granted to those assisting the secretary.
 
-The drive has the following:
+The drive contents are:
 
-* a `Next meeting` folder for the next meeting containing the `Agenda` and attachments for the next meeting,
-* a `To be removed` folder for documents to be removed,
-* a `Past meetings` folder with in it for every meeting:
+* `Next meeting` folder for the next meeting containing the `Agenda` and attachments for the next meeting
+* `To be removed` folder for documents to be removed
+* `Past meetings` folder with in it for every meeting:
     * the agenda and attachments PDF as `YYYY-MM-DD Agenda.pdf`,
     * the minutes, decisions and actions PDF as `YYYY-MM-DD Minutes.pdf`,
-* the `Action points list` tracker,
-* the `Decision list` decision tracker.
+* `Action points list` tracker
+* `Decision list` decision tracker
