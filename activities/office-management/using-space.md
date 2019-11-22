@@ -37,7 +37,7 @@ These spaces allow you to isolate yourself and work on a thing by yourself in re
 
 If you want to work on something together out of the hustle and bustle of the control space this is the place.
 
-For conversations that shouldn't be overheard by others such as job interviews or, performance reviews, please close the door and indicate the room is occupied.
+For conversations that shouldn't be overheard by others such as job interviews or performance reviews, close the door and indicate the room is occupied.
 
 ### Meeting space
 
