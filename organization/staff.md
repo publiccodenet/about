@@ -12,6 +12,8 @@ As we are a community leadership organization that mostly helps others, we aim f
 
 The staff consists of a manager, [a coordination team](#coordination-team) and specialists.
 
+[Meet our team](https://publiccode.net/staff/) or [check out our open roles](https://publiccode.net/careers/).
+
 ## Domains
 
 ### Operations
