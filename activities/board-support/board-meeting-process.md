@@ -39,7 +39,7 @@ The archive of the board will be kept on a secret shared drive.
 
 The drive is accessible to board members whilst a member. Future board members can also see the historical archive. Access is also granted to those assisting the secretary.
 
-The drive contents are:
+The drive contains:
 
 * `Next meeting` folder for the next meeting containing the `Agenda` and attachments for the next meeting
 * `To be removed` folder for documents to be removed
