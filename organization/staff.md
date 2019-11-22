@@ -12,6 +12,8 @@ As we are a community leadership organization that mostly helps others, we aim f
 
 The staff consists of a manager, [a coordination team](#coordination-team) and specialists.
 
+[Meet our team](https://publiccode.net/staff/) or [check out our open roles](https://publiccode.net/careers/).
+
 ## Domains
 
 ### Operations
@@ -26,7 +28,7 @@ Roles:
 
 * [Coordinator](#coordinator) operations:
   Claus Mullie
-* Codebase steward for community: 
+* Codebase steward for community:
   * Jan Ainali
 * Codebase steward for product marketing
 * Codebase steward for quality

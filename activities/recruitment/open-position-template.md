@@ -12,7 +12,7 @@ Come help producers of open source software for public use – such as in cities
 
 We test against the Standard for Public Code to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society and improve continually, and policy makers can keep technology and architectural choices open.
 
-Part of this effort is to [bespoke text contextualising role in broader foundation work].
+Part of this effort is to [bespoke text contextualizing role in broader foundation work].
 
 ### What the [Job title] does
 
@@ -44,13 +44,13 @@ We expect our new [Job title] to:
 
 This is a full time role (40 hours/week) in our main offices in Amsterdam, the Netherlands. Assistance in relocation is possible.
 
-This is a one year contract, with an option to extend. Compensation is competitive as well as in line with the public mission of the organization. 
+This is a one year contract, with an option to extend. Compensation is competitive as well as in line with the public mission of the organization.
 
 ## More about the application process
 
 We enthusiastically encourage people underrepresented in the worlds of technology and government to apply.
 If you want to know more about the position, please get in touch with Boris van Hoytema at boris@publiccode.net.
 
-To apply for this position, please email Mirjam van Tiel at mirjam@publiccode.net.
+To apply for this position, please email us at hr@publiccode.net.
 
 [We are looking to fill this position in the very near future and will review applications on a rolling basis.]
