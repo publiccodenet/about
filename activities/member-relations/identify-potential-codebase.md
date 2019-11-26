@@ -22,7 +22,7 @@ We could research which member codebases are currently being reused or being con
 We could research which types of software and policy code initiatives most often run into problems with:
 
 * excessive cost (for example upward spiraling development or licencing costs)
-* excessive risk (for example high failure rate, delays or underperformance )
+* excessive risk (for example high failure rate, delays or underperformance)
 * lack of control (for example through vendor lock-in or inability to implement policy code due to proprietary software code)
 * lack of upgrade potential (for example due to technical debt and reduced agility for future innovation)
 
@@ -34,7 +34,7 @@ We could research which type of software and policy code initiatives are easiest
 
 ## Need for codebase stewardship
 
-We could research existing codebases that public organizations (or other third parties) are currently, or want to in the future, reuse widely as public code but which struggle with:
+We could research existing codebases that public organizations (or other third parties) are reusing widely as public code (or may want to in the future) but which struggle with:
 
 * stewardship (for example, a lack of neutral third party to manage codebase and maintain minimum standards)
 * quality (for example, low reusability or lack of appropriate documentation for the codebase)
