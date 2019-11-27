@@ -18,7 +18,7 @@ Users and contributors:
 
 * the policy community
 * [developers, designers and the open source community](developers-and-designers.md)
-* business management and procurement for public administrations
+* [business management and procurement for public administrations](management-and-procurement.md)
 
 Affiliates and partners:
 
