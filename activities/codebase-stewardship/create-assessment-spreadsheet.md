@@ -20,4 +20,4 @@ An assessment spreadsheet is meant to be shared with current maintainers in orde
 
 | A1 | B1 | C1 |
 | -- | -- | -- |
-| =CONCATENATE("=";B1;C1;""")") | IMPORTRANGE("https://docs.google.com/spreadsheets/d/1R4cngGioU3u8gZDp_MdcHUeS234NOfqZxKGfLGiJGtw/edit","TEMPLATE! | C3 |
+| `=CONCATENATE("=";B1;C1;""")")` | `IMPORTRANGE("https://docs.google.com/spreadsheets/d/1R4cngGioU3u8gZDp_MdcHUeS234NOfqZxKGfLGiJGtw/edit","TEMPLATE!` | C3 |
