@@ -4,7 +4,7 @@ type: Resource
 
 # Job description template
 
-This is the template from which we generate new job descriptions.
+This is the template from which we generate new job descriptions. Square brackets indicate text that should be customized for each job description.
 
 ## [Job title]
 

@@ -8,9 +8,9 @@ The Foundation For Public Code itself is open source.
 
 Our communication principles are:
 
-* Open, unless
-* Invites contributions by all
-* Clearly explained
-* Hypertextual, web first
-* Interactive
-* Publishable
+* open, unless
+* invites contributions by all
+* clearly explained
+* hypertextual, web first
+* interactive
+* publishable

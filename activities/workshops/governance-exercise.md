@@ -6,9 +6,9 @@ type: resource
 
 This exercise lets the participants co-create a governance model. The participants will be handed a set of building blocks and instructions for two different scenarios. Each group will be facilitated during the process. Workshop time: 75-90 minutes.
 
-## The exercise have three phases
+## The exercises have three phases
 
-Each of these should have an introduction to the task and explaining the expectations of the outcome so that everybody participating knows what to do.
+Each of these should have an introduction to the task and explain the expectations of the outcome so that everybody participating knows what to do.
 
 * A current situation
   * Reason: to get their brains started and see that the process is both complex and probably incomplete.
@@ -19,7 +19,7 @@ Each of these should have an introduction to the task and explaining the expecta
 
 ## Preparation
 
-Put big papers on the tables the exercise will be made on. This allow for the groups to draw explanations on them. The building blocks can also taped to it so that everything can be saved. Cut a lot of arrows, both one way and double sided in an array of colors. Use different colors for the current and ideal parts of the exercise to have less meaning be inherited between them. Print and cut icons that are used for the actors. Print and cut the problem cards.
+Put big sheets of paper on the tables the exercise will be held on. This allows for the groups to draw explanations on them. The building blocks can also taped to them so that everything can be saved. Cut a lot of arrows, both one way and double sided in an array of colors. Use different colors for the current and ideal parts of the exercise so less meaning is inherited between them. Print and cut icons that are used for the actors. Print and cut the problem cards.
 
 ## A current situation
 
@@ -29,7 +29,7 @@ _Time: 25 minutes_
 
 Imagine that you all are living and working in Middletown **municipality**. It is of decent size, not too small, but also not one of the biggest.
 
-Together with **three other municipalities** you have developed an **open source IT system**. It is a festival managing system. You use it for managing festivals taking place in your respective municipalities. It has been in use since two years. The main **end users** of the system are civil servants in your municipality.
+Together with **three other municipalities** you have developed an **open source IT system**. It is a festival management system. You use it for managing festivals taking place in your respective municipalities. It has been in use for two years. The main **end users** of the system are civil servants in your municipality.
 
 You all have competent but small **IT departments** with some **in-house developers**. As a **commissioning public organization** you have outsourced most of the work to one **developer vendor**.
 
@@ -39,11 +39,11 @@ Each of you have a separate deployment of the system. Two each with different **
 
 ### Exercise
 
-Try to map out what a likely way that this is being _maintained_. Include both strengths and weaknesses. That is, try to place the involved actors that and show what is happening between them.
+Try to map out a likely way that this is being _maintained_. Include both strengths and weaknesses. That is, try to place the actors involved actors and show what is happening between them.
 
 Feel free to draw upon your own experience and prejudice about municipal work. If you don't know, make an educated guess.
 
-Use the available icons and arrows to show what actors are involved. What are the relations? Show:
+Use the available icons and arrows to show what actors are involved. What are the relationships? Show:
 
 * _how decisions are being made_
 * _information flows_
@@ -53,7 +53,7 @@ Write on the arrows to make clear what they mean. You are encouraged to write on
 
 ### Exercise leader notes
 
-To get them started ask them to start placing a few actors on the paper and discuss their relationships. Make sure the groups move forward and take decisions and don't get stuck in details. Remind them of the time constraint. When they have some actors and a few arrows down, start introducing the problem cards. If a group need to be pushed a little bit, ask them who is involved, who things get reported to and so on. Make sure they write somewhere what the arrows mean.
+To get them started, ask them to start placing a few actors on the paper and discuss their relationships. Make sure the groups move forward and take decisions and don't get stuck in details. Remind them of the time constraint. When they have some actors and a few arrows down, start introducing the problem cards. If a group needs to be pushed a little bit, ask them who is involved, who things get reported to and so on. Make sure they write somewhere what the arrows mean.
 
 ## An ideal situation
 
@@ -63,7 +63,7 @@ _Time: 25 minutes_
 
 Imagine again that you all are living and working in Middletown **municipality**, but in an alternate universe. This Middletown is also of decent size, not too small, but also not one of the biggest.
 
-Together with **three other municipalities** you have developed an **open source IT system**. It is a festival managing system. You use it for managing festivals taking place in your respective municipalities. It is in use since two years. The main **end users** of the system are civil servants in your municipality.
+Together with **three other municipalities** you have developed an **open source IT system**. It is a festival management system. You use it for managing festivals taking place in your respective municipalities. It has been in use for two years. The main **end users** of the system are civil servants in your municipality.
 
 You all have competent but small **IT departments** with some **in-house developers**. As **commissioning public organizations** you have outsourced most of the work to **developer vendors**.
 
@@ -73,7 +73,7 @@ You all have competent but small **IT departments** with some **in-house develop
 
 ### Exercise
 
-Try to map out how you want to maintain the system. That is, try to place the involved actors and show what is happening between them. Feel free to invent new actors that did not exist in the first exercise.
+Try to map out how you want to maintain the system. That is, try to place the actors involved and show what is happening between them. Feel free to invent new actors that did not exist in the first exercise.
 
 Use the available icons and arrows to show the relationships between all actors. Specify the relations are and how decisions are being made. Write on the arrows to make clear what they mean. You are encouraged to write on the icons to help you distinguish them better. If you need more icons or arrows, ask.
 
@@ -81,13 +81,13 @@ Use the available icons and arrows to show the relationships between all actors.
 
 _Time: 10 minutes_
 
-Let two members switch groups and ask them if they can understand the other groups results. Let them ask clarifying questions and make sure those get noted on the paper. Then switch the rest of the group and have the first person retell how the ideal situation looks like.
+Let two members switch groups and ask them if they can understand the other group's results. Let them ask clarifying questions and make sure those get noted on the paper. Then switch the rest of the group and have the first person retell how the ideal situation looks like.
 
 The first question for the both groups is to spot differences.
 
 Ask them shortly if they believe their new models would handle each of the problems better than the first one.
 
-Is there anything particular that stood out to them while doing this? Any realization that they made?
+Is there anything in particular that stood out to them while doing this? Any realizations that they had?
 
 ## Resources
 

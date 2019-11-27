@@ -9,7 +9,7 @@ Our mission requires collaboration! We're eager for your questions or suggestion
 + email: <info@publiccode.net>
 + post: Keizersgracht 617, 1017 DS Amsterdam, the Netherlands
 + phone: +31 20 2 444 500
-+ twitter: [@publiccodenet](http://www.twitter.com/publiccodenet)
++ Twitter: [@publiccodenet](http://www.twitter.com/publiccodenet)
 
 ## Communications channels
 
