@@ -34,7 +34,7 @@ More information can be found in the [governance model](governance-model.md) and
 
 The founding members are currently working on:
 
-* how to define the appropriate and proprotional rate of dues for each member
+* how to define the appropriate and proportional rate of dues for each member
 * what in-kind contributions can be made instead of cash, and how to value these
 * what financial governance and documentation do members require for their internal budgeting and auditing processes
 
