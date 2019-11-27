@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# AKTE VAN OPRICHTING FOUNDATION FOR PUBLIC CODE VERENIGING
+# Akte van oprichting Foundation for Public Code Vereniging
 
 > This is the original Dutch version of the Foundation for Public Code's articles of association. [Read the unofficial English translation](articles-of-association.md).
 

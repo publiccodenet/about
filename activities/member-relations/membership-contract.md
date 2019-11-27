@@ -2,11 +2,11 @@
 type: resource
 ---
 
-# Draft membership contract
+# Template membership contract
 
-> This is an unofficial English translation of the Dutch membership contract. Square brackets indicate text that is not yet finalized or will be custom for each member.
+> Square brackets indicate text that is not yet finalized or will be custom for each member.
 
-MEMBERSHIP CONTRACT: FOUNDATION FOR PUBLIC CODE VERENIGING
+Membership contract: Foundation for Public Code Vereniging
 
 Dated:  [date]
 
