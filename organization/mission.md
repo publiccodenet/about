@@ -22,7 +22,6 @@ The founding principles were adopted by the board of directors on 23 August 2019
 
 \* In order to start as an association 4 initial individual founders will play the role of member until there are enough public members for the organization to sustain itself.
 
-
 ## Goals
 
 * Enable an **ecosystem of Public Code software products**, developed by and for public administrations to solve real problems for citizens
