@@ -4,7 +4,8 @@ set -e # halt script on error
 # Lint markdown using the Markdownlint gem with the default ruleset except for:
 # MD013 Line length: we allow long lines
 # MD029 Ordered list item prefix: we allow lists to be sequentially numbered
-bundle exec mdl -r ~MD013,~MD029 -i -g '.'
+# MD032 Lists should be surrounded by blank lines: LICENSE.md breaks this
+bundle exec mdl -r ~MD013,~MD029,~MD032 -i -g '.'
 
 # Build the site
 bundle exec jekyll build
