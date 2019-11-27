@@ -38,3 +38,12 @@ If hospitality is included in the participation of a mission, conference, worksh
 ## Language
 
 ## Secrecy
+
+If any communication is not meant to end up with the general public it must be marked as secret.
+Maintaining a clear distinction between what can be shared and what can't be is essential for running an organization that aims to be as open as possible.
+
+All secret communication must be marked with the word 'secret' and state:
+
+* Who made it secret, the owner
+* Who may view it, the viewers
+* Why it is secret, the reason
