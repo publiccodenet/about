@@ -50,11 +50,11 @@ All secret communication must be marked with the word '**Secret**' and clearly s
 * who may view it, the **access**;
 * and why it is secret, the **reason**.
 
-The owner – and their superiors – are responsible to update or remove the secret classification when needed.
+It is the duty of the owner – and their superiors – to update or remove the secret classification when needed.
 
 ## Security
 
-When you discover a potential vulnerability or threat to security report it immediately to <security@publiccode.net>.
+The discovery of a potential vulnerability or threat to security needs to be reported immediately to <security@publiccode.net>.
 
 This covers both information security and physical security of our staff and the organization.
 
