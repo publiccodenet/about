@@ -54,8 +54,9 @@ The owner – and their superiors – are responsible to update or remove the se
 
 ## Security
 
-All secret communication must be marked with the word 'secret' and state:
+When you discover a potential vulnerability or threat to security report it immediately to <security@publiccode.net>.
 
-* Who made it secret, the owner
-* Who may view it, the viewers
-* Why it is secret, the reason
+This covers both information security and physical security of our staff and the organization.
+
+Keys, including passwords, building keys and bank cards should be strictly personal wherever possible.
+All digital keys should be managed with the staff password manager and not shared outside of it.
