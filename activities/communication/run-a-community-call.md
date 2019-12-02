@@ -42,9 +42,9 @@ Consider putting a Foundation for Public Code poster on the wall behind you.
 
 ## 1. Opening the call
 
-Call-in link: [https://meet.google.com/tfd-acmn-tkb[(https://meet.google.com/tfd-acmn-tkb)
+Call-in link: <https://meet.google.com/tfd-acmn-tkb>
 
-Agenda link: [https://hackmd.io/-OegeqvoThCbAsw3c3gIjw](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw)
+Agenda link: <https://hackmd.io/-OegeqvoThCbAsw3c3gIjw>
 
 ### No show
 
