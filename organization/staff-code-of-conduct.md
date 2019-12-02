@@ -33,14 +33,13 @@ As an exception a gift can be accepted without prior approval when:
 
 If hospitality is included in the participation of a mission, conference, workshop or other meeting that has been approved it will not require separate approval.
 
-## Security
-
 ## Language
+
+## Secret information
 
 ## Secrecy
 
-If any communication is not meant to end up with the general public it must be marked as secret.
-Maintaining a clear distinction between what can be shared and what can't be is essential for running an organization that aims to be as open as possible.
+## Security
 
 All secret communication must be marked with the word 'secret' and state:
 
