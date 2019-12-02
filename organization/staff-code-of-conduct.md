@@ -35,6 +35,9 @@ If hospitality is included in the participation of a mission, conference, worksh
 
 ## Language
 
+Use English for all communication between staff.
+Minimize the use of jargon and avoid abbreviations and acronyms.
+
 ## Secret information
 
 ## Secrecy
