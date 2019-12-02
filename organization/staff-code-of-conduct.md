@@ -16,10 +16,7 @@ Staff are expected to follow the general [code of conduct](../../CODE_OF_CONDUCT
 
 Any personal interest or any interest in any business or organisation that could compromise the respect of these obligations must be declared immediately.
 
-Outside activities covered by these rules, paid or unpaid, must first be approved. Staff members must also inform their manager if:
-
-* their spouse is employed and where; or
-* a personal interest that might impair their independence or any other conflict of interest occurs, in the course of performance of their duties.
+Outside activities covered by these rules, paid or unpaid, must first be approved. Staff members must also inform their manager if a personal interest that might impair their independence or any other conflict of interest occurs, in the course of performance of their duties.
 
 ## Receiving gifts
 
