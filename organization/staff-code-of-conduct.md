@@ -40,7 +40,17 @@ Minimize the use of jargon and avoid abbreviations and acronyms.
 
 ## Secret information
 
-## Secrecy
+While strive to be an open and transparent organization whenever possible there are always communications that are sensitive.
+If any communication should never end up with the general public it must be marked as secret.
+Maintaining a clear distinction between what can be and what can not shared be is essential for running an organization that aims to be as open as possible.
+
+All secret communication must be marked with the word '**Secret**' and clearly state:
+
+* who made it secret, the **owner**;
+* who may view it, the **access**;
+* and why it is secret, the **reason**.
+
+The owner – and their superiors – are responsible to update or remove the secret classification when needed.
 
 ## Security
 
