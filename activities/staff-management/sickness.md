@@ -8,7 +8,8 @@ explains: what steps to take when you are sick
 If you are feeling sick you might not be able to perform your work, or even worse jeopardise the stability of the organization.
 When sick you might make important mistakes or you can be contagious and cause more staff absence.
 
-Staff of the Foundation for Public Code is always paid while sick, 100% the first year of sickness and 70% the second year. Of course we will work together in your being able to return to work as soon as possible, in accordance with the law (Wet Poortwachter) and in collaboration with the occupational health and safety service (arbo-dienst) the Foundation has contracted for this purpose.
+Staff of the Foundation for Public Code is always paid while sick, 100% the first year of sickness and 70% the second year.
+Of course we will work together in your being able to return to work as soon as possible, in accordance with the law (Wet Poortwachter) and in collaboration with the occupational health and safety service (arbo-dienst) the Foundation has contracted for this purpose.
 
 ## Can you go to work
 
