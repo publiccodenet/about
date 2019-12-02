@@ -6,17 +6,20 @@ type: Resource
 
 The staff of the Foundation for Public Code fulfills a crucial role in achieving our mission on behalf of our members, the wider community, and the public benefit.
 
-As the Foundation for Public Code is a trusted non-partisan organization that operates in sectors of the economy that have significant political interests it is crucial that the organization as well as its staff are visibly independent, trustworthy, impartial and objective.
+The Foundation for Public Code is a trusted non-partisan organization that operates in sectors of the economy that have significant political interests.
+It is crucial that the organization as well as its staff are visibly independent, trustworthy, impartial and objective.
 
 ## Community code of conduct
 
-Staff are expected to follow the general [code of conduct](../../CODE_OF_CONDUCT.md) that applies to our community. The code of conduct is effectively a part of this staff code of conduct.
+Staff are expected to follow the general [code of conduct](../../CODE_OF_CONDUCT.md) that applies to our community.
+The code of conduct is effectively a part of this staff code of conduct.
 
 ## Conflicts of interest
 
 Any personal interest or any interest in any business or organisation that could compromise the respect of these obligations must be declared immediately.
 
-Outside activities covered by these rules, paid or unpaid, must first be approved. Staff members must also inform their manager if a personal interest that might impair their independence or any other conflict of interest occurs, in the course of performance of their duties.
+Outside activities covered by these rules, paid or unpaid, must first be approved.
+Staff members must also inform their manager if a personal interest that might impair their independence or any other conflict of interest occurs, in the course of performance of their duties.
 
 ## Receiving gifts
 
