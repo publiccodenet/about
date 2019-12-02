@@ -60,8 +60,7 @@ De comparante, handelend als gemeld, verklaart dat de oprichters een vereniging 
 * a) het leveren van diensten die de duurzaamheid, de kwaliteit en het hergebruik van public code kunnen vergroten;
 * b) het faciliteren en aanmoedigen van het delen van ontwikkelde public code tussen de public members en andere publieke organisaties;
 * c) het doen van onderzoek ten behoeve van de (verdere) ontwikkeling van public code;
-* d) het vragen voor aandacht voor geconstateerde problemen en het geven van
-advies met betrekking tot de door hen gebruikte public code;
+* d) het vragen voor aandacht voor geconstateerde problemen en het geven van advies met betrekking tot de door hen gebruikte public code;
 * e) en al hetgeen met het bovenstaande verband houdt of daartoe bevorderlijk kan zijn, alles in de ruimste zin.
 
 3.3. De vereniging beoogt te worden aangemerkt als algemeen nut beogende instelling zoals bedoeld in artikel 5b Algemene wet inzake rijksbelastingen of daarvoor in de plaats komende regeling.
