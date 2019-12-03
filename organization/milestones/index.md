@@ -29,10 +29,10 @@ In our office we have a wall with the milestones on it.
 ## How to add a milestone
 
 1. Add a milestone to the GitHub repository where possible
-    * Mention the owner in the description
-    * Set the due date if available
+  * Mention the owner in the description
+  * Set the due date if available
 2. Add the milestone to the list above
-    * Add an owner
-    * Add a due date if available
-    * Link to the repository milestone
+  * Add an owner
+  * Add a due date if available
+  * Link to the repository milestone
 3. Update the milestone wall in the office
