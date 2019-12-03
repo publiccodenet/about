@@ -14,7 +14,7 @@ Background to the Foundation and current status (15 min)
 
 Review membership proposal (30 min)
 
-* Foundation governance structure, financial set up, workflow, 2019 roadmap and high-level overview of potential founding member's codebases for stewardship
+* Foundation governance structure, financial set up, workflow, next year's roadmap and high-level overview of potential founding member's codebases for stewardship
 
 Break (10 min)
 
