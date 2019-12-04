@@ -30,7 +30,7 @@ There are additional tasks for communications specialists.
 * Upload photos.
 * If just one person attended the event, debrief at the daily standup and offer to venture deeper with anyone who may be interested.
 * If two people attended the event, sit down for a short debrief with each other.
-* If three or more people attended the event, consider doing a [retrospective](../staff-meetings/retrospective-agenda.md).
+* If three or more people attended the event, consider doing a [retrospective](../staff-meetings/retrospective.md).
 * Process all expenses for the event.
 * Process all new contacts for the event.
 * Evaluate if the goals set for the event were met.
