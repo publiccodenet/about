@@ -6,7 +6,7 @@ type: Resource
 
 ## Diagram
 
-![graphical representation of a codebase community](codebase-community.svg)
+![graphical representation of a community of actors around a community](codebase-community.svg)
 
 ## Points to get across
 

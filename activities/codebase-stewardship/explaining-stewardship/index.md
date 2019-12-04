@@ -13,14 +13,14 @@ This index does not include the value of codebase stewardship. For that, please 
 
 ## Premises
 
-Software as components
-Components can be shared
-Codebases can be shared
-Collaboration on codebases and components at scale
+[Software as components](components.md)
+[Components can be shared](components-shared.md)
+[Codebases can be shared](codebases-shared.md)
+[Collaboration on codebases and components at scale](codebases-scale.md)
 
 ## Elements of codebase stewardship
 
-Community
+[Community](codebase-community.md)
 Quality 
 Support
 Product
