@@ -11,17 +11,17 @@ The resources below are set up to be components that the explainer can draw from
 
 ## Premises
 
-[Software as components](components.md)
-[Components can be shared](components-shared.md)
-[Codebases can be shared](codebases-shared.md)
-[Collaboration on codebases and components at scale](codebases-scale.md)
+[Software as components](components.md)  
+[Components can be shared](components-shared.md)  
+[Codebases can be shared](codebases-shared.md)  
+[Collaboration on codebases and components at scale](codebases-scale.md)  
 
 ## Elements of codebase stewardship
 
-[Community](codebase-community.md)
-[Quality](codebase-quality.md)
-[Support](codebase-support.md)
-[Product](codebase-product.md)
+[Community](codebase-community.md)  
+[Quality](codebase-quality.md)  
+[Support](codebase-support.md)  
+[Product](codebase-product.md)  
 
 ## How the Foundation for Public Code does codebase stewardship
 
