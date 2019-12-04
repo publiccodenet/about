@@ -9,8 +9,6 @@ This index contains a set of resources to help explain codebase stewardship.
 How best to explain codebase stewardship depends on the person explaining, the background, experiences and knowledge of the audience, and should be adapted to the flow of the conversation.
 The resources below are set up to be components that the explainer can draw from in what ever order or way they find most suitable.
 
-This index does not include the value of codebase stewardship. For that, please see value proposition mapping.
-
 ## Premises
 
 [Software as components](components.md)
