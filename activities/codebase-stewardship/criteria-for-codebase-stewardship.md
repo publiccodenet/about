@@ -100,3 +100,7 @@ This list of questions for current maintainers of potential codebases helps us u
 3. Has this codebase or the service it powers received any press coverage? If so, please provide links.
 4. Is there anything about this codebase or the service it powers that you would describe as innovative, groundbreaking or really clever?
 5. What makes you proud to work on this codebase?
+
+## Further reading
+
+* [How we do assessment in the open](open-assessment.md)
