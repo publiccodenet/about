@@ -27,7 +27,7 @@ Community stewardship includes:
 
 * supporting, consulting on and executing governance
 * supporting committees such as technical steering committees
-* [organizing events](../organizing-events/index.md)
+* [organizing events](../events/index.md)
 * processing feedback and contributions
 * organizing [community calls](community-calls.md)
 * organizing [workshops](../workshops/index.md)
