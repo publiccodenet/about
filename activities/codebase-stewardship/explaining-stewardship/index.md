@@ -21,10 +21,10 @@ This index does not include the value of codebase stewardship. For that, please 
 ## Elements of codebase stewardship
 
 [Community](codebase-community.md)
-Quality 
-Support
-Product
+[Quality](codebase-quality.md)
+[Support](codebase-support.md)
+[Product](codebase-product.md)
 
 ## How the Foundation for Public Code does codebase stewardship
 
-Codebase stewardship at the Foundation for Public Code
+[Codebase stewardship at the Foundation for Public Code](codebase-stewardship.md)
