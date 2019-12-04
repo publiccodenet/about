@@ -8,17 +8,19 @@ The text below can be used as a template for creating an issue in a repository f
 
 ## Template text
 
-`**Purpose**`
+```
+**Purpose**
 
-`This issue helps tracking the assessment of this repository on it's way to [stewardship](https://about.publiccode.net/activities/codebase-stewardship/) by the Foundation for Public Code. The assessment is compiled into this [spreadsheet](linkToSpreadsheet).`
+This issue helps tracking the assessment of this repository on it's way to [stewardship](https://about.publiccode.net/activities/codebase-stewardship/) by the Foundation for Public Code. The assessment is compiled into this [spreadsheet](linkToSpreadsheet).
 
-`**Steps**`
+**Steps**
 
-`- [ ] Business case`\
-`- [ ] Co-develop-ability`\
-`- [ ] Community`\
-`- [ ] Community potential`\
-`- [ ] Code reusability`\
-`- [ ] Reuse potential`\
-`- [ ] Societal impact`\
-`- [ ] Story`
+- [ ] Business case
+- [ ] Co-develop-ability
+- [ ] Community
+- [ ] Community potential
+- [ ] Code reusability
+- [ ] Reuse potential
+- [ ] Societal impact
+- [ ] Story
+```
