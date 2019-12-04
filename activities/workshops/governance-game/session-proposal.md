@@ -6,7 +6,7 @@ type: Resource
 
 This is a proposal for doing a workshop with the governance game at an external event like a conference or similar.
 
-##  Session title
+## Session title
 
 Will you play the trump card? — Understanding how public organizations can work together to maintain open source software
 
