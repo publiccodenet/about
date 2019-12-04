@@ -56,7 +56,7 @@ This list is based on assumptions that we're testing as we assess codebases.
 
 These include that:
 
-* making clear which responsibilities the Foundation has vs other parties is useful
+* making clear which responsibilities the Foundation has versus other parties is useful
 * which other party is responsible differs by codebase
 * for some codebases, multiple parties share responsibility for non-Foundation tasks (for example, a codebase's current maintainers and a replicator working together)
 * the size of each task depends on codebase size and complexity
@@ -64,4 +64,5 @@ These include that:
 * it would be helpful to add user needs, user stories or jobs to be done to the list items (as we discussed user needs when we created the list)
 
 ## Further reading
+
 * [Governance exercise](../workshops/governance-exercise.md)
