@@ -4,7 +4,7 @@ type: index
 
 # Resources to explain codebase stewardship
 
-This index contains a set of components that can be used to explain codebase stewardship.
+This index contains a set of resources to help explain codebase stewardship.
 
 How best to explain codebase stewardship depends on the person explaining, the background, experiences and knowledge of the audience, and should be adapted to the flow of the conversation.
 The resources below are set up to be components that the explainer can draw from in what ever order or way they find most suitable.
