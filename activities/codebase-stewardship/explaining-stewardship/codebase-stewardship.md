@@ -10,6 +10,6 @@ type: resource
 
 ## Points to get across
 
-* In line with our [mission], the Foundation for Public Code does codebase stewardship for [public code] codebases.
-* This includes our particular flavour of community, quality, support and product stewardship as detailed on our [codebase stewardship activities page]
-* The value proposition of our stewardship is on our [value proposition mapping page].
+* The Foundation for Public Code does codebase stewardship for community, quality, support and product. 
+
+Our particular flavour of community, quality, support and product stewardship can be found on our [codebase stewardship activities](../activities.md), and the value proposition of our stewardship on our [value proposition mapping](../../value-and-impact/index.md) page.
