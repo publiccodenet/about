@@ -44,7 +44,7 @@ The drive contains:
 * `Next meeting` folder for the next meeting containing the `Agenda` and attachments for the next meeting
 * `To be removed` folder for documents to be removed
 * `Past meetings` folder with in it for every meeting:
-    * the agenda and attachments PDF as `YYYY-MM-DD Agenda.pdf`,
-    * the minutes, decisions and actions PDF as `YYYY-MM-DD Minutes.pdf`,
+  * the agenda and attachments PDF as `YYYY-MM-DD Agenda.pdf`,
+  * the minutes, decisions and actions PDF as `YYYY-MM-DD Minutes.pdf`,
 * `Action points list` tracker
 * `Decision list` decision tracker

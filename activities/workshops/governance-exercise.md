@@ -23,9 +23,9 @@ Put big sheets of paper on the tables the exercise will be held on. This allows 
 
 ## A current situation
 
-_Time: 25 minutes_
+Time: 25 minutes
 
-### Background
+### Background 1
 
 Imagine that you all are living and working in Middletown **municipality**. It is of decent size, not too small, but also not one of the biggest.
 
@@ -37,7 +37,7 @@ Each of you have a separate deployment of the system. Two each with different **
 
 **Citizens** can interact with some of the content from the system through websites about the festivals.
 
-### Exercise
+### Exercise 1
 
 Try to map out a likely way that this is being _maintained_. Include both strengths and weaknesses. That is, try to place the actors involved actors and show what is happening between them.
 
@@ -57,9 +57,9 @@ To get them started, ask them to start placing a few actors on the paper and dis
 
 ## An ideal situation
 
-_Time: 25 minutes_
+Time: 25 minutes
 
-### Background
+### Background 2
 
 Imagine again that you all are living and working in Middletown **municipality**, but in an alternate universe. This Middletown is also of decent size, not too small, but also not one of the biggest.
 
@@ -71,7 +71,7 @@ You all have competent but small **IT departments** with some **in-house develop
 
 **In this universe you have already established a collaboration with the Foundation for Public Code.**
 
-### Exercise
+### Exercise 2
 
 Try to map out how you want to maintain the system. That is, try to place the actors involved and show what is happening between them. Feel free to invent new actors that did not exist in the first exercise.
 
@@ -79,7 +79,7 @@ Use the available icons and arrows to show the relationships between all actors.
 
 ## Discussion
 
-_Time: 10 minutes_
+Time: 10 minutes
 
 Let two members switch groups and ask them if they can understand the other group's results. Let them ask clarifying questions and make sure those get noted on the paper. Then switch the rest of the group and have the first person retell how the ideal situation looks like.
 
