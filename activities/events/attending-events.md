@@ -37,18 +37,18 @@ There are additional tasks for communications specialists.
 
 ## For communications specialists
 
-### Before the event
+### Before
 
 * As a team, agree publicly shareable goals for your attendance at the event that can be used as elevator pitches and calls to action in communications (in addition to any private goals).
 * Draft generic tweets for each session the team will attend.
 * Draft clever, thoughtful tweets to support any presentations we give.
 
-### During the event
+### During
 
-* Tweet the URL of any HackMD running notes document so we create crowdsourced event notes in English. Do not include secret notes in the document. 
+* Tweet the URL of any HackMD running notes document so we create crowdsourced event notes in English. Do not include secret notes in the document.
 * Ask the team to share any good photos they take.
 * Tweet at least once per session - follow the generic tweet with specific comments crafted during the session.
 
-### After the event
+### After
 
 * Publish a blogpost promptly (based on good photos, running notes, team debrief and tweets).
