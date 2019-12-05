@@ -16,13 +16,10 @@ The resources below are set up to be components that the explainer can draw from
 [Codebases can be shared](codebases-shared.md)  
 [Collaboration on codebases and components at scale](codebases-scale.md)  
 
-## Elements of codebase stewardship
+## Codebase stewardship
 
-[Community](codebase-community.md)  
-[Quality](codebase-quality.md)  
-[Support](codebase-support.md)  
-[Product](codebase-product.md)  
-
-## How the Foundation for Public Code does codebase stewardship
-
+[Codebase stewardship: community](codebase-community.md)  
+[Codebase stewardship: quality](codebase-quality.md)  
+[Codebase stewardship: support](codebase-support.md)  
+[Codebase stewardship: product](codebase-product.md)  
 [Codebase stewardship at the Foundation for Public Code](codebase-stewardship.md)
