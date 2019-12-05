@@ -11,9 +11,10 @@ type: Resource
 ## Points to get across
  
 * A component's codebase is its blueprint; the set of code, tests and documentation that make up that component
-* A codebase can be copied and adapted to a different context (manipulating data and interacting with other software)
+* A codebase can be copied, or forked, and adapted to a different context (manipulating data and interacting with other software)
 * Adapting a codebase to a new context includes adapting to existing components, structures and workflows of the organization and people, and how it is inteded to be used
 * Different components can be based on the same codebase
+* A single codebase can contain the bluepints for several different modifications for differently modified components
 
 ## Examples
 
