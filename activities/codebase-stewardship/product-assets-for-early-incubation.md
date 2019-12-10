@@ -52,11 +52,11 @@ We assume the product asset order will be different for greenfield development.
 
 ## Assumptions to test
 
-This list is based on assumptions that we're testing as we assess codebases.
+This list is based on assumptions that we're testing as [we assess codebases](open-assessment.md).
 
 These include that:
 
-* making clear which responsibilities the Foundation has vs other parties is useful
+* making clear which responsibilities the Foundation has versus other parties is useful
 * which other party is responsible differs by codebase
 * for some codebases, multiple parties share responsibility for non-Foundation tasks (for example, a codebase's current maintainers and a replicator working together)
 * the size of each task depends on codebase size and complexity
