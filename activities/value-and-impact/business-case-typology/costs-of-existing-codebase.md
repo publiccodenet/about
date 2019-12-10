@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Reducing costs of current codebase
+# Reducing costs of existing codebase
 
 ## Need/problem: 
 
