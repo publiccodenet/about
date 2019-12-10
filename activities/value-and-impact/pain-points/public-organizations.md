@@ -2,10 +2,10 @@
 type: Resource
 ---
 
+# Public organizations maturing in their approach to digital public infrastructure
+
 This resource contains an unordered and non-exhaustive list of painpoints that public organizations have shared with us during discussions about membership of the Foundation for Public Code and codebase stewardship. 
 This resource can be used to inform our user research, value proposition mapping and business casing for potential members, as well as provide a general overview of the context in which we operate. 
-
-# Public organizations maturing in their approach to digital public infrastructure
 
 As public organizations mature in their approaches to their digital public infrastructure, typical challenges include: 
 
