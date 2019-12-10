@@ -36,7 +36,7 @@ Founding members are co-owners of the Foundation and help shape its future activ
 
 This stage is over after 2019, when the founding members have shaped the Foundation's activities and regular membership structure.
 
-### Assumptions
+### Assumptions on founding membership
 
 * The Founding Membership Proposal may require extra legal framing to make it a contract.
 * This will be governed by Dutch law.
@@ -52,7 +52,7 @@ All members pay membership yearly dues. [See financial model](../../organization
 
 A mediation structure will be set up to handle any disputes that may arise between members and the Foundation or between individual members.
 
-### Assumptions
+### Assumptions on regular membership
 
 * This contract will be governed by Dutch law.
 * Members will not pay dues through procurement or tendering procedures.

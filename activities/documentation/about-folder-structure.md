@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Folder structure of <about.publiccode.net>
+# Folder structure of about.publiccode.net
 
 About has a folder structure that serves as a basic skeleton for our information.
 
