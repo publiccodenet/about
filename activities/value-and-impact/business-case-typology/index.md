@@ -28,7 +28,7 @@ For each typology it maps:
 * An initial state of the codebase
 * The core value proposition of codebase stewardship
 * The corresponding business case for the maintaining organizations of investing in codebase stewardship
-* Strengths of making a business case in thiSs scenario
+* Strengths of making a business case in this scenario
 * Weaknesses of making a business case in this scenario
 * Example for this typology
 
