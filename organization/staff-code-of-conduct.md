@@ -26,7 +26,7 @@ Staff may not accept gifts, payment or favours from non-member organizations, in
 
 Gifts may only be accepted without prior approval when:
 
-* there is a cultural, social or diplomatic obligation to accept the gift
+* there is a cultural, social or diplomatic obligation to accept the gift or it can be considered as promotional merchandise
 * the value of the gift does not exceed €50
 * there is no accumulation
 
