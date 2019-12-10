@@ -11,19 +11,10 @@ This index provides a typology to help create business cases for codebase stewar
 The Foundation's mission is to enable public software and policy that is open and collaborative.
 It does this through [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/). 
 
-Making a business case for codebase stewardship includes multi-faceted value propositios at different timescales.
-Starting from the initial state of the codebase, this typology provides a set of tools that can be used to analyse the most likely value proposition, and corresponding business case, for investing in codebase stewardship.
+Making a business case for codebase stewardship includes multi-faceted value propositions at different timescales.
+This typology provides a set of mental models to help identify the most likely value proposition, and corresponding business case, for investing in codebase stewardship.
 
 ## How the typology is structured
-
-For each typology it maps:
-
-* The current state of the codebase
-* The value proposition of codebase stewardship
-* The corresponding business case for the maintaining organizations
-* Strengths of making a business case in this scenario
-* Weaknesses of making a business case in this scenario
-* Example
 
 The typologies are based on the 4 axes of our value proposition:
 
@@ -31,6 +22,15 @@ The typologies are based on the 4 axes of our value proposition:
 * Reduce Cost
 * Improve Quality
 * Improve Control
+
+For each typology it maps:
+
+* The initial state of the codebase
+* The value proposition of codebase stewardship
+* The corresponding business case for the maintaining organizations of investing in codebase stewardship
+* Strengths of making a business case in this scenario
+* Weaknesses of making a business case in this scenario
+* Example for this typology
 
 ## Currently mapped typologies
 
