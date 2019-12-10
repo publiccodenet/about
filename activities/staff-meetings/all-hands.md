@@ -8,7 +8,7 @@ This is a template agenda for our regular all hands meeting
 
 ## Goal
 
-In this session, we make sure the important life signs of the organisation are shared with everyone and that the whole team knows of changes that will impact them all.
+In this session, we make sure the important life signs of the organization are shared with everyone and that the whole team knows of changes that will impact them all.
 
 ## Preparation
 
