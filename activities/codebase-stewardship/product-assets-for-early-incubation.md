@@ -52,7 +52,7 @@ We assume the product asset order will be different for greenfield development.
 
 ## Assumptions to test
 
-This list is based on assumptions that we're testing as we assess codebases.
+This list is based on assumptions that we're testing as [we assess codebases](open-assessment.md).
 
 These include that:
 
