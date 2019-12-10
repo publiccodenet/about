@@ -12,7 +12,7 @@ The Foundation's mission is to enable public software and policy that is open an
 It does this through [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/). 
 
 Making a business case for codebase stewardship includes multi-faceted value propositions at different timescales.
-This typology provides a set of mental models to help identify the most likely value proposition, and corresponding business case, for investing in codebase stewardship.
+This typology provides a set of mental models to help identify the most likely value proposition and corresponding business case for investing in codebase stewardship.
 
 ## How the typology is structured
 
