@@ -14,8 +14,9 @@ Here are some important things to figure out in the first couple of days:
 * Manual of me - fill out your own and read the existing ones
 * Github - push a branch, make a pull request (maybe to improve this page!)
 * Splitwise - if you want to join the shared lunch groceries
-* Rituals: standups - attend morning standups at 10:00
-* Rituals: sprint retrospective & planning - review the kanbans beforehand
+* Attend morning standup ritual at 10:00
+* Attend sprint retrospective & planning - review the kanbans beforehand
+* Tentoo NMBRS ESS (employee self service) mobile app - to [request leave](../activities/staff-management/leave.md), [file expenses](../activities/staff-management/expense.md) and see your payslips
 
 Any of your new coworkers will be glad to help! <3
 
@@ -28,4 +29,4 @@ These are some tools some of us find helpful:
 
 ## Useful context
 
-* [Public Money? Public Code! - Panel @ Nextcloud Conference 2019](https://youtube.com/watch?v=QHFkD4xfd6c) Touches on topics like procurement, law and more
+* [Public Money? Public Code! - Panel @ Nextcloud Conference 2019](https://youtube.com/watch?v=QHFkD4xfd6c). Touches on topics like procurement, law and more

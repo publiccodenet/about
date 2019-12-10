@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# ARTICLES OF ASSOCIATION: FOUNDATION FOR PUBLIC CODE VERENIGING
+# Articles of association: Foundation for Public Code Vereniging
 
 > This is an unofficial translation of the [original Dutch version of the Foundation for Public Code's articles of association](articles-of-association.nl.md).
 
