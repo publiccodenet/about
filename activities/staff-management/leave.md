@@ -5,9 +5,9 @@ explains: how to take leave for vacation or personal matters
 
 # Taking leave
 
-Under Dutch law, time off for illness and leave are treated differently. The Foundation for Public Code offers 2 types of leave: vacation leave and emergency leave.
+The Foundation for Public Code offers 2 types of voluntary leave: vacation leave and emergency leave.
 
-[Read more about time off for illness](sickness.md).
+We consider sickness to be involuntary leave - [read more about time off for illness](sickness.md).
 
 ## Vacation
 
