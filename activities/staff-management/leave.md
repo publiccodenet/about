@@ -20,9 +20,7 @@ More days can be bought at cost rate with agreement from your manager and <hr@pu
 
 ### How to request vacation leave
 
-Vacation can be requested through NMBRS.
-
-1. Log in to your account. If you haven't received a login, request one at <hr@publiccode.net>.
+1. Log in to your Tentoo NMBRS ESS (employee self service) account. If you haven't received a login, request one at <hr@publiccode.net>.
 2. Open the menu and select 'Leave'.
 3. Press 'New Request'.
 4. Select 'More than one day' or 'One day'.
@@ -46,4 +44,4 @@ Emergency leave is paid leave and is separate from vacation.
 
 Please ask your manager for emergency leave as soon as possible (and not longer than 24 hours after leaving) in order to discuss the terms.
 
-Emergency leave is not requested or logged through NMBRS.
+Emergency leave is not requested or logged through Tentoo NMBRS ESS (employee self service).

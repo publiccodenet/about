@@ -15,7 +15,7 @@ As a matter of professional bookkeeping practice we always have complete documen
 
 ## How to request reimbursement for staff
 
-1. Log in to your NMBRS account. If you haven't received a login, email <hr@publiccode.net> - you'll also need this to see your payslips!
+1. Log in to your Tentoo NMBRS ESS (employee self service) account. If you haven't received a login, email <hr@publiccode.net> - you'll also need this to see your payslips!
 2. Open the menu and select 'Mutation Forms'.
 3. Press 'New mutation form' and select 'Expense declaration' from the menu.
 4. In the form under type select:
@@ -30,7 +30,7 @@ As a matter of professional bookkeeping practice we always have complete documen
 
 The expense can now be approved by your manager and the accountant.
 
-You'll get a message in the NMBRS app if:
+You'll get a notification on your Tentoo NMBRS ESS (employee self service) app if:
 
 * there are questions about your reimbursement request
 * your reimbursement request is rejected
