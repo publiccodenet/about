@@ -9,7 +9,7 @@ If you are feeling sick you might not be able to perform your work, or even wors
 When sick you might make important mistakes or you can be contagious and cause more staff absence.
 
 Foundation for Public Code staff are always paid while sick (100% the first year of sickness and 70% the second year).
-Of course we will work together to support your return to work as soon as possible, in accordance with the law ([Wet Verbetering Poortwachter](https://www.arboportaal.nl/onderwerpen/wet-verbetering-poortwachter)) and in collaboration with the occupational health and safety service ([arbo-dienst]([arbo-dienst](https://nl.wikipedia.org/wiki/Arbodienst))) contracted by the Foundation.
+Of course we will work together to support your return to work as soon as possible, in accordance with the law ([Wet Verbetering Poortwachter](https://www.arboportaal.nl/onderwerpen/wet-verbetering-poortwachter)) and in collaboration with the occupational health and safety service ([arbo-dienst](https://nl.wikipedia.org/wiki/Arbodienst)) contracted by the Foundation.
 
 ## Can you go to work
 
