@@ -39,4 +39,4 @@ After approval the reimbursement is added to your next salary payment.
 
 ## How to request reimbursement for contractors and volunteers
 
-Contractors and volunteers should complete the expense form provided by their contracting contact. Email <hr@publiccode.net> if you have any questions.
+Contractors and volunteers should complete the expense form provided by their contracting contact.
