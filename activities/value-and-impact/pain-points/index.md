@@ -4,6 +4,6 @@ type: Index
 
 # Existing pain points
 
-This index lists existing pain points for users of the Foundation for Public code products and activities.
+This index lists existing pain points for users of the Foundation for Public Code products and activities:
 
-[Public organizations](public-organizations.md) maturing in their approach to digital public infrastructure. 
+* [Public organizations](public-organizations.md) maturing in their approach to digital public infrastructure. 
