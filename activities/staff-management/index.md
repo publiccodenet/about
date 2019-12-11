@@ -10,6 +10,7 @@ Guides for all staff
 * [How to report illness](sickness.md)
 * [How to request reimbursement for expenses](expense.md)
 * [How to travel](travel.md)
+* [How to work remotely](remote-working.md)
 
 See also:
 
