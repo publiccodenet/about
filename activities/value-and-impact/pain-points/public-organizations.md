@@ -19,7 +19,7 @@ Learning to work together with partner-organizations to collaborate around a sin
 
 ## Sustainable relationships with third parties
 
-Avoiding lock-in situations, in which the organization's data and/or digital workflow is controlled by an third party, leading to a reduced autonomy and potentially prohibitive liscensing, upgrade and migration costs.
+Avoiding lock-in situations, in which the organization's data or digital workflow is controlled by a third party, leading to reduced autonomy and potentially prohibitive liscensing, upgrade and migration costs.
 
 ## Futureproofing
 
