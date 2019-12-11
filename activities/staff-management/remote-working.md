@@ -5,7 +5,7 @@ explains: how we support people working with us remotely
 
 # Remote working at the Foundation for Public Code
 
-We've decided to try some new ways of working to be more supportive of people working remotely. We'll test these while Ben Cerveny is in California from December 2019 to February 2020.
+We've decided to change how we work to better support people working remotely. We'll test this while Ben Cerveny is in California from December 2019 to February 2020.
 
 ## Information sharing
 
