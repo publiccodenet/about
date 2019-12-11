@@ -21,7 +21,7 @@ Learning to work together with partner-organizations to collaborate around a sin
 
 Avoiding lock-in situations, in which the organization's data and/or digital workflow is controlled by an third party, leading to a reduced autonomy and potentially prohibitive liscensing, upgrade and migration costs.
 
-## Future-proofing
+## Futureproofing
 
 Understanding how decisions about their digital public infrastructure will open up or limit possibility of future upgrades, add-ons and innovation potential in the future.
 
