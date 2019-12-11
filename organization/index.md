@@ -24,6 +24,7 @@ This is how we're building the organization to support our mission:
 This is how we approach our work:
 
 * [Cultural values](cultural-values.md)
+* [Staff code of conduct](staff-code-of-conduct.md)
 * [Keys to success](keys-to-success.md)
 * [Contributing as a staff member](../contributor-guides/for-staff.md)
 * [Definition of done](definition-of-done.md)
