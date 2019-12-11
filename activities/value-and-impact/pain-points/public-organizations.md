@@ -23,7 +23,7 @@ Avoiding lock-in situations, in which the organization's data and/or digital wor
 
 ## Futureproofing
 
-Understanding how decisions about their digital public infrastructure will open up or limit possibility of future upgrades, add-ons and innovation potential in the future.
+Understanding how decisions about their digital public infrastructure will open up or limit the possibility of future upgrades, add-ons and innovation potential.
 
 ## Technical debt
 
