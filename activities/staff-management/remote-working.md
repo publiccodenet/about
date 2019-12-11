@@ -19,7 +19,7 @@ We've decided to change how we work to better support people working remotely. W
 
 1. We'll try moving standup to a time that everyone can make. If this doesn't work, we'll try an asynchronous written standup and recording our Amsterdam stand up.
 
-2. We're moving our weekly tactics meeting to 9am to allow Ben to join us from California.
+2. We're moving our weekly tactics meeting to allow Ben to join us from California.
 
 3. To best support people away from the Amsterdam office for important meetings or events, we'll:
 
