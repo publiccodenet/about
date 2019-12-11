@@ -26,4 +26,3 @@ We've decided to try some new ways of working to be more supportive of people wo
 * map out what they'll need at the meeting or event
 * make sure people in Amsterdam and abroad start working together early enough so we're prepared for the meeting (including contingency)
 * schedule a retro after each important meeting or event so we can improve the planning and remote collaboration.
-
