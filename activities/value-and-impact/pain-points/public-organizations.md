@@ -27,7 +27,7 @@ Understanding how decisions about their digital public infrastructure will open 
 
 ## Technical debt
 
-Working around an ever increasing set of aging digital systems that create dependies and a potential drag on service delivery.
+Working around an ever increasing set of aging digital systems that create dependencies and a potential drag on service delivery.
 
 ## Balancing local and global
 
