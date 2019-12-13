@@ -9,7 +9,7 @@ We've decided to change how we work to better support people working remotely. W
 
 ## Information sharing
 
-1. Always CC the relevant group email. Our groups are: stewards, membership, events, giving, invoices, hr, security, Amsterdam-office and everyone (includes the Board of Directors).
+1. Always CC the relevant group email. Our groups are: stewards, membership, events, giving, invoices, hr, security, Amsterdam-office and everyone (includes everyone with an @publiccode.net email account).
 
 2. We'll use Odoo Discuss instead of Gchat for office conversation. The channels should make it easier for someone in a different time zone to catch up with relevant conversations.
 
