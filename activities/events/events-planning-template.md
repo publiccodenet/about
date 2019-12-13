@@ -23,7 +23,10 @@ DATE in CITY.
 
 ## Goals for attending
 
+### Goals
 *See [attending events](https://about.publiccode.net/activities/events/attending-events.html).*
+
+### People to connect with
 
 1.
 
