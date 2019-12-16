@@ -1,4 +1,4 @@
---- 
+---
 type: Resource
 ---
 
@@ -8,7 +8,7 @@ type: Resource
 
 ![graphical representation of incoming contributions to a codebase](codebase-quality.svg)
 
-## Points to get across: 
+## Points to get across
 
 * help ensure the quality of the codebase, including the code, tests and documentation
 * can include checks on all code current in the codebase
