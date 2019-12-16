@@ -9,7 +9,7 @@ type: Resource
 ![graphical representation of multiple organizations with a shared component](shared-codebase.svg)
 
 ## Points to get across
- 
+
 * A component's codebase is its blueprint; the set of code, tests and documentation that make up that component
 * A codebase can be copied, or forked, and adapted to a different context (manipulating data and interacting with other software)
 * Adapting a codebase to a new context includes adapting to existing components, structures and workflows of the organization and people, and how it is inteded to be used
