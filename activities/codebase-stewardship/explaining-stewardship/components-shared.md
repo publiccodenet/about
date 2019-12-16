@@ -15,7 +15,7 @@ type: Resource
 * A component can be switched out for a new component
 * A component can be shared by multiple organizations, for the same or different purposes
 
-## Examples 
+## Examples
 
 ### Digital
 
@@ -23,4 +23,4 @@ A database component can store data collected by different people, and can be qu
 
 ### Metaphorical
 
-A public water tap can be used by differet people to drink water, have a water fight and wash a car, and can be replaced with a new tap, without an overhaul of the water mains or how you consume water. 
+A public water tap can be used by differet people to drink water, have a water fight and wash a car, and can be replaced with a new tap, without an overhaul of the water mains or how you consume water.
