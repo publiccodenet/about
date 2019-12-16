@@ -22,4 +22,4 @@ A website is made up of a component that lets you write the content, a component
 
 ### Metaphorical
 
-A municipal water system functions like a single system, but every distict and house has their own connects, water tanks, boilers, pipes, taps and so forth. These pipes and taps are generic components that make up the whole - they are interchangable and can be used in different contexts - from houses to streets to gardens. 
+A municipal water system functions like a single system, but every distict and house has their own connects, water tanks, boilers, pipes, taps and so forth. These pipes and taps are generic components that make up the whole - they are interchangable and can be used in different contexts - from houses to streets to gardens.
