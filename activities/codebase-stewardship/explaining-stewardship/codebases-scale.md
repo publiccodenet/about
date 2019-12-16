@@ -8,7 +8,7 @@ type: Resource
 
 ![graphical representation of a codebase with a large set of contributors](codebases-scale.svg)
 
-## Points to get across: 
+## Points to get across
 
 * Multiple organizations can share the same component
 * Multiple organizations can have components based on the same codebase
