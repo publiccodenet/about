@@ -19,6 +19,7 @@ Activities that support the above as well as make staff operations work:
 * [Onboarding new staff](../contributor-guides/for-staff.md)
 * [Procurement](procurement/index.md)
 * [Recruitment](recruitment/index.md)
+* [Staff management](staff-management/index.md)
 * [Staff meetings](staff-meetings/index.md)
 * [Trainings](trainings/index.md)
 * [Value and impact](value-and-impact/index.md)
