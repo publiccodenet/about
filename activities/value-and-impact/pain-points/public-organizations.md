@@ -4,8 +4,8 @@ type: Resource
 
 # Public organizations maturing in their approach to digital public infrastructure
 
-This resource contains an unordered and non-exhaustive list of painpoints that public organizations have shared with us during discussions about membership of the Foundation for Public Code and codebase stewardship. 
-This resource can be used to inform our user research, value proposition mapping and business case development for potential members, as well as provide a general overview of the context in which we operate. 
+This resource contains an unordered and non-exhaustive list of painpoints that public organizations have shared with us during discussions about membership of the Foundation for Public Code and codebase stewardship.
+This resource can be used to inform our user research, value proposition mapping and business case development for potential members, as well as provide a general overview of the context in which we operate.
 
 These are common challenges faced by public organizations as they mature in their approaches to their digital public infrastructure.
 
@@ -33,4 +33,4 @@ Working around an ever increasing set of aging digital systems that create depen
 
 Striking a balance between existing offers by global parties, while still investing in local businesses.
 
-https://hackmd.io/kgHGUJphSQuaA971cBabuQ?edit
+[Member onboarding proposal](https://hackmd.io/kgHGUJphSQuaA971cBabuQ?edit)
