@@ -32,5 +32,3 @@ Working around an ever increasing set of aging digital systems that create depen
 ## Balancing local and global
 
 Striking a balance between existing offers by global parties, while still investing in local businesses.
-
-[Member onboarding proposal](https://hackmd.io/kgHGUJphSQuaA971cBabuQ?edit)
