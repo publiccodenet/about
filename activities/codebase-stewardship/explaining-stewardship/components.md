@@ -12,7 +12,7 @@ type: resource
 
 * Modern software is not a single monolithic application
 * Modern software is made up of components
-* Components can be in turn made up of other components
+* Components can be made up of other components
 
 ## Examples
 
