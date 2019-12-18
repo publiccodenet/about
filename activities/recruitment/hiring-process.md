@@ -19,6 +19,7 @@ We also use the current team's network to spread awareness of the job opening (v
 
 * the [2 StackOverflow Jobs](https://stackoverflow.com/jobs/companies/foundation-for-public-code) slots we have
 * our [Twitter account](https://twitter.com/publiccodenet)
+* our [blog](https://blog.publiccode.net)
 
 ## Processing reactions of people expressing interest
 
