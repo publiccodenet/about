@@ -55,7 +55,7 @@ As an organization which cares about helping people to collaborate there will be
 ## The week after the event
 
 * Upload photos to some storage solution.
-* Use the photos, along with text or quotes from the event on site, in blog, or on social media.
+* Use the photos, along with text or quotes from the event on site, in [the blog](https://blog.publiccode.net), or on social media.
 * Process all expenses for the event.
 * Do a retro of the event. If new things were learned, update this page. Assign other action points immediately so they are not lost.
 
