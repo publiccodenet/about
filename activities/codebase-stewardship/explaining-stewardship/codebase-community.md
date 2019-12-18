@@ -13,4 +13,4 @@ type: Resource
 * includes help people work together on the codebase
 * can include digital, telepresence and in person means
 * can include any contribution to the codebase, including code, documentation and tests
-* can include support in coordinating the financing, technical architecture and governance of the codebase
+* can include support with the governance, feature backlogs and technical architecture of the codebase
