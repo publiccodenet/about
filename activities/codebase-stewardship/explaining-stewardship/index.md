@@ -12,7 +12,7 @@ The resources below are set up to be components that the explainer can draw from
 
 These resources do not include the [value proposition mapping](../../value-and-impact/index.md) of codebase stewardship.
 
-## Premises
+## Introduction
 
 * [Software as components](components.md)
 * [Components can be shared](components-shared.md)
