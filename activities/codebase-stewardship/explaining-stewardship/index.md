@@ -10,6 +10,8 @@ How best to explain codebase stewardship depends on the person explaining, the b
 
 The resources below are set up to be components that the explainer can draw from in any order or way they find most suitable.
 
+These resources do not include the [value proposition mapping](../../value-and-impact/index.md) of codebase stewardship.
+
 ## Premises
 
 * [Software as components](components.md)
