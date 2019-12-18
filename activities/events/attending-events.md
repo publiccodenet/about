@@ -52,4 +52,4 @@ There are additional tasks for communications specialists.
 
 ### After
 
-* Publish a blogpost promptly (based on good photos, running notes, team debrief and tweets).
+* [Publish a blogpost](https://github.com/publiccodenet/blog) promptly (based on good photos, running notes, team debrief and tweets).
