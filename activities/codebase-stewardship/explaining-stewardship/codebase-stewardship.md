@@ -12,4 +12,4 @@ type: resource
 
 * The Foundation for Public Code does codebase stewardship for community, quality, support and product.
 
-Our particular flavour of community, quality, support and product stewardship can be found on our [codebase stewardship activities](../activities.md), and the value proposition of our stewardship on our [value proposition mapping](../../value-and-impact/index.md) page.
+More information can be found on our [codebase stewardship activities page](../activities.md), and the [value proposition mapping page](../../value-and-impact/index.md).
