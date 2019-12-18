@@ -10,9 +10,9 @@ type: Resource
 
 ## Points to get across
 
-* A single component can simultaneously be used for multiple purposes, and in combinations with other components
+* A single component can simultaneously be used for multiple purposes, and in combination with other components
 * A component can be used for something new that didn't exist when it was created
-* A component can be switched out for a new component
+* A component can be swapped out for a new component
 * A component can be shared by multiple organizations, for the same or different purposes
 
 ## Examples
@@ -23,4 +23,4 @@ A database component can store data collected by different people, and can be qu
 
 ### Metaphorical
 
-A public water tap can be used by differet people to drink water, have a water fight and wash a car, and can be replaced with a new tap, without an overhaul of the water mains or how you consume water.
+A public water tap can be used by different people to drink water, have a water fight or wash a car, and can be replaced with a new tap, without an overhaul of the water mains or how you consume water.
