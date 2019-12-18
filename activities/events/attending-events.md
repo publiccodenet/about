@@ -19,6 +19,7 @@ There are additional tasks for communications specialists.
 * Create internal awareness. In order to enable synergies, sharing the overall plans with the rest of the organization is important.
 * Check the agenda. If someone happens to be connected to any of the speakers, consider reaching out.
 * Consider bringing informational material to give away to people that want to get to know us better.
+* Consider using a shared document to do the planning in, perhaps using [this template](events-planning-template.md).
 
 ### During the event
 
