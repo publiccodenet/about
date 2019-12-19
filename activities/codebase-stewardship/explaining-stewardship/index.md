@@ -6,13 +6,18 @@ type: index
 
 This index contains a set of resources to help explain codebase stewardship.
 
-How best to explain codebase stewardship depends on a) the person explaining, b) the background, experiences and knowledge of the audience, and c) should be adapted to the flow of the conversation.
+How best to explain codebase stewardship depends on:
 
-The resources below are set up to be components that the explainer can draw from in any order or way they find most suitable.
+* the person explaining
+* the background, experiences and knowledge of the audience
+
+The explanation should be adapted to the flow of the conversation.
+
+The resources below are set up to be components that the explainer can draw from in any order or way they find useful.
 
 These resources do not include the [value proposition mapping](../../value-and-impact/index.md) of codebase stewardship.
 
-## Introduction
+## Introduction: collaborative software development
 
 * [Software as components](components.md)
 * [Components can be shared](components-shared.md)

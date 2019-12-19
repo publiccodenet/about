@@ -10,7 +10,9 @@ type: Resource
 
 ## Points to get across
 
-* includes help people work together on the codebase
+This area of expertise:
+
+* helps people work together on the codebase
 * can include digital, telepresence and in person means
 * can include any contribution to the codebase, including code, documentation and tests
 * can include support with the governance, feature backlogs and technical architecture of the codebase
