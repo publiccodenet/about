@@ -8,7 +8,14 @@ This is a proposal for doing a workshop with the governance game at an external 
 
 ## Session title
 
-Will you play the trump card? — Understanding how public organizations can work together to maintain open source software
+Governance track: Interactive game exploring how public organisations
+can maintain shared and collaborative open source software together.
+
+## Session decsription
+
+Dodging calamity while managing code contributions from multiple
+vendors and agreeing on new features to co-finance - what card will
+you play next?
 
 ## Target audience
 
