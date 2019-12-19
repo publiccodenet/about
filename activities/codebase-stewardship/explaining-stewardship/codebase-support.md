@@ -10,11 +10,11 @@ type: Resource
 
 ## Points to get across
 
-This area of expertise can include:
+This area of expertise:
 
-* helping public organizations understand how the codebase fits in to their current and legacy software stack
-* helping public organizations procure the right support to help them get started with the codebase
-* helping people new to the codebase to get started
-* working with vendors to ensure the commercial viability and attractiveness of working on the codebase
-* creating business cases and case studies
-
+* help build a diverse vendor network for development, maintenance, implementation and hosting of the codebase
+* can include helping public organizations understand how the codebase fits in to their current and legacy software stack
+* can include helping public organizations procure the right support to help them get started with the codebase
+* can include helping people new to the codebase to get started
+* can include working with vendors to ensure the commercial viability and attractiveness of working on the codebase
+* can include creating business cases and case studies
