@@ -15,7 +15,9 @@ The explanation should be adapted to the flow of the conversation.
 
 The resources below are set up to be components that the explainer can draw from in any order or way they find useful.
 
-## Background
+These resources do not include the [value proposition mapping](../../value-and-impact/index.md) of codebase stewardship.
+
+## Introduction: collaborative software development
 
 * [Software as components](components.md)
 * [Components can be shared](components-shared.md)
