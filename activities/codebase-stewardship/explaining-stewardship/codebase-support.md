@@ -12,7 +12,7 @@ type: Resource
 
 This area of expertise:
 
-* help build a diverse vendor network for development, maintenance, implementation and hosting of the codebase
+* helps build a diverse vendor network for development, maintenance, implementation and hosting of the codebase
 * can include helping public organizations understand how the codebase fits in to their current and legacy software stack
 * can include helping public organizations procure the right support to help them get started with the codebase
 * can include helping people new to the codebase to get started
