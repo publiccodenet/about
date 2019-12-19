@@ -10,6 +10,8 @@ type: Resource
 
 ## Points to get across
 
+This area of expertise:
+
 * helps to grow the community around the codebase
 * can include raising awareness about the codebase, what the codebase does, the success of components based on the codebase, and the community around the codebase
 * can include the codebase’s branding, storytelling and marketing assets

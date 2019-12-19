@@ -16,7 +16,6 @@ type: Resource
 * A single codebase can contain the blueprints for several different adaptations for differently modified components
 * Different components can be based on the same codebase
 
-
 ## Examples
 
 ### Metaphorical
