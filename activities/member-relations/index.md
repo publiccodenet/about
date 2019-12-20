@@ -15,7 +15,7 @@ The Foundation for Public Code is a member-owned association. Only wholly public
 ## Steps to becoming a member
 
 1) Sign the [expression of interest](expression-of-interest.md) to allow both parties to work together in the open
-2) Review the [member onboarding](member-onboarding-support.md) proposal and discuss onboarding with Foundation for Public Code staff members
+2) Review the [member onboarding](member-onboarding-support.md) proposal and discuss with Foundation for Public Code staff members
 3) Agree on your member dues and the [articles of association](../../organization/articles-of-association.md), and sign the [membership contract](membership-contract.md)
 
 ## Further reading
