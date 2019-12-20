@@ -8,7 +8,7 @@ The Foundation for Public Code is a member-owned association. Only wholly public
 
 ## What membership is
 
-* members benefit from [codebase stewardship](../codebase-stewardship/index.md), member onboarding support and the other [value propositions] of being part of the community
+* members benefit from [codebase stewardship](../codebase-stewardship/index.md), [member onboarding support] and the other [value propositions](member-onboarding-support.md) of being part of the community
 * members participate in the [governance](../../organization/governance-model.md) of the association
 * members participate in the [financing](../../organization/financial-model.md) of the association
 
