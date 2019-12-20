@@ -18,7 +18,7 @@ This onboarding includes us providing members with trainings, workshops and a he
 
 And supporting members with their codebases on:
 
-* [assessment of codebases](../codebase-stewardship/index.md) for [codebase stewardship](../codebase-stewardship/index.md)
+* assessment of codebases for [codebase stewardship](../codebase-stewardship/index.md)
 * quality of codebases - understanding how to make them more modular and reusable
 * community for codebases - understanding how to collaborate better and more openly with other organizations
 * product packaging of codebases - understanding how to better market and promote codebases
