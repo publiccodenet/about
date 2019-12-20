@@ -24,7 +24,7 @@ And supporting members with their codebases on:
 * product packaging of codebases - understanding how to better market and promote codebases
 * support of codebases - understanding how to improve collaboration with the market
 
-Please note that as an association, we allocate our resources across members. Our support for you is subject to availability. 
+Please note that as an association, we allocate our resources across members. Our support for members is subject to availability. 
 
 ## Member onboarding template
 
