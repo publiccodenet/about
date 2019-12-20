@@ -17,7 +17,7 @@ The purpose of routinely merging develop into master is to make sure our website
 3. Review all changes and additions. Small uncontroversial problems, such as typos, can be fixed in the release branch. For larger and/or controversial problems (such as restructuring of context), create a new branch and make a pull request into the release branch. For any open ended issues (such as new content suggestions), create an issue. 
 4. Once review is complete, merge to master! :tada:
 
-Further reading on [gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+Further reading on [gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html).
 
 ## Review checklist template
 
