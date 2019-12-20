@@ -24,7 +24,9 @@ Our [contributor guide for individuals](contributor-guides/for-individuals.md) e
 
 We’re especially interested in learning what you need to implement the [Standard for Public Code](https://standard.publiccode.net/) in your organization. Please [raise an issue](https://standard.publiccode.net/CONTRIBUTING.html) or email us at <info@publiccode.net>.
 
-We're currently hiring codebase stewards - [see our open roles](../roles/index.md).
+We're currently hiring codebase stewards - [see our careers and open positions](https://publiccode.net/careers).
+
+[Join our mailing list] to keep up with our news.
 
 ## Public organizations
 
@@ -35,3 +37,7 @@ Come lead our community of enterprising public organizations using public code t
 ## Institutional giving and philanthropy
 
 If you believe there should be a structural solution to making open source software viable at scale for public organizations, we’d love to hear from you. Email us at <giving@publiccode.net>.
+
+## International sanctions
+
+As a legal association in the Netherlands, the Foundation for Public Code follows [EU law regarding international sanctions](https://sanctionsmap.eu/#/main).

@@ -5,7 +5,7 @@ explains: How individuals can help the Foundation for Public Code
 
 # Contribute as an individual
 
-The Foundation for Public Code has [a mission to develop an open source ecosystem for public organizations](../organization/mission.md). In order to fulfil our mission we – the directors of the Foundation, our advisors and contributors – need your help!
+The Foundation for Public Code has [a mission to enable public-purpose software and policy that is open and collaborative](../organization/mission.md). In order to fulfil our mission we – the directors of the Foundation, our advisors and contributors – need your help!
 
 This repository serves as the 'official source of truth' about the Foundation for Public Code. It contains all of its documentation, procedures and information as well as explanations on what the Foundation for Public Code does. We see it as a living charter.
 
@@ -17,9 +17,9 @@ Outlined below are some ways you can help. Please note that this project is rele
 
 ### Advise us and help us solve issues
 
-Please look at [the list of issues marked 'help wanted'](https://github.com/publiccodenet/about/labels/help%20wanted), these are all of the issues (and proposed changes to content) where we feel we need help.
+Please look at [the list of issues marked 'help wanted'](https://github.com/publiccodenet/about/labels/help%20wanted). These are all of the issues (and proposed changes to content) where we feel we need help.
 
-If you respond to an issue you will get notified by email of any new responses, you can reply to that email to reply in the thread. If you are interested in a certain discussion but do not want to post, use the 'subscribe' button.
+If you respond to an issue you will be notified by email of any new responses. You can reply to that email to reply in the thread. If you are interested in a certain discussion but do not want to post, use the 'subscribe' button.
 
 ### Identify issues we need to solve
 
@@ -50,12 +50,11 @@ And of course we'd love input into our projects as well, like the [Standard for 
 
 ## Become an advisor
 
-If you provide us with meaningful contributions we might ask you to become an advisor. Our advisors are a group of subject matter experts from different fields that help us to progress the mission of the Foundation for Public Code and have a special position within the Foundation.
+If you provide us with meaningful contributions we might ask you to become an advisor. Our advisors are a group of subject matter experts from different fields that help us progress the mission of the Foundation for Public Code and have a special position within the Foundation.
 
 ## Work for the Foundation
 
-[We're currently hiring](../roles/index.md) codebase stewards to review codebase quality and build strong open source communities. If the prospect of building an eco-system of public code thrills you, then we'd love to hear from you.
-
+[We're currently hiring](https://publiccode.net/careers) codebase stewards to review codebase quality and build strong open source communities. If the prospect of building an ecosystem of public code thrills you, then we'd love to hear from you.
 
 ## Responsible disclosure and contact information
 

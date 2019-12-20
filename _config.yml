@@ -5,6 +5,7 @@ include:
   - README.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
+  - LICENSE.md
 
 plugins:
   - jekyll-remote-theme
@@ -18,32 +19,9 @@ exclude:
 # Display Table of Contents on every page, disable by adding `toc: false` to the front matter of any file
 toc: true
 
-defaults:
-  -
-    scope: 
-      path: '/roles/*'
-    values:
-      breadcrumbs:
-        - name: 'Roles'
-          path: '/roles/'
-  -
-    scope: 
-      path: '/activities/*'
-    values:
-      breadcrumbs:
-        - name: 'Activities'
-          path: '/activities/'
-  -
-    scope: 
-      path: '/glossary/*'
-    values:
-      breadcrumbs:
-        - name: 'Glossary'
-          path: '/glossary/'
-  -
-    scope: 
-      path: '/contributor-guides/*'
-    values:
-      breadcrumbs:
-        - name: 'Contributor guides'
-          path: '/contributor-guides/'
+# show_navigation: true
+show_breadcrumbs: true
+
+# Display the headings separately
+titles_from_headings:
+  strip_title: true

@@ -2,37 +2,23 @@
 type: Index
 ---
 
-# Stages to becoming a founding member
+# Member relations
 
-This outlines the stages by which a public organization becomes a founding member.
+The Foundation for Public Code is a member-owned association. Only wholly publicly owned organizations may become members. Members participate in the steering and governance of the association by voting at the General Assembly. They also participate by financing the association through yearly dues.
 
-## 1. Expression of interest
+## Membership benefits and responsibilities
 
-At this stage, the public organization confirms their interest in becoming a member.
+Members benefit from [codebase stewardship](../codebase-stewardship/index.md), [member onboarding support](member-onboarding-support.md) and the other [value propositions](member-onboarding-support.md) of being part of the community.
 
-This stage is over when the public organization signs the '[Expression of Interest](expression-of-interest.md)'.
+Members are responsible for the association's [governance](../../organization/governance-model.md) and [financing](../../organization/financial-model.md).
 
-## 2. Founding membership proposal
+## How to become a member
 
-At this stage, the Foundation and the public organization work together to identify:
-* [appropriate codebases](identify-potential-codebase.md) for Foundation codebase auditing, certification and stewardship activities
-* next steps in the collaboration
-* timeline and milestones for 2019
+1) Sign the [expression of interest](expression-of-interest.md) to allow both parties to work together in the open.
+2) Review the [member onboarding](member-onboarding-support.md) proposal and discuss with Foundation for Public Code staff members.
+3) Agree on your member dues and the [articles of association](../../organization/articles-of-association.md), and sign the [membership contract](membership-contract.md).
 
-This stage is over when both parties agree on the '[Founding Membership Proposal](founding-membership-proposal.md)'.
+## Further reading
 
-This stage may include a [founding membership workshop](founding-membership-workshop.md).
-
-## 3. Founding membership contract
-
-> Founding membership contracts are only available to founding members in 2019. From 2020, all members will have an annual membership contracts.
-At this stage, the Foundation and the public organization sign a legally binding contract, including a financial settlement and the founding membership proposal (attached as an annex).
-
-This stage is over when both parties sign a founding membership contract.
-
-
-## 4. Membership of the Foundation
-
-From 2020, each member will have an annual membership contract.
-
-With the annual membership contract, members become co-owners of the Foundation. This includes steering and setting priorities for the Foundation and voting in the General Assembly. 
+* [founding membership proposal](founding-membership-proposal.md) used in 2019
+* [template for a workshop with potential members](founding-membership-workshop.md)
