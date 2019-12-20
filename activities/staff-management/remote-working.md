@@ -23,6 +23,6 @@ We've decided to change how we work to better support people working remotely. W
 
 3. To best support people away from the Amsterdam office for important meetings or events, we'll:
 
-* map out what they'll need at the meeting or event.
-* make sure people in Amsterdam and abroad start working together early enough so we're prepared for the meeting (including contingency).
+* map out what they'll need at the meeting or event,
+* make sure people in Amsterdam and abroad start working together early enough so we're prepared for the meeting (including contingency),
 * schedule a retro after each important meeting or event so we can improve the planning and remote collaboration.
