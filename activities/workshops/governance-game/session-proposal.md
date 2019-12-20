@@ -8,7 +8,11 @@ This is a proposal for doing a workshop with the governance game at an external 
 
 ## Session title
 
-Will you play the trump card? — Understanding how public organizations can work together to maintain open source software
+Governance track: Interactive game exploring how public organisations can maintain shared and collaborative open source software together.
+
+## Session description
+
+Dodging calamity while managing code contributions from multiple vendors and agreeing on new features to co-finance - which card will you play next?
 
 ## Target audience
 
@@ -26,4 +30,4 @@ The workshop can also be held with two groups at the same time if the room is la
 
 ## Time
 
-We suggest a 40-45 minute time slot. The game itself can be played in 30 minutes, whereas the reminder time is used for reflection of how it played out.
+We suggest a 40-45 minute time slot. The game itself can be played in 30 minutes, whereas the remaining time is used for reflection of how it played out.
