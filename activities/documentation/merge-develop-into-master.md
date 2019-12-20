@@ -13,28 +13,13 @@ The purpose of reviewing these merges carefully is to make sure that we only pub
 
 ## Review process
 
-1. Create a pull request from 'develop' into 'master'.
-2. Include 'Review checklist' (see below) as a comment on your pull request
-3. Review all changed files.
-4. Complete the checklist.
-5. If there are no problems, ask a director to publish :tada:
+1. Create a 'release branch' from 'develop', naming it 'releasebranch+date'.
+2. Create a pull request from release branch into master.
+3. Include 'review checklist template' below as a comment on your pull request.
+3. Review all changes and additions. Small uncontroversial problems, such as typos, can be fixed in the release branch. For larger and/or controversial problems (such as restructuring of context), create a new branch and make a pull request into the release branch. For any open ended issues (such as new content suggestions), create an issue. 
+4. Once review is complete, merge to master! :tada:
 
-### If you find a problem
-
-6. Create a new branch. 
-7. Fix any uncontroversial problems in your branch (for example typos).
-8. Add large or controversial problems that prevent publication to the 'Review checklist' in your original pull request (for example factual errors).
-9. Add any other problems or questions to Issues (for example new content suggestions).
-
-### Resolving problems 
-
-10. Ask a second reviewer to validate new problems added to the review checklist together, preferably at the same time. 
-11. Create a new branch for each large and controversial checklist problem.
-12. Merge all new branches into 'develop'. 
-13. Update your orginal pull request.
-14. Restart the review process at step 3.
-
-## Checklist template
+## Review checklist template
 
 - [ ] Spell checked
 - [ ] Correct Markdown and formatting
