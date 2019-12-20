@@ -16,7 +16,7 @@ type: Resource
 * Adapting a codebase to a new context includes adapting to a) the data it will manipulate, b) how it connects to other software, and c) the structures and workflows of the organizaiton or people who use it
 * A single codebase can be used to generate components that are used for different purposes
 * A codebase can contain the sets of blueprints for several different adaptations of the original codebase
-* Version control allows you to track different adaptations of the same original in a very accurate way
+* [Version control](https://www.atlassian.com/git/tutorials/what-is-version-control) allows you to track different adaptations of the same original in a very accurate way
 
 ## Examples
 
