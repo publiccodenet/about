@@ -26,8 +26,8 @@ And supporting members with their codebases on:
 
 Please note that as an association, we allocate our resources across members. Our support for members is subject to availability. 
 
-## Member onboarding template
+## Template for the member onboarding proposal
 
 This document serves as a draft onboarding proposal to send to public organizations that are exploring joining the Foundation for Public Code as a member.
 
-You can access the [membership onboarding template here](https://docs.google.com/document/d/1G-pOyoMvHCjSzMt8YiI6dj7tmP4v9Mbd9sthTyM9pCA/).
+You can access the [template for the member onboarding proposal here](https://docs.google.com/document/d/1G-pOyoMvHCjSzMt8YiI6dj7tmP4v9Mbd9sthTyM9pCA/).
