@@ -11,6 +11,8 @@ Our mission requires collaboration! We're eager for your questions or suggestion
 + phone: +31 20 2 444 500
 + Twitter: [@publiccodenet](http://www.twitter.com/publiccodenet)
 
+[Our schedule](yearly-schedule.md) shows when the office is closed.
+
 ## Communications channels
 
 Our canonical source of truth is this website. Watch us work and join our discussions at:
