@@ -1,5 +1,5 @@
 ---
-type: index
+type: Resource
 ---
 
 # Using and managing VOIP phone numbers
