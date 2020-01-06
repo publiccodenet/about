@@ -5,7 +5,7 @@ Explains: how to blog for Foundation staff
 
 # How and why to blog for Foundation staff
 
-We blog for a number of different reasons. To quote the communications plan, "The blog is our primary tool for talking about:
+[We blog](https://blog.publiccode.net/) for a number of different reasons. To quote the communications plan, "The blog is our primary tool for talking about:
 
 * Our work: what we’re working on and what we’ve learned
 * Our position on important issues: why we’ve made the political, technological, organizational or design decisions we have

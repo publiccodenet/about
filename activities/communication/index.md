@@ -15,6 +15,7 @@ These are all the activities, documents and templates for Communication.
 Community calls are a way to get direct input from the community on topics that in any way are of concern to them. We host community calls regularly and they are open for anyone to join.
 
 * [How to run a community call](run-a-community-call.md)
+* [Community call invite template](community-call-invite-template.md)
 
 ## Phone numbers
 
