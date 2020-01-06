@@ -29,6 +29,7 @@ This is how we approach our work:
 * [Contributing as a staff member](../contributor-guides/for-staff.md)
 * [Definition of done](definition-of-done.md)
 * [Privacy and GDPR](privacy.md)
+* [Yearly schedule](yearly-schedule.md)
 
 ## Legal registration
 
