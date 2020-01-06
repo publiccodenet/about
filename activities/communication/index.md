@@ -16,6 +16,7 @@ Community calls are a way to get direct input from the community on topics that 
 
 * [How to run a community call](run-a-community-call.md)
 * [Community call invite template](community-call-invite-template.md)
+* [How to write a community call blogpost](community-call-blogposts.md)
 
 ## Phone numbers
 

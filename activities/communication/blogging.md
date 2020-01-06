@@ -12,7 +12,7 @@ Explains: how to blog for Foundation staff
 * Our news: what we’ve achieved and what we’ll be doing next
 * Our community: interviews with and guest posts by community members"
 
-Read the comms plan for more information about our goals, audiences and messages.
+Read the communications plan for more information about our goals, audiences and messages.
 
 ## Before you start
 
@@ -32,6 +32,8 @@ Write your draft blogpost on HackMD.io. This lets you share it for pair writing,
 
 Don't hesitate to involve other people in your writing process - we want you to succeed, and we know how helpful an external perspective can be once something starts to feel like a problem.
 
+Read the [guide on writing community call blogposts](community-call-blogposts.md)
+
 After writing, please share with the comms coordinator for polishing.
 
 ## How to create a blogpost on the Foundation’s blog
@@ -47,7 +49,7 @@ title:  "Title”
 date: YYYY-MM-DD
 author: [put your name]
 type: blogpost
-category: [our current categories are news and community call]
+category: [our current categories are: news and community call]
 excerpt: [unformatted text you want to appear on the index]
 ---
 ```
