@@ -11,7 +11,7 @@ These are common challenges faced by public organizations as they mature in thei
 
 ## Operational delivery
 
-Developing the exertise to operationally manage digital innovation projects, including in-house development, procurement, and the management of third party vendors, often without in-house technical expertise.
+Developing the exertise to operationally manage digital innovation projects - including in-house development, procurement and the management of third party vendors - often without in-house technical expertise.
 
 ## Economies of scale and silos
 
