@@ -4,11 +4,13 @@ type: Resource
 
 # Community calls
 
-To enable different kinds of knowledge sharing, we organize a video call every two weeks. The call goes on for about an hour and usually focuses on one topic. The agenda is shared before the meeting and notes are taken.
+Community calls are a great way to enable knowledge sharing. The form of video calls allows for an informal and personal connection that can make space for testing thoughts in a way that is hard to do in an issue tracker. We help you get started with community calls for your codebase and may participate from time to time.
+
+ We also organize a video call for our own codebases the first Thursday of the month (currently only the [Standard for Public Code](https://standard-publiccode.net)). The call goes on for about an hour and usually focuses on one topic. The agenda is shared before the meeting and notes are taken. We also organize a community call focused on the Foundation for Public Code every third Thursday of the month.
 
 The community call notes are published on our [blog](https://blog.publiccode.net) after the call. Call participants may review the notes before they're published.
 
-## How to join community calls
+## How to join our community calls
 
 [Sign up for community call invitations](https://forms.gle/gn7wR2Eaxbv5g1BF9).
 
