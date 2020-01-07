@@ -15,7 +15,7 @@ Developing the exertise to operationally manage digital innovation projects - in
 
 ## Economies of scale and silos
 
-Learning to work together with partner-organizations to collaborate around a single shared system, rather than each having their own.
+Learning to work together with partner organizations to collaborate around a single shared system, rather than each having their own.
 
 ## Sustainable relationships with third parties
 
