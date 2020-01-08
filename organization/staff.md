@@ -85,7 +85,6 @@ Roles:
   Boris van Hoytema
   who also serves as Secretary of the Board of Directors
 * [Lead](#lead) value and finances:
-  Mirjam van Tiel
 
 ## Coordination team
 
@@ -94,7 +93,8 @@ The coordination team consists of:
 * Chief executive
 * Lead value and finances
 * Communications coordinator
-* Operations coordinator
+* Operations and Resource coordinator
+  Deborah Meibergen
 
 ## Role qualifiers
 
