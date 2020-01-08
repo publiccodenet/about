@@ -93,7 +93,7 @@ The coordination team consists of:
 * Chief executive
 * Lead value and finances
 * Communications coordinator
-* Operations and Resource coordinator
+* Operations and Resource coordinator:
   Deborah Meibergen
 
 ## Role qualifiers
