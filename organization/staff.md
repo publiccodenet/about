@@ -2,62 +2,26 @@
 type: Resource
 ---
 
-# Staff and contractors
+# Staff
 
 The staff of the Foundation for Public Code Vereniging are employees that execute the work agreed on by the [general assembly](../organization/governance-model.md#general-assembly) under direction of the [board of directors](../organization/governance-model.md#board-of-directors).
 
-Some roles in our organization are fulfilled by contractors. For transparency, these are mentioned with the legal entity they bill through.
+[Meet our team](https://publiccode.net/team/) or [come work with](https://publiccode.net/careers/).
 
 As we are a community leadership organization that mostly helps others, we aim for minimal hierarchy and overhead and maximal autonomy for the specialists who further [our mission](mission.md).
 
 The staff consists of a manager, [a coordination team](#coordination-team) and specialists.
 
-[Meet our team](https://publiccode.net/team/) or [check out our open roles](https://publiccode.net/careers/).
+Some roles in our organization are fulfilled by contractors. For transparency, these are mentioned with the legal entity they bill through.
 
 ## Domains
 
-### Operations
-
-Responsibilities:
-
-* Member development and onboarding
-* [Codebase stewardship](../activities/codebase-stewardship/index.md)
-* Codebase assessment and incubation
-
-Roles:
-
-* [Coordinator](#coordinator) operations:
-  Claus Mullie
-* Codebase steward for community:
-  * Jan Ainali
-* Codebase steward for product marketing
-* Codebase steward for quality
-  * [Lead](#lead):
-    Eric Herman
-* Codebase steward for support
-* Intern
-
-### Communications
-
-Responsibilities:
-
-* Documentation, internal communication and organizational culture
-* Marketing and external communication
-* Member communications and events
-* Recruitment
-
-Roles:
-
-* [Coordinator](#coordinator) communications:
-  Elena Findley-de Regt
-* Illustrator:
-  Floris Deerenberg
-  (contractor A Studio Called Quest)
-* Intern
-
 ### President
 
-The president is the main spokesperson for the organization. The president represents the organization in order to raise funds, grow membership and grow awareness of our work.
+Responsibilities:
+
+* main spokesperson for the organization
+* represents the organization in order to raise funds, grow membership and grow awareness of our work.
 
 Roles:
 
@@ -66,35 +30,84 @@ Roles:
   (contractor Multiple Ventures BV)
   who also serves as Chairman of the Board of Directors
 
-### General management
+### Codebase stewardship
 
-The general management provides leadership as well as making sure the organization can operate.
-The chief executive is responsible for executing the work approved by the general assembly and board of directors as the highest manager in the organization.
-All staff report to the chief executive.
+Responsibilities:
+
+* [Codebase stewardship](../activities/codebase-stewardship/index.md)
+* [Codebase assessment and incubation](../activities/codebase-stewardship/for-existing-projects.md)
+* [Standard for Public Code](https://standard.publiccode.net)
+
+Roles:
+
+* [Coordinator](#coordinator) codebase stewardship:
+  Claus Mullie
+* Codebase stewards:
+  * Jan Ainali
+  * [Lead](#lead):
+    Eric Herman
+
+### Communications
+
+Responsibilities:
+
+* Documentation, internal communication and organizational culture
+* Marketing and external inbound and outbound communication
+* Member communications and events
+* Recruitment and culture
+
+Roles:
+
+* [Coordinator](#coordinator) communications:
+  Elena Findley-de Regt
+* Illustrator:
+  Floris Deerenberg
+  (contractor A Studio Called Quest)
+
+### Membership development
+
+Responsibilities:
+
+* Membership relations
+* Member help, onboarding, liasing
+* Member codebase identification
+* Membership growth
+
+Roles:
+
+* [Coordinator](#coordinator) member development:
+  Claus Mullie
+
+### Operations
 
 Responsibilities:
 
 * Hiring and HR
-* Value tracking and quantification
 * Procurement, office management and contract management
 * Finances, budget and resource management
+* Infrastructure and tools
+
+Roles:
+
+* [Coordinator](#coordinator) operations:
+  Deborah Meibergen
+
+### Management
+
+Responsibilities:
+
+* [executing the work approved by the general assembly and board of directors](governance-model.md)
+* managing staff and taking their reports
 
 Roles:
 
 * [Chief](#chief) executive:
   Boris van Hoytema
   who also serves as Secretary of the Board of Directors
-* [Lead](#lead) value and finances:
-  Mirjam van Tiel
 
 ## Coordination team
 
-The coordination team consists of:
-
-* Chief executive
-* Lead value and finances
-* Communications coordinator
-* Operations coordinator
+The coordination team consists of the chief executive and all coordinators.
 
 ## Role qualifiers
 
