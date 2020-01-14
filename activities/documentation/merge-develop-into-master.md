@@ -19,6 +19,7 @@ The purpose of routinely merging develop into master is to make sure our website
 
 Further reading on [gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html).
 
+```
 ## Review checklist template
 
 - [ ] Spell checked
@@ -28,3 +29,4 @@ Further reading on [gitflow](https://datasift.github.io/gitflow/IntroducingGitFl
 - [ ] Front matter is present and correct
 - [ ] Bullets and numbered lists are correct
 - [ ] All content reviewed
+```
