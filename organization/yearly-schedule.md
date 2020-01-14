@@ -4,8 +4,6 @@ type: resource
 
 # Yearly schedule 2020
 
-> The Foundation for Public Code offices will be closed for the holidays from 21 December 2019 to 6 January 2020.
-
 This schedule shows recurring events the Foundation for Public Code prepares for every year. It includes public holidays when the office is closed.
 
 ## January
