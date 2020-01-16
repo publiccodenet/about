@@ -31,6 +31,8 @@ One week after the board meeting the secretary sends out 1 (printable) PDF with:
 * the actions the board members agreed to perform (action list)
 * the notes of the board meeting (minutes)
 
+After this has been sent an e-mail will go out to the staff with decisions they need to know about.
+
 Board members may be sent an overview of the open action items between meetings.
 
 ## Archive
