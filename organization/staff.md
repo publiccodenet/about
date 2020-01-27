@@ -51,10 +51,9 @@ Roles:
 
 Responsibilities:
 
-* Documentation, internal communication and organizational culture
+* [Documentation](../activities/documentation/index.md), internal communication and organizational culture
 * Marketing and external inbound and outbound communication
-* Member communications and events
-* Recruitment and culture
+* Member communications and [events](../activities/events/index.md)
 
 Roles:
 
