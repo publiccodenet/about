@@ -4,7 +4,7 @@ type: Index
 
 # Staff management
 
-This content should collectively be treated as our staff handbook. Everything important for working for us should be here, except [specific information about our office building] (not publicly available). Staff are also expected to follow [our code of conduct].
+This content should collectively be treated as our staff handbook. Everything important for working for us should be here, except [specific information about our office building] (not publicly available). Staff are also expected to follow [our code of conduct](../../CODE_OF_CONDUCT.md).
 
 ## Working times, leave and holidays
 
