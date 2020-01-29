@@ -20,7 +20,7 @@ Dated:  [date]
 
 A. The aim of the association is to support the collective development and maintenance of public code, in order to reduce risks, increase quality, reduce costs and increase sustainability. The association focuses specifically on public organizations, which may also become members of the association and, in that capacity, be involved in achieving the association's objectives.
 
-B. The association shall be governed by its [current bylaws](../../organization/articles-of-association.md) (the "bylaws") [and its rules (the "association rules") at all times].[^*] The bylaws were last adopted when the association was founded on 3 June 2019. [The association rules were last adopted on [date].]
+B. The association shall be governed by its [current bylaws](../../organization/articles-of-association.md) (the "bylaws") [and its rules (the "association rules") at all times].[^1] The bylaws were last adopted when the association was founded on 3 June 2019. [The association rules were last adopted on [date].]
 
 C. Terms used in this membership agreement have the same meaning as in the bylaws [and the association rules], unless the context makes clear that the term is used differently.
 
@@ -64,4 +64,4 @@ The member acknowledges that their voting rights in the general assembly in a gi
 
 [Signatures page follows]
 
-[^*]: This only applies if the general assembly adopts association rules (huishoudelijk reglement).
+[^1]: This only applies if the general assembly adopts association rules (huishoudelijk reglement).
