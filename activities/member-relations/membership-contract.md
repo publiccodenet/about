@@ -44,7 +44,7 @@ hereby agree as follows:
 
 ## Article 3: Payment method for the first membership dues
 
-[The member shall pay the first membership dues in [euros] at the latest on the accession date into the bank account of the association at [bank] with number [bank account number] with the reference [helpful text].]
+[The member shall pay the first membership dues in [euros] at the latest on the accession date into the association's [bank name] bank account, account number [bank account number], with the reference [helpful text].]
 
 [The member will pay the first membership dues in kind by [description of contribution in kind] (the "contribution"). The association and the member agree that the contribution has a value equal to the amount of the first membership dues.]
 
