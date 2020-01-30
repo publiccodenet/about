@@ -21,8 +21,8 @@ How does sending a delegation to an event further our [mission](https://about.pu
 
 You should also consider:
 
-* What goals is the organization trying to achieve by attending this event?  Decide how you'll measure if the goals were met after the event.
-* how many people you should send to cover everything needed for the goals to be met (especially with large events. The goals also determine who represents the organization at the event.
+* the goals the organization is trying to achieve by attending this event.  Decide how you'll measure if the goals were met after the event.
+* how many people you should send to cover everything needed for the goals to be met (especially with large events. The goals will determine who represents the organization at the event.
 * the costs (for example, cost of missing the event, opportunity cost of staff being at the event, and financial cost of the travel, logistics and any ticket). These need not be precise numbers, but should give a rough estimate on the total costs.
 
 ### Personal development
