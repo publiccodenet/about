@@ -1,5 +1,7 @@
 ---
 type: resource
+redirect_from:
+    - activities/member-relations/membership-contract.md
 ---
 
 # Template membership contract
