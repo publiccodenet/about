@@ -51,10 +51,10 @@ Roles:
 
 Responsibilities:
 
-* [Documentation](../activities/documentation/index.md), internal communication and organizational culture
-* Marketing and external inbound and outbound communication
+* [Documentation](../activities/documentation/index.md), [internal communication](../activities/communication/index.md) and organizational culture
+* [Marketing and external inbound and outbound communication](../activities/communication/index.md)
 * Member communications and [events](../activities/events/index.md)
-* Recruitment
+* [Recruitment](../activities/recruitment/index.md)
 
 Roles:
 
@@ -80,8 +80,8 @@ Roles:
 
 Responsibilities:
 
-* Hiring and HR
-* Procurement, office management and contract management
+* [Staff management](../activities/staff-management/index.md)
+* [Procurement](../activities/procurement/index.md), [office management](../activities/office-management/index.md) and contract management
 * Finances, budget and resource management
 * Infrastructure and tools
 
