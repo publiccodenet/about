@@ -9,13 +9,13 @@ Sometimes the best way to help people collaborate is by getting them in the same
 This guide for Foundation for Public Code staff attending events is designed to be followed chronologically.
 There are additional tasks for communications specialists.
 
+This guide applies to [events we've decided to attend](deciding-to-attend-events.md).
+
 ## For everyone
 
 ### Before the event
 
-* Figure out the purpose of attending the event. Which are the goals that the organization is trying to achieve by attending this event? Make sure these are aligned with the overarching [mission and principles](../../organization/mission.md). The goals usually determine who represents the organization at the event. Decide how you'll measure if the goals were met after the event.
 * Appoint someone who is responsible for this particular event. Even though responsibilities may be delegated, it helps to be clear on who has authority to make decisions. This also reduces the risk that a task might be left undone.
-* Consider how many people you should send to cover everything needed for the goals to be met (especially with large events).
 * Create internal awareness. In order to enable synergies, sharing the overall plans with the rest of the organization is important.
 * Check the agenda. If someone happens to be connected to any of the speakers, consider reaching out.
 * Consider bringing informational material to give away to people that want to get to know us better.
