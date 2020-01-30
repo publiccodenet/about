@@ -26,7 +26,7 @@ It might help to explain:
 
 You should also consider:
 
-* the costs (for example, cost of missing the event, opportunity cost of staff being at the event, and financial cost of the travel, logistics and any ticket). 
+* the costs (for example, cost of missing the event, opportunity cost of staff being at the event, and financial cost of the travel, logistics and any ticket).
 
 The goals, delegation size and costs can be indicative rather than precise.
 
