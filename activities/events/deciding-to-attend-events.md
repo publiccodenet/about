@@ -21,11 +21,9 @@ When considering whether to attend an event, the most important question to answ
 
 How does sending a delegation to an event further our [mission](https://about.publiccode.net/organization/mission.html)?
 
-The size and makeup of the delegation should be based on what is most likely to help us further mission.
-
-** from attending events:
 * Figure out the purpose of attending the event. Which are the goals that the organization is trying to achieve by attending this event? Make sure these are aligned with the overarching [mission and principles](../../organization/mission.md). The goals usually determine who represents the organization at the event. Decide how you'll measure if the goals were met after the event.
-* Consider how many people you should send to cover everything needed for the goals to be met (especially with large events).**
+
+* Consider how many people you should send to cover everything needed for the goals to be met (especially with large events)
 
 You should also consider the costs (for example, cost of missing the event, opportunity cost of staff being at the event, and financial cost of the travel, logistics and any ticket). These need not be precise numbers, but should give a rough estimate on the total costs.
 
