@@ -68,10 +68,8 @@ Roles:
 
 Responsibilities:
 
-* Membership relations
-* Member help, onboarding, liasing
-* Member codebase identification
-* Membership growth
+* [Member relations](../activities/member-relations/index.md)
+* [Membership growth](../activities/membership-growth/index.md)
 
 Roles:
 
