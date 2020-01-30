@@ -7,7 +7,7 @@ explains: How to make attendance at an event a success
 
 Sometimes the best way to help people collaborate is by getting them in the same room to meet face to face.
 This guide for Foundation for Public Code staff attending events is designed to be followed chronologically.
-There are additional tasks for communications specialists. 
+There are additional tasks for communications specialists.
 
 Before using this guide, make sure to [get a decision on attending the event](deciding-to-attend-events.md).
 
