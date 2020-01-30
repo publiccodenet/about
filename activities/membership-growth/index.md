@@ -4,6 +4,8 @@ type: Index
 
 # Membership growth
 
+We support potential members in their path towards membership.
+
 The Foundation for Public Code is a member-owned association. Only wholly publicly owned organizations may become members. Members participate in the steering and governance of the association by voting at the General Assembly. They also participate by financing the association through yearly dues.
 
 ## Membership benefits and responsibilities
