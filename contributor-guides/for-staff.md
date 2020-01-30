@@ -31,4 +31,5 @@ These are some tools some of us find helpful:
 
 ## Useful context
 
+* [Collaborative Code is the Future of Cities @ DecidimFest 2019](https://www.youtube.com/watch?v=cnJtnZ9Cx1o). Talk by Ben Cerveny on the background behind the Foundation for Public Code
 * [Public Money? Public Code! - Panel @ Nextcloud Conference 2019](https://youtube.com/watch?v=QHFkD4xfd6c). Touches on topics like procurement, law and more
