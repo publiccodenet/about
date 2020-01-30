@@ -15,23 +15,28 @@ We have different decision making criteria for these 2 types of event attendance
 
 ### Delegation
 
-When considering whether to attend an event, the most important question to answer is:
+When considering whether to attend an event, you must answer:
 
 How does sending a delegation to an event further our [mission](https://about.publiccode.net/organization/mission.html)?
 
+It might help to explain:
+
+* the goals the organization is trying to achieve by attending the event, including how you'll measure if the goals were met
+* which and how many people to send to make sure the goals are met
+
 You should also consider:
 
-* the goals the organization is trying to achieve by attending this event.  Decide how you'll measure if the goals were met after the event.
-* how many people you should send to cover everything needed for the goals to be met (especially with large events. The goals will determine who represents the organization at the event.
-* the costs (for example, cost of missing the event, opportunity cost of staff being at the event, and financial cost of the travel, logistics and any ticket). These need not be precise numbers, but should give a rough estimate on the total costs.
+* the costs (for example, cost of missing the event, opportunity cost of staff being at the event, and financial cost of the travel, logistics and any ticket). 
+
+The goals, delegation size and costs can be indicative rather than precise.
 
 ### Personal development
 
-Another reason for attending events is for staff members to get personal growth and extend their skill sets. Choosing events to attend should be personalized for the staff member's role and career ambitions.
+Another reason for attending events is for staff members to learn new things and extend their skill sets. Choosing events to attend should be personalized for the staff member's role and career ambitions.
 
 Personal development trajectories should be discussed in your 1-1s with your manager. This will enable both you and your manager to easily spot opportunities you might be interested in.
 
-Get your manager's support for your proposal to attend an event for personal development before you email the CEO.
+Get your manager's support for your proposal to attend a personal development event before you email the CEO.
 
 ## How to get approval for attending an event
 
