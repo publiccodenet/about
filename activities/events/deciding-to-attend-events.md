@@ -4,8 +4,6 @@ type: guide
 
 # Deciding to attend an event
 
-
-
 ## Event types
 
 We send people to events/conferences for 2 reasons:
@@ -21,11 +19,11 @@ When considering whether to attend an event, the most important question to answ
 
 How does sending a delegation to an event further our [mission](https://about.publiccode.net/organization/mission.html)?
 
-* Figure out the purpose of attending the event. Which are the goals that the organization is trying to achieve by attending this event? Make sure these are aligned with the overarching [mission and principles](../../organization/mission.md). The goals usually determine who represents the organization at the event. Decide how you'll measure if the goals were met after the event.
+You should also consider:
 
-* Consider how many people you should send to cover everything needed for the goals to be met (especially with large events)
-
-You should also consider the costs (for example, cost of missing the event, opportunity cost of staff being at the event, and financial cost of the travel, logistics and any ticket). These need not be precise numbers, but should give a rough estimate on the total costs.
+* What goals is the organization trying to achieve by attending this event?  Decide how you'll measure if the goals were met after the event.
+* how many people you should send to cover everything needed for the goals to be met (especially with large events. The goals also determine who represents the organization at the event.
+* the costs (for example, cost of missing the event, opportunity cost of staff being at the event, and financial cost of the travel, logistics and any ticket). These need not be precise numbers, but should give a rough estimate on the total costs.
 
 ### Personal development
 
