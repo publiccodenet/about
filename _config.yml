@@ -10,6 +10,7 @@ include:
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-sitemap
 remote_theme: publiccodenet/jekyll-theme
 
 # Exclude the `vendor` folder created by Travis

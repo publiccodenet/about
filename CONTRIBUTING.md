@@ -9,7 +9,7 @@ Thanks for your interest in the Foundation for Public Code! We’re excited to m
 
 There’s lots of work going on as we start the Foundation - we’d love your help with this.
 
-In 2019 we’re focused on:
+In 2019 we focused on:
 
 + designing and testing our codebase stewardship processes
 + establishing relationships with the Foundation’s founding members (public organizations)
