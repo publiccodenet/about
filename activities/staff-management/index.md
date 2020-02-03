@@ -19,6 +19,11 @@ When we expect you to be here and how to plan to be somewhere else.
 
 ## Personnel and recruitment
 
+* [Staff and contractors]
+* [GitHub training](github-for-newcomers.md)
+* [Writing an issue](writing-issues.md)
+
+
 ## Remuneration policy and expenses
 
 * [How to travel](travel.md)
