@@ -7,7 +7,7 @@ type: Resource
 Codebase stewardship can be provided to an existing codebase.
 In that case, there might be some important considerations about how to transition and budget for that.
 
-Before entering the [codebase stewardship lifecycle](lifecycle.md) all potential codebases are evaluated according to our [criteria for codebase stewardship](criteria-for-codebase-stewardship.md).
+Before entering the [codebase stewardship lifecycle](lifecycle.md) all potential codebases are evaluated according to our [criteria for codebase stewardship](criteria-for-codebase-stewardship.md). To help tracking codebases in Odoo consistently, use [this template](odoo-codebase-template.md).
 
 ## What developing organizations need to do
 
