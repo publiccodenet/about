@@ -40,7 +40,7 @@ After writing, please share with the comms coordinator for polishing.
 
 1. Create a branch for your new blogpost within in the [blog repo](https://github.com/publiccodenet/blog).
 
-2. Create a new file for your blogpost within blog/BLOG/_posts/. Name your file  ```YEAR-MONTH-DAY-title.md```.
+2\. Create a new file for your blogpost within [`_posts/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/_posts). Name your file  `YEAR-MONTH-DAY-title.md`.
 
 3. Add the frontmatter.
 
