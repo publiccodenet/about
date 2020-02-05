@@ -38,7 +38,7 @@ Employee Insurance Agency (Uitvoeringsinstituut Werknemersverzekeringen, UWV, in
 If you are expecting multiple births (twins, triplets, etc.), you are entitled to full maternity 
 pay for each child.
 
-#### Partner and paternity leave
+### Partner and paternity leave
 
 You are entitled to 1 week of partner or paternity leave after your partner gives birth. 
 Partner / paternity leave is the number of working hours in one week. 
@@ -62,7 +62,7 @@ choose to take less than 5 weeks.
 * This measure is expected to come into force on 1 July 2020. This depends on its acceptance by the 
 upper and lower houses of parliament.
 
-##### Parental leave
+### Parental leave
 
 If you have children aged up to 8 you can take unpaid parental leave. 
 Eligibility starts right after you start working. Your entitlement to parental leave is 
