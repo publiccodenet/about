@@ -2,8 +2,8 @@
 type: Guide
 explains: information about working days, lunch breaks, overtime and office hours
 ---
- 
-# Working days 
+
+# Working days
 
 The full-time working time is 40 hours per week, divided over five (5) days. 
 Based on an eight (8) hour day on Monday to Friday. A 30-minute daily lunch break is 
