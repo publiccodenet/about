@@ -32,10 +32,11 @@ maternity leave.
 
 ### Maternity pay
 
-You’re entitled to 100% of your earnings, throughout your leave – with a maximum of € 219,28 per day as of 1 January 2020. 
-The operations coordinator will apply for maternity allowance on your behalf to the Employee Insurance Agency 
-(Uitvoeringsinstituut Werknemersverzekeringen, UWV, in Dutch).If you are expecting multiple births (twins, triplets, etc.), 
-you are entitled to full maternity pay for each child.
+You’re entitled to 100% of your earnings, throughout your leave – with a maximum of € 219,28 per day as 
+of 1 January 2020. The operations coordinator will apply for maternity allowance on your behalf to the 
+Employee Insurance Agency (Uitvoeringsinstituut Werknemersverzekeringen, UWV, in Dutch).
+If you are expecting multiple births (twins, triplets, etc.), you are entitled to full maternity 
+pay for each child.
 
 #### Partner and paternity leave
 
@@ -45,25 +46,28 @@ If you work full-time this adds up to 5 days of 8 hours.
 This paid leave can be taken any time in the first 4 weeks after the birth of the child. 
 During this period of leave you will receive 100% of your salary.
 
-As of 1 July 2020, you will also be entitled to 5 weeks unpaid leave in the first 6 months after the birth. 
-If you take unpaid leave you will be able to claim benefits from the Employment Insurance Agency 
-(Uitvoeringsinstituut Werknemersverzekeringen, UWV) for up to 70% of your salary.
-The government has confirmed that this measure will come into effect under the following conditions:
+As of 1 July 2020, you will also be entitled to 5 weeks unpaid leave in the first 6 months 
+after the birth. If you take unpaid leave you will be able to claim benefits from the 
+Employment Insurance Agency (Uitvoeringsinstituut Werknemersverzekeringen, UWV) for up 
+to 70% of your salary.
+
+The government has confirmed that this measure will come into effect under the following 
+conditions:
 * the employee must have taken the standard 1-week's partner leave first;
 * they must take the leave for whole weeks;
 * they can only take the extra weeks of leave during the first 6 months after the birth;
 * the employee can only take up non-consecutive weeks if the employer agrees to this.
-* If your manager agrees, you can spread the leave over a longer period than 5 weeks. You can also choose to take less 
-than 5 weeks.
-** This measure is expected to come into force on 1 July 2020. This depends on its acceptance by the upper and lower 
-houses of parliament.
+* If your manager agrees, you can spread the leave over a longer period than 5 weeks. You can also 
+choose to take less than 5 weeks.
+* This measure is expected to come into force on 1 July 2020. This depends on its acceptance by the 
+upper and lower houses of parliament.
 
 ##### Parental leave
 
 If you have children aged up to 8 you can take unpaid parental leave. 
-Eligibility starts right after you start working. Your entitlement to parental leave is 26 times the 
-number of hours you work per week. For example, if you work 32 hours a week, you are entitled 
-to 26 x 32 = 832 hours of parental leave. So in theory you can work 1 day a week less for 2 years. 
-Important to know: these are unpaid hours. 
+Eligibility starts right after you start working. Your entitlement to parental leave is 
+26 times the number of hours you work per week. For example, if you work 32 hours a week, 
+you are entitled to 26 x 32 = 832 hours of parental leave. So in theory you can work 1 day 
+a week less for 2 years. Important to know: these are unpaid hours. 
 
 If you have questions about parental leave, please reach out to HR <hr@publiccode.net>.
