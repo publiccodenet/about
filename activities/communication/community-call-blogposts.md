@@ -1,5 +1,6 @@
 ---
 type: guide
+explains: How to write a community call notes blogpost
 ---
 
 # How to write a community call notes blogpost
