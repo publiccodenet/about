@@ -16,19 +16,19 @@ Read the communications plan for more information about our goals, audiences and
 
 ## Before you start
 
-1\. Since none of us work work in isolation, check in with the communications coordinator before you start writing your blogpost. This helps us:
+1. Since none of us work work in isolation, check in with the communications coordinator before you start writing your blogpost. This helps us:
 
 * understand your goals and audience for the blogpost
 * establish the scope of your blogpost (to avoid duplication with other planned work)
 * schedule publication of your blogpost so it fits best with other planned communications
 
-2\. [Read our style guide](https://content-guide.18f.gov/) - we use 18F's. If you have any questions, ask!
+2. [Read our style guide](https://content-guide.18f.gov/) - we use 18F's. If you have any questions, ask!
 
-3\. Make sure your information is correct on [blog/_data/staff.csv](https://github.com/publiccodenet/blog/blob/develop/_data/staff.csv).
+3. Make sure your information is correct on [blog/_data/staff.csv](https://github.com/publiccodenet/blog/blob/develop/_data/staff.csv).
 
 ## Write your blogpost
 
-Write your draft blogpost on HackMD.io. This lets you share it for pair writing, factchecking, feedback, or proofreading.
+Write your draft blogpost using a collaborative document tool. This lets you share it for pair writing, factchecking, feedback or proofreading.
 
 Don't hesitate to involve other people in your writing process - we want you to succeed, and we know how helpful an external perspective can be once something starts to feel like a problem.
 
@@ -38,11 +38,12 @@ After writing, please share with the comms coordinator for polishing.
 
 ## How to create a blogpost on the Foundation’s blog
 
-1\. Create a branch for your new blogpost within in the [blog repo](https://github.com/publiccodenet/blog).
+1. Create a branch for your new blogpost within in the [blog repo](https://github.com/publiccodenet/blog).
 
-2\. Create a new file for your blogpost within blog/BLOG/_posts/. Name your file  ```YEAR-MONTH-DAY-title.md```.
+2. Create a new file for your blogpost within blog/BLOG/_posts/. Name your file  ```YEAR-MONTH-DAY-title.md```.
 
-3\. Add the frontmatter.
+3. Add the frontmatter.
+
 ```
 ---
 title:  "Title”
@@ -54,7 +55,7 @@ excerpt: [unformatted text you want to appear on the index]
 ---
 ```
 
-4\. Add any images to blog/assets. Link to the asset directly in text.
+4. Add any images to blog/assets. Link to the asset directly in text.
 
 ```
 ![alternative text](/assets/image.jpg)
@@ -64,7 +65,7 @@ excerpt: [unformatted text you want to appear on the index]
 
 All blogposts should include at least one relevant image, to make them more engaging.
 
-5\. Approvals.
+5. Approvals.
 
 Tag the comms coordinator on the pull request for your blogpost for a final proofread.
 
