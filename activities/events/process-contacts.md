@@ -15,4 +15,4 @@ The way to follow up obviously depend on what interaction you had with the perso
 
 ## Share knowledge internally
 
-If some of the persons you met also are interesting to other staff members, brief them about your meeting and introduce each other in a medium that makes sense for the contact.
+If a person you met would be interesting to other staff members, brief them about your meeting and introduce each other in a medium that makes sense for the contact.
