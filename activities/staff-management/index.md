@@ -24,7 +24,6 @@ When we expect you to be here and how to plan to be somewhere else.
 * [GitHub training](../trainings/github-for-newcomers.md)
 * [Writing an issue](writing-issues.md)
 
-
 ## Remuneration policy and expenses
 
 * [How to travel](travel.md)
@@ -36,15 +35,6 @@ In the future, we plan to add:
 
 * a performance review framework
 * policies and procedures for terminating employment (based on [Dutch law])
-
-
-
-
-
-
-
-
-
 
 See also:
 
