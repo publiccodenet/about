@@ -5,14 +5,31 @@ Explains: for Foundation staff how to blog
 
 # How and why to blog for Foundation staff
 
-[We blog](https://blog.publiccode.net/) for a number of different reasons. To quote the communications plan, "The blog is our primary tool for talking about:
+[We blog](https://blog.publiccode.net/) for a number of different reasons.
 
-* Our work: what we’re working on and what we’ve learned
-* Our position on important issues: why we’ve made the political, technological, organizational or design decisions we have
-* Our news: what we’ve achieved and what we’ll be doing next
-* Our community: interviews with and guest posts by community members"
+## About the blog
 
-Read the communications plan for more information about our goals, audiences and messages.
+The blog is our primary tool for talking about:
+
+* our work: what we’re working on and what we’ve learned
+* our position on important issues: why we’ve made the political, technological, organizational or design decisions we have
+* our news: what we’ve achieved and what we’ll be doing next
+* our community: interviews with and guest posts by community members
+
+Not all information published on the blog needs to support our marketing strategy - for example, an in-depth discussion about a technology choice we’ve made may not help sell public code to potential members, but will be interesting to technologists in our community.
+
+To make sure we have the editorial freedom to publish about all of our work (no matter how niche), there’s no direct link to the blog on [publiccode.net](https://publiccode.net/). Instead, we may feature important blogposts. (We’ll build this functionality once we have important blogposts.)
+
+[Read the communications plan for more information about our goals, audiences and messages.]
+
+## Blogposts are ephemera
+
+Blogposts are different from resources published on About, like a white paper we will keep updated. By contrast, a blogpost is only true at that moment in time. We shouldn’t ever update a blogpost with more current information.
+
+Instead, we can add a banner/note with a link to any follow up blog posts or new information published on the same topic. Adding links from older blogposts to newer blogposts also lets us benefit from the greater search engine weighting given to older, still popular pages.
+
+This approach reduces our future content debt and avoids undermining our position of authority - for example, we won’t ever have to update a blogpost to say that due to a government policy change, an expert we’ve interviewed is no longer in post (which might cast doubt on that expert’s still-relevant advice).
+
 
 ## Before you start
 
