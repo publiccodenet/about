@@ -7,7 +7,8 @@ type: Index
 These are all the activities, documents and templates for Communication.
 
 * [Communication principles](communication-principles.md)
-* [How to write a blogpost](blogging.md)
+* [Communications plan](communications-plan.md)
+* [How and why to write a blogpost](blogging.md)
 * [Email signature template](email-signature-template.md)
 
 ## Community calls

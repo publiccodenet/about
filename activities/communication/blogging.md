@@ -5,31 +5,28 @@ Explains: for Foundation staff how to blog
 
 # How and why to blog for Foundation staff
 
-[We blog](https://blog.publiccode.net/) for a number of different reasons.
+[We blog](https://blog.publiccode.net/) for a number of different reasons. This guide gives background information about the blog and instructions on how to blog.
 
-## About the blog
+## Why we have a blog
 
 The blog is our primary tool for talking about:
 
 * our work: what we’re working on and what we’ve learned
-* our position on important issues: why we’ve made the political, technological, organizational or design decisions we have
 * our news: what we’ve achieved and what we’ll be doing next
 * our community: interviews with and guest posts by community members
+* our position on important issues: why we’ve made the political, technological, organizational or design decisions we have
 
-Not all information published on the blog needs to support our marketing strategy - for example, an in-depth discussion about a technology choice we’ve made may not help sell public code to potential members, but will be interesting to technologists in our community.
+Not all information published on the blog needs to support our marketing strategy - for example, an in-depth discussion about a technology choice we’ve made may not persuade potential Foundation members, but will be interesting to technologists in our community.
 
 To make sure we have the editorial freedom to publish about all of our work (no matter how niche), there’s no direct link to the blog on [publiccode.net](https://publiccode.net/). Instead, we may feature important blogposts. (We’ll build this functionality once we have important blogposts.)
 
-[Read the communications plan for more information about our goals, audiences and messages.]
-
 ## Blogposts are ephemera
 
-Blogposts are different from resources published on About, like a white paper we will keep updated. By contrast, a blogpost is only true at that moment in time. We shouldn’t ever update a blogpost with more current information.
+Blogposts are different from [resources and guides published on About](../documentation/index.md), like a white paper we keep updated. By contrast, a blogpost is only true at that moment in time. We shouldn’t ever update a blogpost with more current information.
 
-Instead, we can add a banner/note with a link to any follow up blog posts or new information published on the same topic. Adding links from older blogposts to newer blogposts also lets us benefit from the greater search engine weighting given to older, still popular pages.
+Instead, we can add a note with a link to any follow up blogposts or new information published on the same topic. Adding links from older blogposts to newer blogposts also lets new blogposts benefit from the greater search engine weighting given to older, still popular pages.
 
-This approach reduces our future content debt and avoids undermining our position of authority - for example, we won’t ever have to update a blogpost to say that due to a government policy change, an expert we’ve interviewed is no longer in post (which might cast doubt on that expert’s still-relevant advice).
-
+This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/) and avoids undermining our position of authority - for example, we'll never have to change a blogpost to say that due to a government policy shift, an expert we’ve interviewed is no longer in post (which might cast doubt on that expert’s still-relevant advice).
 
 ## Before you start
 
@@ -49,15 +46,15 @@ Write your draft blogpost using a collaborative document tool. This lets you sha
 
 Don't hesitate to involve other people in your writing process - we want you to succeed, and we know how helpful an external perspective can be once something starts to feel like a problem.
 
-Read the [guide on writing community call blogposts](community-call-blogposts.md)
+Read the [guide on writing community call blogposts](community-call-blogposts.md).
 
-After writing, please share with the comms coordinator for polishing.
+After writing, please share with the communications coordinator for polishing.
 
 ## How to create a blogpost on the Foundation’s blog
 
 1. Create a branch for your new blogpost within in the [blog repo](https://github.com/publiccodenet/blog).
 
-2\. Create a new file for your blogpost within [`_posts/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/_posts). Name your file  `YEAR-MONTH-DAY-title.md`.
+2. Create a new file for your blogpost within [`_posts/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/_posts). Name your file `YEAR-MONTH-DAY-title.md`.
 
 3. Add the frontmatter.
 
@@ -72,7 +69,7 @@ excerpt: [unformatted text you want to appear on the index]
 ---
 ```
 
-4. Add any images to blog/assets. Link to the asset directly in text.
+4. Add any images to [`_assets/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/assets). Link to the asset directly in text.
 
 ```
 ![alternative text](/assets/image.jpg)
@@ -84,8 +81,9 @@ All blogposts should include at least one relevant image, to make them more enga
 
 5. Approvals.
 
-Tag the comms coordinator on the pull request for your blogpost for a final proofread.
+Tag the communciations coordinator on the pull request for your blogpost for a final proofread.
 
 ## Further reading
 
+* [The Foundation for Public Code communications plan](communications-plan.md) has more information about our goals, audiences and messages
 * [Read more about Jekyll posts](https://jekyllrb.com/docs/posts/)
