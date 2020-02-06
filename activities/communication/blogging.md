@@ -79,9 +79,7 @@ excerpt: [unformatted text you want to appear on the index]
 
 All blogposts should include at least one relevant image, to make them more engaging.
 
-5. Approvals.
-
-Tag the communciations coordinator on the pull request for your blogpost for a final proofread.
+5. Approvals: tag the communications coordinator on the pull request for your blogpost for a final proofread.
 
 ## Further reading
 
