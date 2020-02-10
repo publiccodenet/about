@@ -14,10 +14,10 @@ Our communications are in plain English, but we link to highly relevant pages in
 
 Our communications should show to showcase the Foundation as:
 
-- active, dynamic, getting things done
-- smart enough to be trusted with the importance and complexity of its work
-- plugged into and supportive of the network of visionaries and activists who also want this future
-- open, both about its intentions and operations (transparency) as well as learnings, failures and successes
+* active, dynamic, getting things done
+* smart enough to be trusted with the importance and complexity of its work
+* plugged into and supportive of the network of visionaries and activists who also want this future
+* open, both about its intentions and operations (transparency) as well as learnings, failures and successes
 
 We believe it’s more important to talk concretely about what we’ve already done than what we hope to do.
 
@@ -37,28 +37,14 @@ To enable public-purpose software and policy that is open and collaborative.
 
 Our audience is divided into:
 
-- current Foundation users
-- future Foundation users
-- influencers
+* current Foundation users
+* future Foundation users
+* influencers
 
 ### Foundation users
 
-Decision makers and sponsors:
+We believe [these are the users of the Foundation for Public Code](https://about.publiccode.net/activities/value-and-impact/user-mapping/).
 
-- [political](https://about.publiccode.net/activities/member-relations/user-mapping/political.html)
-- [senior civil servants](https://about.publiccode.net/activities/member-relations/user-mapping/senior-civil-servants.html)
-- structural funding and philanthropy
-
-Users and contributors:
-
-- the policy community
-- the tech and open source communities
-- business management and procurement for public administrations
-
-Other interested parties:
-
-- vendors and the private sector
-- non-governmental/non-profit organizations with an aligned mission
 
 ### Influencers
 
