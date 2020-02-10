@@ -33,7 +33,7 @@ Before using this guide, make sure to [get a decision on attending the event](de
 * If two people attended the event, sit down for a short debrief with each other.
 * If three or more people attended the event, consider doing a [retrospective](../staff-meetings/retrospective.md).
 * Process all expenses for the event.
-* Process all new contacts for the event.
+* [Process all new contacts for the event](process-contacts.md).
 * Evaluate if the goals set for the event were met.
 
 ## For communications specialists
