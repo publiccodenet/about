@@ -17,12 +17,13 @@ We have different decision making criteria for these 2 types of event attendance
 
 When considering whether to attend an event, you must answer:
 
-How does sending a delegation to an event further our [mission](https://about.publiccode.net/organization/mission.html)?
+How does sending a delegation to an event further our [mission](../../organization/mission.md)?
 
 It might help to explain:
 
 * the goals the organization is trying to achieve by attending the event, including how you'll measure if the goals were met
 * which and how many people to send to make sure the goals are met
+* also beware that [communication efforts](../communication/), while not directly being part of the mission, is an enabler for it
 
 You should also consider:
 

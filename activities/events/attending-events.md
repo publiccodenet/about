@@ -17,9 +17,12 @@ Before using this guide, make sure to [get a decision on attending the event](de
 
 * Appoint someone who is responsible for this particular event. Even though responsibilities may be delegated, it helps to be clear on who has authority to make decisions. This also reduces the risk that a task might be left undone.
 * Create internal awareness. In order to enable synergies, sharing the overall plans with the rest of the organization is important.
-* Check the agenda. If someone happens to be connected to any of the speakers, consider reaching out.
-* Consider bringing informational material to give away to people that want to get to know us better.
+* Check the agenda. If someone happens to be connected to any of the speakers, consider reaching out. Coordination about this should start a month before the event or as soon as the program is released.
+* If the event has a call for papers or accepts submissions or ideas for talks, consider answering that, since it puts us in a prime position to present our [mission](../../organization/mission.md)
+* Consider bringing informational material to give away to people that want to get to know us better. Contact the organizer to find out if there are places to put these at.
 * Consider using a shared document to do the planning in, perhaps using [this template](events-planning-template.md).
+* Plan your [travels](../staff-management/travel.md).
+* Prepare a team chat (that is capable of notifications) if you are more than staff member attending.
 
 ### During the event
 
@@ -30,9 +33,8 @@ Before using this guide, make sure to [get a decision on attending the event](de
 
 * Upload photos.
 * If just one person attended the event, debrief at the daily standup and offer to venture deeper with anyone who may be interested.
-* If two people attended the event, sit down for a short debrief with each other.
-* If three or more people attended the event, consider doing a [retrospective](../staff-meetings/retrospective.md).
-* Process all expenses for the event.
+* If two or more people attended the event, do a [debrief](../staff-meetings/event-debrief.md).
+* [Process all expenses for the event](../staff-management/expense..md).
 * [Process all new contacts for the event](process-contacts.md).
 * Evaluate if the goals set for the event were met.
 
