@@ -5,6 +5,8 @@ explains: The basics for being a staff member of the Foundation for Public Code
 
 # How to staff at the Foundation for Public Code
 
+Our staff are expected to follow and uphold both the [Community code of conduct](../CODE_OF_CONDUCT.md) and the [Staff code of conduct](../organization/staff-code-of-conduct.md). Make sure you are familiar with both.
+
 Here are some important things to figure out in the first couple of days:
 
 * [Using space guide](../activities/office-management/using-space.md) - how we use the spaces in the office
@@ -29,4 +31,5 @@ These are some tools some of us find helpful:
 
 ## Useful context
 
+* [Collaborative Code is the Future of Cities @ DecidimFest 2019](https://www.youtube.com/watch?v=cnJtnZ9Cx1o). Talk by Ben Cerveny on the background behind the Foundation for Public Code
 * [Public Money? Public Code! - Panel @ Nextcloud Conference 2019](https://youtube.com/watch?v=QHFkD4xfd6c). Touches on topics like procurement, law and more

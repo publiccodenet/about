@@ -1,6 +1,6 @@
 ---
 type: Guide
-explains: How to publish new content on About for Foundation staff 
+explains: How to publish new content on About for Foundation staff
 ---
 
 # How to publish About (merging develop into master)
@@ -22,9 +22,7 @@ Our publishing process is [based on GitFlow](https://datasift.github.io/gitflow/
 ```
 ## Review checklist template
 
-- [ ] Spell checked
 - [ ] Correct Markdown and formatting
-- [ ] All hyperlinks work
 - [ ] All new files are linked in indices
 - [ ] Front matter is present and correct
 - [ ] Bullets and numbered lists are correct
