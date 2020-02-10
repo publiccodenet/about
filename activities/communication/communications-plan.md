@@ -180,14 +180,14 @@ This should be tied into general strategy sessions, so we get the maximum impact
 
 These are statistics we can easily track month on month as a proxy for impact:
 
-* tweet numbers
-* new Twitter followers
-* Twitter profile visits
-* Twitter mentions
-* tweet impressions
-* increased use of #publiccode
-* reuse or citation of our resources (including blogposts)
-* positive news stories about the Foundation for Public Code
-* website visitor numbers as provided by our hosting platform
+- tweet numbers
+- new Twitter followers
+- Twitter profile visits
+- Twitter mentions
+- tweet impressions
+- increased use of #publiccode
+- reuse or citation of our resources (including blogposts)
+- positive news stories about the Foundation for Public Code
+- website visitor numbers as provided by our hosting platform
 
 Our ability to get metrics is limited by the fact that we have [no analytics tracking](https://about.publiccode.net/organization/privacy.html) on our websites.
