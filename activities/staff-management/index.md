@@ -10,7 +10,6 @@ This content should collectively be treated as our staff handbook. Everything im
 
 When we expect you to be here and how to plan to be somewhere else.
 
-* [Working days and office hours](working-days.md)
 * [How to request leave](leave.md)
 * [Statutory holidays](/organization/yearly-schedule.md)
 * [How to report illness](sickness.md)
