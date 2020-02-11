@@ -12,7 +12,7 @@ Pregnant employees are entitled to 4-6 weeks pregnancy leave
 
 You are entitled to 1 week of partner or paternity leave after your partner gives birth.
 
-#### More information
+### More information
 
 [More information about maternity and partner / paternity leave can be found here:](https://business.gov.nl/regulation/leave-schemes/)
 
