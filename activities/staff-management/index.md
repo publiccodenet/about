@@ -27,13 +27,6 @@ When we expect you to be here and how to plan to be somewhere else.
 * [How to travel](travel.md)
 * [How to request reimbursement for expenses](expense.md)
 
-## Human Resources
-
-In the future, we plan to add:
-
-* a performance review framework
-* policies and procedures for terminating employment (based on [Dutch law])
-
 See also:
 
 * [Staff code of conduct](../../organization/staff-code-of-conduct.md)
