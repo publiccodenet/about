@@ -5,8 +5,8 @@ explains: how parental leave works. links to the government's website for detail
 
 # Maternity leave
 
-Pregnant employees are entitled to 4-6 weeks pregnancy leave (before the due date)
-and at least 10 weeks maternity leave (after childbirth). 
+Pregnant employees are entitled to 4-6 weeks pregnancy leave 
+(before the due date) and at least 10 weeks maternity leave (after childbirth). 
 
 ## Partner and paternity leave
 
