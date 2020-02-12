@@ -17,3 +17,4 @@ For the terms below we believe it is important that we have a clear definition o
 * [Public code](public-code-definition.md)
 * [Resource](resource-definition.md)
 * [Staff](staff-definition.md)
+* [Contractor](contractor-definition.md)
