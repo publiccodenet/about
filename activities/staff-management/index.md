@@ -16,8 +16,9 @@ When we expect you to be here and how to plan to be somewhere else.
 * [How to work remotely](remote-working.md)
 * [Parental leave](parental-leave.md)
 
-## Personnel and recruitment
+## Staff and recruitment
 
+* [Staff basics](for-staff.md)
 * [Recruitment](../recruitment/hiring-process.md)
 * [GitHub training](../trainings/github-for-newcomers.md)
 * [Writing an issue](writing-issues.md)
