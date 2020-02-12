@@ -1,6 +1,6 @@
 ---
 type: Guide
-explains: how parental leave works. links to the government's website for detailed information
+explains: what to do and what to know when you or your partner are expecting
 ---
 
 # Maternity and paternity leave
