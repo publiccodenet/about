@@ -5,10 +5,10 @@ explains: how parental leave works. links to the government's website for detail
 
 # Maternity and paternity leave
 
-Pregnant employees are entitled to 4-6 weeks pregnancy leave 
-(before the due date) and at least 10 weeks maternity leave (after childbirth). 
+Pregnant employees are entitled to 4-6 weeks pregnancy leave
+(before the due date) and at least 10 weeks maternity leave (after childbirth).
 
-### Paternity leave
+## Paternity leave
 
 You are entitled to 1 week of partner or paternity leave after your partner gives birth.
 
@@ -16,4 +16,4 @@ You are entitled to 1 week of partner or paternity leave after your partner give
 
 [More information about maternity and partner / paternity leave can be found here:](https://business.gov.nl/regulation/leave-schemes/)
 
-If you have questions about parental leave, please reach out to HR <hr@publiccode.net>.
+If you have questions about parental leave, please reach out to HR <hr@publiccode.net>
