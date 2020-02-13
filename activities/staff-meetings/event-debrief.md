@@ -19,17 +19,18 @@ Individually, develop high level notes on who you met, what you learnt and poten
 1. New contacts:
     * who are the interesting people we met?
     * why do we think they are interesting for us as an organization?
-    * what newsletters, mailing lists or future events should we invite them to?
+    * what [newsletters, mailing lists](https://forms.gle/gn7wR2Eaxbv5g1BF9) or future events should we invite them to?
     * [process the contacts](../events/process-contacts.md)
 2. What could the event and our participation in it mean for:
-    * membership
-    * codebase stewardship
-    * the Standard for Public Code
+    * [membership](../member-relations/)
+    * [codebase stewardship](../codebase-stewardship/)
+    * the [Standard for Public Code](https://standard.publiccode.net)
     * developing our community
-    * communications
-    * improving About
+    * [communications](../communication/)
+    * [improving About](../documentation/)
 3. Next steps:
     * generate overview of identified next steps
     * assign next steps to a team of owners (at least 2 staff members)
     * define a timeframe, if relevant
+    * create issues on GitHub, if relevant
 4. Decide if it would be useful to run a [retrospective](retrospective.md) for our preparation, participation and debrief for this event.
