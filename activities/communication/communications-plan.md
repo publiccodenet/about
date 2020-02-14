@@ -45,7 +45,6 @@ Our audience is divided into:
 
 We believe [these are the users of the Foundation for Public Code](https://about.publiccode.net/activities/value-and-impact/user-mapping/).
 
-
 ### Influencers
 
 These are domain celebrities in open source, government digital transformation and civic tech.
