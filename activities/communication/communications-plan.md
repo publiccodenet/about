@@ -140,6 +140,12 @@ Scheduling days of the week for maximum engagement
 - We aim to publish blogposts and jobs on Mondays (for maximum engagement).
 - The bulk of our social media engagement should take place Monday to Thursday.
 
+## Tone of voice
+
+Our general tone of voice is institutional, but with emojis.
+
+Blogposts should have a more personal authorial voice, while still showcasing our authors as professionals and experts.
+
 ## Messaging matrix
 
 We don’t know what the ideal ratio of audiences to target is yet. We’ll develop as we learn more about who actually engages with us.
