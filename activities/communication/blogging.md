@@ -79,7 +79,11 @@ excerpt: [unformatted text you want to appear on the index]
 
 All blogposts should include at least one relevant image, to make them more engaging.
 
-5. Approvals: tag the communications coordinator on the pull request for your blogpost for a final proofread.
+5. Approvals: tag the communications coordinator plus any other colleagues whose review you'd like on the pull request for your blogpost for a final proofread.
+
+6. Once approved, merge your pull request.
+
+7. Create a release branch and [merge develop into master](../documentation/merge-develop-into-master.md).
 
 ## Further reading
 
