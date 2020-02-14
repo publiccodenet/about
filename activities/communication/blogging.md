@@ -30,7 +30,7 @@ This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/c
 
 ## Before you start
 
-1. Since none of us work work in isolation, check in with the communications coordinator before you start writing your blogpost. This helps us:
+1. Since none of us work in isolation, check in with the communications coordinator before you start writing your blogpost. This helps us:
 
 * understand your goals and audience for the blogpost
 * establish the scope of your blogpost (to avoid duplication with other planned work)
