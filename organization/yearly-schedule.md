@@ -42,8 +42,6 @@ This schedule shows recurring events the Foundation for Public Code prepares for
 
 ## September
 
-25 September: Sustainable Development Goals action day
-
 ## October
 
 ## November
