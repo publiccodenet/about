@@ -16,6 +16,8 @@ This schedule shows recurring events the Foundation for Public Code prepares for
 
 ## March
 
+11-13 March: [Code for America Summit](https://www.codeforamerica.org/summit) - see you there!
+
 ## April
 
 2 April: Foundation for Public Code General Assembly
