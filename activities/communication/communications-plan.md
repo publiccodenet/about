@@ -53,21 +53,21 @@ These are domain celebrities in open source, government digital transformation a
 
 We are the only organization focused on open source software for public organizations that:
 
-- is non-profit and member owned (unlike commercial open source govtech companies)
-- offers codebase stewardship for different projects (how are we different from the Commons Conservancy and the businesses they can put you in touch with?)
-- offers productization and marketing of the codebases (unlike Commons Conservancy)
-- actually provides guidance and support to help public orgs make their code open (unlike Free Software Foundation)
-- isn’t tied to the EU project lifecycle (unlike SCORE)
-- has a reproducible process suitable not just for cities, but all public organizations (unlike SCORE)
-- is international (unlike OS2, Cloud 4 Cities, VNG-Realisatie, Adullact)
+* is non-profit and member owned (unlike commercial open source govtech companies)
+* offers codebase stewardship for different projects (how are we different from the Commons Conservancy and the businesses they can put you in touch with?)
+* offers productization and marketing of the codebases (unlike Commons Conservancy)
+* actually provides guidance and support to help public orgs make their code open (unlike Free Software Foundation)
+* isn’t tied to the EU project lifecycle (unlike SCORE)
+* has a reproducible process suitable not just for cities, but all public organizations (unlike SCORE)
+* is international (unlike OS2, Cloud 4 Cities, VNG-Realisatie, Adullact)
 
 We are also actively building our ecosystem by:
 
-- connecting members with like-minded parties (potential members, partners, affiliates, structural funders)
-- boosting awareness of public code
-- setting standards and creating reusable resources (by providing thought leadership!)
-- demonstrating the value of public code with well documented, public business cases and risk analyses
-- nurturing our community online, and at conferences and events
+* connecting members with like-minded parties (potential members, partners, affiliates, structural funders)
+* boosting awareness of public code
+* setting standards and creating reusable resources (by providing thought leadership!)
+* demonstrating the value of public code with well documented, public business cases and risk analyses
+* nurturing our community online, and at conferences and events
 
 ## Calls to action
 
@@ -75,70 +75,70 @@ We are also actively building our ecosystem by:
 
 This includes:
 
-- [political](https://about.publiccode.net/activities/member-relations/user-mapping/political.html)
-- [senior civil servants](https://about.publiccode.net/activities/member-relations/user-mapping/senior-civil-servants.html)
-- structural funding and philanthropy
+* [political](https://about.publiccode.net/activities/member-relations/user-mapping/political.html)
+* [senior civil servants](https://about.publiccode.net/activities/member-relations/user-mapping/senior-civil-servants.html)
+* structural funding and philanthropy
 
 Messages:
 
-- Find out more about [place or institution’s] interesting public code(ish) approach/project
-- Find out more about the Foundation’s work (new member signed up, new codebase incubated)
-- Find out more about the Foundation’s vision
-- International movements/partnerships for being smarter about technology/digital infrastructure (“you want to be part of this club of innovators”)
-- Find out more about the Standard and certification (how we contribute to risk reduction)
-- Find out more about codebase reuse (multiplying tech investment or saving money)
+* Find out more about [place or institution’s] interesting public code(ish) approach/project
+* Find out more about the Foundation’s work (new member signed up, new codebase incubated)
+* Find out more about the Foundation’s vision
+* International movements/partnerships for being smarter about technology/digital infrastructure (“you want to be part of this club of innovators”)
+* Find out more about the Standard and certification (how we contribute to risk reduction)
+* Find out more about codebase reuse (multiplying tech investment or saving money)
 
 ### Users and contributors
 
 This includes:
 
-- the policy community
-- the tech and open source communities
-- business management and procurement for public administrations
+* the policy community
+* the tech and open source communities
+* business management and procurement for public administrations
 
 Messages:
 
-- Find out more about [place or institution’s] interesting technological approach to public code or open source (objective: creating an enabling environment within government by showing this is normal elsewhere)
-- Find out more about [place or institution’s] interesting policy approach to public code or open policymaking (objective: creating an enabling environment within government by showing this is normal elsewhere)
-- Find out more about [place or institution’s] interesting management approach to procuring or producing public code or open source code (objective: creating an enabling environment within government by showing this is normal elsewhere)
-- Find out more about the Standard and our other resources for different user groups
-- Come to meetups and events
-- News from and profiles of our contributor community (‘join our thriving community!’)
+* Find out more about [place or institution’s] interesting technological approach to public code or open source (objective: creating an enabling environment within government by showing this is normal elsewhere)
+* Find out more about [place or institution’s] interesting policy approach to public code or open policymaking (objective: creating an enabling environment within government by showing this is normal elsewhere)
+* Find out more about [place or institution’s] interesting management approach to procuring or producing public code or open source code (objective: creating an enabling environment within government by showing this is normal elsewhere)
+* Find out more about the Standard and our other resources for different user groups
+* Come to meetups and events
+* News from and profiles of our contributor community (‘join our thriving community!’)
 
 ### Other interested parties
 
 This includes:
 
-- vendors and the private sector
-- end users (residents and citizens)
-- journalists, academia and non-governmental organizations
+* vendors and the private sector
+* end users (residents and citizens)
+* journalists, academia and non-governmental organizations
 
-    Messages:
+Messages:
 
-- Good news from our partners and affiliates (eg, relevant session at organization X’s annual conference!)
-- Any news about Foundation or codebase impact for end users (eg, check out these communications by a member about their new software for managing parking)
-- State of the market info about/for vendors (focusing on a class of vendors, rather than endorsing specific vendors)
-- Potentially: announcing when a new vendor becomes available to support a specific codebase (like [this OS2 example](https://os2.eu/blog/en-ny-leverandoer-til-os2kitos-fra-juni-2019))
+* Good news from our partners and affiliates (eg, relevant session at organization X’s annual conference!)
+* Any news about Foundation or codebase impact for end users (eg, check out these communications by a member about their new software for managing parking)
+* State of the market info about/for vendors (focusing on a class of vendors, rather than endorsing specific vendors)
+* Potentially: announcing when a new vendor becomes available to support a specific codebase (like [this OS2 example](https://os2.eu/blog/en-ny-leverandoer-til-os2kitos-fra-juni-2019))
 
 ## Channels
 
 Our channels are:
 
-- Our blog: long form, platform of record (read more about our blog)
-- Twitter: short form, ephemera
-- Facebook: medium form, ephemera (mostly avoid, since it’s a closed platform)
-- LinkedIn: reshare content created about us and posted by others, or replicate FB (mostly avoid, since it’s a closed platform)
+* [Our blog]: long form, platform of record (read more about our blog)
+* [Twitter]: short form, ephemera
+* [Facebook]: medium form, ephemera (mostly avoid, since it’s a closed platform)
+* [LinkedIn]: reshare content created about us and posted by others, or replicate FB (mostly avoid, since it’s a closed platform)
 
 Our posting frequency is:
 
-- Twitter - as often as we have something to say, up to daily. It’s dynamic, responsive, topical.
-- Other channels: when we have something to say.
-- Blogposts: to be determined based on our news cycle and how much work blogposts turn out to be. Starting guesstimate: we should publish at least once every 3 weeks, and not more than 3 times per week.
+* Twitter - as often as we have something to say, up to daily. It’s dynamic, responsive, topical.
+* Other channels: when we have something to say.
+* Blogposts: to be determined based on our news cycle and how much work blogposts turn out to be. Starting guesstimate: we should publish at least once every 3 weeks, and not more than 3 times per week.
 
 Scheduling days of the week for maximum engagement
 
-- We aim to publish blogposts and jobs on Mondays (for maximum engagement).
-- The bulk of our social media engagement should take place Monday to Thursday.
+* We aim to publish blogposts and jobs on Mondays (for maximum engagement).
+* The bulk of our social media engagement should take place Monday to Thursday.
 
 ## Tone of voice
 
@@ -154,31 +154,31 @@ We don’t know what the ideal ratio of audiences to target is yet. We’ll deve
 
 We run a campaign every time:
 
-- someone from the Foundation speaks at an event
-- we hit a [milestone](https://github.com/publiccodenet/about/pull/224)
+* someone from the Foundation speaks at an event
+* we hit a [milestone](https://github.com/publiccodenet/about/pull/224)
 
 ### Campaign template
 
 This should be tied into general strategy sessions, so we get the maximum impact from each event or milestone. These are generally structured as:
 
-- Announcement that thing is happening (give teaser)
-- Join in on other related conversations and hashtags (monitor conversation)
-- Tweet about the thing as it’s happening
-- Publish blog during (if a major announcement/unveiling) or afterwards about what happened, plus what we learned or what’s next
-- Measure how this worked
+* announcement that thing is happening (give teaser)
+* join in on other related conversations and hashtags (monitor conversation)
+* tweet about the thing as it’s happening
+* publish blog during (if a major announcement/unveiling) or afterwards about what happened, plus what we learned or what’s next
+* measure how this worked
 
 ## Metrics
 
 These are statistics we can easily track month on month as a proxy for impact:
 
-- tweet numbers
-- new Twitter followers
-- Twitter profile visits
-- Twitter mentions
-- tweet impressions
-- increased use of #publiccode
-- reuse or citation of our resources (including blogposts)
-- positive news stories about the Foundation for Public Code
-- website visitor numbers as provided by our hosting platform
+* tweet numbers
+* new Twitter followers
+* Twitter profile visits
+* Twitter mentions
+* tweet impressions
+* increased use of #publiccode
+* reuse or citation of our resources (including blogposts)
+* positive news stories about the Foundation for Public Code
+* website visitor numbers as provided by our hosting platform
 
 Our ability to get metrics is limited by the fact that we have [no analytics tracking](https://about.publiccode.net/organization/privacy.html) on our websites.
