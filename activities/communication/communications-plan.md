@@ -1,6 +1,6 @@
 ---
 type: resource
---
+---
 
 # Communications plan
 
@@ -75,9 +75,9 @@ We are also actively building our ecosystem by:
 
 This includes:
 
-* [political](https://about.publiccode.net/activities/member-relations/user-mapping/political.html)
-* [senior civil servants](https://about.publiccode.net/activities/member-relations/user-mapping/senior-civil-servants.html)
-* structural funding and philanthropy
+* [political](../value-and-impact/user-mapping/political.html)
+* [senior civil servants](../value-and-impact/user-mapping/senior-civil-servants.html)
+* [structural funding and philanthropy](../value-and-impact/user-mapping/structural-funding-philanthropy.html)
 
 Messages:
 
@@ -93,8 +93,8 @@ Messages:
 This includes:
 
 * the policy community
-* the tech and open source communities
-* business management and procurement for public administrations
+* [the tech and open source communities](../value-and-impact/user-mapping/developers-and-designers.html)
+* [business management and procurement for public administrations](../value-and-impact/user-mapping/management-and-procurement.html)
 
 Messages:
 
@@ -139,6 +139,13 @@ Scheduling days of the week for maximum engagement
 
 * We aim to publish blogposts and jobs on Mondays (for maximum engagement).
 * The bulk of our social media engagement should take place Monday to Thursday.
+
+### Press releases
+
+We don't publish press releases at the moment. Instead, we:
+
+* publish our own news in blogposts
+* link to our members' news stories and press releases
 
 ## Tone of voice
 
