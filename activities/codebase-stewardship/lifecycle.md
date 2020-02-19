@@ -9,9 +9,7 @@ How we deliver codebase stewardship is based around the lifecycle of stewardship
 
 ## Assessment
 
-In order to decide on if and how we can perform incubating stewardship [we assess](open-assessment.md) the codebase and its community together with the community.
-
-For existing codebases we start with the [assessment criteria for existing codebases](for-existing-projects.md).
+In order to decide on if and how we can perform incubating stewardship [we assess](open-assessment.md) the codebase and its community together with the community. If it is an [existing codebase](for-existing-projects.md) we look at the stewardship feasibility first. Then, or if it is a new codebase, we do a standard gap analysis.
 
 ## Incubating stewardship
 
