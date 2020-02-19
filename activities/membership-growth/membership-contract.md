@@ -22,7 +22,7 @@ Dated:  [date]
 
 A. The aim of the association is to support the collective development and maintenance of public code, in order to reduce risks, increase quality, reduce costs and increase sustainability. The association focuses specifically on public organizations, which may also become members of the association and, in that capacity, be involved in achieving the association's objectives.
 
-B. The association shall be governed by its [current bylaws](../../organization/articles-of-association.md) (the "bylaws") [and its rules (the "association rules") at all times].[^*] The bylaws were last adopted when the association was founded on 3 June 2019. [The association rules were last adopted on [date].]
+B. The association shall be governed by its [current bylaws](../../organization/articles-of-association.md) (the "bylaws") [and its rules (the "association rules") at all times].[^1] The bylaws were last adopted when the association was founded on 3 June 2019. [The association rules were last adopted on [date].]
 
 C. Terms used in this membership agreement have the same meaning as in the bylaws [and the association rules], unless the context makes clear that the term is used differently.
 
@@ -46,7 +46,7 @@ hereby agree as follows:
 
 ## Article 3: Payment method for the first membership dues
 
-[The member shall pay the first membership dues in [euros] at the latest on the accession date into the bank account of the association at [bank] with number [bank account number] with the reference [helpful text].]
+[The member shall pay the first membership dues in [euros] at the latest on the accession date into the association's [bank name] bank account, account number [bank account number], with the reference [helpful text].]
 
 [The member will pay the first membership dues in kind by [description of contribution in kind] (the "contribution"). The association and the member agree that the contribution has a value equal to the amount of the first membership dues.]
 
@@ -66,4 +66,4 @@ The member acknowledges that their voting rights in the general assembly in a gi
 
 [Signatures page follows]
 
-[^*]: This only applies if the general assembly adopts association rules (huishoudelijk reglement).
+[^1]: This only applies if the general assembly adopts association rules (huishoudelijk reglement).
