@@ -6,7 +6,7 @@ type: guide
 
 ## Event types
 
-We send people to events/conferences for 2 reasons:
+We send people to events or conferences for 2 reasons:
 
 * as part of a delegation to that event, with explicit goals we want to achieve and people we want to meet (strong, impactful presence)
 * for personal development - to learn more about an area, to deepen their skills, expertise and network in that area
@@ -23,7 +23,7 @@ It might help to explain:
 
 * the goals the organization is trying to achieve by attending the event, including how you'll measure if the goals were met
 * which and how many people to send to make sure the goals are met
-* also beware that [communication efforts](../communication/), while not directly being part of the mission, is an enabler for it
+* any [communication opportunities](../communication/) that could be an enabler for the mission
 
 You should also consider:
 
