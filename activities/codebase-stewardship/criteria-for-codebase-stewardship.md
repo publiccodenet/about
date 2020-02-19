@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Stewardship assessment for existing codebases
+# Stewardship assessment criteria for existing codebases
 
 During the Assess phase in the [codebase stewardship lifecycle](lifecycle.md), the staff of the Foundation for Public Code evaluate whether a codebase is ready and suitable for incubation by checking it against:
 
