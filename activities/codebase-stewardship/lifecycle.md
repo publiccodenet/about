@@ -9,7 +9,7 @@ How we deliver codebase stewardship is based around the lifecycle of stewardship
 
 ## Assessment
 
-In order to decide on if and how we can perform incubating stewardship [we assess](open-assessment.md) the codebase and its community together with the community. If it is an [existing codebase](for-existing-projects.md) we look at the [stewardship feasibility](https://about.publiccode.net/activities/codebase-stewardship/criteria-for-codebase-stewardship.html) first. 
+In order to decide on if and how we can perform incubating stewardship [we assess](open-assessment.md) the codebase and its community together with the community. If it is an [existing codebase](for-existing-projects.md) we look at the [stewardship feasibility](https://about.publiccode.net/activities/codebase-stewardship/criteria-for-codebase-stewardship.html) first.
 
 If codebase stewardship is feasible, or if it is a new codebase, we then do a [Standard for Public Code](https://standard.publiccode.net/) gap analysis.
 
@@ -25,7 +25,6 @@ Codebases that are in incubation do not yet have the maturity of code and commun
 During incubation, the community works to make the codebase fully Standard compliant (supported by the Foundation for Public Code).
 
 Repositories of codebases in incubation will have clear indicators that the codebase and community are not yet mature, displayed in prominent places.
-
 
 ## Full stewardship
 
