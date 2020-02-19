@@ -1,9 +1,9 @@
 ---
 Type: guide
-Explains: for Foundation staff how to blog
+Explains: how to blog
 ---
 
-# How and why to blog for Foundation staff
+# How and why we blog
 
 [We blog](https://blog.publiccode.net/) for a number of different reasons. This guide gives background information about the blog and instructions on how to blog.
 
