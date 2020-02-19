@@ -1,6 +1,6 @@
 ---
 Type: guide
-Explains: for Foundation staff how to blog
+Explains: how to blog
 ---
 
 # How and why to blog for Foundation staff
