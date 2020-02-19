@@ -13,7 +13,7 @@ Assessment should as much as possible take place in the open and be done togethe
 
 ## Steps
 
-1. Get explicit approval to start an open assessment by asking the maintainer.
+1. Get explicit approval to start an open assessment by asking the maintainer. Consider communicating about that assessment is starting, preferrably by encouraging the maintainer to do it, and possibly on [the blog](https://blog.publiccode.net) as well.
 2. [Create an assessment spreadsheet and link with the dashboard](create-assessment-spreadsheet.md).
 3. Create an issue in the repository for the codebase that links to the spreadsheet ([template](assessment-issue-template.md)).
 4. Start assessing.
