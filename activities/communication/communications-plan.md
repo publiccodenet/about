@@ -8,7 +8,7 @@ type: resource
 
 Our communications need to reflect our core values: open, quality, trust, community, helpful. They must also be non-partisan, in line with our [founding principles](https://about.publiccode.net/organization/mission.html#founding-principles).
 
-Our messages are positive and inspirational. Our community won’t be sustainable if we attract people motivated by fear or anger.
+Our messages range from neutral in tone to positive and inspirational. Our community won’t be sustainable if we attract people motivated by fear or anger.
 
 Our communications are in plain English, but we link to highly relevant pages in other languages, for example about our members’ work.
 
