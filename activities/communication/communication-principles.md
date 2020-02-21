@@ -14,3 +14,5 @@ Our communication principles are:
 * hypertextual, web first
 * interactive
 * publishable
+
+As [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) states, "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
