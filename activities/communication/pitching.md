@@ -4,20 +4,20 @@ type: resource
 
 # Pitching the Foundation for Public Code
 
-Staff often find themselves needing to pitch the Foundation for Public Code to diverse audiences. In order to make it easier to practice, we've collected pitches we already use.
+Staff often find themselves needing to pitch the Foundation for Public Code to diverse audiences, which can be daunting if you've never done it before. We've collected pitches we already use so it's easier to practice.
 
 ## Audiences
 
-These are the audiences we speak to about the Foundation for Public Code:
+These are the audiences we've spoken to about the Foundation for Public Code:
 
 * managers at a public organization
 * general policy experts or civil servants
 * developers at a public organization
-* other digital or tech people who work for government 
-* general developers
-* other tech people
+* digital or tech people who work for a public organization
+* general developers and other digital or tech people
 * open source enthusiasts
-* "open" enthusiasts
+* 'open' enthusiasts
+* vendors to government
 * the general public
 * politicians and politicians' assistants or special political advisors (SPADs)
 * journalists
@@ -44,19 +44,19 @@ For the general public, assuming no prior technology or government experience:
 
 For cocktail party audiences, assuming no interest at all:
 
-- "I work for an NGO that helps cities use open source software."
+* "I work for an NGO that helps cities use open source software."
   
 ## Tips when starting a conversation
 
 Always tailor your explanation to your interlocutor's interests and background knowledge. For example, "avoiding vendor-lockin" and "avoiding duplicating work" are actually the same argument - just aimed at different audiences.
 
-### Metaphors 
+### Metaphors
 
 If you know someone has background with an organization, you can use it as a metaphor.
 For example:
 
-* "We're like [media wiki user group], but for open source software for public organizations."
-* "We're like Apache Foundation, but for codebases that only make sense for government."
+* "We're like [MediaWiki Stakeholders' Group](https://www.mediawiki.org/wiki/MediaWiki_Stakeholders%27_Group), but for open source software for public organizations."
+* "We're like the [Apache Foundation](https://www.apache.org/), but for codebases that only make sense for government."
 
 ### 'Open source' is controversial
 
@@ -90,7 +90,7 @@ What is the interlocutor's experience of government?
 * what are their expectations of government efficiency and ethics?
 * do they expect that vendors only get contracts through corruption?
 
-When talking to someone who doesn't trust government officials' ethics or efficiency...[what?]
+When talking to someone who doesn't trust government officials' ethics or efficiency...**[what?]**
 
 ## Follow up questions
 
@@ -112,16 +112,19 @@ What donor influence - do you have a conflict of interest?
 * No, philanthropists can give money, and sit on an advisory committee, but only members (publicly owned organizations) can vote in the general assembly or appoint the board of directors
 * No, we also don't do work for hire; you can't pay the Foudnation to do work
 
-Is now the right time and palce? What about incumbent vendors?
+Is now the right time and place? What about incumbent vendors?
 
 * we'll have to see, but the idea is that we'll work with the vendors to get them more work as more public organizations start using the same codebase
 
 Why are you an association when you're called a Foundation?
 
 * Foundations can be bought out and subverted by corporate interests, this form of association cannot be.
-* The Foundation for Public Code is registered as an association because this structure was the best fit for our goals under Dutch law. Our goals are:
-    * to stay member owned in perpetuity (and the only wholly publicly owned organizations can be members)
-    * to make it hard for a corporate interest to dominate the Foundation for Public Code (so we can't 'sell out')
+* The Foundation for Public Code is registered as an association because this structure was the best fit for our goals under Dutch law.
+
+As a reminder, our goals are:
+
+* to stay member owned in perpetuity (and the only wholly publicly owned organizations can be members)
+* to make it hard for a corporate interest to dominate the Foundation for Public Code (so we can't 'sell out')
 
 Read more about [why we're an association named a foundation](https://github.com/publiccodenet/blog/issues/36).
 
@@ -137,6 +140,6 @@ To get more comfortable with these different pitches, we propose a game.
 
 A more advanced version could include:
 
-* opening topics to segue from 
+* opening topics to segue from
 * interloctor's country of origin
 * interlocutor's private motivation (for example money, security, democracy, public relations, being collaborative, seeking partners, seeking sales or leads for their company)
