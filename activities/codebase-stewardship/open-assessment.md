@@ -5,7 +5,7 @@ explains: how we do assessments in the open
 
 # How we do assessments in the open
 
-This guide is intended to help codebase stewards start assessment on a codebase that has entered the Assess phase (see [the lifecycle](lifecycle.md)).
+This guide is intended to help codebase stewards start assessment on a codebase that has entered the assess phase (see [the lifecycle](lifecycle.md)).
 
 ## Principles
 
