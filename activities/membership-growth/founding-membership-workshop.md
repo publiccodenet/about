@@ -1,5 +1,7 @@
 ---
 type: Resource
+redirect_from:
+    - activities/member-relations/founding-membership-workshop.md
 ---
 
 # Founding membership workshop

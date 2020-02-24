@@ -1,5 +1,7 @@
 ---
 type: resource
+redirect_from:
+    - activities/member-relations/member-onboarding-support.md
 ---
 
 # Membership onboarding support

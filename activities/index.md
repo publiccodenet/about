@@ -15,6 +15,7 @@ Activities that support the above as well as make staff operations work:
 * [Documentation](documentation/index.md)
 * [Events](events/index.md)
 * [Member relations](member-relations/index.md)
+* [Membership growth](membership-growth/index.md)
 * [Office management](office-management/index.md)
 * [Onboarding new staff](../contributor-guides/for-staff.md)
 * [Procurement](procurement/index.md)
