@@ -4,7 +4,7 @@ type: resource
 
 # Pitching the Foundation for Public Code
 
-Staff often find themselves needing to pitch the Foundation for Public Code to diverse audiences, which can be daunting if you've never done it before. We've collected pitches we already use so it's easier to practice.
+Pitching the Foundation for Public Code can be daunting if you've never done it before. We've collected pitches we already use so it's easier to practice.
 
 ## Opening lines
 
