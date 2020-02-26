@@ -30,7 +30,7 @@ These are pitches we already use.
 
 For developers, tech people and open source enthusiasts:
 
-* "You know the Free Software Foundation Europe's (FSFE) [Public Money, Public Code] campaign? We're helping public organizations actually do it."
+* "You know the Free Software Foundation Europe's (FSFE) [Public Money, Public Code](https://publiccode.eu/) campaign? We're helping public organizations actually do it."
 * "We are an open source foundation - like you have the Eclipse Foundation or the Linux Foundation - but then for public organizations. Public organizations are quite different so they need a different approach, but they can still benefit from that type of collaboration or trying to figure out how that works."
 
 For people with government experience or interest:
@@ -65,11 +65,13 @@ For example:
 
 We have different perspectives on open source:
 
-* Don't use 'open source' if you don't know your interlocutor knows about it - say 'collaborate and share'
-* Deliberately use 'open source' to filter people based on their technological knowledge level
-* 'Open source' really resonates with activists - open source is hands on democracy in action
+* Don't use 'open source' if you don't know your interlocutor knows about it - say 'collaborate and share'.
+* Deliberately use 'open source' to filter people based on their technological knowledge level.
+* 'Open source' really resonates with activists - open source is hands on democracy in action.
 
 ### We're apolitical
+
+We should reflect our [founding principles](https://about.publiccode.net/organization/mission.html#founding-principles) in our pitches.
 
 Avoid: "we think or we believe" [open source is better]
 Instead, describe what we do: "we help municipalities [share collaborative software].
@@ -87,13 +89,13 @@ You'll probably need to explain these concepts first.
 
 ### Local norms
 
-What is the interlocutor's experience of government?
+What is your interlocutor's experience of government?
 
 * do they trust their governments?
 * what are their expectations of government efficiency and ethics?
-* do they expect that vendors only get contracts through corruption?
+* do they believe that vendors only get contracts through corruption?
 
-When talking to someone who doesn't trust government officials' ethics or efficiency...**[what?]**
+When talking to someone who doesn't trust government officials' ethics or efficiency, explain that making things open reduces opportunities for corruption. For example, [Slovakian law requiring mandatory publication of certain types of government contracts](https://www.iflr.com/Article/2799762/Mandatory-publication-of-contracts.html). To encourage compliance, these contracts only become legally binding the day after publication.
 
 ## Follow up questions
 
@@ -101,23 +103,22 @@ These are follow up questions we've received, and answers staff have given.
 
 Are you a lobbying org? Are you the same as the FSFE?
 
-* No, we work with the organizations that have already decided to use open source. There are already so many organizations that have already decided that "we don't waste our time trying to convince the others".
+* No. We work with the organizations that have already decided to use open source. There are already so many organizations that have already decided that we don't waste our time trying to convince the others.
 
 Where does your money come from?
 
-* the runway was provided by a philanthropic grant, but long term the members of the association (which must be wholly publicly owned, like cities, provinces, states) pool the money in and decide which codebases we should be working on. Expect that long term this will remain a combination.
-* we're member-funded, but how to get members for a new association is a chicken and egg problem, so we started wtih philanthropic grant
-* member dues apy for our core activities; philanthropy allows us to develop new approaches, test assets/r&D/expansion before we apply these to core activities, which are effectively taxpayer funded
+* The runway was provided by a philanthropic grant, but long term the members of the association (which must be wholly publicly owned, like cities, provinces or states) pool the money and decide which codebases we should be working on. In the long term, we expect to get both member dues and philanthropic gifts.
+* We're member-funded, but how to get members for a new association is a chicken and egg problem, so we started with a philanthropic grant.
+* Member dues pay for our core activities. Philanthropy pays for our expansion and our research and development - it allows us to develop new approaches, and design and test new assets before we apply these to core activities, which are effectively taxpayer funded.
 
-What donor influence - do you have a conflict of interest?
+What about donor influence - do you have a conflict of interest?
 
-* No, only the public owned orgs can steer the organization (through votes in the general assembly)
-* No, philanthropists can give money, and sit on an advisory committee, but only members (publicly owned organizations) can vote in the general assembly or appoint the board of directors
-* No, we also don't do work for hire; you can't pay the Foudnation to do work
+* No. Philanthropists can give money, and sit on an advisory committee, but only members (publicly owned organizations) can vote in the general assembly or appoint the board of directors.
+* No. We also don't work for hire; you can't pay the Foundation to do work.
 
 Is now the right time and place? What about incumbent vendors?
 
-* we'll have to see, but the idea is that we'll work with the vendors to get them more work as more public organizations start using the same codebase
+* We'll have to see, but the idea is that we'll work with the vendors to get them more work as more public organizations start using the same codebase.
 
 Why are you an association when you're called a Foundation?
 
