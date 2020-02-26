@@ -31,11 +31,14 @@ These are pitches we already use.
 For developers, tech people and open source enthusiasts:
 
 * "You know the Free Software Foundation Europe's (FSFE) [Public Money, Public Code] campaign? We're helping public organizations actually do it."
+* "We are an open source foundation - like you have the Eclipse Foundation or the Linux Foundation - but then for public organizations. Public organizations are quite different so they need a different approach, but they can still benefit from that type of collaboration or trying to figure out how that works."
 
 For people with government experience or interest:
 
 * "We're helping public organizations that develop their own software to collaborate and share it with other public organizations so that the public doesn't need to duplicate the work."
-* [Boris pitches]
+* "We envision a future where software, as part of government, is taken a seriously as policy is now, dus being open becomes really crucial. That comes with the added advantage that you can then be critical with each others' open software and you can work together to make everyone's software better."
+* "Every government is going through digital transformation. But there are way more governments in the world that are going through digital transformations than there are technologists that understand that or programmers that can help with that. We need to be able to work together - it's either we work together or just we give keys to companies that'll sell us things, and then they'll keep us in their grid. So we need to learn how to work together. As the Foundation we are trying to build that collaboration at scale."
+* "We help public organizations to work together in order to go through digital transformation in a way they control and they are able to deal with. However, it's in none of their mandates to help others, yet real collaboration doesn't ever happen if you don't help each other. The Foundation for Public Code adds a player to that field where everyone can help each other by helping themselves."
 
 For the general public, assuming no prior technology or government experience:
 
@@ -82,7 +85,7 @@ Check whether your interlocutor knows about:
 
 You'll probably need to explain these concepts first.
 
-### Local norms 
+### Local norms
 
 What is the interlocutor's experience of government?
 
@@ -132,7 +135,7 @@ Read more about [why we're an association named a foundation](https://github.com
 
 To get more comfortable with these different pitches, we propose a game.
 
-1. Create a card for each pitch and audience type. 
+1. Create a card for each pitch and audience type.
 2. Shuffle the decks.
 3. Have someone draw a pitch and an audience.
 4. Practice giving the pitch!
