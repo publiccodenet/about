@@ -6,24 +6,6 @@ type: resource
 
 Staff often find themselves needing to pitch the Foundation for Public Code to diverse audiences, which can be daunting if you've never done it before. We've collected pitches we already use so it's easier to practice.
 
-## Audiences
-
-These are the audiences we've spoken to about the Foundation for Public Code:
-
-* managers at a public organization
-* general policy experts or civil servants
-* developers at a public organization
-* digital or tech people who work for a public organization
-* general developers and other digital or tech people
-* open source enthusiasts
-* 'open' enthusiasts
-* vendors to government
-* the general public
-* politicians and politicians' assistants or special political advisors (SPADs)
-* journalists
-* activists
-* philanthropists
-
 ## Opening lines
 
 These are pitches we already use.
@@ -136,7 +118,7 @@ Read more about [why we're an association named a foundation](https://github.com
 
 To get more comfortable with these different pitches, we propose a game.
 
-1. Create a card for each pitch and audience type.
+1. Create a card for each pitch and audience type (listed below).
 2. Shuffle the decks.
 3. Have someone draw a pitch and an audience.
 4. Practice giving the pitch!
@@ -147,3 +129,21 @@ A more advanced version could include:
 * opening topics to segue from
 * interloctor's country of origin
 * interlocutor's private motivation (for example money, security, democracy, public relations, being collaborative, seeking partners, seeking sales or leads for their company)
+
+### Audiences
+
+These are the audiences we've spoken to about the Foundation for Public Code:
+
+* managers at a public organization
+* general policy experts or civil servants
+* developers at a public organization
+* digital or tech people who work for a public organization
+* general developers and other digital or tech people
+* open source enthusiasts
+* 'open' enthusiasts
+* vendors to government
+* politicians and politicians' assistants or special political advisors (SPADs)
+* journalists
+* activists
+* philanthropists
+* the general public
