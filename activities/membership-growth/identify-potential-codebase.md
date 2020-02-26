@@ -1,5 +1,7 @@
 ---
 type: Resource
+redirect_from:
+    - activities/member-relations/identify-potential-codebase.md
 ---
 
 # Identifying potential codebases for Foundation stewardship
