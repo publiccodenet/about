@@ -13,19 +13,19 @@ These are pitches we already use.
 For developers, tech people and open source enthusiasts:
 
 * "You know the Free Software Foundation Europe's (FSFE) [Public Money, Public Code](https://publiccode.eu/) campaign? We're helping public organizations actually do it."
-* "We are an open source foundation - like you have the Eclipse Foundation or the Linux Foundation - but then for public organizations. Public organizations are quite different so they need a different approach, but they can still benefit from that type of collaboration or trying to figure out how that works."
+* "We are an open source foundation - like the Eclipse Foundation or the Linux Foundation - but then for public organizations. Public organizations are quite different so they need a different approach, but they can still benefit from that type of collaboration or trying to figure out how that works."
 
 For people with government experience or interest:
 
 * "We're helping public organizations that develop their own software to collaborate and share it with other public organizations so that the public doesn't need to duplicate the work."
-* "We envision a future where software, as part of government, is taken a seriously as policy is now, dus being open becomes really crucial. That comes with the added advantage that you can then be critical with each others' open software and you can work together to make everyone's software better."
-* "Every government is going through digital transformation. But there are way more governments in the world that are going through digital transformations than there are technologists that understand that or programmers that can help with that. We need to be able to work together - it's either we work together or just we give keys to companies that'll sell us things, and then they'll keep us in their grid. So we need to learn how to work together. As the Foundation we are trying to build that collaboration at scale."
+* "We envision a future where software, as part of government, is taken as seriously as policy is now. Thus being open becomes really crucial. That comes with the added advantage that you can then be critical with each others' open software and you can work together to make everyone's software better."
+* "Every government is going through digital transformation. But there are way more governments in the world that are going through digital transformations than there are technologists that understand that or programmers that want to help with that. We need to be able to work together - it's either we work together or just we give keys to companies that'll sell us things, and then they'll keep us in their grid. So we need to learn how to work together. As the Foundation we are trying to build that collaboration at scale."
 * "We help public organizations to work together in order to go through digital transformation in a way they control and they are able to deal with. However, it's in none of their mandates to help others, yet real collaboration doesn't ever happen if you don't help each other. The Foundation for Public Code adds a player to that field where everyone can help each other by helping themselves."
 
 For the general public, assuming no prior technology or government experience:
 
-* "Today, municipalities and government agencies have small pieces of software to provide services, and every municipality has their own. But rather than contracting to consulting companies to build their version, municipalities could pool together and make an open source one. Then each municipality only has to customise it to what they need. We help them work together."
-* "We help cities build and maintain public-purpose open source software together."
+* "Today, municipalities and government agencies have small pieces of software to provide services, and every municipality has their own. But rather than contracting to consulting companies to build their version, municipalities could pool together and make an open source one. Then each municipality only has to customise it to what they need. We help municipalities work together."
+* "We help cities build and maintain public purpose, open source software together."
 
 For cocktail party audiences, assuming no interest at all:
 
@@ -49,7 +49,7 @@ We have different perspectives on open source:
 
 * Don't use 'open source' if you don't know your interlocutor knows about it - say 'collaborate and share'.
 * Deliberately use 'open source' to filter people based on their technological knowledge level.
-* 'Open source' really resonates with activists - open source is hands on democracy in action.
+* 'Open source' really resonates with activists - open source is hands-on democracy in action.
 
 ### We're apolitical
 
@@ -77,7 +77,7 @@ What is your interlocutor's experience of government?
 * what are their expectations of government efficiency and ethics?
 * do they believe that vendors only get contracts through corruption?
 
-When talking to someone who doesn't trust government officials' ethics or efficiency, explain that making things open reduces opportunities for corruption. For example, [Slovakian law requiring mandatory publication of certain types of government contracts](https://www.iflr.com/Article/2799762/Mandatory-publication-of-contracts.html). To encourage compliance, these contracts only become legally binding the day after publication.
+When talking to someone who doesn't trust government officials' ethics or efficiency, explain that making things open reduces opportunities for corruption. For example, [Slovakian law requires mandatory publication of certain types of government contracts](https://www.iflr.com/Article/2799762/Mandatory-publication-of-contracts.html). To encourage compliance, these contracts only become legally binding the day after publication.
 
 ## Follow up questions
 
@@ -89,13 +89,13 @@ Are you a lobbying org? Are you the same as the FSFE?
 
 Where does your money come from?
 
-* The runway was provided by a philanthropic grant, but long term the members of the association (which must be wholly publicly owned, like cities, provinces or states) pool the money and decide which codebases we should be working on. In the long term, we expect to get both member dues and philanthropic gifts.
+* The runway was provided by a philanthropic grant, but long term the members of the association (which must be wholly publicly owned, like cities, provinces or states) pool the money and decide which codebases we should work on. In the long term, we expect we'll be funded by a combination of member dues and philanthropic gifts.
 * We're member-funded, but how to get members for a new association is a chicken and egg problem, so we started with a philanthropic grant.
-* Member dues pay for our core activities. Philanthropy pays for our expansion and our research and development - it allows us to develop new approaches, and design and test new assets before we apply these to core activities, which are effectively taxpayer funded.
+* Member dues pay for our core activities. Philanthropy pays for our expansion and our research and development - it allows us to develop new stewardship activities, and design and test new assets before we apply these to core activities, which are effectively taxpayer funded.
 
 What about donor influence - do you have a conflict of interest?
 
-* No. Philanthropists can give money, and sit on an advisory committee, but only members (publicly owned organizations) can vote in the general assembly or appoint the board of directors.
+* No. Philanthropists can give money and sit on an advisory committee, but only members (publicly owned organizations) can vote in the general assembly or appoint the board of directors.
 * No. We also don't work for hire; you can't pay the Foundation to do work.
 
 Is now the right time and place? What about incumbent vendors?
@@ -109,7 +109,7 @@ Why are you an association when you're called a Foundation?
 
 As a reminder, our goals are:
 
-* to stay member owned in perpetuity (and the only wholly publicly owned organizations can be members)
+* to stay member owned forever (and the only wholly publicly owned organizations can be members)
 * to make it hard for a corporate interest to dominate the Foundation for Public Code (so we can't 'sell out')
 
 Read more about [why we're an association named a foundation](https://github.com/publiccodenet/blog/issues/36).
