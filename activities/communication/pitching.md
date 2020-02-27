@@ -30,7 +30,7 @@ For the general public, assuming no prior technology or government experience:
 For cocktail party audiences, assuming no interest at all:
 
 * "I work for an NGO that helps cities use open source software."
-  
+
 ## Tips when starting a conversation
 
 Always tailor your explanation to your interlocutor's interests and background knowledge. For example, "avoiding vendor-lockin" and "avoiding duplicating work" are actually the same argument - just aimed at different audiences.
