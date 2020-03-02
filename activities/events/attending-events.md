@@ -53,7 +53,7 @@ Before using this guide, make sure to [get a decision on attending the event](de
 
 * Tweet the URL of any HackMD running notes document so we create crowdsourced event notes in English. Do not include secret notes in the document.
 * Ask the team to share any good photos they take.
-* Tweet at least once per session - follow the generic tweet with specific comments crafted during the session. We don't want to spam our followers so I wouldn't tweet that often. I'd just tweet something that could be an interesting content for our followers. I'd advise to get involved in threads during the event instead of publishing that much "new content".
+* Tweet at least once per session. Follow the generic tweet with specific comments crafted during the session. If possible, participate in threads and produce content that could be valuable/retweetable for your followers.
 
 ### After
 
