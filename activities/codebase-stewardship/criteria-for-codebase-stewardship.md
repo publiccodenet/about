@@ -2,16 +2,16 @@
 type: Resource
 ---
 
-# Stewardship assessment criteria for existing codebases
+# Assessing existing codebases
 
-During the Assess phase in the [codebase stewardship lifecycle](lifecycle.md), the staff of the Foundation for Public Code evaluate whether a codebase is ready and suitable for incubation by checking it against:
+During the assess phase in the [codebase stewardship lifecycle](lifecycle.md), the Foundation for Public Code staff and a codebase's current maintainers evaluate whether a codebase is ready and suitable for incubation. They do this by checking it against:
 
+* the stewardship feasibility criteria on this page
 * the [Standard for Public Code](https://standard.publiccode.net/)
-* the stewardship assessment criteria on this page
 
-Based on this, staff and a potential codebase's current maintainers (for example the project managers or developers) can estimate how much work will be needed during incubation.
+Based on this, staff and a potential codebase's current maintainers (for example the project managers or developers) can estimate how much work will be needed during incubation to meet the Standard for Public Code. This ensures a codebase's current maintainers and community can meaningfully decide whether committing to full Foundation for Public Code stewardship (and the work required of them in incubation) is right for them.
 
-## The assessment criteria
+## Stewardship feasibility criteria
 
 These criteria enable us to decide whether the codebase is a good fit for the Foundation for Public Code:
 
@@ -27,6 +27,8 @@ These criteria enable us to decide whether the codebase is a good fit for the Fo
 ## How the criteria are assessed
 
 This list of questions for current maintainers of potential codebases helps us understand their codebase better. To collaborate with current maintainers we use a shared spreadsheet. Use [this guide for creating a new one](create-assessment-spreadsheet.md).
+
+If Foundation for Public Code staff don't believe stewardship is feasible based on these criteria, then we will not proceed with incubation.
 
 ### Business case
 
