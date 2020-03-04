@@ -24,6 +24,7 @@ List of common groups:
 * technical steering group
 * specific working groups
 * ..
+<!-- All these could possibly have their own sub pages that explain them more in detail. -->
 
 ### Voting mechanisms
 
@@ -40,6 +41,7 @@ How do one become a "member" of a certain group or committee? Is it just being h
 The governance is mainly handled through a governance body. Any public body that wants to join the governance body must pay a membership fee to become a member of it. All members have one vote each. The governance body can delegate tasks to sub committees. The governance body's main function is to gather twice a year to update a feature roadmap.
 
 ### B
+
 The governance is mainly handled through a governance body. The body has three seats, one for the original maintainer, one for public bodies that are using the codebase and one for an association of individuals. To become a member in the association of individuals you pay a membership fee. There is a technical steering group that give advice to the governance body and that makes a technical roadmap informed by the feature roadmap from the governance body.
 
 ### C

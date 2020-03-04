@@ -54,6 +54,11 @@ This is the other criteria that implies governance of codebase. It does so  by m
 
 Some common anti patterns that we have noticed are:
 
+* The governance model is setup to require reviewer from another organization.
+  * If one organization is making 90% of the pull requests, perhaps the other organizations cannot keep up with that pace. If the model is too rigid, merging them timely might become a problem.
+  * If one organization has the majority, or all of the reviewers, but has not dedicated time for them to review code from contributors from other organizations, the back log of pull request to review will grow. If the model is too rigid, merging them timely might become a problem.
+* A model requiring perfect consensus or even unanimous votes might get caught in decision paralysis if the voting members usually have different opinions.
+
 ## Workshops
 
 * [Governance exercise](../../workshops/governance-exercise.md)
