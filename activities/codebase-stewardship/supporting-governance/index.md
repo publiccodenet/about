@@ -13,8 +13,8 @@ The Foundation for Public Code *does not* do governance of codebases, instead we
 Whatever [methods](../workshops/) are used to figure this out, there are a few basic questions that need to be answered:
 
 * How do you want to make decisions, large and small, around the codebase and the community?
-    * Can certain issues only be decided by certain community members and can others be distributed and/or delegated to the wider community or specialist parts of the community?
-    * If so, how is it decided who to gets to take part in the different decision processes
+  * Can certain issues only be decided by certain community members and can others be distributed and/or delegated to the wider community or specialist parts of the community?
+  * If so, how is it decided who to gets to take part in the different decision processes
 
 ## Designing a governance model
 
@@ -33,7 +33,6 @@ These are usual sections that could be included when designing the governance mo
 * Decision making process
 * Conflict Resolution
 * Code of Conduct
-
 <!-- All these could possibly have their own sub pages that explain them more in detail. -->
 
 Whatever model is chosen it is best documented in a `GOVERNANCE` file that is placed in the root catalog of the codebase repository and linked to from the `README` file.
@@ -59,11 +58,11 @@ Some common anti patterns that we have noticed are:
   * If one organization has the majority, or all of the reviewers, but has not dedicated time for them to review code from contributors from other organizations, the back log of pull request to review will grow. If the model is too rigid, merging them timely might become a problem.
 * A model requiring perfect consensus or even unanimous votes might get caught in decision paralysis if the voting members usually have different opinions.
 
-## Workshops
+## Workshop
 
-* [Governance exercise](../../workshops/governance-exercise.md)
-* [Governance game](../../workshops/governance-game/index.md)
+The [governance game](../../workshops/governance-game/index.md) is useful early in the process to get people to reflect on what governance can mean for a codebase, the complexity around it and some things worth considering when setting it up. It is also useful as a tool for visualizing how a current governance model is setup or could be changed.
 
 ## Further reading
+
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) - a collection of governance models of open source projects (no public code examples there yet).
 * Some easy tasks related to governance are listed in [Product assets for early incubation](../product-assets-for-early-incubation.md).

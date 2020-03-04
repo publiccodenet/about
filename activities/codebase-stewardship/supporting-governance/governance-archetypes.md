@@ -22,8 +22,10 @@ List of common groups:
 
 * governance body
 * technical steering group
-* specific working groups
-* ..
+* specific working groups or special interest groups
+* user groups
+* maintainers
+* reviewers
 <!-- All these could possibly have their own sub pages that explain them more in detail. -->
 
 ### Voting mechanisms
