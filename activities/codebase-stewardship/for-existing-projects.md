@@ -39,4 +39,4 @@ We will:
 
 ## Further reading
 
-* [Template for adding a new codebase to Odoo](https://github.com/publiccodenet/about/blob/assessment-is-a-2-stage-process/activities/codebase-stewardship/odoo-codebase-template.md)
+* [Template for adding a new codebase to Odoo](odoo-codebase-template.md)
