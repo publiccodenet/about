@@ -33,6 +33,7 @@ These are usual sections that could be included when designing the governance mo
 * Decision making process
 * Conflict Resolution
 * Code of Conduct
+
 <!-- All these could possibly have their own sub pages that explain them more in detail. -->
 
 Whatever model is chosen it is best documented in a `GOVERNANCE` file that is placed in the root catalog of the codebase repository and linked to from the `README` file.

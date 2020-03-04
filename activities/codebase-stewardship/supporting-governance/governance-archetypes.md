@@ -26,6 +26,7 @@ List of common groups:
 * user groups
 * maintainers
 * reviewers
+
 <!-- All these could possibly have their own sub pages that explain them more in detail. -->
 
 ### Voting mechanisms
