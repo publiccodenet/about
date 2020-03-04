@@ -25,7 +25,7 @@ The Foundation for Public Code helps facilitate these interactions around the co
 
 Community stewardship includes:
 
-* supporting, consulting on and executing governance
+* [supporting, consulting on and executing governance](/supporting-governance/)
 * supporting committees such as technical steering committees
 * [organizing events](../events/index.md)
 * processing feedback and contributions
