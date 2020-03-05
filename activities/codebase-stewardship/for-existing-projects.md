@@ -39,4 +39,4 @@ We will:
 
 ## Further reading
 
- * [Template for adding a new codebase to Odoo](odoo-codebase-template.md)
+* [Template for adding a new codebase to Odoo](odoo-codebase-template.md)
