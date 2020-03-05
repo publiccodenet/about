@@ -1,5 +1,7 @@
 ---
 type: Resource
+redirect_from:
+    - activities/member-relations/founding-membership-proposal.md
 ---
 
 # Founding membership proposal template

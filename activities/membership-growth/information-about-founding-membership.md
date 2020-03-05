@@ -1,5 +1,7 @@
 ---
 type: Resource
+redirect_from:
+    - activities/member-relations/information-about-founding-membership.md
 ---
 
 # Information about Founding Membership template
