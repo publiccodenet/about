@@ -32,6 +32,7 @@ These are usual sections that could be included when designing the governance mo
 * Changes in codebase governance
 * Decision making process
 * Conflict Resolution
+* Intellectual property
 * Code of Conduct
 
 <!-- All these could possibly have their own sub pages that explain them more in detail. -->
@@ -48,11 +49,11 @@ This criteria have several requirements that are somehow related to the governan
 
 ### [Require review of contributions](https://standard.publiccode.net/criteria/require-review.html)
 
-This is the other criteria that implies governance of codebase. It does so  by mandating that contributions need to be approved by other parties in the community and specifies how  this could be done.
+This is the other criteria that implies governance of a codebase. It does so by mandating that contributions need to be approved by other parties in the community and specifies how this could be done.
 
-## Anti patterns
+## Anti-patterns
 
-Some common anti patterns that we have noticed are:
+Some common [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern) that we have noticed are:
 
 * The governance model is setup to require reviewer from another organization.
   * If one organization is making 90% of the pull requests, perhaps the other organizations cannot keep up with that pace. If the model is too rigid, merging them timely might become a problem.

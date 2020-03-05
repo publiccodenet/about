@@ -14,6 +14,8 @@ Common properties, or methods and processes in some cases, of governance are:
 * voting mechanisms
 * membership
 
+These properties will in one way or the other be reflected in one or several of the [common sections for a governance models](index.md).
+
 ### Organizational setup
 
 How is the organizational setup of the governance of the codebase? From no organization at all, everyone just makes pull requests and reviews ad-hoc to very formal systems with meetings, layers of committees and working groups and roadmaps.
