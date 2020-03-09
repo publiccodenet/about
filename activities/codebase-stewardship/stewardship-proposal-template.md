@@ -4,8 +4,6 @@ type: Resource
 
 # Codebase stewardship proposal template
 
-This is a template document for codebase stewardship proposals. 
-
 The purpose of this document is to build a shared understanding and commitment to a common stewardship trajectory. It also includes an annex with example timeline and practical next steps for discussion.
 
 We can send this document to the principal maintainer, as well as other members of the community. We can do this after one or several introductory meetings with the maintainers and other members of the community.
