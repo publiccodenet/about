@@ -6,6 +6,10 @@ type: resource
 
 This exercise lets the participants co-create a governance model. The participants will be handed a set of building blocks and instructions for two different scenarios. Each group will be facilitated during the process. Workshop time: 75-90 minutes.
 
+## Short description
+
+The governance exercise is designed to help civil servants develop a shared understanding and vocabulary of how to make open source projects successful in a government organization. It focuses on the governance of open source software, as well as the main opportunities, risks, mitigation strategies and scenarios encountered when beginning or implementing an open source project. It is best done with a mix of developers, development managers, open data specialists, policy makers and procurement managers.
+
 ## The exercises have three phases
 
 Each of these should have an introduction to the task and explain the expectations of the outcome so that everybody participating knows what to do.
