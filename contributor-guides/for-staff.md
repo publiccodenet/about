@@ -18,7 +18,7 @@ Here are some important things to figure out in the first couple of days:
 * Splitwise - if you want to join the shared lunch groceries
 * Attend morning standup ritual at 10:00
 * Attend sprint retrospective & planning - review the kanbans beforehand
-* Tentoo NMBRS ESS (employee self service) mobile app - to [request leave](../activities/staff-management/leave.md), [file expenses](../activities/staff-management/expense.md) and see your payslips
+* Tentoo NMBRS ESS (employee self service) mobile app. When setting up the app, use the following domain: "tentoo.nmbrs.nl" and log-in using your credentials - to [request leave](../activities/staff-management/leave.md), [file expenses](../activities/staff-management/expense.md) and see your payslips
 
 Any of your new coworkers will be glad to help! <3
 
