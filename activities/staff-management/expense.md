@@ -40,3 +40,7 @@ After approval the reimbursement is added to your next salary payment.
 ## How to request reimbursement for contractors and volunteers
 
 Contractors and volunteers should complete the expense form provided by their contracting contact.
+
+## Expense forms
+
+Staff uses Tentoo NMBRS to have expenses reimbursed. We send contractors and other externals [this form.](https://docs.google.com/spreadsheets/d/1m_5vpScmpBAFOOXUEGWEqrd2FF_WhLjoJDcPF9wT_0Y/edit#gid=0)
