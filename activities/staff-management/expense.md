@@ -43,4 +43,4 @@ Contractors and volunteers should complete the expense form provided by their co
 
 ## Expense forms
 
-Staff uses Tentoo NMBRS to have expenses reimbursed. We send contractors and other externals [this form.](https://drive.google.com/drive/u/1/folders/19uVbxuM5EiJobvMmxAsdFOGq0bWv28Qn)
+Staff uses Tentoo NMBRS to have expenses reimbursed. We send contractors and other externals [this form.](https://docs.google.com/document/d/1zt7roOx9YOwH7fnvmeA4cS7fCmvQGUWHBtx2knJ4Ml4/edit)
