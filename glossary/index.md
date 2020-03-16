@@ -6,6 +6,7 @@ type: Index
 
 For the terms below we believe it is important that we have a clear definition of their meaning. If we use one of the following terms in any of our communications they will mean their definition in this glossary.
 
+* [Affiliate](affiliate-definition.md)
 * [Codebase](codebase-definition.md)
 * [Ecosystem level](ecosystem-level-definition.md)
 * [General public](general-public-definition.md)
