@@ -4,7 +4,7 @@ type: Resource
 
 # Value proposition hypotheses
 
-These are Foundation for Public Code value proposition hypotheses to test for user research, organised by probable user groups. 
+These are Foundation for Public Code value proposition hypotheses to test for user research, organised by probable user groups.
 
 See [common pitches](../../communication/pitching.md) for different opening lines to use based on who your interlocutor might be.
 
