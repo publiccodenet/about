@@ -4,7 +4,9 @@ type: resource
 
 # Pitching the Foundation for Public Code
 
-Pitching the Foundation for Public Code can be daunting if you've never done it before. We've collected pitches we already use so it's easier to practice.
+Talking about the Foundation for Public Code can be daunting if you've never done it before. We've collected pitches we already use so it's easier to practice.
+
+See [our value propositions for each Foundation for Public Code user group](../value-and-impact/user-mapping/index.md) for more detailed arguments if you anticipate a longer discussion.
 
 ## Opening lines
 
@@ -33,7 +35,7 @@ For cocktail party audiences, assuming no interest at all:
 
 ## Tips when starting a conversation
 
-Always tailor your explanation to your interlocutor's interests and background knowledge. For example, "avoiding vendor-lockin" and "avoiding duplicating work" are actually the same argument - just aimed at different audiences.
+Always tailor your explanation to your interlocutor's interests and background knowledge. For example, "avoiding vendor lock-in" and "avoiding duplicating work" are actually the same argument - just aimed at different audiences.
 
 ### Metaphors
 
