@@ -1,9 +1,10 @@
 ---
 type: Index
-explains: This index contains the resources and guides for staff to run and participate in staff meetings.
 ---
 
-# Staff meetings at the Foundation for Public Code
+# Staff meeting templates
+
+All meetings have an agenda in the meeting calendar invitation. For common meetings that have to be planned often you can use the folling templates:
 
 * [Event debrief](event-debrief.md)
 * [Retrospective](retrospective.md)

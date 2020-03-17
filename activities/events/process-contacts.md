@@ -20,3 +20,5 @@ As we meet people in many different places, we often play the role of a connecto
 ## Share knowledge internally
 
 If a person you meet would be interesting to other staff members, brief them about your meeting and introduce each other in a medium that makes sense for the contact.
+
+Always document and share with the rest of the team the contacts made.
