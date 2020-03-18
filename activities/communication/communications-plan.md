@@ -4,9 +4,11 @@ type: resource
 
 # Communications plan
 
+The Foundation for Public Code relies on communications to [achieve its mission](../../organization/mission).
+
 ## Principles
 
-Our communications need to reflect our core values: open, quality, trust, community, helpful. They must also be non-partisan, in line with our [founding principles](https://about.publiccode.net/organization/mission.html#founding-principles).
+Our communications need to reflect our core values: open, quality, trust, community, helpful. They must also be non-partisan, in line with our [founding principles](../../organization/mission.md#founding-principles).
 
 Our messages range from neutral in tone to positive and inspirational. Our community won’t be sustainable if we attract people motivated by fear or anger.
 
@@ -20,10 +22,6 @@ Our communications should show to showcase the Foundation as:
 * open, both about its intentions and operations (transparency) as well as learnings, failures and successes
 
 We believe it’s more important to talk concretely about what we’ve already done than what we hope to do.
-
-## Mission statement
-
-To enable public-purpose software and policy that is open and collaborative.
 
 ## Business objectives
 

@@ -40,13 +40,13 @@ This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/c
 
 3. Make sure your information is correct on [blog/_data/staff.csv](https://github.com/publiccodenet/blog/blob/develop/_data/staff.csv).
 
+4. Read the [guide on writing community call blogposts](community-call-blogposts.md) if that's what you're doing.
+
 ## Write your blogpost
 
 Write your draft blogpost using a collaborative document tool. This lets you share it for pair writing, factchecking, feedback or proofreading.
 
 Don't hesitate to involve other people in your writing process - we want you to succeed, and we know how helpful an external perspective can be once something starts to feel like a problem.
-
-Read the [guide on writing community call blogposts](community-call-blogposts.md).
 
 After writing, please share with the communications coordinator for polishing.
 
