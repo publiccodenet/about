@@ -22,7 +22,7 @@ This schedule shows recurring events the Foundation for Public Code prepares for
 
 2 April: Foundation for Public Code General Assembly
 
-10-13 April: Good Friday and Easter Monday (public holidays in the Netherlands, office closed)
+13 April: Easter Monday (public holiday in the Netherlands, office closed)
 
 27 April: King's day (public holiday in the Netherlands, office closed)
 
