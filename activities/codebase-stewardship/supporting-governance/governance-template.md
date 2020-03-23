@@ -4,7 +4,7 @@ type: Resource
 
 # Template for a simple governance file
 
-[codebase] governance
+[Codebase] governance
 
 ## Principles
 
