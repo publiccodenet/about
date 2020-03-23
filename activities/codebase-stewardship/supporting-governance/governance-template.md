@@ -13,7 +13,7 @@ As a community we want make it easier for new users to become contributors and m
 The [codebase] community adheres to the following principles:
 
 * [codebase] is open source.
-* Welcoming and respectful as mentioned in our [Code of Conduct](#Code-of-Conduct)
+* Welcoming and respectful as mentioned in our Code of Conduct [add link]
 * Transparent and accessible, changes to the [codebase] organization, [codebase] code repositories, and [codebase] related activities (e.g. level, involvement, etc) are done in public
 * Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles
 
@@ -43,7 +43,7 @@ The technical steering team has the joint responsibility to:
 * Managing and planning releases
 * Controlling rights to [codebase] assets such as source repositories
 
-The technical steering team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly being done through the process described in [CONTRIBUTING.md](CONTRIBUTING.md#Reviewing).
+The technical steering team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly being done through the process described in CONTRIBUTING.md [add link].
 
 If more than one technical steering team member disagrees with a decision of the technical steering team they may appeal to the product steering team who will make the ultimate ruling.
 
@@ -82,6 +82,6 @@ Many of the day-to-day project maintenance tasks can be done by a lazy consensus
 
 ## Code of Conduct
 
-[codebase]'s Code of Conduct is explained in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+[codebase]'s Code of Conduct is explained in CODE_OF_CONDUCT.md [add link].
 
 If the possible violation involves a team member that member will be recused from voting on the issue. Such issues must be escalated to the product steering team contact, and the product steering team may choose to intervene.
