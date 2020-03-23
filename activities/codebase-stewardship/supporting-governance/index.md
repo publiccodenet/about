@@ -18,17 +18,12 @@ Whatever [methods](../../workshops/) are used to figure this out, there are a fe
 
 ## Designing a governance model
 
-After the needs of the community have been established, a suitable governance model can be designed. As a help to get started [the collection of governance archetypes](governance-archetypes.md) can be used as inspiration.
+After the needs of the community have been established, a suitable governance model can be designed. As a help to get started [this template](governance-template.md) can be used as inspiration.
 
 These are usual sections that could be included when designing the governance model:
 
 * Principles
-* Project Lead
-* Maintainership
-* Changes in Maintainership
-* Reviewers
-* Releases
-* Groups
+* Maintainership (teams, members and meetings)
 * Changes in codebase governance
 * Decision making process
 * Conflict Resolution
