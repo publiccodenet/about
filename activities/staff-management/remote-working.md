@@ -5,7 +5,7 @@ explains: how we support people working with us remotely
 
 # Remote working at the Foundation for Public Code
 
-Inline with the data and guidelines of the [European Centre Disease prevention and Control Covid-19 response (ECDC)](https://www.ecdc.europa.eu/en/novel-coronavirus-china), which posts [a daily update on their website](https://www.ecdc.europa.eu/en/current-risk-assessment-novel-coronavirus-situation); As well as that of the [National Institute of Public Health and the Environment (RIVM)](https://www.government.nl/topics/coronavirus-covid-19) ([also available in Dutch](https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19)) we've decided that everyone should work remotely if possible. change how we work to better support people working remotely.
+Inline with the data and guidelines of the [European Centre Disease prevention and Control Covid-19 response (ECDC)](https://www.ecdc.europa.eu/en/novel-coronavirus-china), which posts [a daily update on their website](https://www.ecdc.europa.eu/en/current-risk-assessment-novel-coronavirus-situation); As well as that of the [National Institute of Public Health and the Environment (RIVM)](https://www.government.nl/topics/coronavirus-covid-19) ([also available in Dutch](https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19)) we've decided that everyone should work remotely if possible.
 
 ## Information sharing
 
