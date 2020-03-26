@@ -22,7 +22,7 @@ Before using this guide, make sure to [get a decision on attending the event](de
 * Consider bringing informational material to give away to people that want to get to know us better. Contact the organizer to find out if there are places to put these at.
 * Consider using a shared document to do the planning in, perhaps using [this template](events-planning-template.md).
 * Plan your [travels](../staff-management/travel.md).
-* Prepare a team chat (that is capable of notifications) if you are more than staff member attending.
+* Prepare a team chat (that is capable of notifications) if you are more than one staff member attending.
 * Rehearse and make sure you attend to the event with a brief pitch explaining what our Foundation does. Tailor the pitch to the audience you are going to meet.
 
 ### During the event
