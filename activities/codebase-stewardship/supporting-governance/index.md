@@ -2,7 +2,7 @@
 type: Index
 ---
 
-# Supporting Governance
+# Supporting governance
 
 Development of Public Code needs governance in various ways. As part of our stewardship we help the communities develop the governance models that suit their specific situations as good as possible. We recognize that governance is not a "one size fits all" but rather something that are best adjusted to the culture, maturity, composition and size of a community.
 
