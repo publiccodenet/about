@@ -19,7 +19,7 @@ Several basic questions need to be answered regardless of the [methods](../../wo
 
 ## Designing a governance model
 
-After the community's governance needs have been established, a suitable governance model can be designed. To get started, [this template](governance-template.md) can be used as inspiration.
+After the community's governance needs have been established, a suitable governance model can be designed. [This governance template](governance-template.md) can be used as inspiration.
 
 The following sections are typically included when designing a governance model:
 
