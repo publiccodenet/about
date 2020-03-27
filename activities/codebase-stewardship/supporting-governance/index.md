@@ -15,7 +15,7 @@ Several basic questions need to be answered regardless of the [methods](../../wo
 * How should decisions (small and large) about the community and the codebase be made?
   * Can certain issues only be decided by certain community members?
   * Can others be distributed and/or delegated to the wider community or specialists within the community?
-    * If so, how does designation of community members to different decision processes take place?
+  * Who decides which issues are reserved or delegated, and how can community members participate in the decisionmaking process?
 
 ## Designing a governance model
 
