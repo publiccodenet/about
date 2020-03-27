@@ -53,7 +53,7 @@ Some common [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern) that we 
 
 * The governance model is set up to require reviewer(s) from other organization(s).
   * If one organization makes 90% of the pull requests, the other organizations may not be able to keep up with that pace. If the model is too rigid, timely merging might become a problem.
-  * If one organization has the majority (or all) of the reviewers, but has not dedicated time for them to review code contributions from other organizations, the back log of pull request to review will grow. If the model is too rigid, merging them timely might become a problem.
+  * If a majority (or all) of the reviewers are part of a single organization that doesn't dedicate time to reviewing code contributions from other organizations, the backlog of pull requests to review will grow. If the model is too rigid, timely merging might become a problem.
 * A model requiring perfect consensus or even unanimous votes might get caught in decision paralysis if the voting members usually have different opinions.
 
 ## Workshop
