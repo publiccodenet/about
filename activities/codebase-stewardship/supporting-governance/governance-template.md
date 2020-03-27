@@ -4,6 +4,9 @@ type: Resource
 
 # Template for a simple governance file
 
+The text below can be used as a template for creating a governance file in a repository for a codebase. For easiest copy-paste it is rendered with code style here.
+
+```
 [Codebase] governance
 
 ## Principles
@@ -85,3 +88,4 @@ Many of the day-to-day project maintenance tasks can be done by a lazy consensus
 [codebase]'s Code of Conduct is explained in CODE_OF_CONDUCT.md [add link].
 
 If the possible violation involves a team member that member will be recused from voting on the issue. Such issues must be escalated to the product steering team contact, and the product steering team may choose to intervene.
+```
