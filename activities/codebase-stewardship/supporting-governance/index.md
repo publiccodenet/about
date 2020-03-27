@@ -52,7 +52,7 @@ This is the second criterion relevant for codebase governance. It mandates that 
 Some common [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern) that we have noticed are:
 
 * The governance model is set up to require reviewer(s) from other organization(s).
-  * If one organization is making 90% of the pull requests, the other organizations may not be able to keep up with that pace. If the model is too rigid, merging them timely might become a problem.
+  * If one organization makes 90% of the pull requests, the other organizations may not be able to keep up with that pace. If the model is too rigid, timely merging might become a problem.
   * If one organization has the majority (or all) of the reviewers, but has not dedicated time for them to review code contributions from other organizations, the back log of pull request to review will grow. If the model is too rigid, merging them timely might become a problem.
 * A model requiring perfect consensus or even unanimous votes might get caught in decision paralysis if the voting members usually have different opinions.
 
