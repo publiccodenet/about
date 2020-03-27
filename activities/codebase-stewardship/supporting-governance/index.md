@@ -13,8 +13,8 @@ The Foundation for Public Code *does not* do governance of codebases, instead we
 Whatever [methods](../../workshops/) are used to figure this out, there are a few basic questions that need to be answered:
 
 * How do you want to make decisions, large and small, around the codebase and the community?
-  * Can certain issues only be decided by certain community members and can others be distributed and/or delegated to the wider community or specialist parts of the community?
-  * If so, how is it decided who to gets to take part in the different decision processes
+* Can certain issues only be decided by certain community members and can others be distributed and/or delegated to the wider community or specialist parts of the community?
+* If so, how is it decided who to gets to take part in the different decision processes
 
 ## Designing a governance model
 
