@@ -17,23 +17,28 @@ Before using this guide, make sure to [get a decision on attending the event](de
 
 * Appoint someone who is responsible for this particular event. Even though responsibilities may be delegated, it helps to be clear on who has authority to make decisions. This also reduces the risk that a task might be left undone.
 * Create internal awareness. In order to enable synergies, sharing the overall plans with the rest of the organization is important.
-* Check the agenda. If someone happens to be connected to any of the speakers, consider reaching out.
-* Consider bringing informational material to give away to people that want to get to know us better.
+* Check the agenda. If someone happens to be connected to any of the speakers, consider reaching out. Coordination about this should start a month before the event or as soon as the program is released.
+* If the event has a call for papers or accepts submissions or ideas for talks, consider answering that, since it puts us in a prime position to present our [mission](../../organization/mission.md)
+* Consider bringing informational material to give away to people that want to get to know us better. Contact the organizer to find out if there are places to put these at.
 * Consider using a shared document to do the planning in, perhaps using [this template](events-planning-template.md).
+* Plan your [travels](../staff-management/travel.md).
+* Prepare a team chat (that is capable of notifications) if you are more than one staff member attending.
+* Rehearse and make sure you attend to the event with a brief pitch explaining what our Foundation does. Tailor the pitch to the audience you are going to meet.
 
 ### During the event
 
 * Be ready to take photos. They can be used for tweets, blog posts or for remembering what happened when debriefing.
 * Take photos of any business cards you receive.
+* Participate in as many meetings/open spaces/speakers' dinners/forums where our message could be delivered.
 
 ### After the event
 
 * Upload photos.
 * If just one person attended the event, debrief at the daily standup and offer to venture deeper with anyone who may be interested.
-* If two people attended the event, sit down for a short debrief with each other.
-* If three or more people attended the event, consider doing a [retrospective](../staff-meetings/retrospective.md).
-* Process all expenses for the event.
-* Process all new contacts for the event.
+* If two or more people attended the event, do a [debrief](../staff-meetings/event-debrief.md).
+* [Process all expenses for the event](../staff-management/expense.md).
+* [Process all new contacts for the event](process-contacts.md).
+* Make sure everyone from the team has access to that contacts file where all of the team can take a look at the status of a certain lead or if that person has ever been approached by us. This is also important for future events.
 * Evaluate if the goals set for the event were met.
 
 ## For communications specialists
@@ -48,8 +53,9 @@ Before using this guide, make sure to [get a decision on attending the event](de
 
 * Tweet the URL of any HackMD running notes document so we create crowdsourced event notes in English. Do not include secret notes in the document.
 * Ask the team to share any good photos they take.
-* Tweet at least once per session - follow the generic tweet with specific comments crafted during the session.
+* Tweet at least once per session. Follow the generic tweet with specific comments crafted during the session. If possible, participate in threads and produce content that could be valuable/retweetable for your followers.
 
 ### After
 
-* [Publish a blogpost](https://github.com/publiccodenet/blog) promptly (based on good photos, running notes, team debrief and tweets).
+* [Publish a blogpost](https://github.com/publiccodenet/blog) promptly (no more than a week later) (based on good photos, running notes, team debrief and tweets).
+* Establish a plan of follow ups: 1st contact right after the event (<2 days after), 2nd contact a week later that mail/invitation and a 3rd one a month later in case the communication flow gets interrupted.
