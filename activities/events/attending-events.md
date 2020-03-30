@@ -22,7 +22,7 @@ Before using this guide, make sure to [get a decision on attending the event](de
 * Consider bringing informational material to give away to people that want to get to know us better. Contact the organizer to find out if there are places to put these at.
 * Consider using a shared document to do the planning in, perhaps using [this template](events-planning-template.md).
 * Plan your [travels](../staff-management/travel.md).
-* Prepare a team chat (that is capable of notifications) if you are more than staff member attending.
+* Prepare a team chat (that is capable of notifications) if you are more than one staff member attending.
 * Rehearse and make sure you attend to the event with a brief pitch explaining what our Foundation does. Tailor the pitch to the audience you are going to meet.
 
 ### During the event
@@ -38,7 +38,7 @@ Before using this guide, make sure to [get a decision on attending the event](de
 * If two or more people attended the event, do a [debrief](../staff-meetings/event-debrief.md).
 * [Process all expenses for the event](../staff-management/expense.md).
 * [Process all new contacts for the event](process-contacts.md).
-* Make sure everyone from the team has access to that contacts file where all of the team can take a look at the status of a certain lead or if that person has ever been approached by us. This is also important for future events to come.
+* Make sure everyone from the team has access to that contacts file where all of the team can take a look at the status of a certain lead or if that person has ever been approached by us. This is also important for future events.
 * Evaluate if the goals set for the event were met.
 
 ## For communications specialists

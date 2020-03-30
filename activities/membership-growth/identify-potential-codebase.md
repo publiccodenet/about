@@ -4,7 +4,7 @@ redirect_from:
     - activities/member-relations/identify-potential-codebase.md
 ---
 
-# Identifying potential codebases for Foundation stewardship
+# Identifying potential codebases for stewardship by the Foundation for Public Code
 
 This outlines ways that the Foundation for Public Code could identify potential codebases for stewardship.
 
