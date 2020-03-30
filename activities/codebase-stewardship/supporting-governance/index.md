@@ -31,8 +31,6 @@ The following sections are typically included when designing a governance model:
 * Intellectual property
 * Code of conduct
 
-<!-- All these could possibly have their own sub pages that explain them more in detail. -->
-
 The governance model is best documented in a `GOVERNANCE` file that is placed in the root catalog of the codebase repository and linked to from the `README` file.
 
 ## Standard compliance
