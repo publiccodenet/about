@@ -16,7 +16,7 @@ Several basic questions need to be answered regardless of the [methods](../../wo
   * Can certain issues only be decided by certain community members?
   * Can others be distributed and/or delegated to the wider community or specialists within the community?
   * Who decides which issues are reserved or delegated, and how can community members participate in the decision making process?
-  
+
 ## Designing a governance model
 
 After the community's governance needs have been established, a suitable governance model can be designed. [This governance template](governance-template.md) can be used as inspiration.
