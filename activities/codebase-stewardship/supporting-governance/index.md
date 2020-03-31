@@ -12,11 +12,11 @@ The Foundation for Public Code *does not* directly govern codebases. Instead, we
 
 Several basic questions need to be answered regardless of the [methods](../../workshops/) used to determine these needs:
 
-* How should decisions (small and large) about the community and the codebase be made?
+* How do you want to make decisions, large and small, around the codebase and the community?
   * Can certain issues only be decided by certain community members?
   * Can others be distributed and/or delegated to the wider community or specialists within the community?
-  * Who decides which issues are reserved or delegated, and how can community members participate in the decisionmaking process?
-
+  * Who decides which issues are reserved or delegated, and how can community members participate in the decision making process?
+  
 ## Designing a governance model
 
 After the community's governance needs have been established, a suitable governance model can be designed. [This governance template](governance-template.md) can be used as inspiration.

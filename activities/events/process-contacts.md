@@ -11,7 +11,7 @@ If you agreed to keep in touch with someone at the event, add them as a contact 
 
 ## Follow up
 
-The way to follow up obviously depends on what interaction you had with the person at the event. If you had a good conversation with someone or heard them giving a good talk, consider sending them a brief thank you. Everyone that gives us inspiration in some way furthers our mission and deserves to be recognized. Other follow ups could include more information about the Foundation or the Standard or whatever you talked about.
+The way to follow up depends on what kind of interaction you had with the person at the event. If you had a good conversation with someone or heard them giving a good talk, consider sending them a brief thank you. Everyone that gives us inspiration in some way furthers our mission and deserves to be recognized. Other follow-ups could include sharing more information on the Foundation for Public Code, the Standard for Public Code, or any other topic relevant to the conversation you had.
 
 When you do follow up, include an [invitation to the mailing list](https://forms.gle/gn7wR2Eaxbv5g1BF9) to give them the option to subscribe to more news about us. Do not add them manually unless that was agreed upon explicitly.
 
