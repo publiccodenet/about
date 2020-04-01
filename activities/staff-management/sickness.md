@@ -21,7 +21,7 @@ If for any reason you do not feel that you can perform your work at your usual a
 
 ## Call in sick
 
-On the first day of sickness you need to call in sick before 9am. [Please call HR](../communication/phone-numbers.md). If they cannot be reached, call your manager.
+On the first day of sickness you need to let us know you are sick before 9am. You can do so by mailing <hr@publiccode.net>.
 This is also true on a day you were planning to work from home or on a day you have booked as vacation.
 
 HR (or your manager) will inform your colleagues so that they can plan accordingly.
@@ -32,7 +32,7 @@ Let <hr@publiccode.net> know when you resume your regular work.
 
 Please do this the afternoon before you plan to come back to work. Or when you are well again, even if the next day is not a work day for you.
 
-You can always call again the next day if you were too optimistic (and need to stay home a bit longer).
+You can always check in again the next day if you were too optimistic (and need to stay home a bit longer).
 
 Alternatively, email the morning (when you resume work), at the latest.
 
