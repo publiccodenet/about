@@ -4,60 +4,59 @@ type: Index
 
 # Supporting governance
 
-Development of Public Code needs governance in various ways. As part of our stewardship we help the communities develop the governance models that suit their specific situations as good as possible. We recognize that governance is not a "one size fits all" but rather something that are best adjusted to the culture, maturity, composition and size of a community.
+The development of public code requires various forms of governance. Codebase stewardship includes helping communities develop the governance models that best suit their specific situations. We recognize that governance is not "one size fits all", but rather something that needs to be adjusted to the culture, maturity, composition, and size of a community.
 
-The Foundation for Public Code *does not* do governance of codebases, instead we support, consult on, and help *communities* execute governance.
+The Foundation for Public Code *does not* directly govern codebases. Instead, we offer support and advise on codebase governance, and help *communities* execute governance.
 
-## Finding out what needs for governance a community has
+## Determining a community's governance needs
 
-Whatever [methods](../../workshops/) are used to figure this out, there are a few basic questions that need to be answered:
+Several basic questions need to be answered regardless of the [methods](../../workshops/) used to determine these needs:
 
 * How do you want to make decisions, large and small, around the codebase and the community?
-* Can certain issues only be decided by certain community members and can others be distributed and/or delegated to the wider community or specialist parts of the community?
-* If so, how is it decided who to gets to take part in the different decision processes
+  * Can certain issues only be decided by certain community members?
+  * Can others be distributed and/or delegated to the wider community or specialists within the community?
+  * Who decides which issues are reserved or delegated, and how can community members participate in the decision making process?
 
 ## Designing a governance model
 
-After the needs of the community have been established, a suitable governance model can be designed. As a help to get started [this template](governance-template.md) can be used as inspiration.
+After the community's governance needs have been established, a suitable governance model can be designed. [This governance template](governance-template.md) can be used as inspiration.
 
-These are usual sections that could be included when designing the governance model:
+The following sections are typically included when designing a governance model:
 
 * Principles
 * Maintainership (teams, members and meetings)
 * Changes in codebase governance
-* Decision making process
-* Conflict Resolution
+* Decision-making process
+* Conflict resolution
 * Intellectual property
-* Code of Conduct
+* Code of conduct
 
-<!-- All these could possibly have their own sub pages that explain them more in detail. -->
-
-Whatever model is chosen it is best documented in a `GOVERNANCE` file that is placed in the root catalog of the codebase repository and linked to from the `README` file.
+The governance model is best documented in a `GOVERNANCE` file that is placed in the root catalog of the codebase repository and linked to from the `README` file.
 
 ## Standard compliance
 
-[The Standard for Public Code](https://standard.publiccode.net) has some criteria related to governance.
+[The Standard for Public Code](https://standard.publiccode.net) mentions several criteria related to governance.
 
 ### [Welcome contributions](https://standard.publiccode.net/criteria/open-to-contributions.html)
 
-This criteria have several requirements that are somehow related to the governance of a codebase. Firstly it makes clear that a lot of things need to be publicly accessible and that things need to be documented in the open way. It then touches upon on how people can interact and what expectations they can have on the codebase. Lastly it states that the governance itself should be documented in a GOVERNANCE file.
+This criterion has several requirements that are related to the governance of a codebase. Firstly, it makes clear that a lot of things need to be publicly accessible and that things need to be openly documented. It then touches upon on how people can interact and what expectations they can have of the codebase. Lastly, it states that the governance itself should be documented in a GOVERNANCE file.
 
 ### [Require review of contributions](https://standard.publiccode.net/criteria/require-review.html)
 
-This is the other criteria that implies governance of a codebase. It does so by mandating that contributions need to be approved by other parties in the community and specifies how this could be done.
+This is the second criterion relevant for codebase governance. It mandates that contributions need to be approved by other parties in the community and specifies how this could be done.
 
 ## Anti-patterns
 
 Some common [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern) that we have noticed are:
 
-* The governance model is setup to require reviewer from another organization.
-  * If one organization is making 90% of the pull requests, perhaps the other organizations cannot keep up with that pace. If the model is too rigid, merging them timely might become a problem.
-  * If one organization has the majority, or all of the reviewers, but has not dedicated time for them to review code from contributors from other organizations, the back log of pull request to review will grow. If the model is too rigid, merging them timely might become a problem.
+* The governance model is set up to require reviewer(s) from other organization(s).
+  * If one organization makes 90% of the pull requests, the other organizations may not be able to keep up with that pace. If the model is too rigid, timely merging might become a problem.
+  * If a majority (or all) of the reviewers are part of a single organization that doesn't dedicate time to reviewing code contributions from other organizations, the backlog of pull requests to review will grow. If the model is too rigid, timely merging might become a problem.
 * A model requiring perfect consensus or even unanimous votes might get caught in decision paralysis if the voting members usually have different opinions.
 
 ## Workshop
 
-The [governance game](../../workshops/governance-game/index.md) is useful early in the process to get people to reflect on what governance can mean for a codebase, the complexity around it and some things worth considering when setting it up. It is also useful as a tool for visualizing how a current governance model is setup or could be changed.
+The [governance game](../../workshops/governance-game/index.md) is a useful tool to employ early in the process. It helps people reflect on what governances means for a codebase, the complexity around it, and suggests things worth considering during set up. It is also useful as a tool for visualizing how a current governance model is set up or could be changed.
 
 ## Further reading
 
