@@ -36,4 +36,5 @@ You can always check in again the next day if you were too optimistic (and need 
 
 Alternatively, email the morning (when you resume work), at the latest.
 
-This is important as HR needs to end the notification of your sickness in the HR portal. This enables us to know you are back in and avoids action by the arbo-dienst.
+This is important as HR needs to end the notification of your sickness in the HR portal.
+This enables us to know you are back in and avoids action by the arbo-dienst.
