@@ -21,7 +21,7 @@ If for any reason you do not feel that you can perform your work at your usual a
 
 ## Call in sick
 
-On the first day of sickness you need to let us know you are sick before 9am. You can do so by mailing <hr@publiccode.net>. 
+On the first day of sickness you need to let us know you are sick before 9am. You can do so by mailing <hr@publiccode.net>.
 This is also true on a day you were planning to work from home or on a day you have booked as vacation.
 
 HR (or your manager) will inform your colleagues so that they can plan accordingly.
