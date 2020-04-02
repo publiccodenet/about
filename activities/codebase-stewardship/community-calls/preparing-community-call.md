@@ -40,7 +40,7 @@ Invite codebase stewards and other Foundation for Public Code staff that could b
 The chair and the notetaker:
 
 * create a notes document on HackMD.io for this call
-* add "updates since the last community call" to the notes - keep this to three items or fewer (we want the community call to be a dialogue, not a broadcast). If possible, focus on Standard related updates
+* add "updates since the last community call" to the notes - keep this to three items or fewer (we want the community call to be a dialogue, not a broadcast). If possible, focus on Standard related updates, but other news relevant to the community are also fine. All updates should be linkable, meaning that they should already be published somewhere else
 * put these in the call notes document
 
 Ask the [communications coordinator](../../../organization/staff.md#communications) if you need help with updates.
