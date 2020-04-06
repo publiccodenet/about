@@ -15,7 +15,7 @@ As a community we want make it easier for new users to become contributors and m
 
 The [codebase] community adheres to the following principles:
 
-* [codebase] is open source.
+* [codebase] is open source
 * Welcoming and respectful as mentioned in our Code of Conduct [add link]
 * Transparent and accessible, changes to the [codebase] organization, [codebase] code repositories, and [codebase] related activities (e.g. level, involvement, etc) are done in public
 * Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles
