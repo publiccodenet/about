@@ -42,15 +42,14 @@ Together, technical steering team is responsible for:
 * managing and planning releases
 * controlling rights to [codebase] assets such as source repositories
 
+Ideally, no one company or organization will employ a simple majority of the technical steering team.
+
 Any active member of the community can request to become a technical steering team member by asking the technical steering team. Members are appointed by the current technical steering team members.
 
 ### Working process
 
-The technical steering team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly done through the process described in CONTRIBUTING.md [add link].
+The technical steering team meets regularly [explain frequency]. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly done through the process described in CONTRIBUTING.md [add link].
 
-If more than one technical steering team member disagrees with a decision of the technical steering team they may appeal to the product steering team who will make the ultimate ruling.
-
-Ideally, no one company or organization will employ a simple majority of the technical steering team.
 
 ## Product steering team
 
@@ -65,11 +64,13 @@ The product steering team is responsible for:
 * licensing and intellectual property changes
 * controlling access to [codebase] assets such as hosting and project calendars
 
+Ideally, no one company or organization will employ a simple majority of the product steering team.
+
 Any active member of the community can request to become a product steering team member by asking the product steering team. Members are appointed by the current product steering team members.
 
 ### Working process
 
-The product steering team meets regularly. Their agenda includes review of the product roadmap and coordinating future product development. See CONTRIBUTING.md [add link] for how to influence the product roadmap.
+The product steering team meets regularly [explain frequency]. Their agenda includes review of the product roadmap and coordinating future product development. See CONTRIBUTING.md [add link] for how to influence the product roadmap.
 
 ## Decision-making process
 
@@ -84,6 +85,8 @@ Many of the day-to-day project maintenance tasks can be done by a lazy consensus
 * adding, archiving, or removing sub-projects (simple majority)
 * changing the governance rules (this document) (super majority of the product team)
 * licensing and intellectual property changes (including new logos, wordmarks) (simple majority of the product team)
+
+If more than one technical steering team member disagrees with a decision of the technical steering team, they may appeal to the product steering team who will make the ultimate ruling.
 
 ## Code of Conduct violations
 
