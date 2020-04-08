@@ -34,7 +34,7 @@ The [codebase] community adheres to the following principles:
 * handling code of conduct violations
 * overseeing the resolution and disclosure of security issues
 
-Together, technical steering team is responsible for:
+Together, the technical steering team is responsible for:
 
 * providing technical direction for the codebase
 * maintaining a technical roadmap, an architecture and coding principles
