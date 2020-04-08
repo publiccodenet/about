@@ -50,7 +50,6 @@ Any active member of the community can request to become a technical steering te
 
 The technical steering team meets regularly [explain frequency]. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly done through the process described in CONTRIBUTING.md [add link].
 
-
 ## Product steering team
 
 The product steering team is responsible for:
