@@ -28,23 +28,23 @@ The [codebase] community adheres to the following principles:
 
 ## Technical steering team
 
-[codebase]'s technical steering team members are active contributors who are responsible on a day-to-day basis for:
+[codebase]'s technical steering team members are active contributors whose day-to-day activities include:
 
 * merging pull requests
 * handling code of conduct violations
 * overseeing the resolution and disclosure of security issues
 
-Any active member of the community can request to become a technical steering team member by asking the technical steering team. The technical steering team will vote on it (simple majority).
+Together, technical steering team is responsible for:
 
-### Technical steering team agenda
-
-The technical steering team has the joint responsibility to:
-
-* provide technical direction for the codebase
-* maintain a technical roadmap, an architecture and coding principles
-* resolve issues in development or conflicts between contributors
+* providing technical direction for the codebase
+* maintaining a technical roadmap, an architecture and coding principles
+* resolving issues in development or conflicts between contributors
 * managing and planning releases
-* control rights to [codebase] assets such as source repositories
+* controlling rights to [codebase] assets such as source repositories
+
+Any active member of the community can request to become a technical steering team member by asking the technical steering team. Members are appointed by the current technical steering team members.
+
+### Working process
 
 The technical steering team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly done through the process described in CONTRIBUTING.md [add link].
 
@@ -65,27 +65,29 @@ The product steering team is responsible for:
 * licensing and intellectual property changes
 * controlling access to [codebase] assets such as hosting and project calendars
 
-Members are appointed by the current product steering team members.
+Any active member of the community can request to become a product steering team member by asking the product steering team. Members are appointed by the current product steering team members.
 
 Changes in codebase governance can only be made with a super majority of the product steering team.
 
-### Decision making process
+## Decision-making process
 
-The default decision making process is lazy-consensus. This means that any decision is considered supported by the team making it as long as no one objects. Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will.
+The default decision-making process for both steering teams is lazy consensus. This means that any decision is considered supported by the team making it as long as no one objects. Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will.
 
-When a consensus cannot be found a team member can call for a majority vote on a decision. Every team member has 1 vote.
+When a consensus cannot be found a team member can call for a majority vote on a decision. Each team member has 1 vote.
 
 Many of the day-to-day project maintenance tasks can be done by a lazy consensus model. But the following items must be called to vote:
 
 * adding a team member (simple majority)
 * removing a team member (super majority)
-* changing the governance rules (this document) (super majority)
-* licensing and intellectual property changes (including new logos, wordmarks) (simple majority)
 * adding, archiving, or removing sub-projects (simple majority)
+* changing the governance rules (this document) (super majority of the product team)
+* licensing and intellectual property changes (including new logos, wordmarks) (simple majority of the product team)
 
-## Code of Conduct
+## Code of Conduct violations
 
 [codebase]'s Code of Conduct is explained in CODE_OF_CONDUCT.md [add link].
 
-If the possible violation involves a team member that member will be recused from voting on the issue. Such issues must be escalated to the product steering team contact, and the product steering team may choose to intervene.
+We expect steering team members to follow our code of conduct like any other community member. If you have an issue with a steering team member, contact someone on the product steering team.
+
+If a steering team member is involved in a possible code of conduct violation, that member will be recused from reviewing or voting on the issue.
 ```
