@@ -67,7 +67,9 @@ The product steering team is responsible for:
 
 Any active member of the community can request to become a product steering team member by asking the product steering team. Members are appointed by the current product steering team members.
 
-Changes in codebase governance can only be made with a super majority of the product steering team.
+### Working process
+
+The product steering team meets regularly. Their agenda includes review of the product roadmap and coordinating future product development. See CONTRIBUTING.md [add link] for how to influence the product roadmap.
 
 ## Decision-making process
 
