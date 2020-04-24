@@ -4,7 +4,7 @@ type: Resource
 
 # Community discussions
 
-We have a forum for community discussions at: https://discuss.publiccode.net
+We have a forum for community discussions at: [discuss.publiccode.net](https://discuss.publiccode.net).
 
 ## Purpose
 
