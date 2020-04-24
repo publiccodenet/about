@@ -7,7 +7,7 @@ type: Resource
 The text below can be used as a template for creating a governance file in a repository for a codebase. For easiest copy-paste it is rendered with code style here.
 
 ```
-[Codebase] governance
+# [Codebase] governance
 
 In all things, we strive to follow our principles.
 
