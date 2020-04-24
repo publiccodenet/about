@@ -20,7 +20,7 @@ The chair and the notetaker:
 * put these in the call notes doc
 * update the [agenda](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit)
 * send out invitations ([template](community-call-invite-template.md))
-* post the agenda to [the community forum](community-discussion.md)
+* post the agenda to [the community forum](community-discussions.md)
 
 Ask the [communications coordinator](../../organization/staff.md#communications) if you need help with Foundation updates.
 
