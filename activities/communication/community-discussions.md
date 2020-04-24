@@ -15,7 +15,7 @@ The forum is a space for our community to talk publicly about topics that does n
 The forum doesn't replace:
 
 - making issues on Github
-- our internal chat (Odoo Discuss)
+- our staff chat
 - internal emails
 
 ## Further reading
