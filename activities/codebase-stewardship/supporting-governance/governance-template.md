@@ -13,7 +13,7 @@ In all things, we strive to follow our principles.
 
 The maintainers of [codebase] have two steering teams: a technical one and a product one.
 
-This codebase is under stewardship with the [Foundation for Public Code](https://publiccode.net/), which supports [codebase]'s governance, the product and technical steering teams, and the broader [codebase] community.
+This codebase is under [stewardship with the Foundation for Public Code](https://publiccode.net/codebase-stewardship), which supports [codebase]'s governance, the product and technical steering teams, and the broader [codebase] community.
 
 ## Principles
 
