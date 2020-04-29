@@ -1,5 +1,5 @@
 ---
-type: Resource
+type: Index
 ---
 
 # Community calls
@@ -10,10 +10,16 @@ We also organize a video call for our own codebases the first Thursday of the mo
 
 The community call notes are published on our [blog](https://blog.publiccode.net) after the call. Call participants may review the notes before they're published.
 
+## Guides to run a Standard for Public Code community call
+
+* [Preparing a community call](preparing-community-call.md)
+* [Running a community call](running-community-call.md)
+* [Post-processing a community call](post-process-community-call.md)
+
 ## How to join our community calls
 
 [Sign up for community call invitations](https://forms.gle/gn7wR2Eaxbv5g1BF9).
 
 ## Further reading
 
-* [Running a community call](../communication/run-a-community-call.md)
+* [Running a Foundation for Public code community call](../../communication/run-a-community-call.md)
