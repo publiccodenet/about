@@ -24,7 +24,7 @@ The maintainers of [codebase] have two steering teams, a technical one and a pro
 
 Through codebase stewardship the Foundation for Public Code supports the governance of [codebase], the product and technical steering teams, and its community.
 
-## Technical steering team members
+## Technical steering team
 
 The [codebase] technical steering team members are active contributors who are on a day-to-day basis responsible for:
 
@@ -32,11 +32,13 @@ The [codebase] technical steering team members are active contributors who are o
 * Handling code of conduct violations
 * Overseeing the resolution and disclosure of security issues
 
-If technical steering team members cannot reach consensus informally, the question at hand should be forwarded to the technical steering team.
+If technical steering team members cannot reach consensus informally, the question at hand should be forwarded to the technical steering team meeting.
 
 Any active member of the community can request to become a technical steering team member by asking the technical steering team. The technical steering team will vote on it (simple majority).
 
-## Technical steering team meetings
+The current team members are:
+
+*
 
 The technical steering team has the joint responsibility to:
 
@@ -52,7 +54,7 @@ If more than one technical steering team member disagrees with a decision of the
 
 Ideally, no one company or organization will employ a simple majority of the technical steering team.
 
-## Product steering team meeting
+## Product steering team
 
 Responsibilities of the product steering team:
 
@@ -68,6 +70,10 @@ Responsibilities of the product steering team:
 Members are appointed by the current product steering team members.
 
 Changes in codebase governance can only be done by the product steering team and requires super majority.
+
+The current team members are:
+
+*
 
 ## Decision making process
 
