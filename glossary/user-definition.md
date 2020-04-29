@@ -4,9 +4,9 @@ type: Resource
 
 # User
 
-Whom uses a codebase directly.
+Someone who uses a codebase directly.
 
-For example civil servants reading the documentation of a codebase, infrastructure vendors installing it on their servers and system administrators administrating the systems.
+For example civil servants reading the documentation of a codebase, infrastructure vendors installing it on their servers or system administrators administrating the systems.
 
 See also:
 
