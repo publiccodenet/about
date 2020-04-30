@@ -4,7 +4,7 @@ type: resource
 
 # Tool and email naming conventions
 
-The Foundation for public Code relies on email and tools to accomplish its mission. We've established these conventions for how our email and toolnames are structured so that:
+The Foundation for Public Code relies on email and tools to accomplish its mission. We've established these conventions for how our email and toolnames are structured so that:
 
 * we can easily name new tools or create email addresses in a way that won't create conflicts for other uses or users
 * people using our tools clearly understand what tool they're interacting with (and its purpose)
@@ -22,7 +22,7 @@ Every email address should be:
 
 * self-explanatory
 * unambiguous
-* fail privately not publicly (eg if you start to type and your email client auto-completes the wrong email address, you won't send a very private email to a big group)
+* fail privately not publicly (e.g. if you start to type and your email client auto-completes the wrong email address, you won't send a very private email to a big group)
 
 ## Existing tools with an email address
 
