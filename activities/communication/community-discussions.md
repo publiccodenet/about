@@ -8,7 +8,7 @@ We have a forum for community discussions at: [discuss.publiccode.net](https://d
 
 ## Purpose
 
-The forum is a space for our community to talk publicly about topics that does not naturally fit anywhere else.
+The forum is a space for our community to talk publicly about topics that do not naturally fit anywhere else.
 
 ## When to not use the forum
 
