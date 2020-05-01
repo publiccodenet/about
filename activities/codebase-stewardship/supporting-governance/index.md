@@ -8,7 +8,7 @@ The development of public code requires various forms of governance. Codebase st
 
 The Foundation for Public Code *does not* directly govern codebases. Instead, we offer support and advise on codebase governance, and help *communities* execute governance.
 
-## What is codebase governance
+## What codebase governance is
 
 Codebase governance is strictly limited to the codebase. The governance of the codebase should strive to be as simple, transparent and welcoming as possible. This is to help the codebase scale, and allow different types of parties; public associations, large and small municipaities, and different companies to get involved. The current draft ‘[governance.md](governance-template.md)’ file contains a proposal, including a technical steering team and product steering team.
 
