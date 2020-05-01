@@ -20,7 +20,7 @@ Each meeting, someone (not the chair) is responsible for facilitating remote par
 
 1. Priorities
 1. New team members
-1. Changes that impacts staff
+1. Changes that impact staff
 1. How is growth going
 1. Community, what are the asks/offers
 1. How are we standing on the bigger strategies
