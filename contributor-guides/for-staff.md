@@ -14,7 +14,7 @@ Here are some important things to figure out in the first couple of days:
 * Team Public Code chat - say hello, we're a welcoming bunch
 * Calendar - add your holidays to the team calendar
 * Manual of me - fill out your own and read the existing ones
-* Oodo - We use ODOO for our internal chat tool as well as project management and customer relations management
+* Oodo - We use Odoo for our internal chat tool as well as project management and customer relations management
 * Github - push a branch, make a pull request (maybe to improve this page!). You can request an invite to have our Github account added to the organizational account.
 * Splitwise - if you want to join the shared lunch groceries
 * Attend morning standup ritual that is in the team calendar
