@@ -159,8 +159,6 @@ Cada representante de un miembro público deberá, al comienzo de la reunión y 
 11.4. El presidente de la junta también actuará como tal en las reuniones de la junta general de accionistas. Si el presidente de la junta no está presente, la junta se encargará de su propia gestión.
 
 11.5. El secretario de la junta directiva o, en su defecto, la persona designada por el presidente, levantará acta de las deliberaciones de la reunión. Estas actas se aprobarán en la misma o en la siguiente reunión y serán firmadas por el presidente y el secretario de esa reunión como prueba de ello.
-
-
 ## Artículo 12: Toma de decisiones y votación
 
 12.1. Todas las resoluciones para las que no se requiera otra mayoría o quórum en la ley o en estos estatutos se adoptarán por mayoría simple de los votos emitidos.
@@ -194,8 +192,6 @@ En caso de empate en la elección de las personas, se procederá a un sorteo. Si
 13.3. La junta estará autorizada a decidir la celebración de acuerdos para la adquisición, enajenación y gravamen de bienes registrados y a celebrar acuerdos en los que la asociación se comprometa como garante o codeudor solidario, garantice a un tercero o se vincule como garantía de una deuda de otro siempre en concordancia con el plan de gestión política de la asociación.
 
 13.4. En todos los casos en que la asociación tenga un conflicto de intereses con uno o más directores, la Junta General podrá designar a una o más personas para que la representen. Un director estará obligado a informar a la asamblea general y a sus codirectores de un conflicto de intereses.
-
-
 ## Artículo 14: Composición y nombramiento
 
 14.1. La junta estará formada por al menos tres (3) directores.
