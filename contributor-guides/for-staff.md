@@ -21,7 +21,7 @@ Here are some important things to figure out in the first couple of days:
 * Attend sprint retrospective & planning - review the kanbans beforehand
 * Tentoo NMBRS ESS (employee self service) mobile app - to [request leave](../activities/staff-management/leave.md), [file expenses](../activities/staff-management/expense.md) and see your payslips
 
-Any of your new co-workers will be glad to help! <3
+Any of your new coworkers will be glad to help! <3
 
 ## Useful tools
 
