@@ -11,17 +11,17 @@ Guides for all staff. Everything important for working for us should be here, ex
 When we expect you to be here and how to plan to be somewhere else.
 
 * [How to request leave](leave.md)
-* [Statutory holidays](/organization/yearly-schedule.md)
+* [Statutory holidays](../../organization/yearly-schedule.md)
 * [How to report illness](sickness.md)
 * [How to work remotely](remote-working.md)
 * [Parental leave](parental-leave.md)
 
 ## Staff and recruitment
 
-* [Staff basics](for-staff.md)
+* [Staff basics](../../contributor-guides/for-staff.md)
 * [Recruitment](../recruitment/hiring-process.md)
 * [GitHub training](../trainings/github-for-newcomers.md)
-* [Writing an issue](writing-issues.md)
+* [Writing an issue](../trainings/writing-issues.md)
 
 ## Remuneration policy and expenses
 
