@@ -15,9 +15,8 @@ Here are some important things to figure out in the first couple of days:
 * Calendar - add your holidays to the team calendar
 * Manual of me - fill out your own and read the existing ones
 * Github - push a branch, make a pull request (maybe to improve this page!)
-* Lunch - we organize lunch groceries, a fixed amount will be deducted from your monthly salary
-* Splitwise - we use this app other food and drink related costs
-* Attend morning standup ritual at 10:00
+* Splitwise - if you want to join the shared lunch groceries
+* Attend morning standup ritual that is in the team calendar
 * Attend sprint retrospective & planning - review the kanbans beforehand
 * Tentoo NMBRS ESS (employee self service) mobile app - to [request leave](../activities/staff-management/leave.md), [file expenses](../activities/staff-management/expense.md) and see your payslips
 
