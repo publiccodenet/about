@@ -14,13 +14,13 @@ The Foundation for Public Code was set up to help public organizations develop a
 
 This document provides context and lays out some of the activties members can expect to conduct with the Foundation for Public Code.
 
-## What is the Foundation for Public Code?
+## The Foundation for Public Code
 
 The Foundation for Public Code Vereniging is a non-profit member-owned [association](https://about.publiccode.net/organization/articles-of-association.html) with a mission to enable public-purpose software and policy that is open and collaborative. Membership is only open to wholly publicly owned organizations.
 
 It does this through codebase stewardship: supporting public organizations and developers (public and private) to develop and maintain code together.
 
-## Why the Foundation for Public Code?
+## Why the Foundation for Public Code exists
 
 Digital systems are increasingly core infrastructure for governments. Core government processes rely on digital systems to collect and manage their information, help inform decision making and execute their policy.
 
@@ -37,7 +37,7 @@ In light of this, it is important that public organizations approach their digit
 * sets up a sustainable relationship with the market - helping different (types of) companies work together without a single point of failure (e.g. service designers with developers with system maintainers)
 * makes sure the public organizations are in control of their systems so they can respond to new citizen needs, policy goals or technologies
 
-## How can the Foundation for Public Code help your organization?
+## How the Foundation for Public Code can help your organization
 
 The Foundation for Public Code is currently working with over 20 public organizations around Europe (including small municipalities, big cities, regional and national governments) on an open and collaborative process for developing reusable software components. Its aim is to help public organizations procure, develop and maintain code together.
 
@@ -53,7 +53,7 @@ This will:
 * make solutions more reusable
 * gain international exposure
 
-## What does becoming a member mean?
+## What becoming a member means
 
 Becoming a member means steering and becoming a co-owner of the association. This includes shaping the governance, operations and financial structure of the Foundation for Public Code.
 
