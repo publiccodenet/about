@@ -1,7 +1,7 @@
 ---
 type: Resource
 redirect_from:
-    - /activities/member-relations/expression-of-interest
+    - /activities/membership-growth/expression-of-interest
 ---
 
 # Expression of interest template
