@@ -1,5 +1,5 @@
 ---
-type: resource
+type: Resource
 redirect_from:
     - activities/membership-growth/membership-proposal-template.md
 ---
