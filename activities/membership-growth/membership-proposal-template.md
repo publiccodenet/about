@@ -104,7 +104,7 @@ The Foundation for Public Code’s activities will include:
 ## Next steps
 
 1. Agree membership dues.
-2. Review the [membership contract](https://about.publiccode.net/activities/member-relations/membership-contract.html) and the [articles of association](https://about.publiccode.net/organization/articles-of-association.html), and let us know whether your organization is able to agree to these.
+2. Review the [membership contract](https://about.publiccode.net/activities/membership-growth/membership-contract.html) and the [articles of association](https://about.publiccode.net/organization/articles-of-association.html), and let us know whether your organization is able to agree to these.
 3. Organize follow up meeting with [name] to finalize this proposal and clarify any questions about the contract.
 4. Sign contract and send back to [name].
 5. [bespoke]
