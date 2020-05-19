@@ -7,6 +7,7 @@ redirect_from:
 # Membership Proposal: [Insert name of organization] and the Foundation for Public Code
 
 ## Introduction
+
 [Insert public organization] has recently expressed an interest in becoming a member of the [Foundation for Public Code](https://publiccode.net/). Members of the Foundation for Public Code contribute to creating a global community of public code empowered organizations that pool resources and collaborate in the digital transformation of the policy and software of modern government.
 
 The Foundation for Public Code was set up to help public organizations develop and maintain software together. This will result in higher quality services for the public that are more cost effective, with less risk and more local control.
@@ -37,6 +38,7 @@ In light of this, it is important that public organizations approach their digit
 * makes sure the public organizations are in control of their systems so they can respond to new citizen needs, policy goals or technologies
 
 ## How can the Foundation for Public Code help your organization?
+
 The Foundation for Public Code is currently working with over 20 public organizations around Europe (including small municipalities, big cities, regional and national governments) on an open and collaborative process for developing reusable software components. Its aim is to help public organizations procure, develop and maintain code together.
 
 For this a [Standard for Public Code](https://standard.publiccode.net/) has been developed. This is a collection of principles to help policy makers, managers, designers, developers and vendors work together to make code that is easy to understand, reuse and maintain.
@@ -44,6 +46,7 @@ For this a [Standard for Public Code](https://standard.publiccode.net/) has been
 It also offers [codebase stewardship activities](https://about.publiccode.net/activities/codebase-stewardship/activities.html), which include a) reviewing the codebase (and all new additions to it) to make sure it complies with the Standard for Public Code, b) facilitating multi-stakeholder development between public and private organizations, c) helping with marketing to ensure public organizations understand the software and how to implement it, and d) supporting private sector parties to work effectively on these public-sector led software systems.
 
 This will:
+
 * enable higher quality public services
 * enable the pooling of resources with other public bodies to share the cost of development, maintenance and upgrading
 * build in agility for future growth paths and innovation
@@ -51,6 +54,7 @@ This will:
 * gain international exposure
 
 ## What does becoming a member mean?
+
 Becoming a member means steering and becoming a co-owner of the association. This includes shaping the governance, operations and financial structure of the Foundation for Public Code.
 
 Members receive voting rights at the General Assembly, where voting rights are proportional to your member dues. For example, members vote on which codebases are stewarded by the Foundation for Public Code.
@@ -58,11 +62,13 @@ Members receive voting rights at the General Assembly, where voting rights are p
 Membership also includes onboarding support to help you get the most of your membership. During the onboarding we help you with your public code projects.
 
 Onboarding includes:
+
 * supporting your public code projects and codebases
 * introducing you to our network and codebase communities
 * preparing you for your first general assembly
 
 And supporting you with your codebases on:
+
 * quality of your codebases - understanding how to make them more modular and reusable
 * community for your codebases - understanding how to collaborate better and more openly with other organizations
 * product packaging of your codebases - understanding how to better market and promote your codebases
@@ -76,6 +82,7 @@ As an association, our resources are allocated across members. Our support for e
 [public organization] and the Foundation for Public Code will work together to identify appropriate codebases for codebase auditing, certification and stewardship activities.
 
 The Foundation for Public Code’s activities will include:
+
 * audits to help comply with the Standard for Public Code on every pull request
 * training and workshops to develop better reusable codebases as well as working with the community
 * events and regular calls to integrate a community
@@ -85,6 +92,7 @@ The Foundation for Public Code’s activities will include:
 * help create budgets and frame costs for [public organization]’s activities outlined below
 
 [public organization] must commit time and budget to:
+
 * provide in-kind contributions of staff time to help us develop the Foundation for Public Code’s governance model, membership and financial structure
 * make all code and policy contributions compliant with the Standard
 * make selected code and policy contributions, as well as the entire projects, reusable by others
@@ -102,6 +110,7 @@ The Foundation for Public Code’s activities will include:
 5. [bespoke]
 
 ## Contact
+
 Laura Scheske, membership developer
 laura@publiccode.net
 +31 202 444 561
