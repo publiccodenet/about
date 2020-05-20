@@ -6,7 +6,8 @@ type: Resource
 
 Someone who uses a codebase directly.
 
-For example civil servants reading the documentation of a codebase, infrastructure vendors installing it on their servers or system administrators administrating the systems.
+For example: if you use online form software to make and send a questionaire to someone, you are the user, they are the [End user](end-user-definition.md).
+More examples are: civil servants reading the documentation of a codebase, infrastructure vendors installing it on their servers or system administrators administrating the systems. 
 
 See also:
 
