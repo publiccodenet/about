@@ -22,5 +22,5 @@ Members are responsible for the association's [governance](../../organization/go
 
 ## Further reading
 
-* [Member relations](https://about.publiccode.net/activities/member-relations)
+* [Member relations](../member-relations/index.md)
 * [Template for a workshop with potential members](founding-membership-workshop.md)
