@@ -1,7 +1,8 @@
 ---
 type: Resource
 redirect_from:
-    - activities/membership-growth/membership-proposal-template.md
+    - activities/membership-growth/member-onboarding-support.md
+    - activities/membership-growth/founding-membership-proposal.md
 ---
 
 # Membership Proposal: [Insert name of organization] and the Foundation for Public Code
