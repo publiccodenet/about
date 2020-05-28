@@ -89,7 +89,7 @@ The Foundation for Public Code’s activities will include:
 * connecting relevant members of this or other communities in order to increase uptake and contributions
 * storytelling and marketing of the project based on best practices and research to support reuse
 * providing prospective reusers and contributors with a helpdesk to answer their questions on issues ranging from installations to procurement
-* help create budgets and frame costs for [public organization]’s activities outlined below
+* help with creating budgets and framing costs for [public organization]’s activities outlined below
 
 [public organization] must commit time and budget to:
 
