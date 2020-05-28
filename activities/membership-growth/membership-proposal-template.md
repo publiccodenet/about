@@ -16,9 +16,9 @@ This document provides context and lays out some of the activties members can ex
 
 ## The Foundation for Public Code
 
-The Foundation for Public Code Vereniging is a non-profit member-owned [association](https://about.publiccode.net/organization/articles-of-association.html) with a mission to enable public-purpose software and policy that is open and collaborative. Membership is only open to wholly publicly owned organizations.
+The Foundation for Public Code Vereniging is a non-profit member-owned [association](https://about.publiccode.net/organization/articles-of-association.html). Our mission is to enable public-purpose software and policy that is open and collaborative. Membership is only open to wholly publicly owned organizations.
 
-It does this through codebase stewardship: supporting public organizations and developers (public and private) to develop and maintain code together.
+We do this through codebase stewardship: supporting public organizations and developers (public and private) to develop and maintain code together.
 
 ## Why the Foundation for Public Code exists
 
@@ -39,11 +39,11 @@ In light of this, it is important that public organizations approach their digit
 
 ## How the Foundation for Public Code can help your organization
 
-The Foundation for Public Code is currently working with over 20 public organizations around Europe (including small municipalities, big cities, regional and national governments) on an open and collaborative process for developing reusable software components. Its aim is to help public organizations procure, develop and maintain code together.
+We are currently working with over 20 public organizations around Europe (including small municipalities, big cities, regional and national governments) on an open and collaborative process for developing reusable software components. Our aim is to help public organizations procure, develop and maintain code together.
 
-For this a [Standard for Public Code](https://standard.publiccode.net/) has been developed. This is a collection of principles to help policy makers, managers, designers, developers and vendors work together to make code that is easy to understand, reuse and maintain.
+We developed a [Standard for Public Code](https://standard.publiccode.net/) for this purpose. The Standard is a collection of principles to help policy makers, managers, designers, developers and vendors work together to make code that is easy to understand, reuse and maintain.
 
-It also offers [codebase stewardship activities](https://about.publiccode.net/activities/codebase-stewardship/activities.html), which include a) reviewing the codebase (and all new additions to it) to make sure it complies with the Standard for Public Code, b) facilitating multi-stakeholder development between public and private organizations, c) helping with marketing to ensure public organizations understand the software and how to implement it, and d) supporting private sector parties to work effectively on these public-sector led software systems.
+We also offer [codebase stewardship activities](https://about.publiccode.net/activities/codebase-stewardship/activities.html), which include a) reviewing the codebase (and all new additions to it) to make sure it complies with the Standard for Public Code, b) facilitating multi-stakeholder development between public and private organizations, c) helping with marketing to ensure public organizations understand the software and how to implement it, and d) supporting private sector parties to work effectively on these public-sector led software systems.
 
 This will:
 
@@ -57,9 +57,9 @@ This will:
 
 Becoming a member means steering and becoming a co-owner of the association. This includes shaping the governance, operations and financial structure of the Foundation for Public Code.
 
-Members receive voting rights at the General Assembly, where voting rights are proportional to your member dues. For example, members vote on which codebases are stewarded by the Foundation for Public Code.
+Members receive voting rights at the General Assembly, where voting rights are proportional to member dues. For example, members vote on which codebases are stewarded by the Foundation for Public Code.
 
-Membership also includes onboarding support to help you get the most of your membership. During the onboarding we help you with your public code projects.
+Membership also includes onboarding support to help you get the most out of your membership.
 
 Onboarding includes:
 
@@ -93,10 +93,10 @@ The Foundation for Public Code’s activities will include:
 
 [public organization] must commit time and budget to:
 
-* provide in-kind contributions of staff time to help us develop the Foundation for Public Code’s governance model, membership and financial structure
-* make all code and policy contributions compliant with the Standard
+* provide in-kind contributions of staff time to continue to shape the Foundation for Public Code’s governance model, membership and financial structure
+* make all code and policy contributions compliant with the Standard for Public Code
 * make selected code and policy contributions, as well as the entire projects, reusable by others
-* partake in the community in order to further development and help others reuse the codebase
+* partake in the community in order to further develop and help others reuse the codebase
 * support in product marketing and access to other organizations in order to enable reuse
 * organizational knowledge on procurement and technology to help others reuse the codebase
 * provide structural feedback on how to improve codebase stewardship activities as well as the Standard for Public Code
