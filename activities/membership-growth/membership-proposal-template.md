@@ -75,7 +75,7 @@ And supporting you with your codebases on:
 * support of your codebases - understanding how to improve your collaboration with the market
 * [assessment of your codebases](https://about.publiccode.net/activities/codebase-stewardship/criteria-for-codebase-stewardship.html) for codebase stewardship
 
-As an association, our resources are allocated across members. Our support for each member is subject to availability.
+As an association, our members determine how our resources are allocated across members and potential members.
 
 ## Proposed activities
 
