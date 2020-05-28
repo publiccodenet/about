@@ -31,7 +31,7 @@ As governments mature in their approach to their core digital systems, they face
 * understanding how to make their systems future-proof and ready for future innovation
 * avoiding 'technical debt' (e.g. building systems now that will cost a lot to maintain later)
 
-In light of this, it is important that public organizations approach their digital systems in a way that promotes effective and high quality delivery, and
+In light of this, it is important that public organizations approach their digital systems in a way that promotes effective and high quality delivery, and:
 
 * helps them work together with other public organizations - sharing software code and learnings - to reduce cost and make investments more effective
 * sets up a sustainable relationship with the market - helping different (types of) companies work together without a single point of failure (e.g. service designers with developers with system maintainers)
