@@ -10,7 +10,7 @@ The Foundation for Public Code is a non-profit, member-owned association. Only w
 
 ## Membership benefits and responsibilities
 
-Members benefit from [codebase stewardship](../codebase-stewardship/index.md), member onboarding support and the other [value propositions](../value-and-impact/user-mapping) of being part of the community.
+Members benefit from [codebase stewardship](../codebase-stewardship/index.md), member onboarding support and the other [value propositions](../value-and-impact/user-mapping.md) of being part of the community.
 
 Members are responsible for the association's [governance](../../organization/governance-model.md) and [financing](../../organization/financial-model.md).
 
