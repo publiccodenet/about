@@ -12,7 +12,7 @@ The Foundation for Public Code relies on email and tools to accomplish its missi
 
 ## Principles
 
-Tool names should be a description of the tool's function, not its brand name. This makes sure:
+Tool names should be a description of the tool's function, not its brand name. This makes sure that:
 
 * we can change the specific provider without needing to change the URL
 * the URL makes sense even if someone isn't familiar with that brand
@@ -22,7 +22,7 @@ Every email address should be:
 
 * self-explanatory
 * unambiguous
-* fail privately not publicly (eg if you start to type and your email client auto-completes the wrong email address, you won't send a very private email to a big group)
+* fail privately not publicly (e.g. if you start to type and your email client auto-completes the wrong email address, you won't send a very private email to a big group)
 
 ## Existing tools with an email address
 
