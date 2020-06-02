@@ -113,4 +113,4 @@ Membership benefits and successful codebase stewardship are directly linked to c
 
 Laura Scheske, membership developer
 laura@publiccode.net
-+31 20 2 444 500
++31 20 2 444 563
