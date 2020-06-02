@@ -4,7 +4,7 @@ type: resource
 
 # Tool and email naming conventions
 
-The Foundation for public Code relies on email and tools to accomplish its mission. We've established these conventions for how our email and toolnames are structured so that:
+The Foundation for Public Code relies on email and tools to accomplish its mission. We've established these conventions for how our email and toolnames are structured so that:
 
 * we can easily name new tools or create email addresses in a way that won't create conflicts for other uses or users
 * people using our tools clearly understand what tool they're interacting with (and its purpose)
@@ -35,5 +35,3 @@ These tools have their own URL and associated email:
 Q: are there existing list conventions for "all-codebasename@lists.publiccode.net (all-signalen@lists.publiccode.net) or subgroup-codebase@"? If so, we should follow those.
 
 ## Email address conventions
-
-
