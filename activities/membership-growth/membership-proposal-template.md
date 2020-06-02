@@ -91,15 +91,15 @@ The Foundation for Public Code’s activities will include:
 * providing prospective reusers and contributors with a helpdesk to answer their questions on issues ranging from installations to procurement
 * help with creating budgets and framing costs for [public organization]’s activities outlined below
 
-[public organization] must commit time and budget to:
+Membership benefits and successful codebase stewardship are directly linked to committing time and budget to:
 
-* provide in-kind contributions of staff time to continue to shape the Foundation for Public Code’s governance model, membership and financial structure
-* make all code and policy contributions compliant with the Standard for Public Code
-* make selected code and policy contributions, as well as the entire projects, reusable by others
-* partake in the community in order to further develop and help others reuse the codebase
-* support in product marketing and access to other organizations in order to enable reuse
-* organizational knowledge on procurement and technology to help others reuse the codebase
-* provide structural feedback on how to improve codebase stewardship activities as well as the Standard for Public Code
+* providing in-kind contributions of staff time to continue to shape the Foundation for Public Code’s governance model, membership and financial structure
+* making all code and policy contributions compliant with the Standard for Public Code
+* making selected code and policy contributions, as well as the entire projects, reusable by others
+* partaking in the community in order to further develop and help others reuse the codebase
+* supporting product marketing and access to other organizations in order to enable reuse
+* offering organizational knowledge on procurement and technology to help others reuse the codebase
+* providing structural feedback on how to improve codebase stewardship activities as well as the Standard for Public Code
 
 ## Next steps
 
