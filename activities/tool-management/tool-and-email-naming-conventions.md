@@ -12,7 +12,7 @@ The Foundation for Public Code relies on email and tools to accomplish its missi
 
 ## Principles
 
-Tool names should be a description of the tool's function, not its brand name. This makes sure:
+Tool names should be a description of the tool's function, not its brand name. This makes sure that:
 
 * we can change the specific provider without needing to change the URL
 * the URL makes sense even if someone isn't familiar with that brand
