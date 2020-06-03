@@ -27,7 +27,7 @@ Tool tests are time limited to reduce the organizational costs of testing. Somet
 1. Raise an issue on the Odoo Tooling project board, including which problems the tool solves, for whom, and why you'd like to test it.
 2. The operations coordinator or operations and communications coordinators will do basic research into the tool.
 3. If they agree with your proposal, they'll schedule a time for a tool test and set it up for relevant team members to use.
-4. After the test, the people who tested the tool give feedback (for example through a retro).
+4. After the test, the people who tested the tool give feedback (for example through a [retrospective](../staff-meetings/retrospective.html)).
 5. If a new tool is chosen for our own work, the new tool is launched after guidance is drafted for About.
 
 The communications coordinator works with the operations coordinator to test communications tools (internal and exernal) and integrate them in our communications strategy.
