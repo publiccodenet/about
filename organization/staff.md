@@ -47,6 +47,7 @@ Roles:
   * Alba Roza
   * [Lead](#lead):
     Eric Herman
+  * Felix Faassen
 
 ### Communications
 
