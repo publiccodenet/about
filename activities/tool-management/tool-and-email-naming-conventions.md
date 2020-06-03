@@ -43,8 +43,13 @@ We create email addresses for these purposes.
  personal | To contact the person | person only | yes | yes | firstname@publiccode\.net \(example: boris@publiccode\.net\)
  codebase | contact codebase stewards, ask a question, say hi | specific list members | yes | yes | codebasename@publiccode\.net \(example: signalen@publiccode\.net\) OR hi\-codebasename@publiccode\.net
  internal distribution lists | To email all relevant people at once, to create an email archive for a topic | specific list members | sometimes | yes | noun@publiccode\.net \(example: invoices@publiccode\.net\)
- servers and machine control panels | to administer the control panel of the machine | system administrator | never | no | servername@publiccode\.net \(example withheld\)
- copy\-to\-Odoo \(email archiving for our client relationship management tool\) | to archive the email | Odoo | never | yes \- needs to predictable | log\-codebasename@publiccode\.net \(example: log\-signalen@publiccode\.net\)
- contact us about a tool we provide for a community | report a bug or troubleshoot something | system administrator | yes | yes | admin\.toolname@publiccode\.net \(example: admin\.discuss@publiccode\.net\)
- reply\-to mailing list | email the whole list with list\-related content | specific list member | yes | probably not, but would be nice to have | all\-codebasename@lists\.publiccode\.net \(all\-signalen@lists\.publiccode\.net\) or subgroup\-codebase@ 
+ contact us about a tool we provide for a community | report a bug or troubleshoot something | system administrator and specific list members | yes | yes | admin\-toolname@publiccode\.net \(example: admin\-discuss@publiccode\.net\)
+ reply\-to mailing list | email the whole list with list\-related content | specific list member | yes | probably not, but would be nice to have | all\-codebasename@lists\.publiccode\.net \(all\-signalen@lists\.publiccode\.net\) or subgroup\-codebase@
  contact mailing list admin | contact admin to ask something privately | list admin | yes | no | admin\-codebasename@lists\.publiccode\.net
+
+We have non-public email addresses for:
+
+* managing servers
+* logging emails to our CRM (Odoo)
+
+Contact the operations coordinator for more information about these.
