@@ -14,7 +14,8 @@ Here are some important things to figure out in the first couple of days:
 * Team Public Code chat - say hello, we're a welcoming bunch
 * Calendar - add your holidays to the team calendar
 * Manual of me - fill out your own and read the existing ones
-* Github - push a branch, make a pull request (maybe to improve this page!)
+* Oodo - We use Odoo for our internal chat tool as well as project management and customer relations management
+* Github - push a branch, make a pull request (maybe to improve this page!). You can request an invite to have our Github account added to the organizational account.
 * Splitwise - if you want to join the shared lunch groceries
 * Attend morning standup ritual that is in the team calendar
 * Attend sprint retrospective & planning - review the kanbans beforehand
@@ -28,6 +29,8 @@ These are some tools some of us find helpful:
 
 * [HackMD.io](https://hackmd.io/) - for collaborating on draft documents in Markdown with people outside the organization (especially helpful for content we plan to publish)
 * [Markdown Here](https://markdown-here.com/) - for formatting emails written using Markdown
+* [Github Learning lab](https://lab.github.com/) - for learning git or refresh your skill
+* [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) - for a list of the most common used git commands
 
 ## Useful context
 
