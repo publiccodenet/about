@@ -24,6 +24,8 @@ Every email address should be:
 * unambiguous
 * fail privately not publicly (e.g. if you start to type and your email client auto-completes the wrong email address, you won't send a very private email to a big group)
 
+Only Foundation for Public Code staff and officials can receive emails sent to [name or noun]@publiccode.net email addresses.
+
 ## Existing tools with an email address
 
 These tools have their own URL and associated email:
