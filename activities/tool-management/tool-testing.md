@@ -42,5 +42,5 @@ Tool decisions are based on:
 * set up cost (set-up, implementation and onboarding)
 * cost of running, support and maintenance
 * how this helps us meet our legal obligations (for example tax or GDPR)
-* fit with our [founding principles](../../organization/mission.md), [procurement principles](../activities/procurement/principles.md), and [communications principles](../communication/communication-principles.md)
+* fit with our [founding principles](../../organization/mission.md), [procurement principles](../procurement/principles.md), and [communications principles](../communication/communication-principles.md)
 * our ability to help people use the tool easily and constructively as they adapt their working practice to incorporate the new tool (all documented on About)
