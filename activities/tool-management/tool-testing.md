@@ -9,16 +9,16 @@ At the Foundation for Public Code, we regularly test new tools.
 
 We do this so that:
 
-- we have personal experience of any tools we may want to recommend to our communities
-- we can optimimize our own working practices
+* we have personal experience of any tools we may want to recommend to our communities
+* we can optimimize our own working practices
 
 We set up tools we're testing at [toolname].test.publiccode.net.
 
 Tools we're testing are:
 
-- not in production
-- not supported
-- thrown away after the test
+* not in production
+* not supported
+* thrown away after the test
 
 Tool tests are time limited to reduce the organizational costs of testing. Sometimes we deliberately compare multiple tools with the same functionality so we have a better understanding of their respective strengths and weaknesses.
 
