@@ -2,6 +2,7 @@
 type: resource
 redirect_from:
     - /activities/member-relations/membership-contract
+---
 
 # Template membership contract
 
