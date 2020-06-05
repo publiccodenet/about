@@ -62,7 +62,7 @@ Instead, describe what we do: "we help municipalities [share collaborative softw
 
 ### Contextual knowledge
 
-Check whether your interlocutor knows about:
+Check whether the person you're speaking with knows about:
 
 * policy
 * open source
@@ -87,7 +87,8 @@ These are follow up questions we've received, and answers staff have given.
 
 Are you a lobbying org? Are you the same as the FSFE?
 
-* No. We work with the organizations that have already decided to use open source. There are already so many organizations that have already decided that we don't waste our time trying to convince the others.
+* No. We work with the organizations that have already decided to use open source. We're non-partisan and can't lobby, as per our founding principles and non-profit status.  
+There are plenty of other organizations (like FSFE) that focus on persuading organizations that haven't decided to use open source to do so.
 
 Where does your money come from?
 
@@ -106,6 +107,7 @@ Is now the right time and place? What about incumbent vendors?
 
 Why are you an association when you're called a Foundation?
 
+* In the open source world, organizations that take care of the commons are called 'foundations'.
 * Foundations can be bought out and subverted by corporate interests, this form of association cannot be.
 * The Foundation for Public Code is registered as an association because this structure was the best fit for our goals under Dutch law.
 
