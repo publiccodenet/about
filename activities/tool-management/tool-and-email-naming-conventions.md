@@ -12,6 +12,8 @@ The Foundation for Public Code relies on email and tools to accomplish its missi
 
 ## Principles
 
+### Tools
+
 Tool names should be a description of the tool's function, not its brand name. This makes sure that:
 
 * we can change the specific provider without needing to change the URL
@@ -19,6 +21,8 @@ Tool names should be a description of the tool's function, not its brand name. T
 * the provider can expand their product offering or rename their brand without it affecting us
 
 [Tools that we are testing](tool-testing.md) are hosted at toolname.test.publiccode.net.
+
+### Email addresses
 
 Every email address should be:
 
@@ -30,7 +34,7 @@ Only Foundation for Public Code staff and officials can receive emails sent to [
 
 Emails to [name or noun]@publiccode.net always go to people or to internal mailinglists (which can be shared email adresses), not a tool or a machine.
 
-Tools or machines use should use a [anything]@[subdomain].publiccode.net email address. 
+Tools or machines use should use a [anything]@[subdomain].publiccode.net email address.
 
 ## Existing tools with an email address
 
@@ -39,6 +43,7 @@ These tools have their own URL and associated email:
 * client relationship management: odoo.publiccode.net (Odoo)
 * forum: discuss.publiccode.net (Discourse)
 * video calling: meet.publiccode.net (Jitsi)
+* internal chat: chat.publiccode.net (Mattermost)
 
 ## Email address uses and formatting
 
