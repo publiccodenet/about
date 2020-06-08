@@ -44,6 +44,7 @@ These tools have their own URL and associated email:
 * forum: discuss.publiccode.net (Discourse)
 * video calling: meet.publiccode.net (Jitsi)
 * internal chat: chat.publiccode.net (Mattermost)
+* file sharing: collaboration.publiccode.net (Nextcloud)
 
 ## Email address uses and formatting
 
