@@ -18,17 +18,19 @@ Tool names should be a description of the tool's function, not its brand name. T
 * the URL makes sense even if someone isn't familiar with that brand
 * the provider can expand their product offering or rename their brand without it affecting us
 
+[Tools that we are testing](tool-testing.md) are hosted at toolname.test.publiccode.net.
+
 Every email address should be:
 
 * self-explanatory
 * unambiguous
 * fail privately not publicly (e.g. if you start to type and your email client auto-completes the wrong email address, you won't send a very private email to a big group)
 
-Only Foundation for Public Code staff and officials can receive emails sent to [name or noun]@publiccode.net email addresses.
+Only Foundation for Public Code staff and officials can receive emails sent to [anything]@publiccode.net email addresses.
 
 Emails to [name or noun]@publiccode.net always go to people or to internal mailinglists (which can be shared email adresses), not a tool or a machine.
 
-Tools or machines use should use a *@[subdomain].publiccode.net email address.
+Tools or machines use should use a [anything]@[subdomain].publiccode.net email address. 
 
 ## Existing tools with an email address
 
