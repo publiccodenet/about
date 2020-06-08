@@ -32,7 +32,7 @@ Every email address should be:
 
 Only Foundation for Public Code staff and officials can receive emails sent to [anything]@publiccode.net email addresses.
 
-Emails to [name or noun]@publiccode.net always go to people or to internal mailinglists (which can be shared email adresses), not a tool or a machine.
+Emails to [anything]@publiccode.net always go to people or to internal mailinglists (which can be shared email adresses), not a tool or a machine.
 
 Tools or machines use should use a [anything]@[subdomain].publiccode.net email address.
 
