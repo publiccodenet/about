@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Mission and founding principles
+# Mission, founding principles and current priorities
 
 ## Mission
 
@@ -21,3 +21,11 @@ To enable public-purpose software and policy that is open and collaborative.
 The founding principles were adopted by the board of directors on 23 August 2019.
 
 \* In order to start as an association 4 initial individual founders will play the role of member until there are enough public members for the organization to sustain itself.
+
+## Current priorities
+
+The current priorities of the organization are decided on by the [board of directors](governance-model.md). They are:
+
+* Members: get public organizations to join the association
+* Codebases: get codebases into stewardship
+* Funding: secure funding for the next years

@@ -9,7 +9,7 @@ As an organization which cares about helping people to collaborate there will be
 
 ## As early as possible
 
-* Figure out the purpose of the event. Which are the goals that the organization is trying to achieve with this event? Make sure these are aligned with the overarching [mission and founding principles](../../organization/mission.md). The goals will usually determine the intended participants. Think of how, after the event, you will measure or determine if these goals are accomplished.
+* Figure out the purpose of the event. Which are the goals that the organization is trying to achieve with this event? Make sure these are aligned with the overarching [mission, founding principles and priorities](../../organization/mission.md). The goals will usually determine the intended participants. Think of how, after the event, you will measure or determine if these goals are accomplished.
 * Appoint someone who is responsible for this particular event. Even though responsibilities might be delegated, it helps to be clear on who has authority to make decisions. This also reduces the risk that a task might be left undone.
 * Decide on date and place for the event. Book the space as early as possible.
 * Create internal awareness. In order to enable synergies, sharing the overall plans with the rest of the organization is important.
