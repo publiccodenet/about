@@ -23,7 +23,7 @@ Our communications should show to showcase the Foundation for Public Code as:
 
 We believe it’s more important to talk concretely about what we’ve already done than what we hope to do.
 
-## Communications objectives
+## Objectives
 
 Our communications should help us achieve [our current priorities](../../organization/mission.md#priorities).
 
@@ -167,19 +167,3 @@ This should be tied into general strategy sessions, so we get the maximum impact
 * tweet about the thing as it’s happening
 * publish blog during (if a major announcement/unveiling) or afterwards about what happened, plus what we learned or what’s next
 * measure how this worked
-
-## Metrics
-
-These are statistics we can easily track month on month as a proxy for impact:
-
-* tweet numbers
-* new Twitter followers
-* Twitter profile visits
-* Twitter mentions
-* tweet impressions
-* increased use of #publiccode
-* reuse or citation of our resources (including blogposts)
-* positive news stories about the Foundation for Public Code
-* website visitor numbers as provided by our hosting platform
-
-Our ability to get metrics is limited by the fact that we have [no analytics tracking](https://about.publiccode.net/organization/privacy.html) on our websites.
