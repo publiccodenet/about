@@ -14,22 +14,18 @@ Our messages range from neutral in tone to positive and inspirational. Our commu
 
 Our communications are in plain English, but we link to highly relevant pages in other languages, for example about our members’ work.
 
-Our communications should show to showcase the Foundation as:
+Our communications should show to showcase the Foundation for Public Code as:
 
 * active, dynamic, getting things done
 * smart enough to be trusted with the importance and complexity of its work
 * plugged into and supportive of the network of visionaries and activists who also want this future
-* open, both about its intentions and operations (transparency) as well as learnings, failures and successes
+* open and transparent, both about its intentions and operations as well as learnings, failures and successes
 
 We believe it’s more important to talk concretely about what we’ve already done than what we hope to do.
 
-## Business objectives
+## Communications objectives
 
-1. Get more members ([in phase 1](https://about.publiccode.net/organization/roadmap.html))
-2. Boost public codebases under Foundation stewardship
-3. Build our codebase community and attract more contributors
-4. Get more contributors and funding for the Foundation
-5. Boost the public code ecosystem
+Our communications should help us achieve [our current priorities](../../organization/mission.md#priorities).
 
 ## Audience
 
