@@ -6,10 +6,12 @@ type: Resource
 
 We provide codebase stewardship at the codebase level. Stewardship activities take place in 4 domains:
 
-* community
-* product marketing
-* quality
-* support
+* [community](#community)
+* [product](#product)
+* [quality](#quality)
+* [support](#support)
+
+This page serves to explain what kind of activites are done per domain and provide wayfinding to them.
 
 ## Stewardship at the codebase level
 
