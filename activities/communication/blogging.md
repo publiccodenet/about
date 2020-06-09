@@ -58,35 +58,33 @@ After writing, please share with the communications coordinator for polishing.
 
 3. Add the frontmatter.
 
-
-    ```
-
+  ```markdown
+  
+  ---
+  
+  title:  "Title”
+  
+  date: YYYY-MM-DD
+  
+  author: [put your name]
+  
+  type: blogpost
+  
+  category: [our current categories are: news and community call]
+  
+  excerpt: [unformatted text you want to appear on the index]
+  
     ---
-
-    title:  "Title”
-
-    date: YYYY-MM-DD
-
-    author: [put your name]
-
-    type: blogpost
-
-    category: [our current categories are: news and community call]
-
-    excerpt: [unformatted text you want to appear on the index]
-
-    ---
-
+  
     ```
 
 4. All blogposts should include at least one relevant image, to make them more engaging. Add your images to [`_assets/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/assets). Link to the asset directly in text. Make sure [the text alternative for your image is useful](https://www.w3.org/WAI/tips/writing/#write-meaningful-text-alternatives-for-images).
 
-
-    ```
-
-    ![alternative text](/assets/image.jpg)
-
-    ```
+  ```markdown
+  
+  ![alternative text](/assets/image.jpg)
+  
+  ```
 
 5. Approvals: tag the communications coordinator plus any other colleagues whose review you'd like on the pull request for your blogpost for a final proofread.
 
