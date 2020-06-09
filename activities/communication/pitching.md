@@ -6,7 +6,9 @@ type: resource
 
 Talking about the Foundation for Public Code can be daunting if you've never done it before. We've collected pitches we already use so it's easier to practice.
 
-See [our value propositions for each Foundation for Public Code user group](../value-and-impact/user-mapping/index.md) for more detailed arguments if you anticipate a longer discussion.
+See [our value propositions for potential Foundation for Public Code contributors](../value-and-impact/user-mapping/index.md) for more detailed arguments if you anticipate a longer discussion.
+
+If you discover you're talking to someone who's a potential contributor, the [communications plan](communications-plan.md) includes targeted calls to action.
 
 ## Opening lines
 
