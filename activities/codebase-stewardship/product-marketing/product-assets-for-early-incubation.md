@@ -1,5 +1,7 @@
 ---
 type: resource
+redirect_from:
+    - ../../product-assets-for-early-incubation.md
 ---
 
 # Product assets for early incubation

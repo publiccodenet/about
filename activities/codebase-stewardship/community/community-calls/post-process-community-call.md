@@ -1,6 +1,8 @@
 ---
 type: Guide
 explains: How to post-process a community call
+redirect_from:
+    - ../../community-calls/post-process-community-call.md
 ---
 
 # Post-processing a community call

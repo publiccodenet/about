@@ -1,5 +1,7 @@
 ---
 type: Resource
+redirect_from:
+    - ../../supporting-governance/governance-template.md
 ---
 
 # Template for a simple governance file

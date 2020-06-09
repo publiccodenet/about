@@ -1,5 +1,7 @@
 ---
 type: Index
+redirect_from:
+    - ../../supporting-governance/
 ---
 
 # Supporting governance
