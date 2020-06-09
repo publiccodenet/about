@@ -4,10 +4,13 @@ type: Resource
 
 # Codebase stewardship for existing projects
 
-Codebase stewardship can be provided to an existing codebase.
-In that case, there might be some important considerations about how to transition and budget for that.
+Codebase stewardship can be provided to an existing codebase. In this case, there might be some important considerations about how to transition and budget for that.
 
-Before entering the [codebase stewardship lifecycle](lifecycle.md) all potential codebases are evaluated according to our [criteria for codebase stewardship](criteria-for-codebase-stewardship.md). To help tracking codebases in Odoo consistently, use [this template](odoo-codebase-template.md).
+## How to start
+
+As set out in the [codebase stewardship lifecycle](lifecycle.md), a codebase must first be proposed to the Foundation for Public Code.
+
+Existing codebases are then [assessed against the stewardship feasibility criteria](criteria-for-codebase-stewardship.md) and [Standard for Public Code](https://standard.publiccode.net/).
 
 ## What developing organizations need to do
 
@@ -33,3 +36,7 @@ We will:
 * develop storytelling and marketing of the project based on best practices and research
 * provide prospective reusers and contributors with a helpdesk to answer their questions on issues ranging from installations to procurement
 * help create budgets and frame costs
+
+## Further reading
+
+* [Template for adding a new codebase to Odoo](odoo-codebase-template.md)

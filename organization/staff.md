@@ -47,15 +47,16 @@ Roles:
   * Alba Roza
   * [Lead](#lead):
     Eric Herman
+  * Felix Faassen
 
 ### Communications
 
 Responsibilities:
 
-* Documentation, internal communication and organizational culture
-* Marketing and external inbound and outbound communication
-* Member communications and events
-* Recruitment and culture
+* [Documentation](../activities/documentation/index.md), [internal communication](../activities/communication/index.md) and organizational culture
+* [Marketing, and external inbound and outbound communication](../activities/communication/index.md)
+* Member communications and [events](../activities/events/index.md)
+* [Recruitment](../activities/recruitment/index.md)
 
 Roles:
 
@@ -69,10 +70,8 @@ Roles:
 
 Responsibilities:
 
-* Membership relations
-* Member help, onboarding, liasing
-* Member codebase identification
-* Membership growth
+* [Member relations](../activities/member-relations/index.md)
+* [Membership growth](../activities/membership-growth/index.md)
 
 Roles:
 
@@ -83,8 +82,8 @@ Roles:
 
 Responsibilities:
 
-* Hiring and HR
-* Procurement, office management and contract management
+* [Staff management](../activities/staff-management/index.md)
+* [Procurement](../activities/procurement/index.md), [office management](../activities/office-management/index.md) and contract management
 * Finances, budget and resource management
 * Infrastructure and tools
 
