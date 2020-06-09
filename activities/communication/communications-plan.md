@@ -156,7 +156,7 @@ We don’t know what the ideal ratio of audiences to target is yet. We’ll deve
 We run a campaign every time:
 
 * someone from the Foundation speaks at an event
-* we hit a [milestone](https://github.com/publiccodenet/about/pull/224)
+* we have significant news
 
 ### Campaign template
 
