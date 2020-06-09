@@ -26,7 +26,6 @@ We can provide codebase stewardship from the beginning of the development or for
 
 ## Useful resources
 
-* [criteria we use to assess whether a codebase is ready and suitable for incubation](criteria-for-codebase-stewardship.md)
 * [product assets needed during early incubation](product-assets-for-early-incubation.md)
 * [stewardship proposal we can send to principal maintainers](stewardship-proposal-template.md)
 
