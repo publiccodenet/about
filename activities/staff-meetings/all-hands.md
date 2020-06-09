@@ -18,13 +18,15 @@ Each meeting, someone (not the chair) is responsible for facilitating remote par
 
 ## Agenda
 
+1. Priorities
 1. New team members
-2. Any change that impacts staff
-3. How is growth going, growth metrics
-4. Community metrics, what are the asks/offers for the community
-5. How are we standing on the bigger strategies
-6. What is coming up on the calendar, what events are coming up
-7. The feedback we’ve gotten from the outside
-8. What have we achieved, outside of just what we’ve demoed
-9. Hiring
-10. Strength, weaknesses, opportunities and threats
+1. Changes that impact staff
+1. How is growth going
+1. Community, what are the asks/offers
+1. How are we standing on the bigger strategies
+1. What is coming up on the calendar, what events are coming up
+1. The feedback we’ve gotten from the outside
+1. What have we achieved
+1. Hiring
+1. Strength, weaknesses, opportunities and threats
+1. Priorities
