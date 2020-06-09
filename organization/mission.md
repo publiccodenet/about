@@ -24,7 +24,12 @@ The founding principles were adopted by the board of directors on 23 August 2019
 
 ## Current priorities
 
-The current priorities of the organization are decided on by the [board of directors](governance-model.md). They are:
+The current priorities of the organization are set
+by the [board of directors](governance-model.md)
+and reviewed every meeting.
+
+29 April 2020
+the priorities were set as:
 
 * Members: get public organizations to join the association
 * Codebases: get codebases into stewardship
