@@ -53,7 +53,7 @@ After writing, please share with the communications coordinator for polishing.
 Create a branch for your new blogpost within in the [blog repo](https://github.com/publiccodenet/blog).
 
 Create a new file for your blogpost within [`_posts/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/_posts)
-named `YEAR-MONTH-DAY-title.md`.
+named `YYYY-MM-DD-title.md`.
 
 ### Step 2: create your blog post
 
