@@ -67,4 +67,4 @@ These include that:
 
 ## Further reading
 
-* [Governance exercise](../workshops/governance-exercise.md)
+* [Governance exercise](../../../workshops/governance-exercise.md)
