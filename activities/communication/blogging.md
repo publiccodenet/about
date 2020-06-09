@@ -31,9 +31,9 @@ This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/c
 ## Before you start
 
 1. Since none of us work in isolation, check in with the communications coordinator before you start writing your blogpost. This helps us:
-   * understand your goals and audience for the blogpost
-   * establish the scope of your blogpost (to avoid duplication with other planned work)
-   * schedule publication of your blogpost so it fits best with other planned communications
+  * understand your goals and audience for the blogpost
+  * establish the scope of your blogpost (to avoid duplication with other planned work)
+  * schedule publication of your blogpost so it fits best with other planned communications
 2. [Read our style guide](https://content-guide.18f.gov/) - we use 18F's. If you have any questions, ask!
 3. Make sure your information is correct on [blog/_data/staff.csv](https://github.com/publiccodenet/blog/blob/develop/_data/staff.csv).
 4. Read the [guide on writing community call blogposts](community-call-blogposts.md) if that's what you're doing.
