@@ -13,7 +13,7 @@ This helps individual members and the Foundation understand:
 * which existing projects have a need for codebase stewardship
 * the most common use cases for public code
 
-Codebases can then be evaluated according to the [criteria for codebase stewardship](../codebase-stewardship/criteria-for-codebase-stewardship.md).
+Codebases can then be evaluated according to the [criteria for codebase stewardship](../codebase-stewardship-assesment/criteria-for-codebase-stewardship.md).
 
 ## Replication of member codebases
 

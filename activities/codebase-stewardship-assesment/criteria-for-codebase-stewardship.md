@@ -1,10 +1,12 @@
 ---
 type: Resource
+redirect_from:
+    - activities/codebase-stewardship/criteria-for-codebase-stewardship
 ---
 
 # Assessing existing codebases
 
-During the assess phase in the [codebase stewardship lifecycle](lifecycle.md), the Foundation for Public Code staff and a codebase's current maintainers evaluate whether a codebase is ready and suitable for incubation. They do this by checking it against:
+During the assess phase in the [codebase stewardship lifecycle](../codebase-stewardship/lifecycle.md), the Foundation for Public Code staff and a codebase's current maintainers evaluate whether a codebase is ready and suitable for incubation. They do this by checking it against:
 
 * the stewardship feasibility criteria on this page
 * the [Standard for Public Code](https://standard.publiccode.net/)

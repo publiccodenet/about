@@ -1,5 +1,7 @@
 ---
 type: Resource
+redirect_from:
+    - activities/codebase-stewardship/assesment-issue-template
 ---
 
 # Template for assessment issues

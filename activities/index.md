@@ -11,6 +11,7 @@ Activities of the Foundation for Public Code that directly serve to further the 
 
 Activities that support the above as well as make staff operations work:
 
+* [Codebase stewardship assesment](codebase-stewardship-assesment/index.md)
 * [Communication](communication/index.md)
 * [Documentation](documentation/index.md)
 * [Events](events/index.md)

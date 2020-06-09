@@ -1,6 +1,8 @@
 ---
 type: Guide
 explains: How to create a new assessment spreadsheet for a codebase
+redirect_from:
+    - activities/codebase-stewardship/create-assessment-spreadsheet
 ---
 
 # How to create a new assessment spreadsheet for a codebase
