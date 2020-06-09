@@ -25,7 +25,7 @@ We believe it’s more important to talk concretely about what we’ve already d
 
 ## Objectives
 
-Our communications should help us achieve [our current priorities](../../organization/mission.md#priorities).
+Our communications should help us achieve [our current priorities](../../organization/mission.md#current-priorities).
 
 ## Audience
 
