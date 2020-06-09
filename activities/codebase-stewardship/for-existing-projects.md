@@ -30,8 +30,8 @@ We also need the developing organization to give us:
 We will:
 
 * conduct [audits](../codebase-auditing/index.md) to help comply with the standard on every pull request
-* provide training and workshops to develop better reusable codebases as well as working with the community
-* run community events and calls to integrate a community
+* provide [training and workshops](../workshops/index.md) to develop better reusable codebases as well as working with the community
+* run community events and [community calls](../community-calls/index.md) to integrate a community
 * connect relevant members of this or other communities to increase uptake and contributions
 * develop storytelling and marketing of the project based on best practices and research
 * provide prospective reusers and contributors with a helpdesk to answer their questions on issues ranging from installations to procurement

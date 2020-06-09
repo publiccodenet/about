@@ -1,6 +1,8 @@
 ---
 type: Guide
 explains: How to prepare a community call
+redirect_from:
+    - activities/codebase-stewardship/community-calls/preparing-community-call
 ---
 
 # Preparing a Standard for Public Code community call
@@ -24,7 +26,7 @@ Together with the codebase stewards figure out if there is anything specific you
 
 Start with updating Odoo with people that signed up on the form since the last community call. Add the tags to the contacts to make it possible to have Odoo select them for the appropriate call.
 
-* Send out invitations ([template](../../communication/community-call-invite-template.md))
+* Send out invitations ([template](../communication/community-call-invite-template.md))
 * Update the calendar by adding newly signed up people and the current agenda
 
 ### Internal
@@ -43,6 +45,6 @@ The chair and the notetaker:
 * add "updates since the last community call" to the notes - keep this to three items or fewer (we want the community call to be a dialogue, not a broadcast). If possible, focus on Standard related updates, but other news relevant to the community are also fine. All updates should be linkable, meaning that they should already be published somewhere else
 * put these in the call notes document
 
-Ask the [communications coordinator](../../../organization/staff.md#communications) if you need help with updates.
+Ask the [communications coordinator](../../organization/staff.md#communications) if you need help with updates.
 
 The notetaker will take notes during the call in the same document.

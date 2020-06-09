@@ -13,6 +13,7 @@ Activities that support the above as well as make staff operations work:
 * [Codebase auditing](codebase-auditing/index.md)
 * [Codebase stewardship assesment](codebase-stewardship-assesment/index.md)
 * [Communication](communication/index.md)
+* [Community calls](community-calls/index.md)
 * [Documentation](documentation/index.md)
 * [Events](events/index.md)
 * [Member relations](member-relations/index.md)

@@ -1,6 +1,8 @@
 ---
 type: Guide
 explains: How to post-process a community call
+redirect_from:
+    - activities/codebase-stewardship/community-calls/post-process-community-call
 ---
 
 # Post-processing a community call

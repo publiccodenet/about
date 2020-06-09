@@ -1,6 +1,8 @@
 ---
 type: Guide
 explains: How to run a community call
+redirect_from:
+    - activities/codebase-stewardship/community-calls/running-community-call
 ---
 
 # Running a community call
@@ -11,7 +13,7 @@ Call-in link: <https://meet.google.com/tfd-acmn-tkb>
 
 Agenda link: <https://hackmd.io/-OegeqvoThCbAsw3c3gIjw>
 
-Have each person join the call on a separate connection aligned with our [conference call etiquette](../../communication/conference-call-etiquette.md).
+Have each person join the call on a separate connection aligned with our [conference call etiquette](../communication/conference-call-etiquette.md).
 
 ### No show
 

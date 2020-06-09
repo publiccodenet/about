@@ -1,5 +1,7 @@
 ---
 type: Index
+redirect_from:
+    - activities/codebase-stewardship/community-calls
 ---
 
 # Community calls
@@ -22,4 +24,4 @@ The community call notes are published on our [blog](https://blog.publiccode.net
 
 ## Further reading
 
-* [Running a Foundation for Public code community call](../../communication/run-a-community-call.md)
+* [Running a Foundation for Public code community call](../communication/run-a-community-call.md)
