@@ -69,7 +69,7 @@ excerpt: [unformatted text you want to appear on the index]
 ---
 ```
 
-4. Add any images to [`_assets/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/assets). Link to the asset directly in text.
+4. Add any images to [`assets/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/assets). Link to the asset directly in text.
 
 ```
 ![alternative text](/assets/image.jpg)
