@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Mission, founding principles and goals
+# Mission, founding principles and current priorities
 
 ## Mission
 
@@ -22,9 +22,15 @@ The founding principles were adopted by the board of directors on 23 August 2019
 
 \* In order to start as an association 4 initial individual founders will play the role of member until there are enough public members for the organization to sustain itself.
 
-## Goals
+## Current priorities
 
-* Enable an **ecosystem of Public Code software products**, developed by and for public administrations to solve real problems for citizens
-* Build a **collaborative community of developers and cities**, which continuously improves and maintains Public Code products
-* Provide a **certification system for software** as meeting the standard set by the Foundation For Public Code
-* Build a **trusted brand and an awareness of the value of Public Code**
+The current priorities of the organization are set
+by the [board of directors](governance-model.md)
+and reviewed every meeting.
+
+On 29 April 2020,
+the priorities were set as:
+
+1. Members: get public organizations to join the association
+1. Codebases: get codebases into stewardship
+1. Funding: secure funding for the next years
