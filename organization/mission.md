@@ -31,6 +31,6 @@ and reviewed every meeting.
 29 April 2020
 the priorities were set as:
 
-* Members: get public organizations to join the association
-* Codebases: get codebases into stewardship
-* Funding: secure funding for the next years
+1. Members: get public organizations to join the association
+1. Codebases: get codebases into stewardship
+1. Funding: secure funding for the next years
