@@ -77,4 +77,4 @@ The [governance game](../../../workshops/governance-game/index.md) is a useful t
 ## Further reading
 
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) - a collection of governance models of open source projects (no public code examples there yet).
-* Some easy tasks related to governance are listed in [Product assets for early incubation](../product/product-assets-for-early-incubation.md).
+* Some easy tasks related to governance are listed in [Product assets for early incubation](../product-marketing/product-assets-for-early-incubation.md).
