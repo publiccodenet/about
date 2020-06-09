@@ -12,7 +12,7 @@ We do this so that:
 * we have personal experience of any tools we may want to recommend to our communities
 * we can optimimize our own working practices
 
-We set up tools we're testing at [toolname].test.publiccode.net.
+We set up tools we're testing at [toolname].test.publiccode.net. Read more about [tool naming conventions](tool-and-email-naming-conventions.md).
 
 Tools we're testing are:
 
