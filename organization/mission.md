@@ -28,7 +28,7 @@ The current priorities of the organization are set
 by the [board of directors](governance-model.md)
 and reviewed every meeting.
 
-29 April 2020
+On 29 April 2020,
 the priorities were set as:
 
 1. Members: get public organizations to join the association
