@@ -69,15 +69,11 @@ excerpt: [unformatted text you want to appear on the index]
 ---
 ```
 
-4. Add any images to [`_assets/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/assets). Link to the asset directly in text.
+4. All blogposts should include at least one relevant image, to make them more engaging. Add your images to [`_assets/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/assets). Link to the asset directly in text. Make sure [the text alternative for your image is useful](https://www.w3.org/WAI/tips/writing/#write-meaningful-text-alternatives-for-images).
 
 ```
 ![alternative text](/assets/image.jpg)
 ```
-
-[Make the text alternative for your image useful](https://www.w3.org/WAI/tips/writing/#write-meaningful-text-alternatives-for-images).
-
-All blogposts should include at least one relevant image, to make them more engaging.
 
 5. Approvals: tag the communications coordinator plus any other colleagues whose review you'd like on the pull request for your blogpost for a final proofread.
 

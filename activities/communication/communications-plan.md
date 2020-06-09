@@ -80,7 +80,7 @@ This includes:
 Messages:
 
 * Find out more about [place or institution’s] interesting public code(ish) approach/project
-* Find out more about the Foundation for Public Code its work (new member signed up, new codebase incubated)
+* Find out more about the Foundation for Public Code and its work (new member signed up, new codebase incubated)
 * Find out more about the Foundation for Public Code its vision
 * International movements/partnerships for being smarter about technology/digital infrastructure (“you want to be part of this club of innovators”)
 * Find out more about the Standard and certification (how we contribute to risk reduction)
@@ -122,10 +122,10 @@ Messages:
 
 Our channels are:
 
-* [Our blog]: long form, platform of record (read more about our blog)
-* [Twitter]: short form, ephemera
-* [Facebook]: medium form, ephemera (mostly avoid, since it’s a closed platform)
-* [LinkedIn]: reshare content created about us and posted by others, or replicate FB (mostly avoid, since it’s a closed platform)
+* [Our blog](https://blog.publiccode.net/): long form, platform of record (read more about our blog)
+* [Twitter](https://twitter.com/publiccodenet/): short form, ephemera
+* Facebook: medium form, ephemera (mostly avoid, since it’s a closed platform)
+* LinkedIn: reshare content created about us and posted by others, or replicate Facebook (mostly avoid, since it’s a closed platform)
 
 Our posting frequency is:
 
