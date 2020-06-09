@@ -4,7 +4,7 @@ type: Index
 
 # Governance game
 
-The governance game is an interactive game on governance of [Public Code](../../../glossary/public-code-definition.md) intended to be used as a way to get a conversation and reflection about governance started. We aim to use it during [early incubation of a codebase](../../codebase-stewardship/product/product-assets-for-early-incubation.md) and in external [workshops](../index.md) to highlight the complexities of governance.
+The governance game is an interactive game on governance of [Public Code](../../../glossary/public-code-definition.md) intended to be used as a way to get a conversation and reflection about governance started. We aim to use it during [early incubation of a codebase](../../codebase-stewardship/product-marketing/product-assets-for-early-incubation.md) and in external [workshops](../index.md) to highlight the complexities of governance.
 
 ## Workshops
 
