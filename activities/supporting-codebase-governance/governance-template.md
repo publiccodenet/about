@@ -1,12 +1,14 @@
 ---
 type: Resource
+redirect_from:
+    - activities/codebase-stewardship/supporting-governance/governance-template
 ---
 
 # Template for a simple governance file
 
 The text below can be used as a template for creating a governance file in a repository for a codebase. For easiest copy-paste it is rendered with code style here.
 
-```
+```markdown
 [Codebase] governance
 
 ## Principles

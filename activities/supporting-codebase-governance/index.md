@@ -1,5 +1,7 @@
 ---
 type: Index
+redirect_from:
+    - activities/codebase-stewardship/supporting-governance
 ---
 
 # Supporting governance
@@ -24,7 +26,7 @@ Below is a visual representation summarizing the information above.
 
 ## Determining a community's governance needs
 
-Several basic questions need to be answered regardless of the [methods](../../workshops/) used to determine these needs:
+Several basic questions need to be answered regardless of the [methods](../workshops/) used to determine these needs:
 
 * How do you want to make decisions, large and small, around the codebase and the community?
   * Can certain issues only be decided by certain community members?
@@ -70,9 +72,9 @@ Some common [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern) that we 
 
 ## Workshop
 
-The [governance game](../../workshops/governance-game/index.md) is a useful tool to employ early in the process. It helps people reflect on what governances means for a codebase, the complexity around it, and suggests things worth considering during set up. It is also useful as a tool for visualizing how a current governance model is set up or could be changed.
+The [governance game](../workshops/governance-game/index.md) is a useful tool to employ early in the process. It helps people reflect on what governances means for a codebase, the complexity around it, and suggests things worth considering during set up. It is also useful as a tool for visualizing how a current governance model is set up or could be changed.
 
 ## Further reading
 
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) - a collection of governance models of open source projects (no public code examples there yet).
-* Some easy tasks related to governance are listed in [Product assets for early incubation](../product-assets-for-early-incubation.md).
+* Some easy tasks related to governance are listed in [Product assets for early incubation](../codebase-stewardship/product-assets-for-early-incubation.md).
