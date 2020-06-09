@@ -4,7 +4,7 @@ type: resource
 
 # Communications plan
 
-The Foundation for Public Code relies on communications to [achieve its mission](../../organization/mission).
+The Foundation for Public Code relies on communications to [achieve its mission](../../organization/mission.md).
 
 ## Principles
 
