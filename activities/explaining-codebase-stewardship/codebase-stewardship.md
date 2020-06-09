@@ -1,5 +1,7 @@
 ---
 type: resource
+redirect_from:
+    - activities/codebase-stewardship/explaining-stewardship/codebase-stewardship
 ---
 
 # Codebase stewardship at the Foundation for Public Code
@@ -12,4 +14,4 @@ type: resource
 
 * The Foundation for Public Code provides codebase stewardship for community, quality, support and product.
 
-More information can be found on our [codebase stewardship activities page](../activities.md), and the [value proposition mapping page](../../value-and-impact/index.md).
+More information can be found on our [codebase stewardship activities page](../codebase-stewardship/activities.md), and the [value proposition mapping page](../value-and-impact/index.md).

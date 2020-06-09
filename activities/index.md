@@ -16,6 +16,7 @@ Activities that support the above as well as make staff operations work:
 * [Community calls](community-calls/index.md)
 * [Documentation](documentation/index.md)
 * [Events](events/index.md)
+* [Explaining codebase stewardship](explaining-codebase-stewardship/index.md)
 * [Member relations](member-relations/index.md)
 * [Membership growth](membership-growth/index.md)
 * [Office management](office-management/index.md)

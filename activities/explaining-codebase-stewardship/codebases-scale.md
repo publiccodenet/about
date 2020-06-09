@@ -1,5 +1,7 @@
 ---
 type: Resource
+redirect_from:
+    - activities/codebase-stewardship/explaining-stewardship/codebase-scale
 ---
 
 # Collaboration on codebases and components at scale

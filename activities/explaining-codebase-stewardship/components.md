@@ -1,5 +1,7 @@
 ---
 type: resource
+redirect_from:
+    - activities/codebase-stewardship/explaining-stewardship/components
 ---
 
 # Software as components

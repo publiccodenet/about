@@ -15,9 +15,9 @@ We can provide codebase stewardship from the beginning of the development or for
 
 ## What codebase stewardship is
 
-* [resources to help explain what codebase stewardship is](explaining-stewardship/index.md)
 * [activities we perform in codebase stewardship](activities.md)
 * [goals of codebase stewardship](goals.md)
+* [resources to help explain what codebase stewardship is](../explaining-codebase-stewardship/index.md)
 
 ## How codebase stewardship works
 
