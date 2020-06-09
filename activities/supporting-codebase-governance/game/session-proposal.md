@@ -1,5 +1,7 @@
 ---
 type: Resource
+redirect_from:
+    - activities/workshops/governance-game/session-proposal
 ---
 
 # Governance game workshop session proposal

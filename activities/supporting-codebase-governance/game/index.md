@@ -1,5 +1,7 @@
 ---
 type: Index
+redirect_from:
+    - activities/workshops/governance-game
 ---
 
 # Governance game

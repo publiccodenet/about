@@ -72,7 +72,7 @@ Some common [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern) that we 
 
 ## Workshop
 
-The [governance game](../workshops/governance-game/index.md) is a useful tool to employ early in the process. It helps people reflect on what governances means for a codebase, the complexity around it, and suggests things worth considering during set up. It is also useful as a tool for visualizing how a current governance model is set up or could be changed.
+The [governance game](game/index.md) and the [governance exercise](exercise/index.md) are useful tools to employ early in the process. It helps people reflect on what governances means for a codebase, the complexity around it, and suggests things worth considering during set up. It is also useful as a tool for visualizing how a current governance model is set up or could be changed.
 
 ## Further reading
 
