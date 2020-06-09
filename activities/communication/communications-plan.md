@@ -80,8 +80,8 @@ This includes:
 Messages:
 
 * Find out more about [place or institution’s] interesting public code(ish) approach/project
-* Find out more about the Foundation’s work (new member signed up, new codebase incubated)
-* Find out more about the Foundation’s vision
+* Find out more about the Foundation for Public Code its work (new member signed up, new codebase incubated)
+* Find out more about the Foundation for Public Code its vision
 * International movements/partnerships for being smarter about technology/digital infrastructure (“you want to be part of this club of innovators”)
 * Find out more about the Standard and certification (how we contribute to risk reduction)
 * Find out more about codebase reuse (multiplying tech investment or saving money)
