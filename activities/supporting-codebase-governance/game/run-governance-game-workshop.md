@@ -1,6 +1,6 @@
 ---
 type: Guide
-explains: Hot to run a workshop with the governance game
+explains: How to run a workshop with the governance game
 redirect_from:
     - activities/workshops/run-governance-game-workshop
 ---

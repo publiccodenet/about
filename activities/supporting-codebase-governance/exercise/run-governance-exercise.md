@@ -1,6 +1,6 @@
 ---
 type: Guide
-explains: Hot to run a workshop with the governance exercise
+explains: How to run a workshop with the governance exercise
 ---
 
 # Governance exercise
