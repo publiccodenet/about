@@ -20,7 +20,7 @@ We also use the current team's network to spread awareness of the job opening (v
 * [t9t.io open source jobs board](https://oo.t9t.io/jobs)
 * [fossjobs.net open source jobs board](https://www.fossjobs.net/)
 * [StackOverflow Jobs](https://stackoverflow.com/jobs/companies/foundation-for-public-code)
-* [LinkedIn](https://www.linkedin.com/company/publiccodenet/jobs/?viewAsMember=true)
+* LinkedIn
 
 ## Processing reactions of people expressing interest
 
