@@ -4,6 +4,8 @@ type: Resource
 
 # Standard for Public Code community calls
 
+We run regular [community calls](../community-calls/index.md) for the Standard for Public Code.
+
 ## Preparing
 
 * You can follow the guide for [preparing the Standard for Public Code community call](preparing-community-call.md)

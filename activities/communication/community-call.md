@@ -4,6 +4,8 @@ type: Resource
 
 # Foundation for Public Code community call
 
+We run regular [community calls](../community-calls/index.md) for the Foundation for Public Code.
+
 ## Preparing
 
 You can look at the preparations for the [Standard for Public Code community call](../standard-maintainance/preparing-community-call.md) and base your preparations off that.
