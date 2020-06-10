@@ -1,7 +1,7 @@
 ---
 type: Resource
 redirect_from:
-    - activities/member-relations/identify-potential-codebase.md
+    - activities/member-relations/identify-potential-codebase
 ---
 
 # Identifying potential codebases for stewardship by the Foundation for Public Code
