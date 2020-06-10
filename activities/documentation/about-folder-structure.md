@@ -13,7 +13,7 @@ This helps us share more activities, create communities of practice and remove d
 
 Folders:
 
-* `activities`: All of our activities and processes such as codebase stewardship and budgeting.
+* `activities`: All of our activities and processes. These are interlinked and are often built on each other.
   * Inside of activities there is one folder per activity with its own index, resources and guides. These are shallow and don't nest folders too deep.
 * `contributor-guides`: Explains how each user type can contribute. For example designers, developers or policy people.
 * `glossary`: The controlled terms we have a shared definition for.
