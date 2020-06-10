@@ -11,7 +11,7 @@ We provide codebase stewardship at the codebase level. Stewardship activities ta
 * [quality](#quality)
 * [support](#support)
 
-This page serves to explain what kind of activites are done per domain and provide wayfinding to them.
+This page serves to explain what kind of activites are done per domain.
 
 ## Stewardship at the codebase level
 
