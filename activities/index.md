@@ -11,7 +11,7 @@ Higher level activities of the Foundation for Public Code that directly serve to
 Activities that support the above as well as make staff operations work:
 
 * [Codebase auditing](codebase-auditing/index.md)
-* [Codebase stewardship assesment](codebase-stewardship-assesment/index.md)
+* [Codebase stewardship assessment](codebase-stewardship-assessment/index.md)
 * [Communication](communication/index.md)
 * [Community calls](community-calls/index.md)
 * [Documentation](documentation/index.md)

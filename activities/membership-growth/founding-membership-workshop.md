@@ -30,6 +30,6 @@ Break (10 min)
 
 Deep dive into founding member's codebases (45 min)
 
-* Based on proposed [codebase criteria](../codebase-stewardship-assesment/criteria-for-codebase-stewardship.md)
+* Based on proposed [codebase criteria](../codebase-stewardship-assessment/criteria-for-codebase-stewardship.md)
 
 Recap and next steps (10 min)

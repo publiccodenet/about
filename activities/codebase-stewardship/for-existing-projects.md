@@ -10,7 +10,7 @@ Codebase stewardship can be provided to an existing codebase. In this case, ther
 
 As set out in the [codebase stewardship lifecycle](lifecycle.md), a codebase must first be proposed to the Foundation for Public Code.
 
-Existing codebases are then [assessed against the stewardship feasibility criteria](../codebase-stewardship-assesment/criteria-for-codebase-stewardship.md) and [Standard for Public Code](https://standard.publiccode.net/).
+Existing codebases are then [assessed against the stewardship feasibility criteria](../codebase-stewardship-assessment/criteria-for-codebase-stewardship.md) and [Standard for Public Code](https://standard.publiccode.net/).
 
 ## What developing organizations need to do
 

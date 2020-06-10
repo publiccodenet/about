@@ -2,9 +2,9 @@
 type: resource
 ---
 
-# Codebase stewarship assesment
+# Codebase stewarship assessment
 
-In assesment we evaluate whether a codebase can be [incubated in codebase stewardship](../codebase-stewardship/lifecycle.md).
+In assessment we evaluate whether a codebase can be [incubated in codebase stewardship](../codebase-stewardship/lifecycle.md).
 
 Guides:
 
