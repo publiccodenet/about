@@ -1,11 +1,11 @@
 ---
 type: Guide
-explains: How to run a community call
+explains: Step-by-step for running a smooth community call
 redirect_from:
     - activities/codebase-stewardship/community-calls/running-community-call
 ---
 
-# Running a community call
+# Running a Standard for Public Code community call
 
 ## 1. Opening the call
 
@@ -62,7 +62,7 @@ The chair then either:
 * hands over to the (first) substantive expert
 * facilitates discussion of the substantive agenda themselves
 
-The notetaker takes notes in as much details as possible. More is better than less, and will be cleaned up during the [post-process](post-process-community-call.md).
+The notetaker takes notes in as much details as possible. More is better than less, and will be cleaned up during the [post-process](../community-calls/post-process-community-call.md).
 
 ## 3. Closing the call
 

@@ -12,11 +12,20 @@ We also organize a video call for our own codebases the first Thursday of the mo
 
 The community call notes are published on our [blog](https://blog.publiccode.net) after the call. Call participants may review the notes before they're published.
 
-## Guides to run a Standard for Public Code community call
+## Guides for preparing, running and post-processing community calls
 
-* [Preparing a community call](preparing-community-call.md)
-* [Running a community call](running-community-call.md)
 * [Post-processing a community call](post-process-community-call.md)
+
+## Standard for Public Code community calls
+
+* [Preparing a community call](../standard-maintainance/preparing-community-call.md)
+* [Running a community call](../standard-maintainance/running-community-call.md)
+
+## Foundation for Public Code community calls
+
+* [Foundation for Public Code community calls](../communication/community-call.md)
+* [Running a Foundation for Public code community call](../communication/running-community-call.md)
+* [Invite template](../communication/community-call-invite-template.md)
 
 ## How to join our community calls
 
@@ -24,4 +33,4 @@ The community call notes are published on our [blog](https://blog.publiccode.net
 
 ## Further reading
 
-* [Running a Foundation for Public code community call](../communication/run-a-community-call.md)
+* [conference call etiquette](../communication/conference-call-etiquette.md)
