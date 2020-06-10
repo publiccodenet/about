@@ -23,8 +23,8 @@ All branches are tested with every change for broken links, so if some site we l
 
 | Branch | Build Status | |
 |----|----|----|
-| `develop` | [![Build Status](https://travis-ci.org/publiccodenet/about.svg?branch=develop)](https://travis-ci.org/publiccodenet/about/branches) | Version from which we work |
-| `master` | [![Build Status](https://travis-ci.org/publiccodenet/about.svg?branch=master)](https://travis-ci.org/publiccodenet/about/branches) | Deployed to <https://about.publiccode.net>, once a week |
+| `develop` | [![Build Status](https://travis-ci.com/publiccodenet/about.svg?branch=develop)](https://travis-ci.com/publiccodenet/about/branches) | Version from which we work |
+| `master` | [![Build Status](https://travis-ci.com/publiccodenet/about.svg?branch=master)](https://travis-ci.com/publiccodenet/about/branches) | Deployed to <https://about.publiccode.net>, once a week |
 
 ## License
 

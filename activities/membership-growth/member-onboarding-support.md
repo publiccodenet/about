@@ -1,7 +1,7 @@
 ---
 type: resource
 redirect_from:
-    - activities/member-relations/member-onboarding-support.md
+    - activities/member-relations/member-onboarding-support
 ---
 
 # Membership onboarding support
@@ -17,6 +17,7 @@ This onboarding includes us providing members with trainings, workshops and a he
 * what the [Standard for Public Code](https://standard.publiccode.net) can mean for members, both in internal development and procurement
 * general awareness on what open source is, what codebase stewardship is, and how this can benefit members
 * value proposition mapping and business case development for members
+* [connecting to the community](../communication/community-discussions.md) of the Foundation of Public Code
 
 And supporting members with their codebases on:
 
