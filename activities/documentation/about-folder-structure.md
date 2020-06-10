@@ -8,7 +8,8 @@ About has a folder structure that serves as a basic skeleton for our information
 
 As any organization is formed by the information structure it is up to all of us to make sure we make the documentation we write for one specific use case easy to be incorporated in other cases.
 
-In order to prevent silos we don't split our activities with the roles that most commonly do them. This helps us share more activities, create communities of practice and remove duplication wherever possible.
+In order to prevent silos we don't split our activities with the roles that most commonly do them or where the responsibility lies.
+This helps us share more activities, create communities of practice and remove duplication wherever possible.
 
 Folders:
 
