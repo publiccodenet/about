@@ -17,6 +17,14 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 The repository builds to a static site deployed at [about.publiccode.net](https://about.publiccode.net/). It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
+Branching happens in line with the [GitFlow branching model](https://nvie.com/posts/a-successful-git-branching-model/).
+For a release:
+
+1. first make a release branch from `develop`.
+2. do a final check for content to published, is it [done](organization/definition-of-done.md).
+3. merging the release branch to the deployed branch.
+4. merge the deployed branch back into the development branch.
+
 ### Branches and Travis CI build status
 
 All branches are tested with every change for broken links, so if some site we link to on the internet goes down the 'Build Status' down here will go red.
