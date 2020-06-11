@@ -145,7 +145,7 @@ Requirement | meets | links and notes
 -----|-----|-----
 All functionality in the source code MUST have automated tests. |  |
 Contributions MUST pass all automated tests before they are admitted into the codebase. |  |
-Contributions MUST be small. |  | 
+Contributions MUST be small. |  |
 The codebase MUST have active contributors. |  |
 Source code test and documentation coverage SHOULD be monitored. |  |
 Policy and documentation MAY have testing for consistency with the source and vice versa. |  |
