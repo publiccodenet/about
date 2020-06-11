@@ -4,7 +4,7 @@ type: index
 
 # Maintainance of the Standard for Public Code
 
-The Foundation for Public Code and it's codebase stewards maintain the [Standard for Public Code](https://standard.publiccode.net).
+The Foundation for Public Code and its codebase stewards maintain the [Standard for Public Code](https://standard.publiccode.net).
 
 As a part of the we:
 
