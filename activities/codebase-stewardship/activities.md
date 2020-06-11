@@ -4,14 +4,9 @@ type: Resource
 
 # Activities performed in codebase stewardship
 
-We provide codebase stewardship at the codebase level. Stewardship activities take place in 4 domains:
-
-* [community](#community)
-* [product](#product)
-* [quality](#quality)
-* [support](#support)
-
-This page serves to explain what kind of activites are done per domain.
+We provide codebase stewardship at the codebase level.
+To explain codebase stewardship we split its activities in the categories
+[community](#community), [quality](#quality), [support](#support), and [product](#product).
 
 ## Stewardship at the codebase level
 
