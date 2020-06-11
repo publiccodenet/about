@@ -17,6 +17,10 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 The repository builds to a static site deployed at [about.publiccode.net](https://about.publiccode.net/). It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
+Releasing and deploying [is done with a release branch](activities/documentation/merge-develop-into-master.md).
+
+We aim to deploy every Friday.
+
 ### Branches and Travis CI build status
 
 All branches are tested with every change for broken links, so if some site we link to on the internet goes down the 'Build Status' down here will go red.
