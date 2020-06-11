@@ -12,7 +12,7 @@ redirect_from:
 
 The Foundation for Public Code was set up to help public organizations develop and maintain software together. This will result in higher quality services for the public that are more cost effective, with less risk and more local control.
 
-This document provides context and lays out some of the activties members can expect to conduct with the Foundation for Public Code.
+This document provides context and lays out some of the activities members can expect to conduct with the Foundation for Public Code.
 
 ## The Foundation for Public Code
 
