@@ -17,7 +17,7 @@ We have different decision making criteria for these 2 types of event attendance
 
 When considering whether to attend an event, you must answer:
 
-How does sending a delegation to an event further our [mission](../../organization/mission.md)?
+How does sending a delegation to an event further our [mission and support the current priorities](../../organization/mission.md)?
 
 It might help to explain:
 
