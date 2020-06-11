@@ -14,8 +14,10 @@ This helps us share more activities, create communities of practice and remove d
 Folders:
 
 * `activities`: All of our activities and processes. These are interlinked and are often built on each other.
-  * Inside of activities there is one folder per activity with its own index, resources and guides. These are shallow and don't nest folders too deep.
+  * Inside of activities there is one folder per activity with its own index, resources and guides. These serve as the documentation shared by that community of practice.
 * `contributor-guides`: Explains how each user type can contribute. For example designers, developers or policy people.
 * `glossary`: The controlled terms we have a shared definition for.
 * `organization`: Core information on the organization such as the mission, statues and business information.
 * `roles`: We no longer use this. This used to house the roles we have in the organization, also known as job descriptions.
+
+When nesting becomes deep, consider breaking content up and using links to create connections.
