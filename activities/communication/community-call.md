@@ -16,4 +16,5 @@ You can follow the steps in the guide for [running community call](running-commu
 
 ## Following up
 
-* [Post process the community](../community-calls/post-process-community-call.md) call including updating issues and pull requests on the [About repository](https://github.com/publiccodenet/about)
+* [Post process the community call](../community-calls/post-process-community-call.md),
+including updating issues and pull requests on the [About repository](https://github.com/publiccodenet/about).
