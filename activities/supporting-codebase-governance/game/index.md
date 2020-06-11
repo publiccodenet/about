@@ -15,4 +15,4 @@ The governance game is an interactive game on governance of [Public Code](../../
 
 ## Repository
 
-The repository for the game can be found on [GitHub](https://github.com/publiccodenet/governance-game). There you can download cards to print them yourself or suggest improvements.
+The [repository for the game](https://github.com/publiccodenet/governance-game) can be found on GitHub. There you can download cards to print them yourself or suggest improvements.
