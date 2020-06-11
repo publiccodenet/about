@@ -1,6 +1,4 @@
 language: ruby
-rvm:
-- 2.4.0
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
@@ -15,8 +13,6 @@ addons:
   apt:
     packages:
       - libcurl4-openssl-dev
-
-sudo: false # route your build to the container-based infrastructure for a faster build
 
 # Cache the budler results so repeat builds get some speed
 cache: bundler
