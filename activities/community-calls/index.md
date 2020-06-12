@@ -24,8 +24,8 @@ The community call notes are published on our [blog](https://blog.publiccode.net
 
 ## Standard for Public Code community calls
 
-* [Preparing a community call](../standard-maintainance/preparing-community-call.md)
-* [Running a community call](../standard-maintainance/running-community-call.md)
+* [Preparing a community call](../standard-maintenance/preparing-community-call.md)
+* [Running a community call](../standard-maintenance/running-community-call.md)
 
 ## Foundation for Public Code community calls
 
