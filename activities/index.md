@@ -10,6 +10,7 @@ Higher level activities of the Foundation for Public Code that directly serve to
 
 Activities that support the above as well as make staff operations work:
 
+* [Board of directors support](board-support/index.md)
 * [Codebase auditing](codebase-auditing/index.md)
 * [Codebase stewardship assessment](codebase-stewardship-assessment/index.md)
 * [Communication](communication/index.md)
