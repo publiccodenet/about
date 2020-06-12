@@ -11,6 +11,7 @@ Activities of the Foundation for Public Code that directly serve to further the 
 
 Activities that support the above as well as make staff operations work:
 
+* [Board of directors support](board-support/index.md)
 * [Communication](communication/index.md)
 * [Documentation](documentation/index.md)
 * [Events](events/index.md)
