@@ -8,10 +8,10 @@ include:
   - LICENSE.md
 
 plugins:
+  - jekyll-redirect-from
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-redirect-from
 remote_theme: publiccodenet/jekyll-theme
 
 # Exclude the `vendor` folder created by Travis
