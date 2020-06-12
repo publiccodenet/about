@@ -21,6 +21,11 @@ Releasing and deploying [is done with a release branch](activities/documentation
 
 We aim to deploy every Friday.
 
+You can use the scripts:
+
+* `./script/serve.sh` to serve the site locally with livereload
+* `./script/test.sh` to run the tests including markdownlint and htmlproofer
+
 ### Branches and Travis CI build status
 
 All branches are tested with every change for broken links, so if some site we link to on the internet goes down the 'Build Status' down here will go red.
