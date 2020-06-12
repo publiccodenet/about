@@ -15,6 +15,9 @@ Folders:
 
 * `activities`: All of our activities and processes. These are interlinked and are often built on each other.
   * Inside of activities there is one folder per activity with its own index, resources and guides. These serve as the documentation shared by that community of practice.
+    For example, the 'supporting codebase governance' activity may include workshops about that,
+    while the 'workshops' activity has information about workshops in general,
+    as well as links to our workshops (located in the folder for the activity they support).
 * `contributor-guides`: Explains how each user type can contribute. For example designers, developers or policy people.
 * `glossary`: The controlled terms we have a shared definition for.
 * `organization`: Core information on the organization such as the mission, statues and business information.
