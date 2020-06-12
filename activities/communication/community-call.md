@@ -12,7 +12,7 @@ You can look at the preparations for the [Standard for Public Code community cal
 
 ## Running
 
-You can follow the steps in the guide for [running community call](running-community-call.md).
+You can follow the steps in the guide for [running a community call](running-community-call.md).
 
 ## Following up
 
