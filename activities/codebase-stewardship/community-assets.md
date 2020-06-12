@@ -19,7 +19,7 @@ We assume each codebase will have different individual needs.
 
 We assume the community asset order will be different for greenfield development.
 
-## Community assets
+## List of assets
 
 |Priority ID|Short form |Who's responsible?|Point person|
 |---|---|---|---|
