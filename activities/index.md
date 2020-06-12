@@ -30,3 +30,8 @@ Activities that support the above as well as make staff operations work:
 * [Trainings](trainings/index.md)
 * [Value and impact](value-and-impact/index.md)
 * [Workshops](workshops/index.md)
+
+## What we see as an activity
+
+In order to prevent silos we don't split our activities with the roles that most commonly do them or where the responsibility lies.
+This helps us share more activities, create communities of practice around them and remove duplication wherever possible.
