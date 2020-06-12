@@ -4,17 +4,8 @@ type: Resource
 
 # Foundation for Public Code community call
 
-We run regular [community calls](../community-calls/index.md) for the Foundation for Public Code.
+We run regular [community calls](../community-calls/index.md) for the Foundation for Public Code. These invite our community to join us in discussing big questions, approaches we're considering for the future or things we've learned.
 
-## Preparing
+[See the community calls guidance](../community-calls/index.md) for our current community call schedule, how to join and guidance on how to run a community call.
 
-You can look at the preparations for the [Standard for Public Code community call](../standard-maintainance/preparing-community-call.md) and base your preparations off that.
-
-## Running
-
-You can follow the steps in the guide for [running community call](running-community-call.md).
-
-## Following up
-
-* [Post process the community call](../community-calls/post-process-community-call.md),
-  including updating issues and pull requests on the [About repository](https://github.com/publiccodenet/about).
+[See notes from previous community calls](https://blog.publiccode.net/) on our blog.
