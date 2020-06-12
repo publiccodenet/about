@@ -16,6 +16,6 @@ You can access the [expression of interest template here](https://docs.google.co
 
 ## Assumptions
 
-* This lightweight and low commitment Expression of Interest can be signed while we work with potential Founding Members on the [founding membership proposal](founding-membership-proposal.md)
+* This lightweight and low commitment Expression of Interest can be signed while we work with potential Founding Members on the [membership proposal](membership-proposal-template.md)
 * This resource is a link to a Google doc for now, but might change format
 * Any proposed changes to the content of this template must first be proposed on, and merged with, [the `master` branch of About](https://github.com/publiccodenet/about/tree/master) before being implemented here
