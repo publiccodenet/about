@@ -15,7 +15,7 @@ Here are some important things to figure out in the first couple of days:
 * Calendar - add your holidays to the team calendar
 * Manual of me - fill out your own and read the existing ones
 * Oodo - We use Odoo for our internal chat tool as well as project management and customer relations management
-* Github - push a branch, make a pull request (maybe to improve this page!). You can request an invite to have our Github account added to the organizational account.
+* Github - push a branch, make a pull request (maybe to improve this page!). If you are new to this, start with a '[good first issue](https://github.com/publiccodenet/about/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)'. You can request an invitation to have your Github account added to the [Foundation for Public Code](https://github.com/publiccodenet/) organizational account.
 * Splitwise - if you want to join the shared lunch groceries
 * Attend morning standup ritual that is in the team calendar
 * Attend sprint retrospective & planning - review the kanbans beforehand
