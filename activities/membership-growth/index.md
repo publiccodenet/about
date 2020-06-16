@@ -27,6 +27,8 @@ Members are responsible for the association's [governance](../../organization/go
 
 ## Contact
 
-Laura Scheske, membership developer  
-laura@publiccode.net  
+Laura Scheske, membership developer
+
+laura@publiccode.net
+
 +31 20 2 444 563
