@@ -6,8 +6,8 @@ type: Index
 
 Our model is built on raising philanthropic funds. Gifts are tax-deductible. 
 
-* Information on how to gift in the Netherlands through the ANBI status
-* Information on how to gift through the King Baudouin Foundation US Fund
+* Information on how to donate in the Netherlands to a Public Benefit Organization (ANBI)
+* Information on how to donate through the King Baudouin Foundation US Fund
 
 
 
