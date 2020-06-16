@@ -15,7 +15,7 @@ The forum is a space for our community to talk publicly about topics that do not
 The forum doesn't replace:
 
 - making issues on Github
-- our staff chat
+- [our staff chat](using-chat.md)
 - internal emails
 
 ## Further reading
