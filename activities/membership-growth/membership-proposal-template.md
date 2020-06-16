@@ -112,6 +112,8 @@ Membership benefits and successful codebase stewardship are directly linked to c
 
 ## Contact
 
-Laura Scheske, membership developer  
-laura@publiccode.net  
+Laura Scheske, membership developer
+
+laura@publiccode.net
+
 +31 20 2 444 563
