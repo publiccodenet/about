@@ -10,7 +10,7 @@ Codebase stewardship can be provided to an existing codebase. In this case, ther
 
 As set out in the [codebase stewardship lifecycle](lifecycle.md), a codebase must first be proposed to the Foundation for Public Code.
 
-Existing codebases are then [assessed against the stewardship feasibility criteria](criteria-for-codebase-stewardship.md) and [Standard for Public Code](https://standard.publiccode.net/).
+Existing codebases are then [assessed against the stewardship feasibility criteria](../codebase-stewardship-assessment/criteria-for-codebase-stewardship.md) and [Standard for Public Code](https://standard.publiccode.net/).
 
 ## What developing organizations need to do
 
@@ -30,8 +30,8 @@ We also need the developing organization to give us:
 We will:
 
 * conduct [audits](../codebase-auditing/index.md) to help comply with the standard on every pull request
-* provide training and workshops to develop better reusable codebases as well as working with the community
-* run community events and calls to integrate a community
+* provide [training](../trainings/index.md) and [workshops](../workshops/index.md) to develop better reusable codebases as well as working with the community
+* run community events and [community calls](../community-calls/index.md) to integrate a community
 * connect relevant members of this or other communities to increase uptake and contributions
 * develop storytelling and marketing of the project based on best practices and research
 * provide prospective reusers and contributors with a helpdesk to answer their questions on issues ranging from installations to procurement

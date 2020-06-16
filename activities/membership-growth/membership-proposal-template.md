@@ -4,7 +4,7 @@ redirect_from:
     - activities/membership-growth/member-onboarding-support
 ---
 
-# Membership Proposal: [Insert name of organization] and the Foundation for Public Code
+# [Template] Membership Proposal: [Insert name of organization] and the Foundation for Public Code
 
 ## Introduction
 
@@ -111,6 +111,4 @@ Membership benefits and successful codebase stewardship are directly linked to c
 
 ## Contact
 
-Laura Scheske, membership developer
-laura@publiccode.net
-+31 20 2 444 563
+Laura Scheske, membership developer: <laura@publiccode.net>, +31 20 2 444 563

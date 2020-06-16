@@ -4,12 +4,9 @@ type: Resource
 
 # Activities performed in codebase stewardship
 
-We provide codebase stewardship at the codebase level. Stewardship activities take place in 4 domains:
-
-* community
-* product marketing
-* quality
-* support
+We provide codebase stewardship at the codebase level.
+To explain codebase stewardship we split its activities in the categories
+[community](#community), [quality](#quality), [support](#support), and [product](#product).
 
 ## Stewardship at the codebase level
 
@@ -25,12 +22,12 @@ The Foundation for Public Code helps facilitate these interactions around the co
 
 Community stewardship includes:
 
-* [supporting, consulting on and executing governance](/supporting-governance/index.md)
-* supporting committees such as technical steering committees
+* [supporting, consulting on and executing governance](../supporting-codebase-governance/index.md)
+* [supporting committees such as technical steering committees](../supporting-codebase-governance/index.md)
 * [organizing events](../events/index.md)
 * processing feedback and contributions
-* organizing [community calls](/community-calls/index.md)
-* organizing [workshops](../workshops/index.md)
+* [organizing community calls](../community-calls/index.md)
+* [organizing workshops](../workshops/index.md)
 
 ## Quality
 
