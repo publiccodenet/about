@@ -27,5 +27,5 @@ An ordinairy donation is a donation you only make once, or a donation that you m
 * You get nothing in exchange for your donation. 
 * You can prove that you have made the gift. This can be seen, for example, from the withdrawals from your account.
 
-[Information on tax-deductability](https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken) for donations from the Dutch tax office (in Dutch).
+[Read more about tax-deductability](https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken) for donations from the Dutch tax office (in Dutch).
 
