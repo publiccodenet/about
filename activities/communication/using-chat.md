@@ -43,7 +43,7 @@ Take these steps to join the staff team.
 You may also want to add
 
  ```/github settings notifications off```
- 
+
  and
 
 ```/github settings reminders off```
@@ -52,7 +52,7 @@ if you don't want Mattermost to send you emails about Github issues or pull requ
 
 5. Say hi 👋👋.
 
-### GDPR
+### Sensitive information
 
 It's easy to delete information from chat.publiccode.net, but it's even better to not have to. As a reminder, this personal information is [protected by GDPR](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens/how-my-personal-data-protected/how-data-my-religious-beliefs-sexual-orientation-health-political-views-protected_en) and shouldn't be shared on chat.publiccode.net:
 
