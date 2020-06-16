@@ -12,7 +12,7 @@ You may deduct a donation to an ANBI (public benefit organization) in your incom
 
 ### Periodic donation
 
-Your donation is a periodic donation if it meets the following 3 conditions:
+Your donation is a periodic donation if it meets one of the following 3 conditions:
 
 1. You give the same amount annually to the same institution or association. You may decide for yourself whether you pay your annual donation in one go, or in instances.
 2. You pay the amount 5 years in a row. Longer is also allowed.
