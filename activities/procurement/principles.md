@@ -15,4 +15,4 @@ This means the services and products we use need to be:
 
 The principles of our procurement build on and extend our [cultural values](../../organization/cultural-values.md) and [communication principles](../communication/communication-principles.md).
 
-Read more on our [procurement process.](process.md)
+Read more on [our procurement process](process.md).
