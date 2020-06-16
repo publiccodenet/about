@@ -7,6 +7,7 @@ type: Index
 These are all the activities, documents and templates for Communication.
 
 * [Communication principles](communication-principles.md)
+* [using chat.publiccode.net](using-chat.md)
 * [Community discussions](community-discussions.md)
 * [Instructions on how to run a community call](running-community-call.md)
 * [Phone numbers](phone-numbers.md)
