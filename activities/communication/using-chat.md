@@ -31,25 +31,13 @@ When creating a new channel for an [activity documented on About](https://about.
 Take these steps to join the staff team.
 
 1. The operations coordinator will send you an invitation.
-
-2. Set up your account. Please use the same name from as your email address as your username so it’s easy to see who’s who. Also, please upload an avatar (👹) and fill in your full name.
-
+2. Set up your account.
+  Please use the same name from as your email address as your username so it’s easy to see who’s who.
+  Also, please upload an avatar (👹) and fill in your full name.
 3. Join relevant channels!
-
-4. Add integrations. We encourage you to
-
-```/github connect```
-
-You may also want to add
-
- ```/github settings notifications off```
-
- and
-
-```/github settings reminders off```
-
-if you don't want Mattermost to send you emails about Github issues or pull requests you're subscribed to.
-
+4. Add integrations.
+  We encourage you to `/github connect`.
+  You may also want to add `/github settings notifications off` and `/github settings reminders off` if you don't want Mattermost to send you emails about Github issues or pull requests you're subscribed to.
 5. Say hi 👋👋.
 
 ### Sensitive information
