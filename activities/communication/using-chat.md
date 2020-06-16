@@ -16,7 +16,7 @@ Discussions on chat.publiccode.net are:
 * optional
 * secret
 
-If something must be known by all staff, please send an email.
+Send an email for all non-optional interactions.
 
 ### Channels
 
