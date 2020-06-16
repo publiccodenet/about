@@ -26,6 +26,7 @@ Members are responsible for the association's [governance](../../organization/go
 * [Template for a workshop with potential members](founding-membership-workshop.md)
 
 ## Contact
+
 Laura Scheske, membership developer  
 laura@publiccode.net  
 +31 20 2 444 563
