@@ -14,7 +14,7 @@ Your donation is a periodic donation if it meets the following 3 conditions:
 2. You pay the amount 5 years in a row. Longer is also allowed.
 3. You have determined when your annual donation stops. For example, after 5 years, or when you pass away.
 
-## Ordinairy donation:
+## Ordinairy donation
 
 An ordinary donation is a donation you only make once, or a donation that you make annually, but have not documented in an agreement. You may deduct your ordinary donation if it meets the following conditions:
 
