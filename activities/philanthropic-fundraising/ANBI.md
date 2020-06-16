@@ -6,13 +6,13 @@ type: Guide
 
 You may deduct a donation to an ANBI (general benefit charity) in your income tax return. The conditions are different for a periodic gift and an ordinairy gift.
 
-Your gift is a periodic gift if you meet these 3 conditions:
+## Your gift is a periodic gift if you meet these 3 conditions:
 
 1. You give the same amount annually to the same institution or association. You may decide for yourself whether you pay your annual donation in one go or several times
 2. You pay the amount 5 years in a row. Longer is also allowed.
 3. You have determined when your annual donation stops. For example, after 5 years or when you die.
 
-Your gift is an ordinairy gift:
+## Your gift is an ordinairy gift:
 
 An ordinary gift is a gift you only make once. Or a gift that you do annually, but have not laid down in an agreement.
 You may deduct your ordinary gift if you meet the following conditions:
