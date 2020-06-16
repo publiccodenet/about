@@ -13,4 +13,4 @@ Because KBFUS is a public charity, within the meaning of Sections 501(c)(3) and 
 Internal Revenue Code, donors may be eligible for a U.S. income tax deduction for their contribution to
 the Advised Gift Fund, to the extent permitted by U.S. tax law.
 
-More information about the [King Baudouin Fund](https://kbfus.org/).
+Read more about the [King Baudouin Fund](https://kbfus.org/).
