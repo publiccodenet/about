@@ -16,7 +16,7 @@ Members are responsible for the association's [governance](../../organization/go
 
 ## How to become a member
 
-1. Sign the [expression of interest](expression-of-interest.md) to allow both parties to work together in the open.
+1. Get in touch with us to learn more about the benefits of membership.
 2. Review the [membership proposal](membership-proposal-template.md) and discuss with Foundation for Public Code staff members.
 3. Agree on your member dues and the [articles of association](../../organization/articles-of-association.md), and sign the [membership contract](membership-contract.md).
 
@@ -24,3 +24,8 @@ Members are responsible for the association's [governance](../../organization/go
 
 * [Member relations](../member-relations/index.md)
 * [Template for a workshop with potential members](founding-membership-workshop.md)
+
+## Contact
+Laura Scheske, membership developer
+laura@publiccode.net
++31 20 2 444 563
