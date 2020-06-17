@@ -1,6 +1,6 @@
 ---
 type: guide
-explains: What our staff chat tool is, how to get started and it's do's and don'ts
+explains: What our staff chat tool is, how to get started and its do's and don'ts
 ---
 
 # Using [chat.publiccode.net](https://chat.publiccode.net/) for staff
