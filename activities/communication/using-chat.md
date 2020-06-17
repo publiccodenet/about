@@ -1,8 +1,9 @@
 ---
 type: guide
+explains: What our staff chat tool is, how to get started and it's do's and don'ts
 ---
 
-# How to use [chat.publiccode.net](https://chat.publiccode.net/)
+# Using [chat.publiccode.net](https://chat.publiccode.net/) for staff
 
 We use Mattermost, hosted at chat.publiccode.net for informal chat purposes.
 
