@@ -5,7 +5,7 @@ explains: What our staff chat tool is, how to get started and its do's and don't
 
 # Using [chat.publiccode.net](https://chat.publiccode.net/) for staff
 
-We use Mattermost, hosted at chat.publiccode.net for informal chat purposes.
+We use Mattermost, hosted at chat.publiccode.net, for informal chat purposes.
 
 Mattermost lets us create multiple teams with different members. We only have 1 team right now: our staff team.
 
