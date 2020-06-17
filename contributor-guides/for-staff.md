@@ -11,7 +11,7 @@ Here are some important things to figure out in the first couple of days:
 
 * [Using space guide](../activities/office-management/using-space.md) - how we use the spaces in the office
 * Email - you should have an account, make sure you can send and receive
-* [Team Public Code chat](../activities/communication/using-chat.md) - say hello, we're a welcoming bunch
+* [Staff chat](../activities/communication/using-chat.md) - say hello, we're a welcoming bunch
 * Calendar - add your holidays to the team calendar
 * Manual of me - fill out your own and read the existing ones
 * Oodo - We use Odoo for our internal chat tool as well as project management and customer relations management
