@@ -19,6 +19,7 @@ Here are some important things to figure out in the first couple of days:
 * Attend morning standup ritual that is in the team calendar
 * Attend sprint retrospective & planning - review the kanbans beforehand
 * Tentoo NMBRS ESS (employee self service) mobile app - to [request leave](../activities/staff-management/leave.md), [file expenses](../activities/staff-management/expense.md) and see your payslips
+* if you already have a Gitlab account, [join the Foundation for Public Code group](https://gitlab.com/publiccodenet) - we only use this for our codebase stewardship work, so it may not be relevant to your role
 
 Any of your new coworkers will be glad to help! <3
 
