@@ -22,12 +22,19 @@ They will change when relevant information is absorbed by the team.
 *Not all sections need to be filled in, but the title and why are recommended.*
 
 ### Technical thing 1
+
 #### Why 1
+
 #### How 1
+
 #### What 1
+
 ### Technical thing 2
+
 #### Why 2
+
 #### How 2
+
 #### What 2
 
 ## Themes that will likely be worked on next
@@ -36,11 +43,14 @@ These are the plans that currently feel like the best options for what the team 
 Improvements listed below might come out in a month, a year, or (unfortunately) never — it all depends what the team learns along the way.
 
 ### Technical thing 3
+
 #### Why 3
+
 #### How 3
+
 #### What 3
 
-## How can I affect these plans?
+## How can I affect these plans
 
 Talk to us! These plans are formed based on an overall understanding of user needs and the team vision.
 Feedback can alter either of these, which will then lead to changes in plans.
