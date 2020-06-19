@@ -7,8 +7,9 @@ type: Index
 These are all the activities, documents and templates for Communication.
 
 * [Communication principles](communication-principles.md)
+* [Using chat.publiccode.net](using-chat.md)
 * [Community discussions](community-discussions.md)
-* [Instructions on how to run a community call](run-a-community-call.md)
+* [Instructions on how to run a community call](running-community-call.md)
 * [Phone numbers](phone-numbers.md)
 
 Community calls are a way to get direct input from the community on topics that in any way are of concern to them. We do them on a bi-weekly schedule for regularity and they are open for anyone to join.
