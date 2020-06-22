@@ -19,16 +19,7 @@ They will change when relevant information is absorbed by the team.
 
 ## What is currently being worked on
 
-*Not all sections need to be filled in, but the title and why are recommended. The list can have any number of items.*
-You can add new items by adding a heading for the title, why, how, and what.
-
-### [Technical thing name or title X]
-
-#### Why X
-
-#### How to make X
-
-#### What X is
+*Add a heading for everything is currently worked on here. Follow that heading with why you're working on that. Optionally you can also describe the how and what.*
 
 ## Themes that will likely be worked on next
 
