@@ -26,13 +26,7 @@ They will change when relevant information is absorbed by the team.
 These are the plans that currently feel like the best options for what the team should work on next.
 Improvements listed below might come out in a month, a year, or (unfortunately) never — it all depends what the team learns along the way.
 
-### [Technical thing name or title Y]
-
-#### Why Y
-
-#### How to make Y
-
-#### What Y is
+*Add a heading for everything that is likely to be worked on in the future here. Follow that heading with why you're working on that. Optionally you can also describe the how and what.*
 
 ## How can I affect these plans
 
