@@ -19,29 +19,29 @@ They will change when relevant information is absorbed by the team.
 
 ## What is currently being worked on
 
-*Not all sections need to be filled in, but the title and why are recommended.*
+*Not all sections need to be filled in, but the title and why are recommended. The list can have any number of items.*
 You can add new items by adding a heading for the title, why, how, and what.
 
-### [Technical thing name or title]
+### [Technical thing name or title X]
 
-#### Why
+#### Why X
 
-#### How
+#### How to make X
 
-#### What
+#### What X is
 
 ## Themes that will likely be worked on next
 
 These are the plans that currently feel like the best options for what the team should work on next.
 Improvements listed below might come out in a month, a year, or (unfortunately) never — it all depends what the team learns along the way.
 
-### [Technical thing name or title]
+### [Technical thing name or title Y]
 
-#### Why 3
+#### Why Y
 
-#### How 3
+#### How to make Y
 
-#### What 3
+#### What Y is
 
 ## How can I affect these plans
 
