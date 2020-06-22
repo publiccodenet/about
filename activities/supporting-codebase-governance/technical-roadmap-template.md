@@ -20,22 +20,15 @@ They will change when relevant information is absorbed by the team.
 ## What is currently being worked on
 
 *Not all sections need to be filled in, but the title and why are recommended.*
+You can add new items by adding a heading for the title, why, how, and what.
 
-### Technical thing 1
+### [Technical thing name or title]
 
-#### Why 1
+#### Why
 
-#### How 1
+#### How
 
-#### What 1
-
-### Technical thing 2
-
-#### Why 2
-
-#### How 2
-
-#### What 2
+#### What
 
 ## Themes that will likely be worked on next
 
@@ -55,4 +48,3 @@ Improvements listed below might come out in a month, a year, or (unfortunately) 
 Talk to us! These plans are formed based on an overall understanding of user needs and the team vision.
 Feedback can alter either of these, which will then lead to changes in plans.
 You can either contact us via [list of ways to contact, including links].
-
