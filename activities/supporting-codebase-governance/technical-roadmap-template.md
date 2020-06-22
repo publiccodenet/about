@@ -35,7 +35,7 @@ You can add new items by adding a heading for the title, why, how, and what.
 These are the plans that currently feel like the best options for what the team should work on next.
 Improvements listed below might come out in a month, a year, or (unfortunately) never — it all depends what the team learns along the way.
 
-### Technical thing 3
+### [Technical thing name or title]
 
 #### Why 3
 
