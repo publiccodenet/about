@@ -13,7 +13,7 @@ type: Index
 ## Resource
 
 * [Template agenda](agenda-template.md)
-* [Template canvas](canvas-template.md)
+* [Template canvas](Mapping-business-models-canvas-template.pdf)
  
 ## How to run the workshop
 
