@@ -17,4 +17,4 @@ type: Index
  
 ## How to run the workshop
 
-* [Workshop guide]
+* [Workshop guide](workshop-guide.md)
