@@ -6,6 +6,7 @@ type: Index
 
 ## Goal
 
+Have a collaborative working session with nex or existing community members to map out potential different business models that can be created around a given codebase.
 
 ## Considerations
 
