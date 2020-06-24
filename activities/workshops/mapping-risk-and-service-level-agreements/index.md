@@ -2,7 +2,7 @@
 type: Index
 ---
 
-# Mapping risk and service level agreements
+# Mapping risk and service level agreements workshop
 
 ## Goal
 
