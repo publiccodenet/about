@@ -10,6 +10,9 @@ Have a collaborative working session with new or existing community members to m
 
 ## Considerations
 
+Discussions about service level agreements can get very technical quite quickly.
+Try steer the workshop on what the most important risks are, and the process on how they can be mitigated.
+
 ## Resource
 
 * [Template agenda](agenda-template.md)
