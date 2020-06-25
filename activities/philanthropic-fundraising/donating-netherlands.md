@@ -8,7 +8,7 @@ If you want to support us you can transfer your donation to our bank account: NL
 
 ## Tax deductability
 
-You may deduct a donation to an ANBI (public benefit organization) in your income tax return. However, the conditions are different for a periodic gift and an ordinairy gift.
+You may deduct a donation to an ANBI (public benefit organization) in your Dutch income tax return. However, the conditions are different for a repeated (periodic) gift and one-off (ordinary) gift.
 
 ### Periodic donation
 
