@@ -12,4 +12,4 @@ bundle exec jekyll build
 # Check for broken links and missing alt tags, 
 # ignore edit links to GitHub as they might not exist yet and
 # set an extra long timout for test-servers with poor connectivity
-bundle exec htmlproofer --assume-extension --url-ignore "/github.com/(.*)/edit/" ./_site --typhoeus-config '{"timeout":15}'
+bundle exec htmlproofer --assume-extension --url-ignore "/github.com/(.*)/edit/" ./_site --typhoeus-config '{"timeout":60}'
