@@ -9,7 +9,13 @@ bundle exec mdl -r ~MD013,~MD029 -i -g '.'
 # Build the site
 bundle exec jekyll build
 
-# Check for broken links and missing alt tags, 
+# Check for broken links and missing alt tags: 
+# jekyll does not require extentions like HTML
 # ignore edit links to GitHub as they might not exist yet and
 # set an extra long timout for test-servers with poor connectivity
-bundle exec htmlproofer --assume-extension --url-ignore "/github.com/(.*)/edit/" ./_site --typhoeus-config '{"timeout":60}'
+# using the files in Jekylls build folder
+bundle exec htmlproofer \
+    --assume-extension \
+    --url-ignore "/github.com/(.*)/edit/" \
+    --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
+    ./_site
