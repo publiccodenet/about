@@ -22,6 +22,7 @@ Activities that support the above as well as make staff operations work:
 * [Membership growth](membership-growth/index.md)
 * [Office management](office-management/index.md)
 * [Onboarding new staff](../contributor-guides/for-staff.md)
+* [Philanthropic fundraising](philanthropic-fundraising/index.md)
 * [Procurement](procurement/index.md)
 * [Recruitment](recruitment/index.md)
 * [Staff management](staff-management/index.md)
