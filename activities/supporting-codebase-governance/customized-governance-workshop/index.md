@@ -35,7 +35,7 @@ The more applicable a calamity is to the codebase, the better the discussions wi
 
 In general, let the game take it's course and time.
 Constructing a "complete" model or finishing all the calamaties is not the objective.
-Getting a shared understanding of the governance is, or at least figure out where the views of it differ.
+Instead, focus on working towards a shared understanding of the governance, or at least identifying where the views of differ.
 
 ### Reflections
 
