@@ -15,7 +15,7 @@ The [general guidelines of how to run the governance game](../game/run-governanc
 
 ### Starting state
 
-Instead of drawing a starting state card, ask the participants to use the available cards to describe the actors that are involved and what relationship they have.
+Instead starting from a state card, ask the participants to visualize how (the draft for) governance currently works, using the available cards to describe the actors that are involved, and what relationships they have.
 This step may be quite revealing, so let this take time as it's a good opportunity for the participants to explain how they percieve status quo.
 If you can and it makes sense, prepare custom cards for the specific actors in the codebase as it will be easier for participants to relate to them.
 
@@ -43,4 +43,3 @@ Then let everyone write three improvements they would like to make to the curren
 Share the findings in the group by having everyone explain their top priority of those three.
 Cluster the post-its by topic and group those that are identical.
 Ask everyone to turn one or more of their post-its into issues in the issue tracker for the codebase.
-
