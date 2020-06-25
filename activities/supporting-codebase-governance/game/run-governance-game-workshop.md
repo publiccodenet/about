@@ -24,7 +24,7 @@ The game can be enhanced by having a large paper first placed on the table that 
 ### Preparing an online session
 
 You can also use digitized versions of the cards in a tool like Google slides or Miro.
-Make a copy of the template ([Google slides](https://docs.google.com/presentation/d/12cGZzER8OrBGzTkHhk7pvMotsLPyFziqQfWYXljKjRc/edit?usp=sharing), only accessible by staff) and make sure it is accessible and editable by anyone with the link.
+Make a copy of the template ([Google slides](https://docs.google.com/presentation/d/1irBjBKMPNsNkGTFNjk4thYizDYrqYfgBJZTdj1hw19c/edit?usp=sharing)) and make sure it is accessible and editable by anyone with the link.
 Set up a video chat to enable discussions between the participants.
 Highlight to the participants that a large, or even a second, screen will make the game easier to follow.
 
