@@ -22,7 +22,7 @@ If you can and it makes sense, prepare custom cards for the specific actors in t
 ### Scenario
 
 The scenario cards are not needed, instead the real situation is used.
-If you can get someone in the community to summarize the current situation in the codebase, perhaps why this workshop was called, it can serve as the scenario setting. 
+If you can get someone in the community to summarize the current situation in the codebase, perhaps why this workshop was called, it can serve as the scenario setting.
 
 ### Calamities
 
@@ -41,6 +41,6 @@ Getting a shared understanding of the governance is, or at least figure out wher
 After the calamities, give the participants a few minutes to reflect on what they just did.
 Then let everyone write three improvements they would like to make to the current governance document on post-its.
 Share the findings in the group by having everyone explain their top priority of those three.
-Cluster the post-its by topic and group those that are identical. 
+Cluster the post-its by topic and group those that are identical.
 Ask everyone to turn one or more of their post-its into issues in the issue tracker for the codebase.
 
