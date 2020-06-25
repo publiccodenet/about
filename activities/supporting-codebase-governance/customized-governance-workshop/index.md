@@ -4,7 +4,7 @@ type: Index
 
 # Customized governance workshop
 
-A customized governance workshop can be used for a codebase that already has some form of governance in place.
+A customized governance workshop can be used for a codebase and its community that already has some form of governance in place.
 This may be governance mechanisms already in place, or a proposed draft.
 The state of the governance may suggest what to focus the workshop on, but it's strength is leveraging the governance game to socialize understanding of the governance.
 As such, it can be used to simply sketch out a currently well functioning mechanism, talk through an initial draft or proposed changes, or used to surface tensions, pain points, and differing understandings.
