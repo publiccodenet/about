@@ -35,7 +35,8 @@ I.e. don't put all developers in one group or all people from one municipality i
 
 Explain the rules and goals, with those cards as a guide.
 Then either pick a scenario randomly for each group or just select them.
-Do the same for starting states. Have someone in each group read the scenario for the group and let them also have it for reference during the game.
+Do the same for starting states. 
+Have someone in each group read the scenario for the group and let them also have it for reference during the game.
 Give them all the actor cards that they need and ask them to place it on the table with the starting state as a guide.
 Then handout the first object cards with the instruction to place them on the table as well and talk about where that should be.
 
