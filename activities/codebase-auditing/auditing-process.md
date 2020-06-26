@@ -9,3 +9,7 @@ The audit happens completely in the version control platform and is designed to 
 The review or certification will happen within 2 business days to enable agile development and not block users and maintainers from making progress.
 
 The codebase maintainers will be notified when a contribution passes the audit and is certified.
+
+## Template
+
+As a help to review a codebase, [this template](review-template.md) can be used.
