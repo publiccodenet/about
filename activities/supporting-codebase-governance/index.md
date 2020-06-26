@@ -70,9 +70,12 @@ Some common [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern) that we 
   * If a majority (or all) of the reviewers are part of a single organization that doesn't dedicate time to reviewing code contributions from other organizations, the backlog of pull requests to review will grow. If the model is too rigid, timely merging might become a problem.
 * A model requiring perfect consensus or even unanimous votes might get caught in decision paralysis if the voting members usually have different opinions.
 
-## Workshop
+## Tools to support governance
 
-The [governance game](game/index.md) and the [governance exercise](exercise/index.md) are useful tools to employ early in the process. It helps people reflect on what governances means for a codebase, the complexity around it, and suggests things worth considering during set up. It is also useful as a tool for visualizing how a current governance model is set up or could be changed.
+These are some tools we've developed to make codebase governance easier:
+
+* The [governance game](game/index.md) and the [governance exercise](exercise/index.md) are useful tools to employ early in the process. It helps people reflect on what governances means for a codebase, the complexity around it, and suggests things worth considering during set up. It is also useful as a tool for visualizing how a current governance model is set up or could be changed.
+* [Technical roadmap template](technical-roadmap-template.md).
 
 ## Further reading
 
