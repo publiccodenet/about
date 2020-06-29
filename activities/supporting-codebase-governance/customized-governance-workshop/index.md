@@ -11,6 +11,7 @@ As such, it can be used to:
 * simply sketch out a currently well functioning mechanism
 * talk through an initial draft or proposed changes
 * surface tensions, pain points, and differing understandings
+
 It may also be used to talk through different scenarios to stress test the governance mechanism.
 
 ## The basics
