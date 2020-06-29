@@ -10,7 +10,7 @@ type: Resource
 13:05 - 13:30 Introduction round  
   * Name, organization, and respond to 'how can the codebase create value for my business?'  
 
-13:30 - 13:35 Inspirational story (optional)
+13:30 - 13:35 Inspirational story (optional)  
 13:35 - 13:50 Background from/about the codebase and community  
 13:50 - 13:55 Introduction to the breakout workshops  
 
