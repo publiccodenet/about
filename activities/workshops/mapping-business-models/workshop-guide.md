@@ -11,7 +11,7 @@ Work through the agenda, making sure the respective speakers have prepared their
 
 ## Breakout workshops
 
-Explain the canvas and make sure everyone has a chance to ask questions. 
+Explain the canvas and make sure everyone has a chance to ask questions.
 Explain the online tool you are using, if required.
 
 For each question, ask participants to add 2-3 post-its.
@@ -21,6 +21,6 @@ Try avoid a single organization, whether public or private, having more represen
 
 ## Closing
 
-Invite each breakout group to give a short recap of the most important insights from their group. 
-If there is time, invite individuals to give their closing remarks. 
+Invite each breakout group to give a short recap of the most important insights from their group.
+If there is time, invite individuals to give their closing remarks.
 Be sure to end with next steps where possible.
