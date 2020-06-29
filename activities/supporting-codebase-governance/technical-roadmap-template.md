@@ -1,5 +1,5 @@
 ---
-tags: Templates
+tags: Resource
 ---
 
 # Technical Roadmap Template
