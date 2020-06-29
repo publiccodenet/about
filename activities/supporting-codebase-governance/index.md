@@ -74,7 +74,7 @@ Some common [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern) that we 
 
 These are some tools we've developed to make codebase governance easier:
 
-* The [governance game](game/index.md) and the [governance exercise](exercise/index.md) are useful tools to employ early in the process. It helps people reflect on what governances means for a codebase, the complexity around it, and suggests things worth considering during set up. It is also useful as a tool for visualizing how a current governance model is set up or could be changed.
+* The [governance game](game/index.md) and the [governance exercise](exercise/index.md) are useful tools to employ early in the process. It helps people reflect on what governances means for a codebase, the complexity around it, and suggests things worth considering during set up. The game is also useful as a tool for visualizing how a current governance model is set up or could be changed in [a customized governance workshop](customized-governance-workshop/index.md).
 * [Technical roadmap template](technical-roadmap-template.md).
 
 ## Further reading
