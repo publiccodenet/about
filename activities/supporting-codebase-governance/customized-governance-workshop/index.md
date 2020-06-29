@@ -5,8 +5,12 @@ type: Index
 # Customized governance workshop
 
 A customized governance workshop can be used for a codebase that already has some form of governance in place, or is considering a draft proposal.
-The state of the governance may suggest what to focus the workshop on, but it's strength is leveraging the governance game to socialize understanding of the governance.
-As such, it can be used to simply sketch out a currently well functioning mechanism, talk through an initial draft or proposed changes, or used to surface tensions, pain points, and differing understandings.
+The state of the governance may suggest what to focus the workshop on, but its strength is leveraging the governance game to socialize understanding of the governance.
+As such, it can be used to:
+
+* simply sketch out a currently well functioning mechanism
+* talk through an initial draft or proposed changes
+* surface tensions, pain points, and differing understandings
 It may also be used to talk through different scenarios to stress test the governance mechanism.
 
 ## The basics
@@ -22,17 +26,17 @@ If you can and it makes sense, prepare custom cards for the specific actors in t
 ### Scenario
 
 The scenario cards are not needed, instead the real situation is used.
-If you can get someone in the community to summarize the current situation in the codebase, perhaps why this workshop was called, it can serve as the scenario setting.
+If you can get someone in the community to summarize the current situation in the codebase, including why this workshop was necessary, it can serve as the scenario setting.
 
 ### Calamities
 
-The calamity cards may be used or be used as inspiration to make new ones.
+Use the calamity cards as is or as inspiration to make new ones.
 Try to capture real fears or questions from the community during the preparation of the workshop.
 The more applicable a calamity is to the codebase, the better the discussions will be.
 
 ## The outcome
 
-In general, let the game take it's course and time.
+In general, let the game take its course and time.
 Constructing a "complete" model or finishing all the calamaties is not the objective.
 Instead, focus on working towards a shared understanding of the governance, or at least identifying where the views of differ.
 
