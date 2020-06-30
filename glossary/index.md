@@ -19,7 +19,7 @@ For the terms below we believe it is important that we have a clear definition o
 * [Open standard](open-standard-definition.md)
 * [Product](product-definition.md)
 * [Public code](public-code-definition.md)
-* [Public member[(public-member-definition.md)
+* [Public member](public-member-definition.md)
 * [Resource](resource-definition.md)
 * [Staff](staff-definition.md)
 * [User](user-definition.md)
