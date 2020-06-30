@@ -17,6 +17,7 @@ To enable public-purpose software and policy that is open and collaborative.
 * We are committed to working with other organizations (commercial or non-profit) to achieve our mission.
 * We prioritize long term sustainability and growth for the benefit of our members.
 * Our work is open by default and welcomes contributions.
+* We adopted [a policy](https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/know-your-rights/equality/non-discrimination_en) that does not unlawfully discriminate on the basis of race, color, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation.
 
 The founding principles were adopted by the board of directors on 23 August 2019.
 
