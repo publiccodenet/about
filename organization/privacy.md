@@ -5,6 +5,7 @@ The Foundation strongly supports individuals' right to privacy. For this reason 
 We keep contact details for:
 
 * people who have signed up to get our news
+* people who participate in our codebase communities (e.g. Discourse and mailing lists)
 * people and organizations we work with
 * staff and interns
 
