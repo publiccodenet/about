@@ -42,7 +42,7 @@ The system registers contact details (name, e-mail) for use in the administratio
 
 The easiest way to unsubscribe from the mailing list is to send a message to listname-leave@lists.publiccode.net. Mailman will send you a confirmation message. If you reply to that message you will be unsubscribed. You do not need to know your password to do this.
 
-You can also unsubscribe via the web page by [simply click on the mailing list you are on]( https://lists.publiccode.net/mailman/postorius/lists/?all-lists) and then click "unsubscribe".
+You can also unsubscribe via the web page by [simply clicking on the mailing list you are on]( https://lists.publiccode.net/mailman/postorius/lists/?all-lists) and then clicking "unsubscribe".
 
 ## 2. Guidance for mailing list administrators
 
