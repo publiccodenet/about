@@ -54,7 +54,7 @@ When a user signs up to our mailing list they give us consent to use that email 
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-The full [code of conduct](https://about.publiccode.net/CODE_OF_CONDUCT.html) is available on our website. Some of the codebases in our stewarship have other codes of conduct, which will be linked from the description page of that mailing list.
+By default, the full [Foundation for Public Code code of conduct](https://about.publiccode.net/CODE_OF_CONDUCT.html) applies to all of our mailing lists. Some of the codebases in our stewardship have other codes of conduct, which will be linked from the description page of that mailing list.
 
 * Mailing list archives
 
