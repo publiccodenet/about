@@ -14,7 +14,7 @@ To subscribe to the mailing list 'listname' you can send an email with 'subscrib
 
 You can also subscribe at the URL and [select the mailing list you want to be part of](https://lists.publiccode.net/mailman/postorius/lists/?all-lists).
 
-You will receive an email address registration confirmation where you need to confirm your email address by replying to the message keeping the subject header intact. If you changes your mind you can simply disregard the message.
+You will receive an email to confirm your email address registration. Confirm your email address by replying to the message keeping the subject header intact. If you change your mind, you can simply ignore the message.
 
 After confirming the email address another mail will be sent:
 >
