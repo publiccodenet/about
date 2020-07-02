@@ -17,7 +17,6 @@ You can also subscribe at the URL and [select the mailing list you want to be pa
 You will receive an email to confirm your email address registration. Confirm your email address by replying to the message keeping the subject header intact. If you change your mind, you can simply ignore the message.
 
 After confirming the email address another mail will be sent:
->
 > Welcome to the 'listname' mailing list!
 >
 > To post to this list, send your email to:
