@@ -5,6 +5,7 @@ type: resource, tooling
 # Mailman mailing lists
 
 Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more.
+
 ## 1. Guidance for people who join our mailing lists 
 
 * How to join
