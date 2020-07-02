@@ -10,7 +10,7 @@ Mailman is free software for managing electronic mail discussion and e-newslette
 
 * How to join
 
-To subscribe to the mailing list 'listname' you can send an email with 'subscribe' in the subject to listname-join@lists.publiccode.net. By subscribing to our lists you give us consent to use your email address for mailing list purposes only.
+To subscribe to the mailing list 'listname' you can send an email with 'subscribe' in the subject to 'listname-join@lists.publiccode.net'. By subscribing to our lists you give us consent to use your email address for mailing list purposes only.
 
 You can also subscribe at the URL and select the mailing list you want to be part of: https://lists.publiccode.net/mailman/postorius/lists/?all-lists
 
@@ -19,17 +19,17 @@ You will receive an email address registration confirmation where you need to co
 After confirming the email address another mail will be sent:
 
 > 
-> Welcome to the "listname" mailing list!
+> Welcome to the 'listname' mailing list!
 > 
 > To post to this list, send your email to:
 > 
-> listname@lists.publiccode.net
+> 'listname@lists.publiccode.net'
 >  
 > You can make such adjustments via email by sending a message to:
 > 
-> listname-request@lists.publiccode.net
+> 'listname-request@lists.publiccode.net'
 > 
-> with the word 'help' in the subject or body (don't include the quotes), and you will get back a message with instructions.  You will need your password to change your options, but for security purposes, this email is not included here.  If you have forgotten your password you will need to click on the 'Forgot Password?' link on the login page.
+> with the word 'help' in the subject or body (don't include the quotes), and you will get back a message with instructions. You will need your password to change your options, but for security purposes, this email is not included here. If you have forgotten your password you will need to click on the 'Forgot Password?' link on the login page.
 
 If you haven't received the welcome message please make sure to check your spam folder!
 
@@ -59,4 +59,4 @@ The full [code of conduct](https://about.publiccode.net/CODE_OF_CONDUCT.html) is
 
 * Mailing list archives
 
-Our intention is to keep all data, unless someone specifically requests their data be removed. Our mailing lists archives are [here](https://lists.publiccode.net/hyperkitty/hyperkitty/).
+Our intention is to keep all data, unless someone specifically requests their data be removed. Our mailing lists archives are [here](https://lists.publiccode.net/hyperkitty/hyperkitty/). HyperKitty is the archiver project for the Mailman 3 suite, allowing users to browse mailing lists, start new threads and reply to existing threads, mark messages as favorite, search archives, and so on.
