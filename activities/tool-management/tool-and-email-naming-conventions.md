@@ -24,10 +24,10 @@ Tool names should be a description of the tool's function, not its brand name. T
 
 ### Email addresses
 
-Every email address should be:
+Every email address should:
 
-* self-explanatory
-* unambiguous
+* be self-explanatory
+* be unambiguous
 * fail privately not publicly (e.g. if you start to type and your email client auto-completes the wrong email address, you won't send a very private email to a big group)
 
 Only Foundation for Public Code staff and officials can receive emails sent to [anything]@publiccode.net email addresses.
