@@ -6,7 +6,7 @@ type: Resource
 
 ## [Code in the Open](https://standard.publiccode.net/criteria/code-in-the-open.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -17,7 +17,7 @@ The source code MAY provide the general public with insight into which source co
 
 ## [Bundle policy and source code](https://standard.publiccode.net/criteria/bundle-policy-and-code.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -29,7 +29,7 @@ Continuous integration tests SHOULD validate that the source code and the policy
 
 ## [Create reusable and portable code](https://standard.publiccode.net/criteria/reusable-and-portable-codebases.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -43,7 +43,7 @@ Code and its documentation SHOULD NOT contain situation-specific information. Fo
 
 ## [Welcome contributions](https://standard.publiccode.net/criteria/open-to-contributions.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -61,7 +61,7 @@ The codebase MAY include a code of conduct for contributors. |  |
 
 ## [Maintain version control](https://standard.publiccode.net/criteria/version-control-and-history.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -74,7 +74,7 @@ You SHOULD prefer file formats that can easily be version controlled. |  |
 
 ## [Require review of contributions](https://standard.publiccode.net/criteria/require-review.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -90,7 +90,7 @@ Reviews MAY be performed by multiple reviewers. |  |
 
 ## [Document your objectives](https://standard.publiccode.net/criteria/document-objectives.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -100,7 +100,7 @@ The codebase MAY contain documentation of its objectives for the general public.
 
 ## [Document your code](https://standard.publiccode.net/criteria/documenting.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -113,7 +113,7 @@ You MAY use the examples in your documentation to test your code. |  |
 
 ## [Use plain English](https://standard.publiccode.net/criteria/understandable-english-first.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -126,7 +126,7 @@ Any code, documentation and tests MAY have a translation. |  |
 
 ## [Use open standards](https://standard.publiccode.net/criteria/open-standards.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -139,7 +139,7 @@ The codebase SHOULD contain a list of all the standards used with links to where
 
 ## [Use continuous integration](https://standard.publiccode.net/criteria/continuous-integration.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -153,7 +153,7 @@ Policy and documentation MAY have testing for style and broken links. |  |
 
 ## [Publish with an open license](https://standard.publiccode.net/criteria/open-licenses.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -166,7 +166,7 @@ Documentation MAY be published under Creative Commons licenses that are NOT ‘n
 
 ## [Use a coherent style](https://standard.publiccode.net/criteria/style.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -177,7 +177,7 @@ You MAY include sections in your style guide on understandable English. |  |
 
 ## [Pay attention to codebase maturity](https://standard.publiccode.net/criteria/advertise-maturity.html)
 
-- [ ]
+- [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
