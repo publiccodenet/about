@@ -4,4 +4,4 @@ type: Resource
 
 # Affiliate
 
-A non-profit organization that has an aligned mission with us and we have formal relations with.
+A non-profit organization whose mission aligns with ours, that has committed to publicly support our work (and vice-versa).
