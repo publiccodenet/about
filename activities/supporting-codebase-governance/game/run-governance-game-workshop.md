@@ -12,7 +12,7 @@ redirect_from:
 ### Participants
 
 The game can be played with any number of participants.
-As [science shows](https://doi.org/10.1016/j.evolhumbehav.2016.05.005) that discussions in groups larger than four tend to split, aim for 2-4 participants.
+Since [discussions in groups larger than four tend to split](https://doi.org/10.1016/j.evolhumbehav.2016.05.005), aim for 2-4 participants.
 It is possible to run two groups in parallel so if there is 6 or more participants split them into two groups if space allows for it.
 
 ### Equipment for physical meetings
@@ -31,14 +31,14 @@ Highlight to the participants that a large, or even a second, screen will make t
 ## Getting started
 
 If you are running two parallel groups, try to get an even representation of skill sets and backgrounds in them.
-I.e. don't put all developers in one group or all people from one municipality in one group.
+For example, don't put all developers in one group or all people from one municipality in one group.
 
 Explain the rules and goals, with those cards as a guide.
 Then either pick a scenario randomly for each group or just select them.
 Do the same for starting states.
 Have someone in each group read the scenario for the group and let them also have it for reference during the game.
 Give them all the actor cards that they need and ask them to place it on the table with the starting state as a guide.
-Then handout the first object cards with the instruction to place them on the table as well and talk about where that should be.
+Then hand out the first object cards with the instruction to place them on the table as well and talk about where that should be.
 
 ## Facilitating
 
