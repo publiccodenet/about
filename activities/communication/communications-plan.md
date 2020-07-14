@@ -120,19 +120,19 @@ Our channels are:
 
 * [Our blog](https://blog.publiccode.net/): long form, platform of record (read more about our blog)
 * [Twitter](https://twitter.com/publiccodenet/): short form, ephemera
+* LinkedIn: share our blogposts or reshare others' content about us, ephemera (mostly avoid, since it’s a closed platform)
 * Facebook: medium form, ephemera (mostly avoid, since it’s a closed platform)
-* LinkedIn: reshare content created about us and posted by others, or replicate Facebook (mostly avoid, since it’s a closed platform)
 
 Our posting frequency is:
 
-* Twitter - as often as we have something to say, up to daily. It’s dynamic, responsive, topical.
-* Other channels: when we have something to say.
-* Blogposts: to be determined based on our news cycle and how much work blogposts turn out to be. Starting guesstimate: we should publish at least once every 3 weeks, and not more than 3 times per week.
+* Twitter - as often as we have something to say, up to daily. It’s dynamic, responsive, topical
+* Other channels: when we have something to say
+* Blogposts: to be determined based on our news cycle and how much work blogposts turn out to be Starting guesstimate: we should publish at least once every 3 weeks, and not more than 3 times per week
 
-Scheduling days of the week for maximum engagement
+Scheduling days of the week for maximum engagement:
 
-* We aim to publish blogposts and jobs on Mondays (for maximum engagement).
-* The bulk of our social media engagement should take place Monday to Thursday.
+* we aim to publish blogposts and jobs on Mondays (for maximum engagement)
+* the bulk of our social media engagement should take place Monday to Thursday
 
 ### Press releases
 
@@ -165,5 +165,5 @@ This should be tied into general strategy sessions, so we get the maximum impact
 * announcement that thing is happening (give teaser)
 * join in on other related conversations and hashtags (monitor conversation)
 * tweet about the thing as it’s happening
-* publish blog during (if a major announcement/unveiling) or afterwards about what happened, plus what we learned or what’s next
+* publish blogpost during or afterwards about what happened, plus what we learned or what’s next
 * measure how this worked

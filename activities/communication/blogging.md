@@ -24,7 +24,7 @@ To make sure we have the editorial freedom to publish about all of our work (no 
 
 Blogposts are different from [resources and guides published on About](../documentation/index.md), like a white paper we keep updated. By contrast, a blogpost is only true at that moment in time. We shouldn’t ever update a blogpost with more current information.
 
-Instead, we can add a note with a link to any follow up blogposts or new information published on the same topic. Adding links from older blogposts to newer blogposts also lets new blogposts benefit from the greater search engine weighting given to older, still popular pages.
+Instead, we can add a note with a link to follow up blogposts or new information published on the same topic. Adding links from older blogposts to newer blogposts also lets new blogposts benefit from the greater search engine weighting given to older, still popular pages.
 
 This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/) and avoids undermining our position of authority - for example, we'll never have to change a blogpost to say that due to a government policy shift, an expert we’ve interviewed is no longer in post (which might cast doubt on that expert’s still-relevant advice).
 
@@ -42,7 +42,7 @@ This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/c
 
 Write your draft blogpost using a collaborative document tool. This lets you share it for pair writing, factchecking, feedback or proofreading.
 
-Don't hesitate to involve other people in your writing process - we want you to succeed, and we know how helpful an external perspective can be once something starts to feel like a problem.
+Don't hesitate to involve other people in your writing process - we want you to succeed, and we know how helpful an external perspective can be once something starts to feel like a slog.
 
 After writing, please share with the communications coordinator for polishing.
 
@@ -65,7 +65,7 @@ title:  "Title”
 date: YYYY-MM-DD
 author: [put your name]
 type: blogpost
-category: [our current categories are: news and community call]
+category: [our current categories are: news, community call and codebase stewardship]
 excerpt: [unformatted text you want to appear on the index]
 ---
 ```
@@ -94,4 +94,4 @@ To publish the new content, you'll have to create a release branch and [merge de
 ## Further reading
 
 * [The Foundation for Public Code communications plan](communications-plan.md) has more information about our goals, audiences and messages
-* [Read more about Jekyll posts](https://jekyllrb.com/docs/posts/)
+* [An introduction to Jekyll posts](https://jekyllrb.com/docs/posts/)
