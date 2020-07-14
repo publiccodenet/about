@@ -32,9 +32,9 @@ This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/c
 
 1. Since none of us work in isolation, check in with the communications coordinator before you start writing your blogpost. This helps us:
 
-  * understand your goals and audience for the blogpost
-  * establish the scope of your blogpost (to avoid duplication with other planned work)
-  * schedule publication of your blogpost so it fits best with other planned communications
+    * understand your goals and audience for the blogpost
+    * establish the scope of your blogpost (to avoid duplication with other planned work)
+    * schedule publication of your blogpost so it fits best with other planned communications
 
 2. [Read our style guide](https://content-guide.18f.gov/) - we use 18F's. If you have any questions, ask!
 
