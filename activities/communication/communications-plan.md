@@ -31,13 +31,13 @@ Our communications should help us achieve [our current priorities](../../organiz
 
 Our audience is divided into:
 
-* current Foundation users
-* future Foundation users
+* current Foundation contributors
+* future Foundation contributors
 * influencers
 
-### Foundation users
+### Foundation contributors
 
-We believe [these are the users of the Foundation for Public Code](https://about.publiccode.net/activities/value-and-impact/user-mapping/).
+We believe [these are potential contributors to the Foundation for Public Code](https://about.publiccode.net/activities/value-and-impact/user-mapping/).
 
 ### Influencers
 
@@ -61,7 +61,7 @@ We are also actively building our ecosystem by:
 * boosting awareness of public code
 * setting standards and creating reusable resources (by providing thought leadership!)
 * demonstrating the value of public code with well documented, public business cases and risk analyses
-* nurturing our community online, and at conferences and events
+* nurturing our community online, and – where sensible – in person
 
 ## Calls to action
 
