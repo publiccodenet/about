@@ -36,4 +36,4 @@ Tentoo's [General Terms and Conditions](https://www.tentoo.nl/images/downloads/G
 
 We use Odoo Community for its CRM functionality and project management pipelines for our codebases and membership development.
 
-Odoo's responsibilities in terms of personal data protection depend on their [various data processing activities.](https://www.odoo.com/gdpr). As a Data Controller, their activities are covered in their [privacy policy](https://www.odoo.com/privacy), which has been updated for GDPR.
+Odoo's responsibilities in terms of personal data protection depend on their [various data processing activities](https://www.odoo.com/gdpr). As a Data Controller, their activities are covered in their [privacy policy](https://www.odoo.com/privacy), which has been updated for GDPR.
