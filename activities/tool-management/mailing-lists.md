@@ -47,7 +47,7 @@ You can also unsubscribe via the web page by [simply clicking on the mailing lis
 
 ### What to do with people's data
 
-When a user signs up to our mailing list they give us consent to use that email address for mailings as per [our privacy policy](https://about.publiccode.net/organization/privacy.html). When the user unsubscribes we will remove the email address from the database.
+When a user signs up to our mailing list they give us consent to use that email address for mailings as per [our privacy policy](../../organization/privacy.md). When the user unsubscribes we will remove the email address from the database.
 
 ### How we handle code of conduct violations
 
