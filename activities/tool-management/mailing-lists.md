@@ -43,7 +43,7 @@ The easiest way to unsubscribe from the mailing list is to send a message to lis
 
 You can also unsubscribe via the web page by [simply clicking on the mailing list you are on]( https://lists.publiccode.net/mailman/postorius/lists/?all-lists) and then clicking "unsubscribe".
 
-## 2. Guidance for mailing list administrators
+## Guidance for mailing list administrators
 
 ### What to do with people's data
 
