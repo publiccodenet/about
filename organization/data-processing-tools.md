@@ -34,7 +34,7 @@ Tentoo's [General Terms and Conditions](https://www.tentoo.nl/images/downloads/G
 
 ## Odoo
 
-We use Odoo Community for its CRM functionality and project management pipelines for our codebases and membership development.
+We use Odoo Community for customer relationship management (CRM) and project management for our codebases and membership development.
 
 Odoo's responsibilities in terms of personal data protection depend on their [various data processing activities](https://www.odoo.com/gdpr).
 
