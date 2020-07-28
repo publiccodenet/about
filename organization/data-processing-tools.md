@@ -34,8 +34,8 @@ Tentoo's [General Terms and Conditions](https://www.tentoo.nl/images/downloads/G
 
 ## Odoo
 
-We use Odoo Community for customer relationship management (CRM) and project management for our codebases and membership development.
+We use Odoo Community for customer relationship management (CRM) and project management for our codebases and membership development. Opus VL is our hosting provider for Odoo Community.
 
-Odoo's responsibilities in terms of personal data protection depend on their [various data processing activities](https://www.odoo.com/gdpr).
+Opus VL's describes its [data processing activities in their privacy policy](https://opusvl.com/privacy-policy).
 
-> As a Data Controller, our activities are covered in our [Privacy Policy](https://www.odoo.com/privacy), which has been updated in accordance to GDPR. This policy explains as clearly as possible what data we process, why we process it, and how we do it. Closely related to this, our [Security Policy](https://www.odoo.com/security) explains the security best practices we implemented at Odoo, at all levels (technical and organizational) in order to guarantee that your data is processed in a safe and secure manner.
+> Under the GDPR (General Data Protection Regulation) we control and / or process any personal information about you electronically using the following lawful bases. We are registered with the ICO under the Data Protection Register, our registration number is: Z5707409.
