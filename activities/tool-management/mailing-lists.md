@@ -44,7 +44,9 @@ The easiest way to unsubscribe from the mailing list is to send a message to lis
 You can also unsubscribe via the web page by [simply clicking on the mailing list you are on]( https://lists.publiccode.net/mailman/postorius/lists/?all-lists) and then clicking "unsubscribe".
 
 ## Guidance for mailing list administrators
+
 You should make sure potential and current mailing list members have easy access to the guidance for people who join our mailing lists.
+
 ### What to do with people's data
 
 When a user signs up to our mailing list they give us consent to use that email address for mailings as per [our privacy policy](../../organization/privacy.md). When the user unsubscribes we will remove the email address from the database.
