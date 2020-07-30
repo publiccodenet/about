@@ -1,5 +1,5 @@
 ---
-type: resource, tooling
+type: resource
 ---
 
 # Mailman mailing lists
