@@ -120,7 +120,7 @@ Our channels are:
 
 * [Our blog](https://blog.publiccode.net/): long form, platform of record (read more about our blog)
 * [Twitter](https://twitter.com/publiccodenet/): short form, ephemera
-* LinkedIn: share our blogposts or reshare others' content about us, ephemera (mostly avoid, since it’s a closed platform)
+* [LinkedIn](https://www.linkedin.com/company/publiccodenet/): share our blogposts or re-share others' content about us, ephemera (mostly avoid, since it’s a closed platform)
 * Facebook: medium form, ephemera (mostly avoid, since it’s a closed platform)
 
 Our posting frequency is:
