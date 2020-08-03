@@ -22,7 +22,7 @@ To make sure we have the editorial freedom to publish about all of our work (no 
 
 ## Blogposts are ephemera
 
-Blogposts are different from [resources and guides published on About](../documentation/index.md), like a white paper we keep updated. By contrast, a blogpost is only true at that moment in time. We shouldn’t ever update a blogpost with more current information.
+Blogposts are different from [resources and guides published on About](../documentation/index.md), which we keep updating. By contrast, a blogpost is only true at that moment in time. We shouldn’t ever update a blogpost with more current information.
 
 Instead, we can add a note with a link to follow up blogposts or new information published on the same topic. Adding links from older blogposts to newer blogposts also lets new blogposts benefit from the greater search engine weighting given to older, still popular pages.
 
@@ -43,6 +43,10 @@ This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/c
 Write your draft blogpost using a collaborative document tool. This lets you share it for pair writing, factchecking, feedback or proofreading.
 
 Don't hesitate to involve other people in your writing process - we want you to succeed, and we know how helpful an external perspective can be once something starts to feel like a slog.
+
+Include links to people, associations, codebases, organizations or events you talk about - this helps an excited reader learn more. It's also useful for SEO.
+
+All blogposts should include at least one relevant image or video, to make them more engaging.
 
 After writing, please share with the communications coordinator for polishing.
 
@@ -69,8 +73,6 @@ category: [our current categories are: news, community call and codebase steward
 excerpt: [unformatted text you want to appear on the index]
 ---
 ```
-
-All blogposts should include at least one relevant image, to make them more engaging.
 
 Add your images to [`_assets/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/assets).
 Link to the asset directly in text.
