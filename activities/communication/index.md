@@ -9,6 +9,7 @@ These are all the activities, documents and templates for Communication.
 * [Communication principles](communication-principles.md)
 * [Communications plan](communications-plan.md)
 * [Using chat.publiccode.net](using-chat.md)
+* [Mailing lists](../tool-management/mailing-lists.md)
 * [How and why to write a blogpost](blogging.md)
 * [Email signature template](email-signature-template.md)
 
