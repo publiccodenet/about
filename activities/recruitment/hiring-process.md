@@ -19,8 +19,10 @@ We also use the current team's network to spread awareness of the job opening (v
 
 * [t9t.io open source jobs board](https://oo.t9t.io/jobs)
 * [fossjobs.net open source jobs board](https://www.fossjobs.net/)
-* [StackOverflow Jobs](https://stackoverflow.com/jobs/companies/foundation-for-public-code)
+* StackOverflow Jobshttps://stackoverflow.com/jobs
 * LinkedIn page for Foundation for Public Code
+
+Between summer 2019 and summer 2020, most of our new hires found out about us on LinkedIn.
 
 ## Processing reactions of people expressing interest
 
