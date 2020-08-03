@@ -45,15 +45,15 @@ These are domain celebrities in open source, government digital transformation a
 
 ## Unique selling proposition
 
-We are the only organization focused on open source software for public organizations that:
+Though many specific things we do are also offered by other organizations, we're the only organization focused on open source software for public organizations that does all of this together:
 
-* is non-profit and member owned (unlike commercial open source govtech companies)
-* offers codebase stewardship for different projects (how are we different from the Commons Conservancy and the businesses they can put you in touch with?)
-* offers productization and marketing of the codebases (unlike Commons Conservancy)
-* actually provides guidance and support to help public orgs make their code open (unlike Free Software Foundation)
-* isn’t tied to the EU project lifecycle (unlike SCORE)
-* has a reproducible process suitable not just for cities, but all public organizations (unlike SCORE)
-* is international (unlike OS2, Cloud 4 Cities, VNG-Realisatie, Adullact)
+* is non-profit and member owned with membership only open to public organizations
+* offers codebase stewardship for different projects
+* offers productization and marketing of the codebases
+* actually provides guidance and support to help public organizations make their code open
+* isn’t tied to the EU project lifecycle
+* has a reproducible process suitable not just for cities, but all public organizations
+* is international, not national
 
 We are also actively building our ecosystem by:
 
