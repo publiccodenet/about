@@ -14,7 +14,7 @@ Our messages range from neutral in tone to positive and inspirational. Our commu
 
 Our communications are in plain English, but we link to highly relevant pages in other languages, for example about our members’ work.
 
-Our communications should show to showcase the Foundation for Public Code as:
+Our communications should showcase the Foundation for Public Code as:
 
 * active, dynamic, getting things done
 * smart enough to be trusted with the importance and complexity of its work
