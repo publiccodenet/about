@@ -57,7 +57,7 @@ Though many specific things we do are also offered by other organizations, we're
 
 We are also actively building our ecosystem by:
 
-* connecting members with like-minded parties (potential members, partners, affiliates, structural funders)
+* connecting members with like-minded parties (members and other public organizations, affiliates and structural funders)
 * boosting awareness of public code
 * setting standards and creating reusable resources (by providing thought leadership!)
 * demonstrating the value of public code with well documented, public business cases and risk analyses
@@ -127,7 +127,7 @@ Our posting frequency is:
 
 * Twitter: as often as we have something to say, up to daily. It’s dynamic, responsive, topical
 * Other channels: when we have something to say
-* Blogposts: to be determined based on our news cycle and how much work blogposts turn out to be Starting guesstimate: we should publish at least once every 3 weeks, and not more than 3 times per week
+* Blogposts: to be determined based on our news cycle and how much work blogposts turn out to be. Starting guesstimate: we should publish at least once every 3 weeks, and not more than 3 times per week
 
 Scheduling days of the week for maximum engagement:
 
