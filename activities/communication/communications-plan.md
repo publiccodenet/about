@@ -125,7 +125,7 @@ Our channels are:
 
 Our posting frequency is:
 
-* Twitter - as often as we have something to say, up to daily. It’s dynamic, responsive, topical
+* Twitter: as often as we have something to say, up to daily. It’s dynamic, responsive, topical
 * Other channels: when we have something to say
 * Blogposts: to be determined based on our news cycle and how much work blogposts turn out to be Starting guesstimate: we should publish at least once every 3 weeks, and not more than 3 times per week
 
