@@ -24,7 +24,7 @@ Activities that support the above as well as make staff operations work:
 * [Office management](office-management/index.md)
 * [Onboarding new staff](../contributor-guides/for-staff.md)
 * [Philanthropic fundraising](philanthropic-fundraising/index.md)
-* [Podcasts](podcast.md)
+* [Podcasts](podcasts.md)
 * [Procurement](procurement/index.md)
 * [Recruitment](recruitment/index.md)
 * [Staff management](staff-management/index.md)
