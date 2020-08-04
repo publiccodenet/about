@@ -5,7 +5,7 @@ explains: What Streamyard is and where we use it for
 
 # Using Streamyard
 
-We use [Streamyard](https://streamyard.com/) for live streaming codebase stories and interviews.
+We use [Streamyard](https://streamyard.com/) for (live) streaming codebase stories and interviews.
 
 ## Privacy policy
 
