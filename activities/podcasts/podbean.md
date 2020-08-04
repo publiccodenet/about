@@ -1,6 +1,6 @@
 ---
 type: guide
-explains: What Podbean is and where we use it for
+explains: What Podbean is and its usage
 ---
 
 # Using Podbean
