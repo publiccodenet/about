@@ -65,12 +65,13 @@ At the top of the file you should have this frontmatter:
 
 ```markdown
 ---
-title:  "Title”
+title:  "Title"
 date: YYYY-MM-DD
 author: [put your name]
 type: blogpost
-category: [our current categories are: news, community call and codebase stewardship]
 excerpt: [unformatted text you want to appear on the index]
+category: [our current categories are: news, community call and codebase stewardship]
+
 ---
 ```
 
@@ -81,7 +82,7 @@ Make sure [the text alternative for your image is useful](https://www.w3.org/WAI
 Example:
 
 ```markdown
-![alternative text](/assets/image.jpg)
+![alternative text]({{site.url}}/assets/image.jpg)
 ```
 
 ### Step 3: create a pull request and release the new blog
