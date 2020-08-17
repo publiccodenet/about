@@ -19,7 +19,12 @@ The repository builds to a static site deployed at [about.publiccode.net](https:
 
 Releasing and deploying [is done with a release branch](activities/documentation/merge-develop-into-master.md).
 
-We aim to deploy every Friday.
+We aim to deploy every Monday.
+
+You can use the scripts:
+
+* `./script/serve.sh` to serve the site locally with livereload
+* `./script/test.sh` to run the tests including markdownlint and htmlproofer
 
 ### Branches and Travis CI build status
 
