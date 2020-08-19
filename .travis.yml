@@ -6,7 +6,7 @@ script: ./script/cibuild.sh
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=false # speeds up installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 # Upgrade the SSL otherwise outwards connections will fail
 addons:
