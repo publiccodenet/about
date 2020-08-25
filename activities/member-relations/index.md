@@ -21,16 +21,17 @@ In this phase, we aim to:
 
 The following are examples of activities we may conduct during member acquisition:
 * Conduct workshops to raise awareness about:
-	* Codebase stewardship
-	* Public code
-	* The Standard for Public Code
-	* Our organizational model
-* Hold meetings to exchange knowledge and support with contracting 
+     * Codebase stewardship
+     * Public code
+     * The Standard for Public Code
+     * Our organizational model
+* Hold meetings to exchange knowledge and support with contracting
 * Have regular calls to answer any questions and ensure continuous, open communication
 
 Member growth is finalized when the public organization signs a [membership contract](../membership-growth/membership-contract.md).
 
 #### Further Reading:
+
 * [Membership growth](../membership-growth)
 
 ## 2. Member onboarding
@@ -48,9 +49,9 @@ The following are examples of activities we may conduct during member onboarding
 * Assess codebases for codebase stewardship
 * Conduct trainings on various topics surrounding public code
 * Conduct a [membership workshop](../membership-growth/founding-membership-workshop.md) to:
-	* Identify public code projects and codebases to collaborate on
-	* Set expectations for membership
-    
+      * Identify public code projects and codebases to collaborate on
+      * Set expectations for membership
+	
 ## 3. Membership
 
 During membership, members become fully involved in governing the Foundation for Public Code and build mature public code projects in their organizations.
@@ -61,13 +62,14 @@ In this phase, we aim to:
 * Empower members to take ownership of steering our processes, governance, and finances
 * Maintain healthy communications amongst members and the Foundation for Public Code team
 
-The following are examples of activities we may conduct during member development:
+The following are examples of activities we may conduct with our members:
 * Codebase stewardship
-* Build capacity on various topics surrounding public code 
+* Build capacity on various topics surrounding public code
 * Broker collaborative solutions within member community
 * Ensure good communications and active engagement within member community
 
 #### Further Reading
+
 * Our [mission, founding principles and goals](../../organization/mission.md)
 * Overview of our [activities](../../activities/index.md)
 * [Codebase stewardship](../codebase-stewardship/)
