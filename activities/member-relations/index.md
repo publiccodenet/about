@@ -69,5 +69,5 @@ The following are examples of activities we may conduct during member developmen
 
 #### Further Reading
 * Our [mission, founding principles and goals](../../organization/mission.md)
-* Overview of our [activities](../activities/index.md)
+* Overview of our [activities](../../activities/index.md)
 * [Codebase stewardship](../codebase-stewardship/)
