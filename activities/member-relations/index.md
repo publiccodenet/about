@@ -15,11 +15,13 @@ The process towards full membership is roughly divided into three phases, noting
 During member growth we connect with and support wholly publically-owned organizations in their path towards membership.
 
 In this phase, we aim to:
+
 * build trust in our organization and our processes
 * determine focal and contact points within the prospective member organization
 * gain insight into the member's organizational structures and how codebase stewardship can benefit them
 
 The following are examples of activities we may conduct during member acquisition:
+
 * Conduct workshops to raise awareness about:
      * Codebase stewardship
      * Public code
@@ -30,7 +32,7 @@ The following are examples of activities we may conduct during member acquisitio
 
 Member growth is finalized when the public organization signs a [membership contract](../membership-growth/membership-contract.md).
 
-#### Further Reading:
+### Further Reading
 
 * [Membership growth](../membership-growth)
 
@@ -39,6 +41,7 @@ Member growth is finalized when the public organization signs a [membership cont
 During member onboarding we help new members get accustomed to our processes, and support their public code projects.
 
 In this phase, we aim to:
+
 * support members with their public code projects and codebases
 * introduce members to our network and codebase communities
 * prepare members for their first general assembly
@@ -51,24 +54,26 @@ The following are examples of activities we may conduct during member onboarding
 * Conduct a [membership workshop](../membership-growth/founding-membership-workshop.md) to:
       * Identify public code projects and codebases to collaborate on
       * Set expectations for membership
-	
+
 ## 3. Membership
 
 During membership, members become fully involved in governing the Foundation for Public Code and build mature public code projects in their organizations.
 
 In this phase, we aim to:
+
 * Fully support members with all elements of codebase stewardship
 * Build capacity on various topics surrounding public code
 * Empower members to take ownership of steering our processes, governance, and finances
 * Maintain healthy communications amongst members and the Foundation for Public Code team
 
 The following are examples of activities we may conduct with our members:
+
 * Codebase stewardship
 * Build capacity on various topics surrounding public code
 * Broker collaborative solutions within member community
 * Ensure good communications and active engagement within member community
 
-#### Further Reading
+### Further Reading
 
 * Our [mission, founding principles and goals](../../organization/mission.md)
 * Overview of our [activities](../../activities/index.md)
