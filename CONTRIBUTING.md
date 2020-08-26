@@ -23,7 +23,7 @@ Our [contributor guide for individuals](contributor-guides/for-individuals.md) e
 
 We’re especially interested in learning what you need to implement the [Standard for Public Code](https://standard.publiccode.net/) in your organization. Please [raise an issue](https://standard.publiccode.net/CONTRIBUTING.html) or email us at <info@publiccode.net>.
 
-[Join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdOArHWz6leVrOdOLcVlm9nbgKSrn5gxAgCIytZsAWgqnkbWQ/viewform) to join our community and keep up with our news.
+[Sign up for our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdOArHWz6leVrOdOLcVlm9nbgKSrn5gxAgCIytZsAWgqnkbWQ/viewform) to join our community and keep up with our news.
 
 ## Public organizations
 
