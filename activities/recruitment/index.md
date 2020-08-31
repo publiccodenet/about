@@ -14,7 +14,6 @@ These are the resources and processes used for recruitment:
 For possible applicants:
 
 * [Careers section with open positions on the homepage](https://publiccode.net/careers/)
-* [Our Stack Overflow organization page](https://stackoverflow.com/jobs/companies/foundation-for-public-code)
 
 See also:
 
