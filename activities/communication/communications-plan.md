@@ -41,7 +41,7 @@ We believe [these are potential contributors to the Foundation for Public Code](
 
 ### Influencers
 
-These are domain celebrities in open source, government digital transformation and civic tech.
+These are domain celebrities (both individuals and organizations) in open source, government digital transformation and civic tech.
 
 ## Unique selling proposition
 
@@ -156,6 +156,7 @@ We don’t know what the ideal ratio of audiences to target is yet. We’ll deve
 We run a campaign every time:
 
 * someone from the Foundation speaks at an event
+* we host an event
 * we have significant news
 
 ### Campaign template
