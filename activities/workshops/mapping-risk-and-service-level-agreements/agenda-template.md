@@ -6,12 +6,12 @@ type: Resource
 
 ## Introduction
 
-* 09:00 - 09:05 Opening  
-* 09:05 - 09:30 Introduction round  
+* 09:00 - 09:05 Opening
+* 09:05 - 09:30 Introduction round
   * Name, organization and 'the biggest risk you would see if you relied on the codebase'?
   
 * 09:30 - 09:45 Background and context to the codebase, the community, and the reason for this workshop
-* 09:45 - 09:50 Introduction to the breakout workshops  
+* 09:45 - 09:50 Introduction to the breakout workshops
 * 09:50 - 10:00 Break
 
 ## Breakout workshops
@@ -32,5 +32,5 @@ type: Resource
 
 ## Closing
 
-* 11:30 - 11:40 Break  
+* 11:30 - 11:40 Break
 * 11:40 - 12:00 Closing, reflections & next steps
