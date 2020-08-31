@@ -6,19 +6,19 @@ type: Resource
 
 ## Introduction
 
-13:00 - 13:05 Welcome & Opening  
-13:05 - 13:30 Introduction round  
+* 13:00 - 13:05 Welcome & Opening  
+* 13:05 - 13:30 Introduction round  
   * Name, organization, and respond to 'how can the codebase create value for my business?'  
 
-13:30 - 13:35 Inspirational story (optional)  
-13:35 - 13:50 Background from/about the codebase and community  
-13:50 - 13:55 Introduction to the breakout workshops  
+* 13:30 - 13:35 Inspirational story (optional)  
+* 13:35 - 13:50 Background from/about the codebase and community  
+* 13:50 - 13:55 Introduction to the breakout workshops  
 
 ## Breakout workshops
 
-14:00 - 15:30 Breakout into two groups for collaborative session  
-* Introduction: Explain the canvas (10 min)
-* Round 1: Possible business opportunities (30 mins)
+* 14:00 - 15:30 Breakout into two groups for collaborative session  
+  * Introduction: Explain the canvas (10 min)
+  * Round 1: Possible business opportunities (30 mins)
     * Q 1.1) How can the codebase help your company make money and be successful?
     * Q 1.2) What other ways could the codebase help companies be successful in the future and/or different contexts?
 * Break: Tidy notes (10 mins)  
@@ -29,5 +29,5 @@ type: Resource
 
 ## Closing
 
-15:30 - 15:40 Break  
-15:40 - 16:00 Closing, reflections & next steps  
+* 15:30 - 15:40 Break  
+* 15:40 - 16:00 Closing, reflections & next steps  
