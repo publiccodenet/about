@@ -47,6 +47,7 @@ Roles:
   * Alba Roza
   * [Lead](#lead):
     Eric Herman
+  * Felix Faassen
 
 ### Communications
 
@@ -84,7 +85,7 @@ Responsibilities:
 * [Staff management](../activities/staff-management/index.md)
 * [Procurement](../activities/procurement/index.md), [office management](../activities/office-management/index.md) and contract management
 * Finances, budget and resource management
-* Infrastructure and tools
+* [Infrastructure and tools](../activities/tool-management/index.html)
 
 Roles:
 
@@ -96,7 +97,7 @@ Roles:
 Responsibilities:
 
 * [executing the work approved by the general assembly and board of directors](governance-model.md)
-* managing staff and taking their reports
+* [managing staff and taking their reports](../activities/staff-management/index.md)
 
 Roles:
 

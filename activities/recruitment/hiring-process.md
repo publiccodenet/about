@@ -13,13 +13,16 @@ type: Resource
 
 ## Announcing job opening
 
-We publish all job postings on the [careers section on the homepage](https://publiccode.net/careers).
+We publish all job postings on the [careers section on the homepage](https://publiccode.net/careers), and publicize them on our [Twitter account](https://twitter.com/publiccodenet).
 
 We also use the current team's network to spread awareness of the job opening (via email, LinkedIn, social media). We may use (specialized) job sites and recruiters including:
 
-* the [2 StackOverflow Jobs](https://stackoverflow.com/jobs/companies/foundation-for-public-code) slots we have
-* our [Twitter account](https://twitter.com/publiccodenet)
-* our [blog](https://blog.publiccode.net)
+* [t9t.io open source jobs board](https://oo.t9t.io/jobs)
+* [fossjobs.net open source jobs board](https://www.fossjobs.net/)
+* [StackOverflow Jobs](https://stackoverflow.com/jobs)
+* LinkedIn page for Foundation for Public Code
+
+Between summer 2019 and summer 2020, most of our new hires discovered us through LinkedIn job ads.
 
 ## Processing reactions of people expressing interest
 
