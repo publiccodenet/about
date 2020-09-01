@@ -18,7 +18,7 @@ Other questions you can ask is what process can be followed to mitigate these ri
 ## Resource
 
 * [Template agenda](agenda-template.md)
-* [Template canvas](Mapping-risk-and-service-level-agreements-template.pdf)
+* [Template canvas](mapping-risk-and-service-level-agreements-template.pdf)
 
 ## How to run the workshop
 
