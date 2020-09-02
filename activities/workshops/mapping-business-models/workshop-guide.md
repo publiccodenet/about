@@ -7,7 +7,7 @@ explains: How to run the 'Mapping business models enabled by a codebase' worksho
 
 ## Introduction
 
-Work through the agenda, making sure the respective speakers have prepared their bits, and there is ample emphasis on openness and vulnerability, as well as giving each participant an equal voice.
+Work through the [agenda](agenda-template.md), making sure the respective speakers have prepared their bits, and there is ample emphasis on openness and vulnerability, as well as giving each participant an equal voice.
 
 ## Breakout workshops
 
