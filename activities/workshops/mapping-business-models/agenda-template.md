@@ -30,4 +30,4 @@ type: Resource
 ## Closing
 
 * 15:30 - 15:40 Break
-* 15:40 - 16:00 Closing, reflections & next steps
+* 15:40 - 16:00 Closing, reflections and next steps
