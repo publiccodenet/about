@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Template Agenda
+# Template agenda
 
 ## Introduction
 
