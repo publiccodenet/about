@@ -11,7 +11,7 @@ Work through the [agenda](/agenda-template.md), making sure the respective speak
 
 ## Breakout workshops
 
-Explain the canvas and make sure everyone has a chance to ask questions.
+Explain the [canvas](/mapping-risk-and-service-level-agreements-template.pdf) and make sure everyone has a chance to ask questions.
 Explain the online tool you are using, if required.
 
 In round 1, for question 1 and 2, ask participants to add 2-3 post-its.
