@@ -13,7 +13,7 @@ Have a collaborative working session with new or existing community members to m
 This can be a difficult and sensitive subject.
 For public organizations and market parties involved, this co-creative process can be a new way of working.
 For market parties, this workshop may mean working toghether with and along side (perceived) competitors.
-For municipalities, this workshop may mean working through a natural level of distrust or distance vis a vis market parties.
+For municipalities, this workshop may mean working through a natural level of distrust or distance vis-à-vis market parties.
 
 It is important to set a tone of vulnerability and openness in the beginning, let each participant clearly state what their interest is ('what piece of the pie they want'), and emphasize that this workshop is about facilitating the growth of the community ('making the pie bigger, which benefits everyone involved').
 
