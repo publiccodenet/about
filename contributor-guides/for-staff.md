@@ -7,6 +7,8 @@ explains: The basics for being a staff member of the Foundation for Public Code
 
 Our staff are expected to follow and uphold both the [Community code of conduct](../CODE_OF_CONDUCT.md) and the [Staff code of conduct](../organization/staff-code-of-conduct.md). Make sure you are familiar with both.
 
+In your work you will need to introduce and explain the Foundation for Public Code. You'll answer questions about why we exist and what we do. The [pitching guidance](../activities/communication/pitching.md) provides a good starting point to learn how to briefly explain our work to others. We also provide a guide which describes our [communications activities](../activities/communication/index.md) and how we communicate with each other.
+
 Here are some important things to figure out in the first couple of days:
 
 * [Using space guide](../activities/office-management/using-space.md) - how we use the spaces in the office
