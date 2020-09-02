@@ -17,7 +17,7 @@ These are all the activities, documents and templates for Communication.
 
 ## Synchronous communication
 
-We meet our community regularly by [attending and running events](../events) and (../workshops), and by [hosting community calls](../community-calls).
+We meet our community regularly by [attending and running events](../events) and [workshops](../workshops), and by [hosting community calls](../community-calls).
 
 ### Community calls
 
