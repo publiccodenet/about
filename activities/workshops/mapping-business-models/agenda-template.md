@@ -6,7 +6,7 @@ type: Resource
 
 ## Introduction
 
-* 13:00 - 13:05 Welcome & Opening
+* 13:00 - 13:05 Welcome and opening
 * 13:05 - 13:30 Introduction round
   * Name, organization, and respond to 'how can the codebase create value for my business?'
 
