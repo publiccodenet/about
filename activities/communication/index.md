@@ -10,6 +10,7 @@ These are all the activities, documents and templates for Communication.
 * [Using chat.publiccode.net](using-chat.md)
 * [Community discussions](community-discussions.md)
 * [Instructions on how to run a community call](running-community-call.md)
+* [Pitching the Foundation for Public Code](pitching.md)
 * [Phone numbers](phone-numbers.md)
 * [Mailing lists](../tool-management/mailing-lists.md)
 
