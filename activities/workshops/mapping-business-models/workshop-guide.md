@@ -11,7 +11,7 @@ Work through the [agenda](agenda-template.md), making sure the respective speake
 
 ## Breakout workshops
 
-Explain the canvas and make sure everyone has a chance to ask questions.
+Explain the [canvas](Mapping-business-models-canvas-template.pdf) and make sure everyone has a chance to ask questions.
 Explain the online tool you are using, if required.
 
 For each question, ask participants to add 2-3 post-its.
