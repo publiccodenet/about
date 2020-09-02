@@ -4,17 +4,23 @@ type: resource
 
 # Jitsi Meet
 
-Jitsi Meet is our videocall and conference tool. Jitsi an open-source projects that allows us to deploy secure video conferencing solutions. 
-At the heart of Jitsi are Jitsi Videobridge and Jitsi Meet, which lets us have conferences on the internet, while other projects in the 
+Jitsi Meet is our videocall and conference tool. Jitsi an open-source projects that allows us to deploy secure video conferencing solutions.
+At the heart of Jitsi are Jitsi Videobridge and Jitsi Meet, which lets us have conferences on the internet, while other projects in the
 community enable other features such as audio, dial-in, recording, and simulcasting.
 
 ## Guidance on using Jitsi Meet
 
-All our team members can create rooms. The link to the room can be shared publicly or secretly, depending on the purpose of the meeting.
-The first person to create or enter an existing room is the host, and is required to authenticate by entering their log-in credentials.
-Guest can join the meeting when the have the link. As an extra security measure a password can be added to the room, so guest 
+* Jitsi Meet can be reached on 'meet.publiccode.net'
+* All our team members can create rooms. The link to the room can be shared publicly or secretly, depending on the purpose of the meeting.
+* The first person to create a room or enter an existing room is the host, and is required to authenticate by entering their log-in credentials.
+* Guest can join the meeting when the have the link. As an extra security measure a password can be added to the room, so guest
 also need the password next to the meeting link.
 
-### Jitsi Administration
+## Jitsi Administration
 
-Jitsi is running on a VPS with 8 GB of RAM and is maintained and upgraded by the operations coordinator.
+Jitsi is running on a VPS with 8 GB of RAM for resilience and scalability. The VPS is maintained by the operations coordinator who also takes care
+user adminstration and customizations.
+
+## Jitsi Meet Privacy Policy
+
+[This Privacy Supplement](https://jitsi.org/meet-jit-si-privacy/) describes what personal information 8×8 processes for the meet.jit.si video meeting service and why.
