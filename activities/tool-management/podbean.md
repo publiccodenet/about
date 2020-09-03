@@ -8,11 +8,11 @@ Podbean is a podcast publishing and monetization service, providing free and pre
 
 ## Guidance on using Podbean
 
-We use [Podbean](https://www.podbean.com/) for recording and publishing the podcast [Let's talk about public code](https://podcast.publiccode.net/) whch we make with team members of the codebases we work on.
+We use [Podbean](https://www.podbean.com/) for recording and publishing the podcast [Let's talk about public code](https://podcast.publiccode.net/) which we make with team members of the codebases we work on.
 
 ## Podbean Management
 
-The Operations coordinator set up the service and supports the team with technical settings. The Codebase Stewards have access to the plaform.
+The Operations coordinator set up the service and supports the team with technical settings. The Codebase stewards have access to the platform.
 
 ## Privacy policy
 
