@@ -26,7 +26,7 @@ We’re especially interested in learning what you need to implement the [Standa
 
 We're currently hiring codebase stewards - [see our careers and open positions](https://publiccode.net/careers).
 
-[Join our mailing list] to keep up with our news.
+[Join our mailing list](https://forms.gle/gn7wR2Eaxbv5g1BF9) to keep up with our news.
 
 ## Public organizations
 
