@@ -16,5 +16,5 @@ Odoo Community is currently hosted and maintained by a service provider in the U
 
 ## Odoo Privacy Policy
 
-> Our future service provider has published their 'verwerkersovereenkomst' [on their website](https://www.openworx.nl/verwerkersovereenkomst). 
+> Our future service provider has published their 'verwerkersovereenkomst' [on their website](https://www.openworx.nl/verwerkersovereenkomst).
 Their [privacy policy](https://www.openworx.nl/privacy-statement) (also in Dutch) is available as well.
