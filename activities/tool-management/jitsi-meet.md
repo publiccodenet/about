@@ -13,8 +13,7 @@ community enable other features such as audio, dial-in, recording, and simulcast
 * Jitsi Meet can be reached on 'meet.publiccode.net'
 * All our team members can create rooms. The link to the room can be shared publicly or secretly, depending on the purpose of the meeting.
 * The first person to create a room or enter an existing room is the host, and is required to authenticate by entering their log-in credentials.
-* Guest can join the meeting when the have the link. As an extra security measure a password can be added to the room, so guest
-also need the password next to the meeting link.
+* Guest can join the meeting when the have the link. As an extra security measure a password can be added to the room, so guest also need the password next to the meeting link.
 
 ## Jitsi Management
 
