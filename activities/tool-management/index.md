@@ -12,8 +12,11 @@ The Foundation for Public Code needs tools to accomplish its mission. This is ho
 # Tool overview
 
 * [Jitsi Meet is our videoconfering tool.](jitsi-meet.md)
+* [For chat we use Mattermost, the open source alternative for Slack](mattermost.md)
 * [Odoo Community for CRM and project management](odoo.md)
 * [We manage contracts using Docusign.](docusign.md)
-* [We use G Suite for email, calendaring and internal document management.](G-Suite.md)
-* [We use Tentoo for human resources management, including processing salaries and expenses.](tentoo.md)
+* [G Suite is used for email, calendaring and internal document management.](G-Suite.md)
+* [Tentoo is for human resources management, including processing salaries and expenses.](tentoo.md)
+* [We use Podbean for publishing our podcasts.](podbean.md)
+* [Streamyard is used for (live) streaming codebase stories and interviews.](streamyard.md)
 
