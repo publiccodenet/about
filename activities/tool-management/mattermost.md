@@ -12,8 +12,7 @@ Mattermost chat is an important means of communication for the team. [Its guidan
 
 ## Mattermost Management
 
-Mattermost is installed, maintained and kept up-to-date by the operations coordinator. User registration and management also falls under the operations
-coordinator responsibilities. This includes uploading important emojis :)
+Mattermost is installed, maintained and kept up-to-date by the Operations coordinator. User registration and management also falls under the Operations coordinator responsibilities. This includes uploading important emojis :)
 
 ## Mattermost GDPR
 
