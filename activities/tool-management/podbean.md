@@ -12,7 +12,7 @@ We use [Podbean](https://www.podbean.com/) for recording and publishing the podc
 
 ## Podbean Management
 
-The operations coordinator set up the service and supports the team with technical settings. The Codebase Stewards have access to the plaform.
+The Operations coordinator set up the service and supports the team with technical settings. The Codebase Stewards have access to the plaform.
 
 ## Privacy policy
 
