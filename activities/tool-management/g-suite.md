@@ -9,7 +9,7 @@ We use G Suite for email, calendaring and internal document management.
 
 ## G Suite Management
 
-G Suite's (user) administration is managed by the operations coordinator. The operations coordinator as well as the Chief Executive a have full adminstrative privilige. The operations coordinator is responsible for user management and ensures proper on-boarding and off-boarding policies are in place. The operations coordinator is also responsible for creating and managing groups, aliases, domain management and 3rd party app integrations.
+G Suite's (user) administration is managed by the Operations coordinator. The Operations coordinator as well as the Chief executive a have full adminstrative priviliges. The Operations coordinator is responsible for user management and ensures proper on-boarding and off-boarding policies are in place and also creates and managing groups, aliases, domain management and 3rd party app integrations.
 
 ## G Suite GDPR
 
