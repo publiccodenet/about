@@ -8,7 +8,7 @@ type: resource
 
 ## Guidance on using Streamyard
 
-The operations coordinator created an account with an alias and the Codebase Stewards have access to the platform. We use Streamyard for (live) streaming codebase stories and interviews.
+The Operations coordinator created an account with an alias and the Codebase stewards have access to the platform. We use Streamyard for live streaming codebase stories and interviews.
 
 ## Streamyard Management
 
