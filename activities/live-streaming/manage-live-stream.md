@@ -9,7 +9,7 @@ When running a [live stream](index.md) of 'Let's talk about  public code' there 
 
 - Test everything before going live.
 - Prepare tabs with easy access to moderation tools of the different platforms to be able to intervene in case of offensive commenting. Preferably, this is done by a staff member not in the actual interview.
-- Meet with the guest in [StreamYard](streamyard.md] 30 minutes before going live
+- Meet with the guest in [StreamYard](../tool-management/streamyard.md] 30 minutes before going live
 - Keep an eye on attendees questions and behaviour: when are they connecting, which is the most successful platform and why, best timing, etc.
 - When it's time to start the stream, press Go live and quickly start the intro video
 - Start by only having the interviewers on screen.
