@@ -16,7 +16,7 @@ G Suite's (user) administration is managed by the operations coordinator. The op
 Google's [introduction to Google Cloud & the General Data Protection Regulation (GDPR)](https://cloud.google.com/security/gdpr/) says that G Suite
 relies on model contracts:
 
-> We contractually commit under our current data processing agreements to maintain a mechanism that facilitates transfers of personal data 
+> We contractually commit under our current data processing agreements to maintain a mechanism that facilitates transfers of personal data
 outside of the EU as required by the GDPR. Google’s certification under the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks includes G Suite
 and Google Cloud Platform. We have also gained confirmation of compliance from European Data Protection Authorities for our model contract clauses,
 affirming that our contractual commitments for G Suite and Google Cloud Platform fully meet the requirements to legally frame transfers of personal data from the EU to the rest of the world."
