@@ -16,11 +16,11 @@ community enable other features such as audio, dial-in, recording, and simulcast
 * Guest can join the meeting when the have the link. As an extra security measure a password can be added to the room, so guest
 also need the password next to the meeting link.
 
-## Jitsi Administration
+## Jitsi Management
 
 Jitsi is running on a VPS with 8 GB of RAM for resilience and scalability. The VPS is maintained by the operations coordinator who also takes care
 user adminstration and customizations.
 
 ## Jitsi Meet Privacy Policy
 
-[This Privacy Supplement](https://jitsi.org/meet-jit-si-privacy/) describes what personal information 8×8 processes for the meet.jit.si video meeting service and why.
+> [This Privacy Supplement](https://jitsi.org/meet-jit-si-privacy/) describes what personal information 8×8 processes for the meet.jit.si video meeting service and why.
