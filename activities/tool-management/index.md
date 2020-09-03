@@ -15,8 +15,7 @@ The Foundation for Public Code needs tools to accomplish its mission. This is ho
 * [For chat we use Mattermost, the open source alternative for Slack](mattermost.md)
 * [Odoo Community for CRM and project management](odoo.md)
 * [We manage contracts using Docusign.](docusign.md)
-* [G Suite is used for email, calendaring and internal document management.](G-Suite.md)
+* [G Suite is used for email, calendaring and internal document management.](g-suite.md)
 * [Tentoo is for human resources management, including processing salaries and expenses.](tentoo.md)
 * [We use Podbean for publishing our podcasts.](podbean.md)
 * [Streamyard is used for (live) streaming codebase stories and interviews.](streamyard.md)
-
