@@ -11,7 +11,7 @@ We use live streams as a tool to communicate. The format we have chosen is a pod
 - **Become discoverable:** Create another way for people we would like to know who don't know that we exist or what we do *to discover us*.
 - **Grow** our codebases **community**.
 - Get in **direct touch with key figures** of top projects. Possible way in to steward or make them members of the Foundation for Public Code.
-- Get **more** Social Media **followers** since we are going to use those networks for this project. 
+- Get **more** Social Media **followers** since we are going to use those networks for this project.
 
 ## Formats, length and schedule
 
@@ -31,6 +31,7 @@ The overlap between the guest's experience and our interests should be clear in 
 ## Target audience
 
 Codebase level:
+
 - Civil servants working on public code codebases (ie. potential stewardship material) and project managers
 - Civic tech people working on codebases in use by public orgs
 - People interested in FOSS in general

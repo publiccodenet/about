@@ -34,7 +34,6 @@ Ready **three weeks** (at least) in advance:
 - Social media campaign: short video with the guest if possible
 - Shared strategy with the stakeholders involved for every interview
 
-
 ## See also
 
 - [Manage the live stream](manage-live-stream.md)
