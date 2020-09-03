@@ -44,7 +44,7 @@ Codebase level:
 
 ## Distribution
 
-We use [Streamyard](streamyard.md) as a tool for the live stream, it can stream to several platforms. For the podcast, we use [Podbean](../tool-management/podbean.md ).
+We use [Streamyard](../tool-management/streamyard.md) as a tool for the live stream, it can stream to several platforms. For the podcast, we use [Podbean](../tool-management/podbean.md ).
 
 ## Guides
 
