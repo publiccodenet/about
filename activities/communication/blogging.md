@@ -71,7 +71,6 @@ author: [put your name]
 type: blogpost
 excerpt: [unformatted text you want to appear on the index]
 category: [our current categories are: news, community call and codebase stewardship]
-
 ---
 ```
 
