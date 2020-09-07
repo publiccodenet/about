@@ -31,8 +31,8 @@ Our communications should help us achieve [our current priorities](../../organiz
 
 Our audience is divided into:
 
-* current Foundation contributors
-* future Foundation contributors
+* current Foundation for Public Code contributors
+* future Foundation for Public Code contributors
 * influencers
 
 ### Foundation contributors
