@@ -32,7 +32,7 @@ These are some tools some of us find helpful:
 * [HackMD.io](https://hackmd.io/) - for collaborating on draft documents in Markdown with people outside the organization (especially helpful for content we plan to publish)
 * [Markdown Here](https://markdown-here.com/) - for formatting emails written using Markdown
 * [Github Learning lab](https://lab.github.com/) - for learning git or refresh your skill
-* [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) - for a list of the most common used git commands
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - for a list of the most common used git commands
 
 ## Useful context
 
