@@ -2,11 +2,11 @@
 type: Resource
 ---
 
-# Template Agenda
+# Template agenda
 
 ## Introduction
 
-* 13:00 - 13:05 Welcome & Opening
+* 13:00 - 13:05 Welcome and opening
 * 13:05 - 13:30 Introduction round
   * Name, organization, and respond to 'how can the codebase create value for my business?'
 
@@ -30,4 +30,4 @@ type: Resource
 ## Closing
 
 * 15:30 - 15:40 Break
-* 15:40 - 16:00 Closing, reflections & next steps
+* 15:40 - 16:00 Closing, reflections and next steps
