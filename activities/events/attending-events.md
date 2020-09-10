@@ -23,7 +23,7 @@ Before using this guide, make sure to [get a decision on attending the event](de
 * Consider using a shared document to do the planning in, perhaps using [this template](events-planning-template.md).
 * Plan your [travels](../staff-management/travel.md).
 * Prepare a team chat (that is capable of notifications) if you are more than one staff member attending.
-* Rehearse and make sure you attend to the event with a brief pitch explaining what our Foundation does. Tailor the pitch to the audience you are going to meet.
+* Make sure you attend the event with a brief, well-rehearsed [pitch explaining what the Foundation for Public Code does](../communication/pitching.md). Tailor the pitch to the audience you are going to meet.
 
 ### During the event
 
@@ -59,3 +59,4 @@ Before using this guide, make sure to [get a decision on attending the event](de
 
 * [Publish a blogpost](https://github.com/publiccodenet/blog) promptly (no more than a week later) (based on good photos, running notes, team debrief and tweets).
 * Establish a plan of follow ups: 1st contact right after the event (<2 days after), 2nd contact a week later that mail/invitation and a 3rd one a month later in case the communication flow gets interrupted.
+
