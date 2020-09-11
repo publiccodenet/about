@@ -30,7 +30,7 @@ Before using this guide, make sure to [get a decision on attending the event](de
 If you're speaking at an event, check that:
 
 * your talk is listed correctly on the agenda
-* the organizers have used the correct speaker photo and biography (this should probably be the same as your [publiccode.net team bio](https://publiccode.net/team/))
+* the organizers have used the correct speaker photo and biography (usually your [publiccode.net team bio](https://publiccode.net/team/))
 * the organizers have the correct social media handle and contact details for you
 * the organizers have uploaded the correct and full video for your talk (if pre-recorded)
 
