@@ -27,21 +27,160 @@ We believe it’s more important to talk concretely about what we’ve already d
 
 Our communications should help us achieve [our current priorities](../../organization/mission.md#current-priorities).
 
+We have separate goals and objectives for different audiences and fora.
+
 ## Audience
 
-Our audience is divided into:
+Our audience is individuals from potential public member organizations, codebase communities, donors, staff, and board members.
 
-* current Foundation for Public Code contributors
-* future Foundation for Public Code contributors
-* influencers
+We believe we'll find them in fora organized by/for:
 
-### Foundation contributors
+* public tech fora, for example Code4NL 
+* public organization leadership, for example CommonGround or OneTeamGov
+* public organization middle management, for example iBestuur or Apolitical
+* think tanks, for example FSFE, Ford Foundation, New America Foundation,  Beeck Center for Social Impact and Innovation or Code for America
+* potential codebase communities and stakeholders - including commercial vendors
 
-We believe [these are potential contributors to the Foundation for Public Code](https://about.publiccode.net/activities/value-and-impact/user-mapping/).
+## Success criteria and indicators for target fora
 
-### Influencers
+Nota bene: none of these goals contain 'hype' or 'coolness' because being perceived as trendy or zeitgeisty /won't/ help us build the trustworthy reputation or longterm relationships we need to succed.
 
-These are domain celebrities (both individuals and organizations) in open source, government digital transformation and civic tech.
+### Public tech fora
+
+Our goal for engagement with this group is:
+
+- they're aware of us and our mission, and believe this is the right thing to do
+- they engage critically with our content, use it and strengthen it
+- they talk about us with other people
+
+Success is shown these responses:
+
+- being asked to join a conversation
+- Github issues/contributions to our tools
+- recommendations or referrals
+- joining our events
+- endorsing/hyping our events/co-hosting our events
+- invitations to speak at/contribute to their platforms (publications and events)
+
+### Public organisation leadership:
+
+Our goal for engagement with this group is:
+
+- they're aware of us and our mission, and believe this is the right thing to do
+- they believe we can add value to their organizations
+- we're not an organizational risk to them
+- they think public code is achievable in their organization
+- they're willing to invest political capital because they think will add to their careers (good optics?)
+
+Success is shown these responses:
+
+- request to prepare something for the leader
+- being asked to join a conversation
+- request for hard copy of our tools (Standard, Governance Game, etc)
+- recommendations or referrals
+- invitations to speak at/contribute to their platforms (publications and events)
+
+### Middle management
+
+Our goal for engagement with this group is:
+
+- they're aware of us and our mission, and believe this is the right thing to do
+- they believe we can add value to their organizations- we're not an organizational risk to them
+- they think public code is achievable in their organization
+
+Success is shown these responses:
+
+- spontaneous recommendations or referrals
+- us being asked to join a conversation
+- requests for our tools in their preferred format/language
+- request for 1:1 contact
+- successfully delivered 1:1 contact
+- codebase specific consultation
+- invitations to speak at/contribute to their platforms (publications and events)
+- references in gov't policy/strategy documents
+
+### Think tanks (influential civil society organizations with intellectual output)
+
+Our goal for engagement with this group is:
+
+- they're aware of us and our mission
+- think we're doing valuable work well
+- want them to see us as a key part of solving the problem
+- public recommendations and referrals from them
+
+Success is shown these responses:
+
+- recommendations or referrals
+- invitations to speak at/contribute to their platforms
+- being asked to join a conversation
+
+
+### Potential codebase communities
+
+Our goal for engagement with this group is:
+
+- they believe we can add value to their projects/organization - we're not a risk to their work
+- think we're doing valuable work well
+- they think public code is achievable in their project
+
+Success is shown these responses:
+
+- asking for codebase stewardship
+- joining our events
+- being asked to join a conversation
+- request for 1:1 contact
+- successfully delivered 1:1 contact
+- recommendations or referrals
+- Github issues/contributions to our tools
+- invitations to speak at/contribute to their platforms (publications and events)
+
+
+### Donors and board members:
+
+Success is shown these responses:
+
+- expressions of interest or encouragement
+- recommendations or referrals
+
+## How do we get these folks' attention and respect?
+
+Our content:
+
+- doing good work
+- clearly communicating what that work has been
+- building useful, reusable tools
+- helping others use our tools
+- running interesting events
+
+Other people's content or platforms:
+
+- giving interesting, timely talks
+- writing useful or interesting articles
+- being written about favorably (press)
+- being established (Wikipedia)
+- being invoked in existing conversations
+
+## What do we need to do?
+
+Us:
+
+- good works
+- documentation
+- storytelling
+- broadcasting/sharing stories
+- celebrating successful use of our tools
+- awesome events
+- be available (reliably)
+- being part of our communities
+
+Others:
+
+- pitching talks
+- pitching articles for other platforms
+- helping journalists write about us
+- pitching to journalists/press releases?
+- creating Wikipedia pages for Ben, the Foundation for Public Code; updating Pieter & Arnout's pages
+- being available for 1:1 consultations, discussions, interviews, "just picking your brain" coffees
 
 ## Unique selling proposition
 
@@ -62,57 +201,6 @@ We are also actively building our ecosystem by:
 * setting standards and creating reusable resources (by providing thought leadership!)
 * demonstrating the value of public code with well documented, public business cases and risk analyses
 * nurturing our community online, and – where sensible – in person
-
-## Calls to action
-
-### Decision makers and sponsors
-
-This includes:
-
-* [political](../value-and-impact/user-mapping/political.html)
-* [senior civil servants](../value-and-impact/user-mapping/senior-civil-servants.html)
-* [structural funding and philanthropy](../value-and-impact/user-mapping/structural-funding-philanthropy.html)
-
-Messages:
-
-* Find out more about [place or institution’s] interesting public code(ish) approach/project
-* Find out more about the Foundation for Public Code and its work (new member signed up, new codebase incubated)
-* Find out more about the Foundation for Public Code and its vision
-* International movements/partnerships for being smarter about technology/digital infrastructure (“you want to be part of this club of innovators”)
-* Find out more about the Standard and certification (how we contribute to risk reduction)
-* Find out more about codebase reuse (multiplying tech investment or saving money)
-
-### Users and contributors
-
-This includes:
-
-* the policy community
-* [the tech and open source communities](../value-and-impact/user-mapping/developers-and-designers.html)
-* [business management and procurement for public administrations](../value-and-impact/user-mapping/management-and-procurement.html)
-
-Messages:
-
-* Find out more about [place or institution’s] interesting technological approach to public code or open source (objective: creating an enabling environment within government by showing this is normal elsewhere)
-* Find out more about [place or institution’s] interesting policy approach to public code or open policymaking (objective: creating an enabling environment within government by showing this is normal elsewhere)
-* Find out more about [place or institution’s] interesting management approach to procuring or producing public code or open source code (objective: creating an enabling environment within government by showing this is normal elsewhere)
-* Find out more about the Standard and our other resources for different user groups
-* Come to meetups and events
-* News from and profiles of our contributor community (‘join our thriving community!’)
-
-### Other interested parties
-
-This includes:
-
-* vendors and the private sector
-* end users (residents and citizens)
-* journalists, academia and non-governmental organizations
-
-Messages:
-
-* Good news from our partners and affiliates (eg, relevant session at organization X’s annual conference!)
-* Any news about Foundation or codebase impact for end users (eg, check out these communications by a member about their new software for managing parking)
-* State of the market info about/for vendors (focusing on a class of vendors, rather than endorsing specific vendors)
-* Potentially: announcing when a new vendor becomes available to support a specific codebase (like [this OS2 example](https://os2.eu/blog/en-ny-leverandoer-til-os2kitos-fra-juni-2019))
 
 ## Channels
 
