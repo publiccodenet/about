@@ -15,11 +15,11 @@ We use live streams as a tool to communicate. The format we have chosen is a pod
 
 ## Formats, length and schedule
 
-1. **Frequency**: Ambition to make it at least monthly
+1. **Frequency**: Ambition to make it at least monthly.
 2. Two different **formats**: one for codebases, one for the Foundation.
-3. For the codebases, the format is an interview by two codebase stewards with someone from a codebase
+3. For the codebases, the format is an interview by two codebase stewards with someone from a codebase.
 4. For the Foundation, the format is a conversation between two persons from the foundation. This can be theoretical, about ideas and principles or about news.
-5. Language: English
+5. Language: English.
 6. Have one or a few recurrent questions we ask every guest. That builds familiarity of the show and can also reveal aspects / differences between codebases.
 7. Timing: minimum 20 minute livestream during business hours - start 2pm UTC. Promise that the podcast will be live by close of business the next day. Aim to hold this on Tuesdays.
 
@@ -32,14 +32,14 @@ The overlap between the guest's experience and our interests should be clear in 
 
 Codebase level:
 
-- Civil servants working on public code codebases (ie. potential stewardship material) and project managers
-- Civic tech people working on codebases in use by public organizations
-- People interested in free and open source software in general
-- People interested by specific types of software
-- Media following up on a particular codebase or use case
-- The codebase being interviewed and its followers
-- Politicians interested in a specific project/city
-- Vendors/tenders
+- Civil servants working on public code codebases (ie. potential stewardship material) and project managers.
+- Civic tech people working on codebases in use by public organizations.
+- People interested in free and open source software in general.
+- People interested by specific types of software.
+- Media following up on a particular codebase or use case.
+- The codebase being interviewed and its followers.
+- Politicians interested in a specific project/city.
+- Vendors/tenders.
 - Other people involved in the codebase: designers, user experience, communication, competitors, etc.
 
 ## Distribution
