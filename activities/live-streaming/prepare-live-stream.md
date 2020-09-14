@@ -12,7 +12,7 @@ When setting up a new [live stream](index.md) for 'Let's talk about  public code
 - Decide who will be the next guest
 - Decide the date and time of the stream
 - Prepare questions for the interview in a HackMD shared with all interviewers
-- Share the questions with the guest so no delays happen and he/she can run it with his/her communications dept. if needed.
+- Share the questions with the guest so no delays happen and he/she can run it with his/her communications department if needed.
 - An ace up your sleeve: backup name in case the current guest can't make it. Ideally, that person would be the next guest.
 - Update the running script intro and rounding off sections
 
