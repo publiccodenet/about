@@ -21,7 +21,7 @@ We use live streams as a tool to communicate. The format we have chosen is a pod
 4. For the Foundation, the format is a conversation between two persons from the foundation. This can be theoretical, about ideas and principles or about news.
 5. Language: English
 6. Have one or a few recurrent questions we ask every guest. That builds familiarity of the show and can also reveal aspects / differences between codebases.
-7. Timing: minimum 20 minute livestream during business hours - start 2pm UTC. Promise that the podcast will be live by lose of business the next day. Aim to hold this on Tuesdays.
+7. Timing: minimum 20 minute livestream during business hours - start 2pm UTC. Promise that the podcast will be live by close of business the next day. Aim to hold this on Tuesdays.
 
 ### Guest selection criteria
 
