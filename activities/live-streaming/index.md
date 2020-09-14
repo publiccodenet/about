@@ -9,8 +9,8 @@ We use live streams as a tool to communicate. The format we have chosen is a pod
 ## Goals
 
 - **Become discoverable:** Create another way for people we would like to know who don't know that we exist or what we do *to discover us*.
-- **Grow** our codebases **community**.
-- Get in **direct touch with key figures** of top projects. Possible way in to steward or make them members of the Foundation for Public Code.
+- **Grow** our codebase's **community**.
+- Get in **touch directly with key figures** of top projects. Possible way in to steward or make them members of the Foundation for Public Code.
 - Get **more** Social Media **followers** since we are going to use those networks for this project.
 
 ## Formats, length and schedule
