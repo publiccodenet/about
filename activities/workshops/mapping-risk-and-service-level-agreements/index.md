@@ -13,7 +13,7 @@ Have a collaborative working session with new or existing community members to m
 Discussions about service level agreements can get very technical quite quickly.
 Try steer the workshop on what the most important risks are according to the participants.
 Verify this by asking participants to prioritize risks by their impact and likelihood.
-Other questions you can ask is what process can be followed to mitigate these risks.
+Ask what process can be followed to mitigate these risks.
 
 ## Resource
 
