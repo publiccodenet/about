@@ -33,7 +33,7 @@ The overlap between the guest's experience and our interests should be clear in 
 Codebase level:
 
 - Civil servants working on public code codebases (ie. potential stewardship material) and project managers
-- Civic tech people working on codebases in use by public orgs
+- Civic tech people working on codebases in use by public organizations
 - People interested in FOSS in general
 - People interested by specific types of software
 - Media following up on a particular codebase or use case
