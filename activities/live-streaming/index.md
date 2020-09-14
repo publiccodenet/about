@@ -34,13 +34,13 @@ Codebase level:
 
 - Civil servants working on public code codebases (ie. potential stewardship material) and project managers
 - Civic tech people working on codebases in use by public organizations
-- People interested in FOSS in general
+- People interested in free and open source software in general
 - People interested by specific types of software
 - Media following up on a particular codebase or use case
 - The codebase being interviewed and its followers
 - Politicians interested in a specific project/city
 - Vendors/tenders
-- Other people involved in the codebase: designers, UX, communication, competitors, etc.
+- Other people involved in the codebase: designers, user experience, communication, competitors, etc.
 
 ## Distribution
 
