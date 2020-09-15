@@ -8,7 +8,7 @@ The Foundation for Public Code relies on communications to [achieve its mission]
 
 ## Principles
 
-Our communications need to reflect our core values: open, quality, trust, community, helpful. They must also be non-partisan, in line with our [founding principles](../../organization/mission.md#founding-principles).
+Our communications need to reflect our core values: open, quality, trust, community, helpful. They must also be non*partisan, in line with our [founding principles](../../organization/mission.md#founding*principles).
 
 Our messages range from neutral in tone to positive and inspirational. Our community won’t be sustainable if we attract people motivated by fear or anger.
 
@@ -25,7 +25,7 @@ We believe it’s more important to talk concretely about what we’ve already d
 
 ## Objectives
 
-Our communications should help us achieve [our current priorities](../../organization/mission.md#current-priorities).
+Our communications should help us achieve [our current priorities](../../organization/mission.md#current*priorities).
 
 We have separate goals and objectives for different audiences and fora.
 
@@ -35,7 +35,7 @@ Our audience is individuals from potential public member organizations, codebase
 
 We believe we'll find them in fora organized by/for:
 
-* public tech fora, for example Code4NL 
+* public tech fora, for example Code4NL
 * public organization leadership, for example CommonGround or OneTeamGov
 * public organization middle management, for example iBestuur or Apolitical
 * think tanks, for example FSFE, Ford Foundation, New America Foundation,  Beeck Center for Social Impact and Innovation or Code for America
@@ -49,144 +49,142 @@ Nota bene: none of these goals contain 'hype' or 'coolness' because being percei
 
 Our goal for engagement with this group is:
 
-- they're aware of us and our mission, and believe this is the right thing to do
-- they engage critically with our content, use it and strengthen it
-- they talk about us with other people
+* they're aware of us and our mission, and believe this is the right thing to do
+* they engage critically with our content, use it and strengthen it
+* they talk about us with other people
 
 Success is shown these responses:
 
-- being asked to join a conversation
-- Github issues/contributions to our tools
-- recommendations or referrals
-- joining our events
-- endorsing/hyping our events/co-hosting our events
-- invitations to speak at/contribute to their platforms (publications and events)
+* being asked to join a conversation
+* Github issues/contributions to our tools
+* recommendations or referrals
+* joining our events
+* endorsing/hyping our events/co*hosting our events
+* invitations to speak at/contribute to their platforms (publications and events)
 
-### Public organisation leadership:
+### Public organisation leadership
 
 Our goal for engagement with this group is:
 
-- they're aware of us and our mission, and believe this is the right thing to do
-- they believe we can add value to their organizations
-- we're not an organizational risk to them
-- they think public code is achievable in their organization
-- they're willing to invest political capital because they think will add to their careers (good optics?)
+* they're aware of us and our mission, and believe this is the right thing to do
+* they believe we can add value to their organizations
+* we're not an organizational risk to them
+* they think public code is achievable in their organization
+* they're willing to invest political capital because they think will add to their careers (good optics?)
 
 Success is shown these responses:
 
-- request to prepare something for the leader
-- being asked to join a conversation
-- request for hard copy of our tools (Standard, Governance Game, etc)
-- recommendations or referrals
-- invitations to speak at/contribute to their platforms (publications and events)
+* request to prepare something for the leader
+* being asked to join a conversation
+* request for hard copy of our tools (Standard, Governance Game, etc)
+* recommendations or referrals
+* invitations to speak at/contribute to their platforms (publications and events)
 
 ### Middle management
 
 Our goal for engagement with this group is:
 
-- they're aware of us and our mission, and believe this is the right thing to do
-- they believe we can add value to their organizations- we're not an organizational risk to them
-- they think public code is achievable in their organization
+* they're aware of us and our mission, and believe this is the right thing to do
+* they believe we can add value to their organizations* we're not an organizational risk to them
+* they think public code is achievable in their organization
 
 Success is shown these responses:
 
-- spontaneous recommendations or referrals
-- us being asked to join a conversation
-- requests for our tools in their preferred format/language
-- request for 1:1 contact
-- successfully delivered 1:1 contact
-- codebase specific consultation
-- invitations to speak at/contribute to their platforms (publications and events)
-- references in gov't policy/strategy documents
+* spontaneous recommendations or referrals
+* us being asked to join a conversation
+* requests for our tools in their preferred format/language
+* request for 1:1 contact
+* successfully delivered 1:1 contact
+* codebase specific consultation
+* invitations to speak at/contribute to their platforms (publications and events)
+* references in gov't policy/strategy documents
 
 ### Think tanks (influential civil society organizations with intellectual output)
 
 Our goal for engagement with this group is:
 
-- they're aware of us and our mission
-- think we're doing valuable work well
-- want them to see us as a key part of solving the problem
-- public recommendations and referrals from them
+* they're aware of us and our mission
+* think we're doing valuable work well
+* want them to see us as a key part of solving the problem
+* public recommendations and referrals from them
 
 Success is shown these responses:
 
-- recommendations or referrals
-- invitations to speak at/contribute to their platforms
-- being asked to join a conversation
-
+* recommendations or referrals
+* invitations to speak at/contribute to their platforms
+* being asked to join a conversation
 
 ### Potential codebase communities
 
 Our goal for engagement with this group is:
 
-- they believe we can add value to their projects/organization - we're not a risk to their work
-- think we're doing valuable work well
-- they think public code is achievable in their project
+* they believe we can add value to their projects/organization * we're not a risk to their work
+* think we're doing valuable work well
+* they think public code is achievable in their project
 
 Success is shown these responses:
 
-- asking for codebase stewardship
-- joining our events
-- being asked to join a conversation
-- request for 1:1 contact
-- successfully delivered 1:1 contact
-- recommendations or referrals
-- Github issues/contributions to our tools
-- invitations to speak at/contribute to their platforms (publications and events)
+* asking for codebase stewardship
+* joining our events
+* being asked to join a conversation
+* request for 1:1 contact
+* successfully delivered 1:1 contact
+* recommendations or referrals
+* Github issues/contributions to our tools
+* invitations to speak at/contribute to their platforms (publications and events)
 
-
-### Donors and board members:
+### Donors and board members
 
 Success is shown these responses:
 
-- expressions of interest or encouragement
-- recommendations or referrals
+* expressions of interest or encouragement
+* recommendations or referrals
 
 ## How do we get these folks' attention and respect?
 
 Our content:
 
-- doing good work
-- clearly communicating what that work has been
-- building useful, reusable tools
-- helping others use our tools
-- running interesting events
+* doing good work
+* clearly communicating what that work has been
+* building useful, reusable tools
+* helping others use our tools
+* running interesting events
 
 Other people's content or platforms:
 
-- giving interesting, timely talks
-- writing useful or interesting articles
-- being written about favorably (press)
-- being established (Wikipedia)
-- being invoked in existing conversations
+* giving interesting, timely talks
+* writing useful or interesting articles
+* being written about favorably (press)
+* being established (Wikipedia)
+* being invoked in existing conversations
 
 ## What do we need to do?
 
 Us:
 
-- good works
-- documentation
-- storytelling
-- broadcasting/sharing stories
-- celebrating successful use of our tools
-- awesome events
-- be available (reliably)
-- being part of our communities
+* good works
+* documentation
+* storytelling
+* broadcasting/sharing stories
+* celebrating successful use of our tools
+* awesome events
+* be available (reliably)
+* being part of our communities
 
 Others:
 
-- pitching talks
-- pitching articles for other platforms
-- helping journalists write about us
-- pitching to journalists/press releases?
-- creating Wikipedia pages for Ben, the Foundation for Public Code; updating Pieter & Arnout's pages
-- being available for 1:1 consultations, discussions, interviews, "just picking your brain" coffees
+* pitching talks
+* pitching articles for other platforms
+* helping journalists write about us
+* pitching to journalists/press releases?
+* creating Wikipedia pages for Ben, the Foundation for Public Code; updating Pieter & Arnout's pages
+* being available for 1:1 consultations, discussions, interviews, "just picking your brain" coffees
 
 ## Unique selling proposition
 
 Though many specific things we do are also offered by other organizations, we're the only organization focused on open source software for public organizations that does all of this together:
 
-* is non-profit and member owned with membership only open to public organizations
+* is non*profit and member owned with membership only open to public organizations
 * offers codebase stewardship for different projects
 * offers productization and marketing of the codebases
 * actually provides guidance and support to help public organizations make their code open
@@ -196,7 +194,7 @@ Though many specific things we do are also offered by other organizations, we're
 
 We are also actively building our ecosystem by:
 
-* connecting members with like-minded parties (members and other public organizations, affiliates and structural funders)
+* connecting members with like*minded parties (members and other public organizations, affiliates and structural funders)
 * boosting awareness of public code
 * setting standards and creating reusable resources (by providing thought leadership!)
 * demonstrating the value of public code with well documented, public business cases and risk analyses
@@ -208,7 +206,7 @@ Our channels are:
 
 * [Our blog](https://blog.publiccode.net/): long form, platform of record (read more about our blog)
 * [Twitter](https://twitter.com/publiccodenet/): short form, ephemera
-* LinkedIn: share our blogposts or re-share others' content about us, ephemera (mostly avoid, since it’s a closed platform - even linking to it here breaks our continuous integration)
+* LinkedIn: share our blogposts or reshare others' content about us, ephemera (mostly avoid, since it’s a closed platform - even linking to it here breaks our continuous integration)
 * Facebook: medium form, ephemera (mostly avoid, since it’s a closed platform)
 
 Our posting frequency is:
