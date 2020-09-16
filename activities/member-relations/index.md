@@ -14,7 +14,7 @@ If you're interested in membership for your organization, or have any questions,
 
 ## 1. Membership growth
 
-During member growth we connect with and support wholly publically-owned organizations in their path towards membership.
+During membership growth we connect with and support wholly publicly-owned organizations in their path towards membership.
 
 In this phase, we aim to:
 
@@ -22,7 +22,7 @@ In this phase, we aim to:
 * determine focal and contact points within the prospective member organization
 * gain insight into the member's organizational structures and how codebase stewardship can benefit them
 
-We conduct various activities during member acquisition, like meetings to exchange knowledge and support with contracting. We can also offer workshops to raise awareness about:
+We conduct various activities during membership growth, like meetings to exchange knowledge and support with contracting. We can also offer workshops to raise awareness about:
 
   * codebase stewardship
   * public code
@@ -31,7 +31,7 @@ We conduct various activities during member acquisition, like meetings to exchan
 
 To make it easier for the potential member, we have regular calls to answer any questions and ensure continuous, open communication.
 
-Member growth is finalized when the public organization signs a [membership contract](../membership-growth/membership-contract.md).
+Membership growth is finalized when the public organization signs a [membership contract](../membership-growth/membership-contract.md).
 
 ## 2. Member onboarding
 
