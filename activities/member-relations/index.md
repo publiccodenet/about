@@ -12,7 +12,7 @@ The process towards full membership is roughly divided into three phases, noting
 
 ## 1. Membership growth
 
-During member growth we connect with and support wholly publically-owned organizations in their path towards membership.
+During member growth we connect with and support wholly publicly-owned organizations in their path towards membership.
 
 In this phase, we aim to:
 
