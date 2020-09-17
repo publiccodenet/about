@@ -180,6 +180,16 @@ Others:
 * creating Wikipedia pages for Ben, the Foundation for Public Code; updating Pieter & Arnout's pages
 * being available for 1:1 consultations, discussions, interviews, "just picking your brain" coffees
 
+## Prioritization
+
+Since we can't do everything all of the time, we prioritize scalablity and reusability. This taxonomy helps us in our planning:
+
+* public/generic (like our websites)
+* public/customized (like conference talks or authored articles)
+* private/generic (like templated emails)
+* private/customized (like emails)
+
+
 ## Unique selling proposition
 
 Though many specific things we do are also offered by other organizations, we're the only organization focused on open source software for public organizations that does all of this together:
