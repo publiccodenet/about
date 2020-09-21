@@ -53,7 +53,7 @@ Our goal for engagement with this group is:
 * they engage critically with our content, use it and strengthen it
 * they talk about us with other people
 
-Success is shown these responses:
+These responses indicate success:
 
 * being asked to join a conversation
 * Github issues/contributions to our tools
@@ -72,7 +72,7 @@ Our goal for engagement with this group is:
 * they think public code is achievable in their organization
 * they're willing to invest political capital because they think will add to their careers (good optics?)
 
-Success is shown these responses:
+These responses indicate success:
 
 * request to prepare something for the leader
 * being asked to join a conversation
@@ -89,7 +89,7 @@ Our goal for engagement with this group is:
 * we're not an organizational risk to them
 * they think public code is achievable in their organization
 
-Success is shown these responses:
+These responses indicate success:
 
 * spontaneous recommendations or referrals
 * us being asked to join a conversation
@@ -109,7 +109,7 @@ Our goal for engagement with this group is:
 * want them to see us as a key part of solving the problem
 * public recommendations and referrals from them
 
-Success is shown these responses:
+These responses indicate success:
 
 * recommendations or referrals
 * invitations to speak at/contribute to their platforms
@@ -124,7 +124,7 @@ Our goal for engagement with this group is:
 * think we're doing valuable work well
 * they think public code is achievable in their project
 
-Success is shown these responses:
+These responses indicate success:
 
 * asking for codebase stewardship
 * joining our events
@@ -137,7 +137,7 @@ Success is shown these responses:
 
 ### Donors and board members
 
-Success is shown these responses:
+These responses indicate success:
 
 * expressions of interest, encouragement, or support
 * recommendations or referrals
