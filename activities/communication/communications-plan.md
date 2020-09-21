@@ -140,9 +140,11 @@ Success is shown these responses:
 * expressions of interest or encouragement
 * recommendations or referrals
 
-## How do we get these folks' attention and respect?
+## How we'll achieve our goals
 
-Our content:
+We believe this approach will be most effective for having our desirec impact on our audience.
+
+For content that we produce, publish or program:
 
 * doing good work
 * clearly communicating what that work has been
@@ -150,7 +152,7 @@ Our content:
 * helping others use our tools
 * running interesting events
 
-Other people's content or platforms:
+For other organizations' content or platforms:
 
 * giving interesting, timely talks
 * writing useful or interesting articles
@@ -188,7 +190,6 @@ Since we can't do everything all of the time, we prioritize scalablity and reusa
 * public/customized (like conference talks or authored articles)
 * private/generic (like templated emails)
 * private/customized (like emails)
-
 
 ## Unique selling proposition
 
