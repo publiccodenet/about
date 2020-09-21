@@ -8,7 +8,7 @@ The Foundation for Public Code relies on communications to [achieve its mission]
 
 ## Principles
 
-Our communications need to reflect our core values: open, quality, trust, community, helpful. They must also be non*partisan, in line with our [founding principles](../../organization/mission.md#founding*principles).
+Our communications need to reflect our core values: open, quality, trust, community, helpful. They must also be non-partisan, in line with our [founding principles](../../organization/mission.md#founding-principles).
 
 Our messages range from neutral in tone to positive and inspirational. Our community won’t be sustainable if we attract people motivated by fear or anger.
 
@@ -25,7 +25,7 @@ We believe it’s more important to talk concretely about what we’ve already d
 
 ## Objectives
 
-Our communications should help us achieve [our current priorities](../../organization/mission.md#current*priorities).
+Our communications should help us achieve [our current priorities](../../organization/mission.md#current-priorities).
 
 We have separate goals and objectives for different audiences and fora.
 
@@ -59,7 +59,7 @@ These responses indicate success:
 * Github issues/contributions to our tools
 * recommendations or referrals
 * joining our events
-* endorsing/hyping our events/co*hosting our events
+* endorsing/hyping our events/co-hosting our events
 * invitations to speak at/contribute to their platforms (publications and events)
 
 ### Public organisation leadership
@@ -162,7 +162,7 @@ For other organizations' content or platforms:
 * being established (Wikipedia)
 * being invoked in existing conversations
 
-## What do we need to do?
+## Communications activities
 
 Us:
 
@@ -197,7 +197,7 @@ Since we can't do everything all of the time, we prioritize scalablity and reusa
 
 Though many specific things we do are also offered by other organizations, we're the only organization focused on open source software for public organizations that does all of this together:
 
-* is non*profit and member owned with membership only open to public organizations
+* is non-profit and member owned with membership only open to public organizations
 * offers codebase stewardship for different projects
 * offers productization and marketing of the codebases
 * actually provides guidance and support to help public organizations make their code open
@@ -207,7 +207,7 @@ Though many specific things we do are also offered by other organizations, we're
 
 We are also actively building our ecosystem by:
 
-* connecting members with like*minded parties (members and other public organizations, affiliates and structural funders)
+* connecting members with like-minded parties (members and other public organizations, affiliates and structural funders)
 * boosting awareness of public code
 * setting standards and creating reusable resources (by providing thought leadership!)
 * demonstrating the value of public code with well documented, public business cases and risk analyses
