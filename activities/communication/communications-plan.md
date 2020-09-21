@@ -85,7 +85,8 @@ Success is shown these responses:
 Our goal for engagement with this group is:
 
 * they're aware of us and our mission, and believe this is the right thing to do
-* they believe we can add value to their organizations* we're not an organizational risk to them
+* they believe we can add value to their organizations
+* we're not an organizational risk to them
 * they think public code is achievable in their organization
 
 Success is shown these responses:
@@ -118,7 +119,8 @@ Success is shown these responses:
 
 Our goal for engagement with this group is:
 
-* they believe we can add value to their projects/organization * we're not a risk to their work
+* they believe we can add value to their projects/organization
+* we're not a risk to their work
 * think we're doing valuable work well
 * they think public code is achievable in their project
 
