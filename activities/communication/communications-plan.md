@@ -137,7 +137,7 @@ Success is shown these responses:
 
 Success is shown these responses:
 
-* expressions of interest or encouragement
+* expressions of interest, encouragement, or support
 * recommendations or referrals
 
 ## How do we get these folks' attention and respect?
