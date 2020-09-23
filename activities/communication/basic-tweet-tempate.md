@@ -6,11 +6,9 @@ type: resource
 
 Most of our tweets follow this format:
 
-```
-Audience hook question or statement - what's the most interesting take on or valuable aspect of the thing we're pitching?. Call to action: join us/read/check out/verb the precisely-described-thing at(if relevant) time (in UTC) and place. Joining details/find out more: URL
-```
+> Audience hook question or statement - what's the most interesting take on or valuable aspect of the thing we're pitching? Call to action: join us/read/check out/verb the precisely-described-thing (if relevant: at date, time UTC and place. Joining details/find out more: URL
 
-Our tweets are often accompanied by relevant images or emoji. 
+Our tweets are often accompanied by relevant images or emoji.
 
 ## When to use this template
 
