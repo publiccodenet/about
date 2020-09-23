@@ -62,7 +62,7 @@ These responses indicate success:
 * endorsing/hyping our events/co-hosting our events
 * invitations to speak at/contribute to their platforms (publications and events)
 
-### Public organisation leadership
+### Public organization leadership
 
 Our goal for engagement with this group is:
 
@@ -74,11 +74,13 @@ Our goal for engagement with this group is:
 
 These responses indicate success:
 
-* request to prepare something for the leader
+* request to prepare something for their leader
 * being asked to join a conversation
 * request for hard copy of our tools (Standard, Governance Game, etc)
 * recommendations or referrals
 * invitations to speak at/contribute to their platforms (publications and events)
+* request to collaborate on projects through codebase stewardship
+* request to become a member
 
 ### Middle management
 
@@ -113,6 +115,7 @@ These responses indicate success:
 
 * recommendations or referrals
 * invitations to speak at/contribute to their platforms
+* being asked to collaborate on a thought piece (like an article, research or project)
 * being asked to join a conversation
 
 ### Potential codebase communities
@@ -137,6 +140,11 @@ These responses indicate success:
 
 ### Donors and board members
 
+Our goal for engagement with this group is:
+
+* ongoing commitment to our mission
+* ongoing support for our currrent activities and approach
+
 These responses indicate success:
 
 * expressions of interest, encouragement, or support
@@ -149,10 +157,11 @@ We believe this approach will be most effective for having our desirec impact on
 For content that we produce, publish or program:
 
 * doing good work
-* clearly communicating what that work has been
+* clearly communicating what that work has been done
 * building useful, reusable tools
 * helping others use our tools
 * running interesting events
+* transparently sharing operational information
 
 For other organizations' content or platforms:
 
@@ -162,7 +171,7 @@ For other organizations' content or platforms:
 * being established (Wikipedia)
 * being invoked in existing conversations
 
-## Communications activities
+## What we need to do
 
 In our work, w
 
@@ -267,5 +276,3 @@ This should be tied into general strategy sessions, so we get the maximum impact
 * tweet about the thing as it’s happening
 * publish blogpost during or afterwards about what happened, plus what we learned or what’s next
 * measure how this worked
-
-
