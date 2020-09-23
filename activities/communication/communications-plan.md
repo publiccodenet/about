@@ -267,3 +267,5 @@ This should be tied into general strategy sessions, so we get the maximum impact
 * tweet about the thing as it’s happening
 * publish blogpost during or afterwards about what happened, plus what we learned or what’s next
 * measure how this worked
+
+
