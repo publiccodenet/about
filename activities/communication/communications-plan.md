@@ -136,15 +136,15 @@ Scheduling days of the week for maximum engagement:
 
 ### Press releases
 
-We rarely create press releases -  usually our news should be available to everyone at the same time. Instead, we prefer to:
+We rarely create press releases - we believe our news should usually be available to everyone at the same time. Instead, we prefer to:
 
-* publish our own news in blogposts
+* publish our news in blogposts
 * link and share our members' or others' news stories and press releases
 
 When we have a press release, we:
 
 * send it embargoed to press outlets via email first
-* on the scheduled date, publish it on our blog as news
+* publish it on our blog as news on the scheduled date
 
 ## Tone of voice
 
