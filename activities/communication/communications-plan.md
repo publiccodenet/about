@@ -136,10 +136,15 @@ Scheduling days of the week for maximum engagement:
 
 ### Press releases
 
-We don't publish press releases at the moment. Instead, we:
+We rarely create press releases -  usually our news should be available to everyone at the same time. Instead, we prefer to:
 
 * publish our own news in blogposts
-* link to our members' news stories and press releases
+* link and share our members' or others' news stories and press releases
+
+When we have a press release, we:
+
+* send it embargoed to press outlets via email first
+* on the scheduled date, publish it on our blog as news
 
 ## Tone of voice
 
