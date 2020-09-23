@@ -164,7 +164,7 @@ For other organizations' content or platforms:
 
 ## Communications activities
 
-Us:
+In our work, w
 
 * good works
 * documentation
