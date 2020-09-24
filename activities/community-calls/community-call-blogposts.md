@@ -1,6 +1,8 @@
 ---
 type: guide
 explains: How to write a community call notes blogpost
+redirect_from:
+    - /activities/communication/community-call-blogposts
 ---
 
 # How to write a community call notes blogpost
