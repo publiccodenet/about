@@ -7,16 +7,17 @@ type: resource
 G Suite is a suite of cloud computing, productivity and collaboration tools, software and products developed by Google.
 We use G Suite for email, calendaring and internal document management.
 
-## G Suite Management
+## Using G Suite
 
-G Suite's (user) administration is managed by the Operations coordinator. The Operations coordinator as well as the Chief executive a have full adminstrative priviliges. The Operations coordinator is responsible for user management and ensures proper on-boarding and off-boarding policies are in place and also creates and managing groups, aliases, domain management and 3rd party app integrations.
+Staff are issued a G Suite account when they join.
+Google publishes [extensive support documentation](https://support.google.com/).
 
-## G Suite GDPR
+## G Suite management
 
-Google's [introduction to Google Cloud & the General Data Protection Regulation (GDPR)](https://cloud.google.com/security/gdpr/) says that G Suite
-relies on model contracts:
+G Suite's (user) administration is managed by the Operations coordinator. The Operations coordinator as well as the Chief executive a have full adminstrative privileges. The Operations coordinator is responsible for user management. She ensures proper on-boarding and off-boarding policies are in place and also creates and manages groups, aliases, domain management and 3rd party app integrations.
 
-> We contractually commit under our current data processing agreements to maintain a mechanism that facilitates transfers of personal data
-outside of the EU as required by the GDPR. Google’s certification under the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks includes G Suite
-and Google Cloud Platform. We have also gained confirmation of compliance from European Data Protection Authorities for our model contract clauses,
-affirming that our contractual commitments for G Suite and Google Cloud Platform fully meet the requirements to legally frame transfers of personal data from the EU to the rest of the world."
+## Privacy and GDPR
+
+Google's [introduction to Google Cloud & the General Data Protection Regulation (GDPR)](https://cloud.google.com/security/gdpr/) says that G Suite relies on model contracts:
+
+> We contractually commit under our current data processing agreements to maintain a mechanism that facilitates transfers of personal data outside of the EU as required by the GDPR. Google’s certification under the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks includes G Suite and Google Cloud Platform. We have also gained confirmation of compliance from European Data Protection Authorities for our model contract clauses, affirming that our contractual commitments for G Suite and Google Cloud Platform fully meet the requirements to legally frame transfers of personal data from the EU to the rest of the world."

@@ -6,11 +6,11 @@ type: resource
 
 We manage contracts using Docusign.
 
-## Guidance on using Docusign
+## Using Docusign
 
 The Chief executive and Operations coordinator have an account. Contracts are uploaded and signatures can be requested via the interface.
 
-## Docusign GDPR
+## Privacy and GDPR
 
 Docusign's [GDPR Basics and How DocuSign Can Help](https://www.docusign.com/gdpr-basics) says that Docusign relies on binding corporate rules:
 
