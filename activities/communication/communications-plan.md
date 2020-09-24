@@ -242,12 +242,21 @@ Scheduling days of the week for maximum engagement:
 * we aim to publish blogposts and jobs on Mondays (for maximum engagement)
 * the bulk of our social media engagement should take place Monday to Thursday
 
+### Templates
+
+Staff should use the [basic tweet template](basic-tweet-template.md) as a starting point when proposing a new tweet.
+
 ### Press releases
 
-We don't publish press releases at the moment. Instead, we:
+We rarely create press releases - we believe our news should usually be available to everyone at the same time. Instead, we prefer to:
 
-* publish our own news in blogposts
-* link to our members' news stories and press releases
+* publish our news in blogposts
+* link and share our members' or others' news stories and press releases
+
+When we have a press release, we:
+
+* send it embargoed to press outlets via email first
+* publish it on our blog as news on the scheduled date
 
 ## Tone of voice
 
