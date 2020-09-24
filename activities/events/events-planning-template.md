@@ -19,7 +19,7 @@ tags: events
 
 DATE in CITY.
 
-**Foundation responsible for event:** TBD
+**Organization responsible for event:** TBD
 
 ## Goals for attending
 
