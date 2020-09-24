@@ -14,7 +14,7 @@ Google publishes [extensive support documentation](https://support.google.com/).
 
 ## G Suite management
 
-G Suite's (user) administration is managed by the Operations coordinator. The Operations coordinator as well as the Chief executive a have full adminstrative privileges. The Operations coordinator is responsible for user management. She ensures proper on-boarding and off-boarding policies are in place and also creates and manages groups, aliases, domain management and 3rd party app integrations.
+G Suite's (user) administration is managed by the Operations coordinator. The Operations coordinator as well as the Chief executive have full adminstrative privileges. The Operations coordinator is responsible for user management. She ensures proper on-boarding and off-boarding policies are in place and enforced. She also creates and manages groups, aliases, domain management and 3rd party app integrations.
 
 ## Privacy and GDPR
 
