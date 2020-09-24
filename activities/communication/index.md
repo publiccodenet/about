@@ -12,6 +12,7 @@ These are all the activities, documents and templates for Communication.
 * [Community discussions](community-discussions.md)
 * [Mailing lists](../tool-management/mailing-lists.md)
 * [How and why to write a blogpost](blogging.md)
+* [Basic tweet template](basic-tweet-template.md)
 * [Email signature template](email-signature-template.md)
 * [Using chat.publiccode.net](using-chat.md)
 
