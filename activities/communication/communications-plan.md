@@ -12,7 +12,7 @@ Our communications need to reflect our core values: open, quality, trust, commun
 
 Our messages range from neutral in tone to positive and inspirational. Our community won’t be sustainable if we attract people motivated by fear or anger.
 
-Our communications are in plain English, but we link to highly relevant pages in other languages, for example about our members’ work.
+Our communications are usually in plain English, but we link to highly relevant pages in other languages, for example about our members’ work.
 
 Our communications should showcase the Foundation for Public Code as:
 
@@ -33,17 +33,17 @@ We have separate goals and objectives for different audiences and fora.
 
 Our audience is individuals from potential public member organizations, codebase communities, donors, staff, and board members.
 
-We believe we'll find them in fora organized by/for:
+We believe we'll find them in fora organized by and for:
 
-* public tech fora, for example Code4NL
+* public technology enthusiasts, for example Code4NL
 * public organization leadership, for example CommonGround or OneTeamGov
 * public organization middle management, for example iBestuur or Apolitical
-* think tanks, for example FSFE, Ford Foundation, New America Foundation,  Beeck Center for Social Impact and Innovation or Code for America
+* think tanks, for example the Free Software Foundation Europe, Ford Foundation, New America Foundation, Beeck Center for Social Impact and Innovation or Code for America
 * potential codebase communities and stakeholders - including commercial vendors
 
 ## Success criteria and indicators for target fora
 
-Nota bene: none of these goals contain 'hype' or 'coolness' because being perceived as trendy or zeitgeisty /won't/ help us build the trustworthy reputation or longterm relationships we need to succed.
+Note: none of these goals contain 'hype' or 'coolness'. This iis because being perceived as trendy or zeitgeisty will not help us build the trustworthy reputation or longterm relationships we need to succed.
 
 ### Public tech fora
 
@@ -56,11 +56,11 @@ Our goal for engagement with this group is:
 These responses indicate success:
 
 * being asked to join a conversation
-* Github issues/contributions to our tools
+* Github issues created or contributions to our tools
 * recommendations or referrals
 * joining our events
-* endorsing/hyping our events/co-hosting our events
-* invitations to speak at/contribute to their platforms (publications and events)
+* endorsing or boosting our events, co-hosting our events
+* invitations to speak at or contribute to their platforms (publications and events)
 
 ### Public organization leadership
 
@@ -70,15 +70,15 @@ Our goal for engagement with this group is:
 * they believe we can add value to their organizations
 * we're not an organizational risk to them
 * they think public code is achievable in their organization
-* they're willing to invest political capital because they think will add to their careers (good optics?)
+* they're willing to invest political capital because they think will add to their careers
 
 These responses indicate success:
 
 * request to prepare something for their leader
 * being asked to join a conversation
-* request for hard copy of our tools (Standard, Governance Game, etc)
+* request for hard copy of our tools (like the Standard for Public Code or Governance Game)
 * recommendations or referrals
-* invitations to speak at/contribute to their platforms (publications and events)
+* invitations to speak at or contribute to their platforms (publications and events)
 * request to collaborate on projects through codebase stewardship
 * request to become a member
 
@@ -95,12 +95,12 @@ These responses indicate success:
 
 * spontaneous recommendations or referrals
 * us being asked to join a conversation
-* requests for our tools in their preferred format/language
+* requests for our tools in their preferred format or language
 * request for 1:1 contact
 * successfully delivered 1:1 contact
 * codebase specific consultation
 * invitations to speak at/contribute to their platforms (publications and events)
-* references in gov't policy/strategy documents
+* references in government policy or strategy documents
 
 ### Think tanks (influential civil society organizations with intellectual output)
 
@@ -108,13 +108,13 @@ Our goal for engagement with this group is:
 
 * they're aware of us and our mission
 * think we're doing valuable work well
-* want them to see us as a key part of solving the problem
+* for them to see us as a key part of solving the problem
 * public recommendations and referrals from them
 
 These responses indicate success:
 
 * recommendations or referrals
-* invitations to speak at/contribute to their platforms
+* invitations to speak at or contribute to their platforms
 * being asked to collaborate on a thought piece (like an article, research or project)
 * being asked to join a conversation
 
@@ -135,19 +135,19 @@ These responses indicate success:
 * request for 1:1 contact
 * successfully delivered 1:1 contact
 * recommendations or referrals
-* Github issues/contributions to our tools
-* invitations to speak at/contribute to their platforms (publications and events)
+* Github issues created or contributions to our tools
+* invitations to speak at or contribute to their platforms (publications and events)
 
 ### Donors and board members
 
 Our goal for engagement with this group is:
 
 * ongoing commitment to our mission
-* ongoing support for our currrent activities and approach
+* ongoing support for our current activities and approach
 
 These responses indicate success:
 
-* expressions of interest, encouragement, or support
+* expressions of interest, encouragement or support
 * recommendations or referrals
 
 ## How we'll achieve our goals
@@ -166,7 +166,7 @@ For content that we produce, publish or program:
 For other organizations' content or platforms:
 
 * giving interesting, timely talks
-* writing useful or interesting articles
+* writing useful and interesting articles
 * being written about favorably (press)
 * being established (Wikipedia)
 * being invoked in existing conversations
@@ -181,7 +181,7 @@ In our work, we believe these activities will help us meet our goals:
 * broadcasting and sharing stories
 * celebrating successful use of our tools
 * awesome events
-* be reliably available
+* being reliably available
 * being part of our communities
 
 We'll also meet our communications goals through working with other people by:
@@ -190,7 +190,7 @@ We'll also meet our communications goals through working with other people by:
 * pitching articles for other platforms
 * helping journalists write about us
 * pitching to journalists and sending press releases
-* creating Wikipedia pages for Ben and the Foundation for Public Code, and updating Pieter and Arnout's pages
+* creating or updating Wikipedia pages for the Foundation for Public Code and prominent members of the Board of Directors
 * being available for 1:1 consultations, discussions, interviews, "just picking your brain" coffees
 
 ## Prioritization
