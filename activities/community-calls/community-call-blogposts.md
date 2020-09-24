@@ -11,8 +11,8 @@ Because they happen regularly, blogposts for community call notes have a standar
 
 This guide builds on information in:
 
-* [how to run a community call](running-community-call.md)
-* [how to write a blogpost](blogging.md)
+* [how to run a community call](../communication/running-community-call.md)
+* [how to write a blogpost](../communication/blogging.md)
 
 ## At the top of the page
 
