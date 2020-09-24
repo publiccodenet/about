@@ -4,17 +4,19 @@ type: resource
 
 # Podbean
 
-Podbean is a podcast publishing and monetization service, providing free and premium hosting packages for individuals and businesses. Podbean offers a user-friendly interface that integrates publishing, management, syndication and analysis tools into an easy-to-use podcasting package.
+Podbean is a podcast publishing and monetization service, integrating publishing, management, syndication and analysis tools.
 
-## Guidance on using Podbean
+## Using Podbean
 
-We use [Podbean](https://www.podbean.com/) for recording and publishing the podcast [Let's talk about public code](https://podcast.publiccode.net/) which we make with team members of the codebases we work on.
+We use[Podbean](https://www.podbean.com/) for recording and publishing the podcast [Let's talk about public code](https://podcast.publiccode.net/), which we make with team members of the codebases we work on.
 
-## Podbean Management
+## Podbean management
 
-The Operations coordinator set up the service and supports the team with technical settings. The Codebase stewards have access to the platform.
+The Operations coordinator set up the service and supports the team with technical settings. Codebase stewards have access to the platform.
 
-## Privacy policy
+## Privacy and GDPR
 
-Podbean's Data Protection and [Privacy Policy](https://www.podbean.com/privacy) explains how they collect and use information, and is part of their
-[Terms of Use](https://www.podbean.com/podbean-terms) when using their Site.
+Podbean's [Privacy Policy](https://www.podbean.com/privacy) explains how they collect and use data. Podbean may transfer data outside the EU, but they use either:
+
+* the US-EU privacy shield
+* EU standard contractual clauses or binding corporate rules
