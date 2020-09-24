@@ -152,7 +152,7 @@ These responses indicate success:
 
 ## How we'll achieve our goals
 
-We believe this approach will be most effective for having our desirec impact on our audience.
+We believe this approach will be most effective for having our desired impact on our audience.
 
 For content that we produce, publish or program:
 
@@ -173,24 +173,24 @@ For other organizations' content or platforms:
 
 ## What we need to do
 
-In our work, w
+In our work, we believe these activities will help us meet our goals:
 
-* good works
+* practicing high quality, innovative codebase stewardship
 * documentation
 * storytelling
-* broadcasting/sharing stories
+* broadcasting and sharing stories
 * celebrating successful use of our tools
 * awesome events
-* be available (reliably)
+* be reliably available
 * being part of our communities
 
-Others:
+We'll also meet our communications goals through working with other people by:
 
 * pitching talks
 * pitching articles for other platforms
 * helping journalists write about us
-* pitching to journalists/press releases?
-* creating Wikipedia pages for Ben, the Foundation for Public Code; updating Pieter & Arnout's pages
+* pitching to journalists and sending press releases
+* creating Wikipedia pages for Ben and the Foundation for Public Code, and updating Pieter and Arnout's pages
 * being available for 1:1 consultations, discussions, interviews, "just picking your brain" coffees
 
 ## Prioritization
