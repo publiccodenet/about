@@ -134,7 +134,7 @@ We expect membership dues will be paid at the end of each calendar year. In orde
 
 [Our remuneration policy](https://about.publiccode.net/organization/remuneration-policy.html) states that members of the board of directors are not paid for their work as directors. A director may separately be hired and paid by the Foundation for Public Code for work carried out in a different role (for example as a manager or contractor). The Foundation for Public Code will reimburse directors for reasonable expenses incurred as a result of their role as director.
 
-It is in our policy that remuneration in the organisation will not exceed market rates.
+It is in our policy that remuneration in the organization will not exceed market rates.
 
 ### 4.4 Control of the assets
 
