@@ -43,7 +43,7 @@ We believe we'll find them in fora organized by and for:
 
 ## Success criteria and indicators for target fora
 
-Note: none of these goals contain 'hype' or 'coolness'. This iis because being perceived as trendy or zeitgeisty will not help us build the trustworthy reputation or longterm relationships we need to succed.
+Note: none of these goals contain 'hype' or 'coolness'. This is because being perceived as trendy or zeitgeisty will not help us build the trustworthy reputation or longterm relationships we need to succeed.
 
 ### Public tech fora
 
