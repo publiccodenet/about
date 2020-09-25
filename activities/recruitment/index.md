@@ -4,7 +4,7 @@ type: Index
 
 # Recruitment
 
-Come work with us! [See our open jobs](https://publiccode.net/careers/).
+Come work with us! [See our open jobs](https://publiccode.net/who-we-are/careers/).
 
 These are the resources and processes used for recruitment:
 
@@ -13,7 +13,7 @@ These are the resources and processes used for recruitment:
 
 For possible applicants:
 
-* [Careers section with open positions on the homepage](https://publiccode.net/careers/)
+* [Careers section with open positions on the homepage](https://publiccode.net/who-we-are/careers/)
 
 See also:
 
