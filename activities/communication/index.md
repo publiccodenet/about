@@ -7,41 +7,30 @@ type: Index
 These are all the activities, documents and templates for Communication.
 
 * [Communication principles](communication-principles.md)
-* [Using chat.publiccode.net](using-chat.md)
-* [Community discussions](community-discussions.md)
-* [Instructions on how to run a community call](running-community-call.md)
+* [Communications plan](communications-plan.md)
 * [Pitching the Foundation for Public Code](pitching.md)
-* [Phone numbers](phone-numbers.md)
+* [Community discussions](community-discussions.md)
 * [Mailing lists](../tool-management/mailing-lists.md)
+* [Community discussions](community-discussions.md)
+* [How and why to write a blogpost](blogging.md)
+* [Basic tweet template](basic-tweet-template.md)
+* [Email signature template](email-signature-template.md)
+* [Using chat.publiccode.net](using-chat.md)
 
-Community calls are a way to get direct input from the community on topics that in any way are of concern to them. We do them on a bi-weekly schedule for regularity and they are open for anyone to join.
+## Synchronous communication
 
-## Using and managing phone numbers
+We meet our community regularly by [attending and running events](../events) and [workshops](../workshops), and by [hosting community calls](../community-calls).
 
-* [Using the phone number with the app on your mobile phone](using-phone-app.md)
-* [Adding a user and phone number](adding-a-phone-user.md)
+### Community calls
 
-Phone numbers and lines are managed in our VOIP supplier Voys' [online management tool](https://freedom.voys.nl/). It contains the following and more:
+Community calls are a way to get direct input from the Foundation for Public Code community on topics that in any way are of concern to them. We host community calls regularly and they are open for anyone to join.
 
-* ['Dial plans'](https://freedom.voys.nl/client/415559/routing/): What number is routed where and what happens then
-* ['Users'](https://freedom.voys.nl/client/415559/user/): Who can log in
-* ['VoIP accounts'](https://freedom.voys.nl/client/415559/phoneaccount/): Basically lines we can assign
-* ['Voicemails'](https://freedom.voys.nl/client/415559/voicemail/): Voice mail boxes
+* [Instructions on how to run a community call](running-community-call.md)
+* [Community call invite template](community-call-invite-template.md)
 
-## Email signature
+## Phone numbers
 
-In order to clearly convey who is communicating, this template for email signature could be used. It has no styling in order to make it more probable that email clients and mailing lists will handle the signature gracefully.
+We believe it's important to be able to reach a human quickly if you have a question.
 
-```
-Name, Role
-Email | Phone | Twitter
-Foundation for Public Code https://publiccode.net
-```
-
-Example:
-
-```
-Boris van Hoytema, Chief Executive and secretary
-boris@publiccode.net | +31 20 2 444 555 | @bvhme
-Foundation for Public Code https://publiccode.net
-```
+* [Our phone numbers](phone-numbers.md)
+* [How to use and manage VOIP phone numbers](managing-voip-phone-numbers.md)
