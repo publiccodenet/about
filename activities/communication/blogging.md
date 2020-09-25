@@ -36,7 +36,7 @@ This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/c
   * schedule publication of your blogpost so it fits best with other planned communications
 2. [Read our style guide](https://content-guide.18f.gov/) - we use 18F's. If you have any questions, ask!
 3. Make sure your information is correct on [blog/_data/staff.csv](https://github.com/publiccodenet/blog/blob/develop/_data/staff.csv).
-4. Read the [guide on writing community call blogposts](community-call-blogposts.md) if that's what you're doing.
+4. Read the [guide on writing community call blogposts](../community-calls/community-call-blogposts.md) if that's what you're doing.
 
 ## Write your blogpost
 

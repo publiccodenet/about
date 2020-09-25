@@ -11,6 +11,7 @@ These are all the activities, documents and templates for Communication.
 * [Pitching the Foundation for Public Code](pitching.md)
 * [Community discussions](community-discussions.md)
 * [Mailing lists](../tool-management/mailing-lists.md)
+* [Community discussions](community-discussions.md)
 * [How and why to write a blogpost](blogging.md)
 * [Basic tweet template](basic-tweet-template.md)
 * [Email signature template](email-signature-template.md)
@@ -22,12 +23,10 @@ We meet our community regularly by [attending and running events](../events) and
 
 ### Community calls
 
-Community calls are a way to get direct input from the community on topics that in any way are of concern to them. We host community calls regularly and they are open for anyone to join.
+Community calls are a way to get direct input from the Foundation for Public Code community on topics that in any way are of concern to them. We host community calls regularly and they are open for anyone to join.
 
-* [Community discussions](community-discussions.md)
 * [Instructions on how to run a community call](running-community-call.md)
 * [Community call invite template](community-call-invite-template.md)
-* [How to write a community call blogpost](community-call-blogposts.md)
 
 ## Phone numbers
 
