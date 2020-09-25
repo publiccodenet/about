@@ -9,13 +9,21 @@ The Foundation for Public Code needs tools to accomplish its mission. This is ho
 * [Tool and email naming conventions](tool-and-email-naming-conventions.md)
 * [How to test a tool](tool-testing.md)
 
-## Tool overview
+## Tool guidance
 
-* [Jitsi Meet is our videoconfering tool.](jitsi-meet.md)
-* [For chat we use Mattermost, the open source alternative for Slack](mattermost.md)
-* [Odoo Community for CRM and project management](odoo.md)
-* [We manage contracts using Docusign.](docusign.md)
-* [G Suite is used for email, calendaring and internal document management.](g-suite.md)
-* [Tentoo is for human resources management, including processing salaries and expenses.](tentoo.md)
-* [We use Podbean for publishing our podcasts.](podbean.md)
-* [Streamyard is used for (live) streaming codebase stories and interviews.](streamyard.md)
+This guidance covers:
+
+* instructions for users
+* how we manage the tool internally
+* the tool's privacy and GDPR policies
+
+Our current tools are:
+
+* [Docusign](docusign.md) (contract management)
+* [G Suite](g-suite.md) (email, calendaring and internal document management)
+* [Jitsi Meet](jitsi-meet.md) (videoconferencing)
+* [Mattermost](mattermost.md) (chat)
+* [Odoo Community](odoo.md) (CRM and project management)
+* [Podbean](podbean.md) (publishing our podcasts)
+* [Streamyard](streamyard.md) (livestreaming our podcast)
+* [Tentoo](tentoo.md) (human resources management, including processing salaries and expenses)
