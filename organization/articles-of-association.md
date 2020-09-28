@@ -63,7 +63,7 @@ The person appearing (comparante), acting as described, declares that the founde
 * d.    drawing attention to problems ascertained and giving advice with regard to the public code they use;
 * e.    and everything related to or conducive to the above, all in the broadest sense.
 
-3.3.     The association aims to be regarded as a [public benefit organization](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/other_subjects/public_benefit_organisations/what_is_pbo/) as referred to in article 5b of the General Tax Act or any successor legislation.
+3.3.     The association aims to be regarded as a [public benefit organization](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/what_is_pbo/) as referred to in article 5b of the General Tax Act or any successor legislation.
 
 3.4.     The association expressly does not have the purpose of making a profit.
 

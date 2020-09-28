@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Template Agenda
+# Template agenda
 
 ## Introduction
 
@@ -26,7 +26,7 @@ type: Resource
 
 * Break: (10 mins)
 
-* Round 2: Service liscence agreements around OpenZaak (40 min)
+* Round 2: Service license agreements around the codebase (40 min)
   * Q2.1) Mapping what, who and how for the 1st, 2nd and expert support lines
   * Q2.2) Mapping what, who and how for hotfixes, issues and ownership over support processes
 
