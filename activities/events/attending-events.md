@@ -25,6 +25,17 @@ Before using this guide, make sure to [get a decision on attending the event](de
 * Prepare a team chat (that is capable of notifications) if you are more than one staff member attending.
 * Make sure you attend the event with a brief, well-rehearsed [pitch explaining what the Foundation for Public Code does](../communication/pitching.md). Tailor the pitch to the audience you are going to meet.
 
+### Speaking at an event
+
+If you're speaking at an event, check that:
+
+* your talk is listed correctly on the agenda
+* the organizers have used the correct speaker photo and biography (usually your [publiccode.net team bio](https://publiccode.net/team/))
+* the organizers have the correct social media handle and contact details for you
+* the organizers have uploaded the correct and full video for your talk (if pre-recorded)
+
+Do this as soon as this information is published. If you have concerns over how to correct the information, the communications coordinator can help.
+
 ### During the event
 
 * Be ready to take photos. They can be used for tweets, blog posts or for remembering what happened when debriefing.
@@ -59,4 +70,3 @@ Before using this guide, make sure to [get a decision on attending the event](de
 
 * [Publish a blogpost](https://github.com/publiccodenet/blog) promptly (no more than a week later) (based on good photos, running notes, team debrief and tweets).
 * Establish a plan of follow ups: 1st contact right after the event (<2 days after), 2nd contact a week later that mail/invitation and a 3rd one a month later in case the communication flow gets interrupted.
-

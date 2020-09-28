@@ -16,7 +16,7 @@ The blog is our primary tool for talking about:
 * our community: interviews with and guest posts by community members
 * our position on important issues: why we’ve made the political, technological, organizational or design decisions we have
 
-Not all information published on the blog needs to support our marketing strategy - for example, an in-depth discussion about a technology choice we’ve made may not persuade potential Foundation members, but will be interesting to technologists in our community.
+Not all information published on the blog needs to support our marketing strategy - for example, an in-depth discussion about a technology choice we’ve made may not persuade potential Foundation for Public Code members, but will be interesting to technologists in our community.
 
 To make sure we have the editorial freedom to publish about all of our work (no matter how niche), there’s no direct link to the blog on [publiccode.net](https://publiccode.net/). Instead, we may feature important blogposts. (We’ll build this functionality once we have important blogposts.)
 
@@ -36,7 +36,7 @@ This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/c
   * schedule publication of your blogpost so it fits best with other planned communications
 2. [Read our style guide](https://content-guide.18f.gov/) - we use 18F's. If you have any questions, ask!
 3. Make sure your information is correct on [blog/_data/staff.csv](https://github.com/publiccodenet/blog/blob/develop/_data/staff.csv).
-4. Read the [guide on writing community call blogposts](community-call-blogposts.md) if that's what you're doing.
+4. Read the [guide on writing community call blogposts](../community-calls/community-call-blogposts.md) if that's what you're doing.
 
 ## Write your blogpost
 
@@ -44,11 +44,11 @@ Write your draft blogpost using a collaborative document tool. This lets you sha
 
 Don't hesitate to involve other people in your writing process - we want you to succeed, and we know how helpful an external perspective can be once something starts to feel like a slog.
 
-Include links to people, associations, codebases, organizations or events you talk about - this helps an excited reader learn more. It's also useful for SEO.
+Include links to people, associations, codebases, organizations or events you talk about - this helps an excited reader learn more. It's also useful for search engine optimization (SEO).
 
 All blogposts should include at least one relevant image or video, to make them more engaging.
 
-After writing, please share with the communications coordinator for polishing.
+After writing, please share with the communications coordinator for polishing and to schedule publication.
 
 ## How to create a blogpost on the Foundation’s blog
 
@@ -74,6 +74,8 @@ category: [our current categories are: news, community call and codebase steward
 ---
 ```
 
+Note: your blogpost can only have one category.
+
 Add your images to [`_assets/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/assets).
 Link to the asset directly in text.
 Make sure [the text alternative for your image is useful](https://www.w3.org/WAI/tips/writing/#write-meaningful-text-alternatives-for-images).
@@ -84,7 +86,7 @@ Example:
 ![alternative text]({{site.url}}/assets/image.jpg)
 ```
 
-### Step 3: create a pull request and release the new blog
+### Step 3: create a pull request and release the new blogpost
 
 Commit your changes and create a pull request.
 Tag the communications coordinator plus any other colleagues whose review you'd like on the pull request for your blogpost for a final proofread.
