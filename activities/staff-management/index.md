@@ -14,7 +14,7 @@ When we expect you to be here and how to plan to be somewhere else.
 * [Statutory holidays](../../organization/yearly-schedule.md)
 * [How to report illness](sickness.md)
 * [How to work remotely](remote-working.md)
-* [Parental leave](parental-leave.md)
+* [Pregnancy, birth, and partner leave](parental-leave.md)
 
 ## Staff and recruitment
 
