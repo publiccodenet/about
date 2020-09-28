@@ -17,7 +17,7 @@ This is how we're building the organization to support our mission:
 * [Financial model](financial-model.md)
 * [Staff](staff.md)
 * [Remuneration policy](remuneration-policy.md)
-* [Articles of association](articles-of-association.md)
+* [Articles of association](articles-of-association.md) with translations in [Spanish (Español)](articles-of-association.es.md) and [Dutch (Nederlands)](articles-of-association.nl.md)
 * [Policy plan 2019-2022](policy-plan.md)
 
 This is how we approach our work:
