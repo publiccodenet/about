@@ -11,7 +11,7 @@ and at least 10 weeks maternity leave (after childbirth).
 
 ## Partner/paternity leave
 
-You are entitled to 1 week of parental leave after your partner gives birth.
+You are entitled to 1 week of partner/paternity leave after your partner gives birth.
 
 ### How to
 
