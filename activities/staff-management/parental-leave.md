@@ -16,7 +16,7 @@ You are entitled to 1 week of partner leave after your partner gives birth.
 
 If you are pregnant you have to let HR know at least 3 weeks before you want to go on pregnancy
 leave. But, the sooner you report it, the better, leaving enough time to make any
-agreements about your absence, and plan a handover of your tasks. For paternity leave, let us know
+agreements about your absence, and plan a handover of your tasks. For partner leave, let us know
 when your partner has given birth by 9am the next working day.
 
 #### More information
