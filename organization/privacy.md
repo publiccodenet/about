@@ -1,3 +1,9 @@
+---
+type: resource
+redirect_from:
+- organization/data-processing-tools
+---
+
 # Privacy
 
 The Foundation strongly supports individuals' right to privacy. For this reason we don't have an analytics package that tracks individual users on any of our websites.
@@ -57,7 +63,7 @@ Because your personal information is stored on our IT systems, it's shared with 
 
 While your personal data is stored on our systems and shared with our data processors, it may be transferred and stored securely outside the European Union. Where this is the case it will be subject to equivalent legal protection through the use of model contract clauses or binding corporate rules.
 
-[Read more about the tools we use to process your data and their GDPR compliance](data-processing-tools.md).
+[Read more about the tools we use to process your data and their GDPR compliance](../activities/tool-management/index.md).
 
 ## How long we keep your personal information
 

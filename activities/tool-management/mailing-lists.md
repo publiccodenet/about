@@ -31,7 +31,7 @@ After confirming the email address another mail will be sent:
 
 If you haven't received the welcome message please make sure to check your spam folder!
 
-For general information on using the Mailman mailing lists you can have a look at the [user documentation](https://wiki.list.org/DOC/Mailman%202.1%20Members%20Manual).
+For general information on using the Mailman mailing lists you can have a look at the [user documentation](https://docs.mailman3.org/en/latest/userguide.html).
 
 ### What happens with your data
 
@@ -60,3 +60,7 @@ By default, the full [Foundation for Public Code code of conduct](../../CODE_OF_
 ### Mailing list archives
 
 Our intention is to keep all posts, unless someone specifically requests their data be removed. [See our mailing lists archives](https://lists.publiccode.net/hyperkitty/hyperkitty/). HyperKitty is the archiver project for the Mailman 3 suite, allowing users to browse mailing lists, start new threads and reply to existing threads, mark messages as favorite, search archives, and so on.
+
+## Mailman management
+
+The Operations coordinator maintains Mailman and takes care of back end actions and user administration.
