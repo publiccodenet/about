@@ -22,6 +22,6 @@ when your partner has given birth by 9am the next working day.
 
 #### More information
 
-[More information about maternity and partner / paternity leave can be found here:](https://business.gov.nl/regulation/leave-schemes/)
+[Read more about maternity and partner/paternity leave](https://business.gov.nl/regulation/leave-schemes/) (on the Dutch government website).
 
 If you have questions about parental leave, or need to take parental leave, please reach out to HR <hr@publiccode.net>
