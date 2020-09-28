@@ -103,7 +103,7 @@ La compareciente, actuando como se ha informado, declara que los Fundadores esta
   * ii.     por cese por parte de la organización pública, con la debida observancia de las disposiciones del párrafo 3;
   * iii.    por la terminación de la asociación con la debida observancia de las disposiciones del párrafo 4; o
   * iv.     por inhabilitación según el artículo 2:35 del Código Civil Holandés.
-  
+
 6.3. En caso de que un miembro público desee terminar la membresía con 'Foundation for Public Code Vereniging' debe hacerse por escrito antes de que finalice el año civil, observando un período de notificación de al menos seis (6) meses.
 
 6.4. La notificación de la terminación por parte de la Asociación se dará por escrito al miembro público en cuestión. La asociación no tiene que cumplir ningún plazo de preaviso. La Asociación sólo podrá dar aviso de la terminación del contrato si:
