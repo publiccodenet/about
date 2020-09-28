@@ -3,7 +3,8 @@ type: Guide
 explains: what to do and what to know when you or your partner are expecting
 ---
 
-# Maternity and paternity leave
+# Maternity, partner/paternity and parental leave
+
 
 Pregnant employees are entitled to 4-6 weeks pregnancy leave (before the due date)
 and at least 10 weeks maternity leave (after childbirth).
