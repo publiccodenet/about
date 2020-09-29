@@ -48,7 +48,7 @@ Emergency leave is not requested or logged through Tentoo NMBRS ESS (employee se
 
 ## Short-term care leave
 
-Short-term care leave can be taken to provide essential care to parents, ill children who still live at home or partners. However, this leave is only granted on the condition if you are the only person who can look after the ill person at that moment in time. During the period of leave, you receive 70% of your salary.
+Short-term care leave can be taken to provide essential care to ill parents, children who still live at home or partners. However, this leave is only granted on the condition that you are the only person who can look after the ill person at that moment in time. During the period of leave, you receive 70% of your salary.
 
 ## Long-term leave
 
