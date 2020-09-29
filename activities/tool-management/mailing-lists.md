@@ -45,7 +45,7 @@ You can also unsubscribe via the web page by [simply clicking on the mailing lis
 
 ## Guidance for mailing list administrators
 
-You should make sure potential and current mailing list members have easy access to the guidance for people who join our mailing lists.
+You should make sure potential and current mailing list members have easy access to the guidance for people who join our mailing lists. The Operations coordinator can assign list owner status to other team members. With this status team members can sign themselves up to create an account on our Mailman instance. With the account the control panel can be accessed to update and customize list settings, as well as monitor pending confirmations from newly signed up members that may not have received the confirmation mail. This mail may end up in spam folders which we can notify them about.
 
 ### What to do with people's data
 
