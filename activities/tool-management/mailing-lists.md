@@ -61,7 +61,7 @@ By default, the full [Foundation for Public Code code of conduct](../../CODE_OF_
 
 ### Mailing list archives
 
-Our intention is to keep all posts, unless someone specifically requests their data be removed. [See our mailing lists archives](https://lists.publiccode.net/hyperkitty/hyperkitty/). HyperKitty is the archiver project for the Mailman 3 suite, allowing users to browse mailing lists, start new threads and reply to existing threads, mark messages as favorite, search archives, and so on.
+Our intention is to keep all posts, unless someone specifically requests their data be removed. [See our mailing lists archives](https://lists.publiccode.net/hyperkitty/hyperkitty/). HyperKitty is the archiver project for the [Mailman 3 suite](https://docs.mailman3.org/en/latest/), allowing users to browse mailing lists, start new threads and reply to existing threads, mark messages as favorite, search archives, and so on.
 
 ## Mailman management
 
