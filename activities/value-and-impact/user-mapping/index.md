@@ -31,4 +31,3 @@ Other interested parties:
 
 * end users (residents and citizens)
 * journalists and academia
-
