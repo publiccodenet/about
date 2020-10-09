@@ -1,6 +1,6 @@
 ---
 type: resource
-explains: how our work contributes to reaching the SDGs
+explains: how our work contributes to achieving the SDGs
 ---
 
 # How public code supports the Sustainable Development Goals
