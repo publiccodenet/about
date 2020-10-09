@@ -33,6 +33,7 @@ If you're speaking at an event, check that:
 * the organizers have used the correct speaker photo and biography (usually your [publiccode.net team bio](https://publiccode.net/who-we-are/))
 * the organizers have the correct social media handle and contact details for you
 * the organizers have uploaded the correct and full video for your talk (if pre-recorded)
+* you've made the organizers aware you [cannot receive a gift or compensation](../../organization/staff-code-of-conduct.md#receiving-gifts) for your talk
 
 Do this as soon as this information is published. If you have concerns over how to correct the information, the communications coordinator can help.
 
