@@ -4,17 +4,25 @@ type: resource
 
 # Odoo Community
 
-Odoo is a suite of open source business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, and project management.
+Odoo is a suite of open source business apps. We use Odoo for:
 
-## Guidance on using Odoo
+* customer relationship management (CRM)
+* project management of our codebase and membership pipelines
+* emailing our newsletter and announcements to people who have [signed up for our mailing lists](https://forms.gle/gn7wR2Eaxbv5g1BF9)
 
-We use Odoo's CRM and project management capabilities for managing our Codebases and Membership pipelines.
+## Using Odoo
 
-## Odoo Management
+We offer training to new staff.
 
-Odoo Community is currently hosted and maintained by a service provider in the UK. We are migrating our instance to a Dutch provider late November 2020. The Operations coordinator takes care of user administration, reports bugs and is the contact person for the service provider.
+## Odoo management
 
-## Odoo Privacy Policy
+Odoo Community is currently hosted and maintained by a service provider in the UK. We are migrating our instance to Openworx in November 2020.
 
-> Our future service provider has published their 'verwerkersovereenkomst' [on their website](https://www.openworx.nl/verwerkersovereenkomst).
-Their [privacy policy](https://www.openworx.nl/privacy-statement) (also in Dutch) is available as well.
+The Operations coordinator takes care of user administration, reports bugs and is the contact person for the service provider.
+
+## Privacy and GDPR
+
+See Openworx's:
+
+* [data processing agreement](https://www.openworx.nl/verwerkersovereenkomst) (in Dutch)
+* [privacy policy](https://www.openworx.nl/privacy-statement) (in Dutch)

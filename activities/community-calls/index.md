@@ -21,6 +21,7 @@ The community call notes are published on our [blog](https://blog.publiccode.net
 ## Guides for preparing, running and post-processing community calls
 
 * [Post-processing a community call](post-process-community-call.md)
+* [How to write a community call blogpost](community-call-blogposts.md)
 
 ## Standard for Public Code community calls
 
@@ -31,7 +32,7 @@ The community call notes are published on our [blog](https://blog.publiccode.net
 
 * [Foundation for Public Code community calls](../communication/community-call.md)
 * [Running a Foundation for Public code community call](../communication/running-community-call.md)
-* [Invite template](../communication/community-call-invite-template.md)
+* [Invitation template](../communication/community-call-invite-template.md)
 
 ## Further reading
 
