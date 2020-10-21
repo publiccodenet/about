@@ -32,12 +32,12 @@ We assume the product asset order will be different for greenfield development.
 | 7 | Configuration options | Confirms | Quality |
 | 8 | One sentence codebase description for Github | Creates proposal | Product |
 | 9 | Issue tracker (or link if hosted elsewhere) | Creates proposal | Community, Quality |
-| 10 | Contributing | Responsible | Community |
+| 10 | CONTRIBUTING file | Responsible | Community |
 | 11 | Explanation of how codebase decisions get made | Creates proposal | Community |
 | 12 | Codebase name | Creates proposal | Product |
 | 13 | Contextual explainer (including policy explanation, users and process owners) | Provides assistance | Product |
 | 14 | High level overview of what's in the codebase | Confirms | Product, Quality |
-| 15 | README | Provides assistance | Product: is this findable and usable? Quality: is all the right information included? |
+| 15 | README file | Provides assistance | Product: is this findable and usable? Quality: is all the right information included? |
 | 16 | Codebase maturity label | Responsible | Quality (release management) |
 | 17 | Codebase brand or logo | Creates proposal | Product |
 | 18 | List of codebase stakeholders with their role (real people) | Provides assistance | Community |
