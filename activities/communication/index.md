@@ -11,7 +11,6 @@ These are all the activities, documents and templates for Communication.
 * [Pitching the Foundation for Public Code](pitching.md)
 * [Community discussions](community-discussions.md)
 * [Mailing lists](../tool-management/mailing-lists.md)
-* [Community discussions](community-discussions.md)
 * [How and why to write a blogpost](blogging.md)
 * [Basic tweet template](basic-tweet-template.md)
 * [Email signature template](email-signature-template.md)
