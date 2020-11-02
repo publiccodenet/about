@@ -18,4 +18,4 @@ NMBRS is a fully-fledged HR service and registers employee's contact and persona
 
 ## Privacy and GDPR
 
-Tentoo's [privacy policy is available here.](https://github.com/publiccodenet/about/blob/tentoo-gdpr/activities/tool-management/EN%20privacyverklaring%20en%20cookiebeleid%20website.pdf) 
+Tentoo's [privacy policy is available here.](https://github.com/publiccodenet/about/blob/tentoo-gdpr/activities/tool-management/EN%20privacyverklaring%20en%20cookiebeleid%20website.pdf)
