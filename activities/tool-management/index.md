@@ -20,7 +20,7 @@ This guidance covers:
 Our current tools are:
 
 * [Docusign](docusign.md) (contract management)
-* [G Suite](g-suite.md) (email, calendaring and internal document management)
+* [Google Workspace](workspace.md) (email, calendaring and internal document management)
 * [Jitsi Meet](jitsi-meet.md) (videoconferencing)
 * [Mattermost](mattermost.md) (chat)
 * [Odoo Community](odoo.md) (CRM and project management)
