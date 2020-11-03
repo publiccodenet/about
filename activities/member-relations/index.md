@@ -24,10 +24,10 @@ In this phase, we aim to:
 
 We conduct various activities during membership growth, like meetings to exchange knowledge and support with contracting. We can also offer workshops to raise awareness about:
 
-  * codebase stewardship
-  * public code
-  * the [Standard for Public Code](https://standard.publiccode.net/)
-  * our organizational model
+* codebase stewardship
+* public code
+* the [Standard for Public Code](https://standard.publiccode.net/)
+* our organizational model
 
 To make it easier for the potential member, we have regular calls to answer any questions and ensure continuous, open communication.
 
@@ -35,7 +35,7 @@ Membership growth is finalized when the public organization signs a [membership 
 
 ## 2. Member onboarding
 
-During member onboarding we help new members learn our processes, and support their public code projects.
+During member onboarding we help new members get accustomed to our processes, and support their public code projects.
 
 In this phase, we aim to:
 
@@ -44,8 +44,9 @@ In this phase, we aim to:
 * prepare members for their first general assembly
 
 During member onboarding, we usually conduct a [membership workshop](../membership-growth/founding-membership-workshop.md) to:
-  * identify public code projects and codebases to collaborate on
-  * set expectations for membership
+
+* identify public code projects and codebases to collaborate on
+* set expectations for membership
 
 We also do other activities that seem useful, for example:
 
@@ -59,17 +60,17 @@ During membership, members become fully involved in governing the Foundation for
 
 In this phase, we aim to:
 
-* Fully support members with all elements of codebase stewardship
-* Build capacity on various topics surrounding public code
-* Empower members to take ownership of steering our processes, governance, and finances
-* Maintain healthy communications amongst members and the Foundation for Public Code team
+* fully support members with all elements of codebase stewardship
+* build capacity on various topics surrounding public code
+* empower members to take ownership of steering our processes, governance, and finances
+* maintain healthy communications amongst members and the Foundation for Public Code team
 
 The following are examples of activities we may conduct with our members:
 
-* Codebase stewardship
-* Building capacity on various topics surrounding public code
-* Brokering collaborative solutions within member community
-* Ensuring good communications and active engagement within member community
+* codebase stewardship
+* building capacity on various topics surrounding public code
+* brokering collaborative solutions between members
+* ensuring good communications and active engagement within member community
 
 ## Further Reading
 
@@ -77,3 +78,5 @@ The following are examples of activities we may conduct with our members:
 * Our [mission, founding principles and goals](../../organization/mission.md)
 * Overview of our [activities](../../activities/index.md)
 * [Codebase stewardship](../codebase-stewardship/)
+
+
