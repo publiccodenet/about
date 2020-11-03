@@ -35,7 +35,7 @@ Membership growth is finalized when the public organization signs a [membership 
 
 ## 2. Member onboarding
 
-During member onboarding we help new members get accustomed to our processes, and support their public code projects.
+During member onboarding we help new members learn our processes, and support their public code projects.
 
 In this phase, we aim to:
 
@@ -78,5 +78,4 @@ The following are examples of activities we may conduct with our members:
 * Our [mission, founding principles and goals](../../organization/mission.md)
 * Overview of our [activities](../../activities/index.md)
 * [Codebase stewardship](../codebase-stewardship/)
-
 
