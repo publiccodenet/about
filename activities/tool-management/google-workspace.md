@@ -1,5 +1,7 @@
 ---
 type: resource
+redirect_from:
+    - activities/activities/tool-management/g-suite.md
 ---
 
 # Google Workspace
