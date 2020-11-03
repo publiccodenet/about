@@ -8,7 +8,7 @@ The Foundation for Public Code is a member-owned association. Only wholly public
 
 We support members in getting the most from their membership and [codebase stewardship](../codebase-stewardship), as well as building and maintaining relationships with and between members.
 
-The process towards full membership is roughly divided into three phases, noting that every organization we speak to is unique. This means that individual membership  processes may differ between the organizations we work with.
+The process towards full membership is roughly divided into three phases, noting that every organization we speak to is unique. This means that individual membership processes may differ between the organizations we work with.
 
 If you're interested in membership for your organization, or have any questions, please email us at <membership@publiccode.net>
 
