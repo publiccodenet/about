@@ -8,6 +8,7 @@ For the terms below we believe it is important that we have a clear definition o
 
 * [Affiliate](affiliate-definition.md)
 * [Codebase](codebase-definition.md)
+* [Contractor](contractor-definition.md)
 * [Contributor](contributor-definition.md)
 * [Ecosystem level](ecosystem-level-definition.md)
 * [End user](end-user-definition.md)
@@ -23,3 +24,4 @@ For the terms below we believe it is important that we have a clear definition o
 * [Resource](resource-definition.md)
 * [Staff](staff-definition.md)
 * [User](user-definition.md)
+
