@@ -8,7 +8,7 @@ We use live streams as a tool to communicate. We host a podcast style live strea
 
 ## Goals
 
-- **Become discoverable:** Create another way for people we would like to know who don't know that we exist or what we do *to discover us*.
+- Become discoverable: create another way for people we would like to know who don't know that we exist or what we do to discover us.
 - **Grow** our codebase's **community**.
 - Get in **touch directly with key figures** of top projects. Possible way in to steward or make them members of the Foundation for Public Code.
 - Get **more** Social Media **followers** since we are going to use those networks for this project.
