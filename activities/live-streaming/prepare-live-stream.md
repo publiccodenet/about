@@ -20,7 +20,7 @@ When setting up a new [live stream](index.md) for 'Let's talk about public code'
 
 - Make a new intro video with the [BumperScripter](https://github.com/publiccodenet/bumperscripter), adding the guest and organization
 - Create a new preview image adding the guest and organisation with the help of this [template](preview-image.svg)
-- Earliest a week before the stream, create a new broadcast in [StreamYard](../tool-management/streamyard.md)
+- In the week before the stream, create a new broadcast in [StreamYard](../tool-management/streamyard.md)
 - Upload the new intro video in Streamyard, remove the old one to avoid confusion during the stream
 - Update banners with links related to the upcoming show
 
