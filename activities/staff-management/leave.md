@@ -45,3 +45,11 @@ Emergency leave is paid leave and is separate from vacation.
 Please ask your manager for emergency leave as soon as possible (and not longer than 24 hours after leaving) in order to discuss the terms.
 
 Emergency leave is not requested or logged through Tentoo NMBRS ESS (employee self service).
+
+## Short-term care leave
+
+Short-term care leave can be taken to provide essential care to ill parents, children who still live at home or partners. However, this leave is only granted on the condition that you are the only person who can look after the ill person at that moment in time. During the period of leave, you receive 70% of your salary.
+
+## Long-term leave
+
+If your child, partner or parent is seriously (i.e. life threateningly) ill and requires care, you can request long-term care leave. During this period of leave, you do not receive a salary.
