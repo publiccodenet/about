@@ -5,7 +5,7 @@ explains: how to prepare for a live stream
 
 # Preparing a live stream
 
-When setting up a new [live stream](index.md) for 'Let's talk about  public code' there are some steps to remember.
+When setting up a new [live stream](index.md) for 'Let's talk about public code' there are some steps to remember.
 
 ## Who, when and what
 
