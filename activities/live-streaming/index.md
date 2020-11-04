@@ -16,7 +16,7 @@ We use live streams as a tool to communicate. We host a podcast style live strea
 ## Formats, length and schedule
 
 1. **Frequency**: Ambition to make it at least monthly.
-2. Two different **formats**: one for codebases, one for the Foundation.
+2. Two different formats: one for codebases, one for the Foundation.
 3. For the codebases, the format is an interview by two codebase stewards with someone from a codebase.
 4. For the Foundation, the format is a conversation between two persons from the foundation. This can be theoretical, about ideas and principles or about news.
 5. Language: English.
