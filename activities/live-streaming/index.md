@@ -4,7 +4,7 @@ type: index
 
 # Live streamed podcast
 
-We use live streams as a tool to communicate. The format we have chosen is a podcast style live stream and we call the show **Let's talk about Public Code**.
+We use live streams as a tool to communicate. We host a podcast style live stream show called 'Let's talk about public code'.
 
 ## Goals
 
