@@ -26,7 +26,7 @@ When setting up a new [live stream](index.md) for 'Let's talk about public code'
 
 ## Communication
 
-Ready **three weeks** (at least) in advance:
+Make sure these are ready  at least 3 weeks in advance:
 
 - Copies
 - Images
