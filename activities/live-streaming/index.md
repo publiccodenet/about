@@ -15,13 +15,11 @@ We use live streams as a tool to communicate. We host a podcast style live strea
 
 ## Formats, length and schedule
 
-1. **Frequency**: Ambition to make it at least monthly.
-2. Two different formats: one for codebases, one for the Foundation.
-3. For the codebases, the format is an interview by two codebase stewards with someone from a codebase.
-4. For the Foundation, the format is a conversation between two persons from the foundation. This can be theoretical, about ideas and principles or about news.
-5. Language: English.
-6. Have one or a few recurring questions we ask every guest. This builds familiarity with our approach and can also reveal similarities and differences between codebases.
-7. Timing: minimum 20 minute livestream during business hours - starting at 14.00 UTC. Promise that the podcast will be live by close of business the next day. Aim to hold this on Tuesdays.
+1. **Frequency**: ambition to make it at least monthly.
+2. **Format**: it'd be an interview made by two codebase stewards -ideally the community ones- with someone relevant from a codebase. 
+3. **Language**: English.
+4. **Script** we'll have several questions ready before each episode. This builds familiarity with our approach and can also reveal similarities and differences between codebases.
+5. **Lenght and schedule**: minimum 20 minute livestream during business hours - starting at 14.00 UTC. Promise that the podcast will be live by close of business the next day. Aim to hold this on Tuesdays.
 
 ### Guest selection criteria
 
