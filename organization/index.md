@@ -15,6 +15,7 @@ This is how we're building the organization to support our mission:
 * [Roadmap](roadmap.md)
 * [Governance model](governance-model.md)
 * [Financial model](financial-model.md)
+* [Philanthropy policy](philanthropy.md)
 * [Staff](staff.md)
 * [Remuneration policy](remuneration-policy.md)
 * [Articles of association](articles-of-association.md) with translations in [Spanish (Español)](articles-of-association.es.md) and [Dutch (Nederlands)](articles-of-association.nl.md)
