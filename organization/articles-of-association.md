@@ -31,7 +31,7 @@ The person appearing (comparante), acting as described, declares that the founde
 * d.    "director" means a director of the association.
 * e.    "membership dues": the dues owed by a member to the association on the basis of article 7.
 * f. "founders" means the founders of the association who became the first members of the association when the association was founded.
-* g. "member    " means a member of the association, being a founder or a public member.
+* g. "member" means a member of the association, being a founder or a public member.
 * h. "public code": public code is software and policy with a public purpose, more specifically transparent, open source and jointly developed.
 * i. "public member" means a public organization that is a member.
 * j. "public organization": a public entity as referred to in [article 2:1(1)  of the Dutch Civil Code](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=1&artikel=1&z=2019-07-01&g=2019-07-01) or a comparable entity under foreign law, as well as a legal person or other entity in which one or more public entities under Dutch or foreign law hold all shares or depositary receipts for shares, membership rights, participations or other securities.
