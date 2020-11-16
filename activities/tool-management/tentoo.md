@@ -18,4 +18,4 @@ NMBRS is a fully-fledged HR service and registers employee's contact and persona
 
 ## Tentoo privacy policy
 
-Tentoo's privacy policy is not published. They have assured us it will be soon.
+Tentoo is part of the [Brisker Group](https://www.briskergroup.nl/en/). Tentoo's privacy policy will be published on their newly designed website soon. In the meantime [the privacy policy is available as a PDF](https://drive.google.com/drive/folders/19uVbxuM5EiJobvMmxAsdFOGq0bWv28Qn) (in Dutch).
