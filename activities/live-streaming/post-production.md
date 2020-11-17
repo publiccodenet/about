@@ -12,7 +12,7 @@ When doing post-production of a 'Let's talk about public code' [live stream](ind
   - Cut out log pauses, coughs and other noise, but try to keep the content similar to the recording.
   - Compress and normalize.
   - Cut out the long intro audio for a shorter audio intro.
-  - Change the outro audio for a complete version.
+  - Change the outro audio if it was cut off by when the video stream ended for a complete version of the outro music.
 - [Post a blogpost](../communications/blogging.md) with the link to the video and the audio.
   - Include a request for feedback from the audience.
 - Social media campaign ending.
