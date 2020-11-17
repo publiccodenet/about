@@ -13,7 +13,7 @@ When doing post-production of a 'Let's talk about public code' [live stream](ind
   - Compress and normalize.
   - Cut out the long intro audio for a shorter audio intro.
   - Change the outro audio if it was cut off by when the video stream ended for a complete version of the outro music.
-- [Post a blogpost](../communications/blogging.md) with the link to the video and the audio.
+- [Post a blogpost](../communication/blogging.md) with the link to the video and the audio.
   - Include a request for feedback from the audience.
 - Social media campaign ending.
 - Some time after the show, take a look at the metrics (number of views, number of people that signed up, increase in number of leads that reach out to us later on, number of clicks in our blogposts, videos, audio, social media, etc.). Iterate, engage and act according to prior data.
