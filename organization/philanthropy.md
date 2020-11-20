@@ -14,7 +14,8 @@ We will be philanthropically funded until we have enough members paying dues to 
 
 ## Working together with philanthropists
 
-We value the experience, expertise and connections of the philanthropists who've chosen to support us. Our donors have helped us scale, grow internationally and communicate for impact.
+We value the experience, expertise and connections of the philanthropists who've chosen to support us.
+Our donors have helped us scale, grow internationally and communicate for impact.
 
 Philanthropists are not involved in our prioritization of activities or day to day operations.
 
