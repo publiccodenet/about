@@ -5,8 +5,7 @@ explains: our policy on philanthropy
 
 # Philanthropy policy
 
-The Foundation for Public Code is currently wholly supported by philanthropists who share our commitment to [our mission](https://about.publiccode.net/organization/mission.html).
-All donations are unearmarked and go into our general operating budget, in compliance with our status as a Dutch [public benefit organization (ANBI)](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/public_benefit_organisations).
+The Foundation for Public Code is currently wholly financially supported by philanthropists who share our commitment to [our mission](https://about.publiccode.net/organization/mission.html). To prevent undue influence, all donations are unearmarked and go into our general operating budget, in compliance with our status as a Dutch [public benefit organization (ANBI)](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/public_benefit_organisations).
 
 We will be philanthropically funded until we have enough members paying dues to support a sustainable blended financial model.
 
@@ -15,6 +14,7 @@ We will be philanthropically funded until we have enough members paying dues to 
 ## Working together with philanthropists
 
 We value the experience, expertise and connections of the philanthropists who've chosen to support us.
+
 Our donors have helped us scale, grow internationally and communicate for impact.
 
 Philanthropists are not involved in our prioritization of activities or day to day operations.
@@ -26,11 +26,11 @@ Philanthropists are not involved in our prioritization of activities or day to d
 To date, we've received donations from:
 
 * Arnout Schuijff
-* Stewart Butterfield
 * Josh Elkes
+* Stewart Butterfield
 
 Arnout is one of our co-founders and currently also sits on the board of directors.
 
-## Become a donor
+## Support the Foundation for Public Code
 
-If you're interested in [becoming a donor](https://about.publiccode.net/CONTRIBUTING.html#institutional-giving-and-philanthropy), please read [our case for support] and email us at giving@publiccode.net.
+Read more about [becoming a donor](https://about.publiccode.net/CONTRIBUTING.html#institutional-giving-and-philanthropy) or email us at <giving@publiccode.net>.
