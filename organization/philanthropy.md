@@ -33,4 +33,4 @@ Arnout is one of our co-founders and currently also sits on the board of directo
 
 ## Become a donor
 
-See [our case for support] or [become a donor](https://about.publiccode.net/CONTRIBUTING.html#institutional-giving-and-philanthropy).
+If you're interested in [becoming a donor](https://about.publiccode.net/CONTRIBUTING.html#institutional-giving-and-philanthropy), please read [our case for support] and email us at giving@publiccode.net.
