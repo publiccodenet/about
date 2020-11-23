@@ -23,5 +23,6 @@ Prospective users can trust there will be packages when they need to update thei
 Future contributors can trust that there will be someone to receive their pull request after the original maintainers have moved on.
 
 We provide this sustainability in the first place by creating strong communities of users and developers that can take ownership of the product.
+We ensure that the infrastructure that enables all members of the community making high quality contributions are in place.
 
 We don't give a person a fish. We don't even assume they want to learn fishing. We help them figure out what nourishment they need, and then help them along on that path, regardless if it is becoming a fisher or a farmer.
