@@ -20,7 +20,7 @@ To enable public-purpose software and policy that is open and collaborative.
 
 The founding principles were adopted by the board of directors on 23 August 2019.
 
-\* In order to start as an association 4 initial individual founders will play the role of member until there are enough public members for the organization to sustain itself.
+\* In order to start as an association, 4 individual founders will play the role of member until there are enough public members for the organization to sustain itself.
 
 ## Current priorities
 
