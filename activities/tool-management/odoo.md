@@ -16,6 +16,8 @@ We offer training to new staff.
 
 ## Odoo management
 
+Our service provider is OpenWorx.
+
 The Operations coordinator takes care of user administration, reports bugs and is the contact person for the service provider.
 
 ## Privacy and GDPR
