@@ -8,3 +8,4 @@ Our [financial model](https://about.publiccode.net/organization/financial-model.
 
 * Information on how to donate to us in [The Netherlands](donating-netherlands.md)
 * Information on how to donate to us from [the U.S.](donating-united-states.md)
+* Our [case for support]() explains the impact of making a philanthropic gift to the Foundation for Public Code
