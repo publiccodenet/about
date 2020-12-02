@@ -16,7 +16,7 @@ We offer training to new staff.
 
 ## Odoo management
 
-Odoo Community is currently hosted and maintained by a service provider in the UK. We are migrating our instance to Openworx in November 2020.
+Our service provider is OpenWorx.
 
 The Operations coordinator takes care of user administration, reports bugs and is the contact person for the service provider.
 

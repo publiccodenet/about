@@ -24,4 +24,4 @@ when your partner has given birth by 9am the next working day.
 * [Zwangerschapsverlof en bevallingsverlof (Dutch)](https://www.rijksoverheid.nl/onderwerpen/zwangerschapsverlof-en-bevallingsverlof) on rijksoverheid.nl
 * [Maternity and partner/paternity leave](https://business.gov.nl/regulation/leave-schemes/) on business.gov.nl.
 
-If you have questions about parental leave, or need to take parental leave, please reach out to HR <hr@publiccode.net>.
+If you have questions about parental leave, or need to take parental leave, please reach out to HR at <hr@publiccode.net>.
