@@ -6,6 +6,6 @@ type: Index
 
 Our [financial model](https://about.publiccode.net/organization/financial-model.html) includes raising philanthropic funds. Gifts are tax-deductible in both the Netherlands and the US.
 
-* Information on how to donate to us in [The Netherlands](donating-netherlands.md)
-* Information on how to donate to us from [the U.S.](donating-united-states.md)
-* Our [case for support]() explains the impact of making a philanthropic gift to the Foundation for Public Code
+* how to [donate to us in The Netherlands](donating-netherlands.md)
+* how to [donate to us from the U.S.](donating-united-states.md)
+* [Our case for support (A4 PDF)](Foundation-for-Public-Code-case-for-support-A4.pdf) explains the impact of making a philanthropic gift to the Foundation for Public Code (also available as a [US Letter PDF](activities/philanthropic-fundraising/Foundation-for-Public-Code-case-for-support-letter.pdf))
