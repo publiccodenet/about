@@ -34,9 +34,10 @@ The leave can now be approved by your manager.
 ### Buying more vacation time or deduct from next year's quota
 
 Firstly, you can see how much leave you have when logging into your Tentoo NMBRS account. Navigate to the "leave" section on your dashboard. 
+
 Please let the Operations Coordinator know if you want to take more vacation time than you have an if you want the additional leave to be deducted from next year's quota (Tentoo NMBRS does this automatically) or if you want to buy more days.
-When buying more vacaction time you need to fill out a form approving the deduction from your salary. You may also want to know what extra vacation time actually costs.
-Both the form as well as how you can calculate the costs [can be found on the Drive.](https://drive.google.com/drive/folders/1rZqzT6FTnHzMLRbkdiM5DPz3Hie5TGZc)
+
+When buying more vacaction time you need to fill out a form approving the deduction from your salary. You may also want to know what extra vacation time actually costs. Both the form as well as how to calculate the costs [can be found on the Drive.](https://drive.google.com/drive/folders/1rZqzT6FTnHzMLRbkdiM5DPz3Hie5TGZc)
 
 ### Sick while on vacation leave
 
