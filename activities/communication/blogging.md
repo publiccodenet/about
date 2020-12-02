@@ -70,7 +70,7 @@ date: YYYY-MM-DD
 author: [put your name]
 type: blogpost
 excerpt: [unformatted text you want to appear on the index]
-category: [our current categories are: news, community call and codebase stewardship]
+category: [our current categories are: news, codebase stewardship, community call and policy]
 ---
 ```
 
@@ -83,7 +83,7 @@ Make sure [the text alternative for your image is useful](https://www.w3.org/WAI
 Example:
 
 ```markdown
-![alternative text]({{site.url}}/assets/image.jpg)
+{% raw %}![alternative text]({{site.url}}/assets/image.jpg){% endraw %}
 ```
 
 ### Step 3: create a pull request and release the new blogpost
