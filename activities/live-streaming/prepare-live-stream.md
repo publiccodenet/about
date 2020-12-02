@@ -26,11 +26,10 @@ When setting up a new [live stream](index.md) for 'Let's talk about public code'
 
 ## Communication
 
-Make sure these are ready  at least 3 weeks in advance:
+Make sure these are ready at least 3 weeks in advance:
 
-- Copies
-- Images
-- Graphs
+- Text messages for social media
+- Images and graphs that can be used in the communication
 - Social media campaign: short video with the guest if possible
 - Shared strategy with the stakeholders involved for every interview
 
