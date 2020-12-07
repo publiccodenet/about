@@ -1,3 +1,7 @@
+---
+type: Resource
+---
+
 # Measurable goals: December 2020 - March 2021
 
 ### Until March 2021, we are working towards achieving the following four outcomes. Each outcome is informed by one or more indicators of success.
