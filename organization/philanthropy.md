@@ -7,7 +7,7 @@ explains: our policy on philanthropy
 
 The Foundation for Public Code is currently wholly financially supported by philanthropists who share our commitment to [our mission](https://about.publiccode.net/organization/mission.html). To prevent undue influence, all donations are unearmarked and go into our general operating budget, in compliance with our status as a Dutch [public benefit organization (ANBI)](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/public_benefit_organisations).
 
-We will be philanthropically funded until we have enough members paying dues to support a sustainable blended financial model.
+In the future, we aim for the Foundation for Public Code to be primarily member-funded, with additional philanthropic support. Membership dues should cover core stewardship operations and member relations to make sure we’re sustainable in the long term. We hope to use philanthropic gifts for awareness raising, ecosystem growth, training and toolset improvement.
 
 [See our financial model](https://about.publiccode.net/organization/financial-model.html) for more information about our long term financial plans.
 
