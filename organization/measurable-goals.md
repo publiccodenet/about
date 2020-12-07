@@ -50,7 +50,7 @@ Until March 2021, we are working towards achieving the following four outcomes. 
 
 **Means of verification:** Testimonials/statements on measurable benefits provided by members and published in case studies
 
-## 4. Our audience* experiences a consolidated brand, with accessible content that is useful, relevant, timely and inspiring
+## 4. Our audience experiences a consolidated brand, with accessible content that is useful, relevant, timely and inspiring
 
 ### Success indicators for outcome 4
 
@@ -93,5 +93,3 @@ Until March 2021, we are working towards achieving the following four outcomes. 
 **Target**: track dissemination
 
 **Means of verification:** Code forks; Standard downloads; mentions
-
-**audience is derived from the three previous outcomes and consists of existing communities*
