@@ -23,7 +23,7 @@ Philanthropists are not involved in our prioritization of activities or day to d
 
 ## Donors
 
-To date, we've received donations from:
+We've received donations from:
 
 * Arnout Schuijff
 * Josh Elkes
