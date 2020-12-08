@@ -31,6 +31,6 @@ We've received donations from:
 
 Arnout is one of our co-founders and currently also sits on the board of directors.
 
-## Support the Foundation for Public Code
+## How to donate
 
 Read more about [becoming a donor](https://about.publiccode.net/CONTRIBUTING.html#institutional-giving-and-philanthropy) or email us at <giving@publiccode.net>.
