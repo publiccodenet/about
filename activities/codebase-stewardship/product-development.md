@@ -2,7 +2,7 @@
 
 ## Product life cycle
 
-A [product](../../glossary/product.md) starts with an idea which reflects a need or provides a solution to specific problem. In the context of public code the indented product often supports the management and or execution of public policy.
+A [product](../../glossary/product-definition.md) starts with an idea which reflects a need or provides a solution to specific problem. In the context of public code the indented product often supports the management and or execution of public policy.
 
 The process from and initial idea to a fully developed product is an evolutionary process supported by a variety of development methodologies and management frameworks (see further reading). A product is constantly refined, altered and improved. This entire process is often referred to as the product life cycle.
 
@@ -75,7 +75,7 @@ From a product management perspective codebase stewards can support this phase b
 
 The activities in this phase are related to using, operating, maintaining, supporting, sustaining, phasing out, and retiring a product.
 
-The final phase of the lifecycle involves managing "in-service" information. This can include providing customers and service engineers with the support and information required for support repair and maintenance. This can involve the use of tools such as hosting, maintenance, user training and support.
+The final phase of the life cycle involves managing "in-service" information. This can include providing customers and service engineers with the support and information required for support repair and maintenance. This can involve the use of tools such as hosting, maintenance, user training and support.
 
 Typically these services can be provided in-house by large public organization or by procuring a software vendor who takes care of the operational aspect of the product. In the context of open source it could also be a vendor seeing the opportunity to use an entire codebase and develop a product as a service and contribute to the the open source codebase itself.
 
@@ -95,14 +95,13 @@ Codebase stewards can support all phases by helping the community to adopt a pro
 | Asset | Description | Link | Product Life cycle phase |
 | -------- | -------- | -------- | -------- |
 | Product Manifest or Description  | What is the purpose and goal of a product. What problem(s) does it solve and what value does it provide to its users | LINK     | Conceive (1) & Design (2) |
-| Product Roadmap | A high level overview of features projected through  time  describing the future direction of the development of the product. It also serves an archival purpose so newcomers can see how the product development has progressed through time| LINK | Design(2), Realize(3), All phases |
-|Product Backlog | A publicly visible shared product backlog which contains a description of categorized and prioritized features (epics and user stories) which can be related to containing procureable work packages | TO BE DEVELOPED | Design(2), Realize(3), All phases |
-|Feature Request Template | An instruction inside the codebase explaining how to request features to be considered to be developed. The template SHOULD include a detailed description of a feature (user story) which supports developers and product stakeholders to be able to design, develop and procure this feature. | TO BE DEVELOPED | Design(2), Realize(3), Service(4), All phases |
-| Governance excercise | The governance exercise is designed to help civil servants develop a shared understanding and vocabulary of how to make open source projects successful in a government organization. | [LINK](https://about.publiccode.net/activities/supporting-codebase-governance/exercise/) | Design(2), Realize(3), Service(4), All phases|
+| Product Roadmap | A high level overview of features projected through  time  describing the future direction of the development of the product. It also serves an archival purpose so newcomers can see how the product development has progressed through time| A visual, high-level roadmap including goals, milestones set in time. A [roadamp example](https://signalen.org/roadmap)| Design(2), Realize(3), All phases |
+|Product Backlog | A publicly visible shared product backlog which contains a description of categorized and prioritized features (epics and user stories) which can be related to containing procurable work packages | [Product Backlog](https://github.com/publiccodenet/product-steering/projects/1) part of [product-steering repository template](https://github.com/publiccodenet/product-steering)| Design(2), Realize(3), All phases |
+|Feature Request Template | An instruction inside the codebase explaining how to request features to be considered to be developed. The template SHOULD include a detailed description of a feature (user story) which supports developers and product stakeholders to be able to design, develop and procure this feature. | [Feature Request Template](https://github.com/publiccodenet/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md) part of [product-steering repository template](https://github.com/publiccodenet/product-steering) | Design(2), Realize(3), Service(4), All phases |
+| Governance exercise | The governance exercise is designed to help civil servants develop a shared understanding and vocabulary of how to make open source projects successful in a government organization. | [LINK](https://about.publiccode.net/activities/supporting-codebase-governance/exercise/) | Design(2), Realize(3), Service(4), All phases|
 | Customized governance game | A customized governance workshop can be used for a codebase that already has some form of governance in place, or is considering a draft proposal. Can also be used to focus on a single aspect of governance for example, product management | [LINK](https://about.publiccode.net/activities/supporting-codebase-governance/customized-governance-workshop/)|Design(2), Realize(3), Service(4), All phases|
 | Workshop "Mapping business models enabled by a codebase" | Have a collaborative working session with new or existing community members to map out potential different business models that can be created around a given codebase. | [Link](https://about.publiccode.net/activities/workshops/mapping-business-models/) | Realize (3), Service (4), All phases
 | Workshop "Mapping risk and service level agreements workshop" | Have a collaborative working session with new or existing community members to map out, for a given codebase, potential different risks when using the codebase in production, as well as approaches to service level agreements. |[Link](https://about.publiccode.net/activities/workshops/mapping-risk-and-service-level-agreements/) | Service (4), All phases|
-
 
 ## Further reading
 
