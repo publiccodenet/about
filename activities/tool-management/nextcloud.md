@@ -12,7 +12,7 @@ Staff are issued a Nextcloud account when they join. Nextcloud publishes [extens
 
 ## Nextcloud management
 
-Nextcloud (user) administration is managed by the Operations Coordinator. The Operations Coordinator as well as the Chief Executive have full adminstrative privileges. The Operations Coordinator is responsible for user management, folder management, customization and making sure Nextcloud stays up-to-date. She also ensures proper on-boarding and off-boarding policies are in place and enforced.
+Nextcloud (user) administration is managed by the Operations Coordinator. The Operations Coordinator as well as the Chief Executive have full adminstrative privileges. The Operations Coordinator is responsible for user and folder management, customization, making sure Nextcloud stays up-to-date and ensures proper on-boarding and off-boarding policies are in place and enforced.
 
 ## Privacy and GDPR
 
