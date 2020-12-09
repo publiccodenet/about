@@ -24,6 +24,7 @@ Our current tools are:
 * [Jitsi Meet](jitsi-meet.md) (videoconferencing)
 * [Mattermost](mattermost.md) (chat)
 * [Odoo Community](odoo.md) (CRM and project management)
+* [Nextcloud](nextcloud.md) (file sharing)
 * [Podbean](podbean.md) (publishing our podcasts)
 * [Streamyard](streamyard.md) (livestreaming our podcast)
 * [Tentoo](tentoo.md) (human resources management, including processing salaries and expenses)
