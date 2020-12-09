@@ -1,3 +1,7 @@
+---
+type: Resource
+---
+
 # Codebase Product Development
 
 ## Product life cycle
