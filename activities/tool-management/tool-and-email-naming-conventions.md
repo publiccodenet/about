@@ -43,7 +43,6 @@ These tools have their own URL and associated email:
 * client relationship management: odoo.publiccode.net (Odoo)
 * internal chat: chat.publiccode.net (Mattermost)
 * file sharing: collaboration.publiccode.net (Nextcloud)
-* forum: discuss.publiccode.net (Discourse)
 * video calling: meet.publiccode.net (Jitsi)
 
 ## Email address uses and formatting
