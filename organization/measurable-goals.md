@@ -49,13 +49,13 @@ Until March 2021, we are working towards achieving the following four outcomes. 
 #### 1. Request for 1:1 contact, including pitching codebases, membership, and tools increase
 
 * Baseline: establish baseline
-* Target: TBD once baselines determined
+* Target: To be determined once baselines determined
 * Means of verification: Tracking email and personal approaches, requests for our tools in their preferred format/language, emails to info, phonecalls
 
 #### 2. Being invited to speak at or contribute to others’ platforms (press, publications and events)
 
 * Baseline: establish baseline
-* Target: TBD once baselines determined
+* Target: To be determined once baselines determined
 * Means of verification: Events and communications calendar (proportion invitations vs we pitch)
 
 #### 3. References in government documents, recommendations and referrals
