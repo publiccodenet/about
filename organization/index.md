@@ -13,14 +13,15 @@ The Foundation for Public Code's mission is to enable public-purpose software an
 This is how we're building the organization to support our mission:
 
 * [Members](members.md)
-* [Roadmap](roadmap.md)
 * [Governance model](governance-model.md)
 * [Financial model](financial-model.md)
+* [Articles of association](articles-of-association.md) with translations in [Spanish (Español)](articles-of-association.es.md) and [Dutch (Nederlands)](articles-of-association.nl.md)
 * [Philanthropy policy](philanthropy.md)
 * [Staff](staff.md)
 * [Remuneration policy](remuneration-policy.md)
-* [Articles of association](articles-of-association.md) with translations in [Spanish (Español)](articles-of-association.es.md) and [Dutch (Nederlands)](articles-of-association.nl.md)
+* [Roadmap](roadmap.md)
 * [Policy plan 2019-2022](policy-plan.md)
+* [Measurable goals December 2020-March 2021](measurable-goals.md)
 
 This is how we approach our work:
 
