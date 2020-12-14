@@ -2,42 +2,43 @@
 type: Resource
 ---
 
-# Codebase Product Development
+# Codebase product development
 
 ## Product life cycle
 
-A [product](../../glossary/product-definition.md) starts with an idea which reflects a need or provides a solution to specific problem. In the context of public code the indented product often supports the management and or execution of public policy.
+A [product](../../glossary/product-definition.md) starts with an idea which reflects a need or provides a solution to specific problem. In the context of public code, the product often supports the management or execution of public policy.
 
-The process from and initial idea to a fully developed product is an evolutionary process supported by a variety of development methodologies and management frameworks (see further reading). A product is constantly refined, altered and improved. This entire process is often referred to as the product life cycle.
+The process from an initial idea to a fully developed product is an evolutionary process supported by a variety of development methodologies and management frameworks (see [further reading](#futher-reading)). A product is constantly refined, altered and improved. This entire process is often referred to as the product life cycle.
 
-The product life cycle can be described from different perspectives. From an economic perspective such as the [Product Life Cycle Theory](https://en.wikipedia.org/wiki/Product_life-cycle_theory) or from a [product engineering perspective](https://en.wikipedia.org/wiki/Product_lifecycle). Designing, developing and managing a product is a multi-disciplinary activity which touches all types of activities in an organization ranging from marketing to business development to customer support.
+The product life cycle can be described from different perspectives. Examples include [product life cycle theory](https://en.wikipedia.org/wiki/Product_life-cycle_theory) from an economic perspective or the [product engineering perspective](https://en.wikipedia.org/wiki/Product_lifecycle). Designing, developing and managing a product is a multi-disciplinary activity which touches all activities in an organization, ranging from marketing to business development to customer support.
 
-From a high-level overview the product life cycle could be divided in the following phases:
+As a high level overview, the product life cycle could be divided in the following phases:
 
-* Phase 1: Conceive - Imagine, specify, plan, innovate
-* Phase 2: Design - Describe, define, develop, test, analyze and validate
-* Phase 3: Realize - Manufacture, make, build, procure, produce, sell and deliver
-* Phase 4: Service - Use, operate, maintain, support, sustain, phase-out, retire
-* All phases - Communicate, manage and collaborate
+* Phase 1: Conceive - imagine, specify, plan, innovate
+* Phase 2: Design - describe, define, develop, test, analyze and validate
+* Phase 3: Realize - manufacture, make, build, procure, produce, sell and deliver
+* Phase 4: Service - use, operate, maintain, support, sustain, phase-out, retire
+* All phases - communicate, manage and collaborate
 
-It is imported to note that none of the above phases should be considered as isolated. In reality, a product life cycle does not run sequentially or separated from other product development activities, with information flowing between different people and systems. These phases are constantly revisited and revised during the lifespan of a product. Software development using agile frameworks where these kind of phases are executed iteratively and in parallel.
+It is imported to note that none of the above phases should be considered as isolated. In reality, a product life cycle does not run sequentially or separated from other product development activities, with information flowing between different people and systems. These phases are constantly revisited and revised during the lifespan of a product. Software development usually uses agile frameworks where these phases are executed iteratively and in parallel.
 
 ## Product stewardship activities in the product life cycle
 
-In the context of codebase stewardship the goal of product stewardship is to support codebases and their communities. This helps them build and grow a viable and sustainable ecosystem around a codebase, Then a community can use shared resources and knowledge to support the product life cycle for the duration for its lifespan.
+In the context of codebase stewardship, the goal of product stewardship is to support codebases and their communities. This helps build and grow a viable and sustainable ecosystem around a codebase. Then a community can use shared resources and knowledge to support the product life cycle for the duration for its lifespan.
 
 As codebase stewards we work with different levels of codebases that implement products which differ in product maturity. Codebases which started out being developed and used in a single organization have different needs and dynamics than codebases used by a variety of organizations and or functional contexts.
 
 When a codebase is being replicated or used by more than one organization a community faces the following challenges in order to support the product life cycle.
 
 How does a community:
-- Decide which features are being developed?
-- Prioritize and estimate features needed?
-- Finance and organize the development needed to be done?
-- Share and community with each other and there stakeholders?
-- Handle conflict of interest?
 
-All these challenges are related to how a community govern its codebase and community. As codebase stewards we help communities explore and answer these question by supporting and coaching them in the different phases of the product life cycle.
+* decide which features are being developed?
+* prioritize and estimate features needed?
+* finance and organize the development needed to be done?
+* share and community with each other and their stakeholders?
+* handle conflicts of interest?
+
+All these challenges are related to how a community governs its codebase and community. As codebase stewards we help communities explore and answer these question by supporting and coaching them in the different phases of the product life cycle.
 
 Below is a mapping between the product life cycle phases and how product stewardship can support these phases.
 
@@ -45,12 +46,17 @@ Below is a mapping between the product life cycle phases and how product steward
 
 The first stage is the definition of the product requirements based on customer, company, market and regulatory bodies’ viewpoints. From this specification, the product's major functional and technical parameters can be defined.
 
-For a codebase steward it is unlikely to be involved in conceiving the first iteration of phase 1. A codebase is usually an implementation of a product therefore mostly there already has been an iteration of phase 1.
+Codebase stewards are unlikely to be involved in the first iteration of phase 1. **A codebase is usually an implementation of a product, therefore mostly there already has been an iteration of phase 1.**
 
-However it might be that the goal or use of a product is unclear or needs refinement and further specification. This is usually the case when a product is used by more organizations and or when public policy, law or regulations change.
+However, the goal or use of a product may be unclear or need refinement and further specification. This is usually the case when a product is used by more organizations or when public policy, law or regulations change.
 
-Codebase stewards can support this phase by helping a community to develop a product manifest or product description clarifying what the purpose and goal of a codebase implementing a product is, what problem(s) it solves and what value it provides towards its users.
+Codebase stewards can support this phase by helping a community develop a product manifest or product description, clarifying what:
 
+* the purpose and goal of a codebase implementing a product is
+* problem(s) it solves
+* value it provides for its users
+
+> I stopped here
 ### Phase 2: Design
 
 This is where the detailed design and development of the product's form starts, progressing to prototype testing, through pilot release to full product launch. It can also involve redesign and ramp for improvement to existing products as well as planned obsolescence.
