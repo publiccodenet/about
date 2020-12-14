@@ -34,3 +34,5 @@ the priorities were set as:
 1. Members: get public organizations to join the association
 1. Codebases: get codebases into stewardship
 1. Funding: secure funding for the next years
+
+In order to achieve these priorities, we have come up with a number of [outcomes and measurable goals](measurable-goals.md) for the period December 2020 - March 2021.
