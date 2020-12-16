@@ -19,7 +19,7 @@ Until March 2021, we are working towards achieving the following four outcomes. 
 #### 2. Funds secured to finance the Foundation
 
 * Baseline: € 2 million
-* Target: € 3 Million
+* Target: € 3 million
 * Means of verification: Philanthropic gifts received; payment requests sent; membership dues paid
 
 ## 2. Codebase communities we work with are more open and collaborative, with healthy and growing communities
