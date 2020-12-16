@@ -18,7 +18,7 @@ Until March 2021, we are working towards achieving the following four outcomes. 
 
 #### 2. Funds secured to finance the Foundation
 
-* Baseline: € 2 Million
+* Baseline: € 2 million
 * Target: € 3 Million
 * Means of verification: Philanthropic gifts received; payment requests sent; membership dues paid
 
