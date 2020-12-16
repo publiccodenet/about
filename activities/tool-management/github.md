@@ -8,14 +8,14 @@ GitHub, Inc. is a subsidiary of Microsoft which provides hosting for software de
 
 ## Using GitHub
 
-GitHub is our bread and butter when it comes to code base management, code base auditing, issue tracking and version control, both for ourselves as our community.
+GitHub is our bread and butter when it comes to codebase management, code base auditing, issue tracking and version control, both for ourselves and our community.
 
 ## GitHub management
 
-GitHub is managemed by the Directors and Codebase Stewards. New employees will be onboarded by one of the Codebase Stewards. We also have [documention available on About for newcomers.](github-for-newcomers.md)
+GitHub is managed by the Directors and Codebase Stewards. New employees will be onboarded by one of the Codebase Stewards. We also have [documention available on About for newcomers](github-for-newcomers.md).
 
 ## Privacy and GDPR
 
-GitHub has [an extensive Privacy Notice.](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)
+GitHub has [an extensive Privacy Notice](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement).
 
 > "Thanks for entrusting GitHub Inc. (“GitHub”, “we”) with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it. We use your personal information as this Privacy Statement describes. No matter where you are, where you live, or what your citizenship is, we provide the same high standard of privacy protection to all our users around the world, regardless of their country of origin or location."
