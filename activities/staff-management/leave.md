@@ -46,7 +46,8 @@ Take your “uurloon” hourly salary (which excludes vacation) from your paysli
 An example:
 
 - Hourly salary: €29,38 x 8 hours = €235,04 (gross day salary)
-- Gross day salary: 235,04 - 49,02% = 119,38
+- Bijzonder tarief: €235,04 * 0.4902 = €115,21
+- Deduct the bijzonder tarief from the gross day salary:  €235,04 - €115,21 = €119,38
 - Net day salary: 119,38 - this is the amount that will be deducted for each day you buy
 
 ### Sick while on vacation leave
