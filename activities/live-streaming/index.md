@@ -19,7 +19,7 @@ We use live streams as a tool to communicate. We host a podcast style live strea
 2. Format: Two different formats: one for codebases, one for the Foundation. For the codebases it is an interview made by two codebase stewards - ideally the community ones - with someone relevant from a codebase. For the Foundation, the format is a conversation between two persons from the foundation. This can be theoretical, about ideas and principles or about news.
 3. Language: English.
 4. Script: We get several questions ready before each episode. This builds familiarity with our approach and can also reveal similarities and differences between codebases.
-5. Lenght and schedule: Minimum 20 minute livestream during business hours - starting at 14.00 UTC. Promise that the podcast will be live by close of business the next day. Aim to hold this on Tuesdays.
+5. Length and schedule: Minimum 20 minute livestream during business hours - starting at 14.00 UTC. Promise that the podcast will be live by close of business the next day. Aim to hold this on Tuesdays.
 
 ### Guest selection criteria
 
