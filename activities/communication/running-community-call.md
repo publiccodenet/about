@@ -36,7 +36,7 @@ Have each person join the call on a separate connection aligned with our [confer
 
 ## 1. Opening the call
 
-Call-in link: <https://meet.google.com/tfd-acmn-tkb>
+Call-in link: <https://meet.publiccode.net/FoundationCommunityCall> and call-in link Standard community call: <https://meet.publiccode.net/StandardforPublicCode>
 
 Agenda link: <https://hackmd.io/-OegeqvoThCbAsw3c3gIjw>
 
