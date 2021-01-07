@@ -102,3 +102,5 @@ The notetaker shares the call summary with people who were on the call for amend
 
 * linking from any relevant GitHub issues or pull requests
 * [publishing on the blog](../community-calls/community-call-blogposts.md)
+
+blah
