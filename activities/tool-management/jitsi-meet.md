@@ -39,13 +39,13 @@ When that is ready the following commands need to be applied to reboot the machi
 
 If you need to make tweaks to the configuration files, then these can be accessed via:
 
-`sudo nano /etc/jitsi/meet/meet.publiccode.net-config.js` 
+`sudo nano /etc/jitsi/meet/meet.publiccode.net-config.js`
 
-`sudo nano /etc/jitsi/jicofo/sip-communicator.properties` 
+`sudo nano /etc/jitsi/jicofo/sip-communicator.properties`
 
-`sudo nano /etc/prosody/conf.avail/meet.publiccode.net.cfg.lua` 
+`sudo nano /etc/prosody/conf.avail/meet.publiccode.net.cfg.lua`
 
-`sudo prosodyctl register user meet.publiccode.net password` 
+`sudo prosodyctl register user meet.publiccode.net password`
 
 `sudo nano /usr/share/jitsi-meet/interface_config.js`
 
