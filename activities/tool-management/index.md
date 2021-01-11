@@ -18,7 +18,7 @@ This guidance covers:
 * The tool's privacy and GDPR policies
 * How and where the tools are managed
 
-### Our current tools are:
+## Our current tools are
 
 * [Docusign](docusign.md) (contract management)
 * [Google Workspace](google-workspace.md) (email, calendaring and internal document management)
@@ -29,7 +29,7 @@ This guidance covers:
 * [Streamyard](streamyard.md) (livestreaming our podcast)
 * [Tentoo](tentoo.md) (human resources management, including processing salaries and expenses)
 
-### Website, DNS and VPS'es for self-hosted tools:
+## Website, DNS and VPS'es for self-hosted tools
 
 * Our website is hosted with Jekyll at [GitHub Pages](https://pages.github.com/)
 * Our DNS records are hosted at [Gandi](https://www.gandi.net/en)
