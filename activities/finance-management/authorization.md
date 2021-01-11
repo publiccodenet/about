@@ -3,7 +3,7 @@ type: Guide
 explains: how authorization is managed at the Foundation
 ---
 
-# Authorization 
+# Authorization
 
 Board members – two board members can decide on payments above € 50.000. [See bylaws.](../../organization/articles-of-association.md)
 
