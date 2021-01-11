@@ -14,6 +14,22 @@ Mattermost is a flexible, open source messaging platform that enables secure tea
 
 Mattermost is installed, maintained and kept up-to-date by the Operations coordinator. User registration and management also falls under the Operations coordinator responsibilities. This includes uploading important emojis :)
 
+General updates and upgrades by SSH-ing into the machine as root: 
+
+`ssh root@64.227.76.103`
+
+`sudo apt update`
+
+`sudo apt upgrade`
+
+When the updates are ready the following commands need to be applied:
+
+`sudo systemctl stop mattermost`
+
+`sudo systemctl start mattermost`
+
+Upgrading to the latest version of Mattermost upon receiving the notification can be done by following [the steps as per the Mattermost upgrade instructions.](https://docs.mattermost.com/administration/upgrade.html)
+
 ## Privacy and GDPR
 
 [Mattermost's Certifications and Compliance Overview](https://docs.mattermost.com/overview/compliance.html) says it relies on the EU-US privacy shield to meet its GDPR obligations:
