@@ -1,0 +1,57 @@
+---
+type: Guide
+explains: how bookkeeping is managed
+---
+
+# Bookkeeping
+
+[GetMonkeys](/getmonkeys.io) is our service provider. They process and book all the payments every second Wednesday of the month. Any corrections can be mailed to the bookkeeper and are processed the next day. GetMonkey's is also responsible for producing our annual financial reports and can be asked for other financial services based on our needs.
+
+## Exact
+
+[Exact is a Dutch software company](https://www.exact.com/) that offers accounting, ERP, and other software for small and medium enterprises. We have a license via GetMonkey’s. The Operations Coordinator and Chief Executive have access to Exact. Temporary access can be given to financial consultants.
+
+## Visionplanner
+
+[Visionplanner](https://www.visionplanner.com/) is a leading provider of financial reporting and accounting solutions to small and medium-sized companies, accountants, and administrative offices. It has a direct integration with Exact and we use it for forecasting. The budget blueprint (spreadsheet) serves as the baseline for the information in Visionplanner. Thanks to the integration with Exact, our bank and Tentoo NMBRS, it gives a complete overview of all our financials. The Operations Coordinator and Chief Executive have access to Visionplanner.
+
+## WeFact
+
+WeFact is a lightweight and easy to use program for invoicing. We use it for membership administration. It’s integrated with both Exact as well as Visionplanner. The Operations Coordinator has access to WeFact and creates accounts for other staff members that need access. WeFact has our customized template for our membership payment note. Payment requests are sent directly from WeFact to our members at the beginning of each year from our own domain via <info@publiccode.net>.
+
+## Payments
+
+All payments are managed by the Operation Coordinator. The Operations Coordinator makes sure there is always an underlying document or receipt (Boekstuk) for each transaction. Having a papertrail is essential.
+
+## Invoices – payable
+
+The Operations Coordinator is responsible for paying and processing all the invoices and payment requests that come in. The process goes as follows:
+
+* Send paid invoices to <2y4k@inkoop.exactonline.nl> as PDF, including expense reports from third parties
+* Make sure to add right ledger in the title of the PDF so the bookkeeper knows where to book it
+* Do NOT send invoices from Rabobank (booked from Bank), GetMonkeys, and Tentoo, as these are all integrated with Exact
+* Do NOT send receipts from underlying expense forms, as this would lead to duplication
+* Filing: The Operations Coordinator keeps invoices and expense forms organized by month and year in the [Secret Finance Drive.](https://drive.google.com/drive/folders/1B47cfi314HJzoW7_QDaaaG1hfvxwCjpJ)
+ 
+## Invoices – receivable
+
+* Send to <2y4k@verkoop.exactonline.nl> as PDF.
+
+## Bank statements
+
+* Bank statements can be downloaded from the Rabobank dashboard
+* Rabobank is linked to Exact, so we don't need to submit the statements
+* Credit card statements are send by snail-mail as well as available in the Rabobank dashboard. The credit card statements need to be mailed to Exact every month: <2y4k@verkoop.exactonline.nl> as PDF.
+
+## Budget
+
+* The budget blueprint (spreadsheet) which is used as the baseline for budgeting and forecasting was constructed with help of our finance consultant, Rob Schouten.
+* The budget is approved by the board by the end of each year and is added to Visionplanner
+* The Operations Coordinator is responsible for budgeting and adding it to Visionplanner
+
+## Tax status pertaining financials
+
+* We have ANBI status: read more information about ANBI benefits and requirements
+* We pay social taxes (loonheffing)
+* We are VAT (BTW) exempt
+* We are corporate income tax (vennootschapsbelasting) exempt
