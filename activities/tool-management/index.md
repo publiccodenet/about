@@ -13,11 +13,12 @@ The Foundation for Public Code needs tools to accomplish its mission. This is ho
 
 This guidance covers:
 
-* instructions for users
-* how we manage the tool internally
-* the tool's privacy and GDPR policies
+* Instructions for users
+* How we manage the tool internally
+* The tool's privacy and GDPR policies
+* How and where the tools are managed
 
-Our current tools are:
+### Our current tools are:
 
 * [Docusign](docusign.md) (contract management)
 * [Google Workspace](google-workspace.md) (email, calendaring and internal document management)
@@ -27,3 +28,10 @@ Our current tools are:
 * [Podbean](podbean.md) (publishing our podcasts)
 * [Streamyard](streamyard.md) (livestreaming our podcast)
 * [Tentoo](tentoo.md) (human resources management, including processing salaries and expenses)
+
+### Website, DNS and VPS'es for self-hosted tools:
+
+* Our website is hosted with Jekyll at [GitHub Pages](https://pages.github.com/)
+* Our DNS records are hosted at [Gandi](https://www.gandi.net/en)
+* Jitsi and Mattermost are hosted at [Digital Ocean droplets](https://www.digitalocean.com/)
+* Mailman and Nextcloud are hosted at independent service provider, [Maadix](https://maadix.net/)
