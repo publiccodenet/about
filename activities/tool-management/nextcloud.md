@@ -24,6 +24,6 @@ Tweaks in the Nextcloud configuration can be made after SSH'ing into the machine
 
 ## Privacy and GDPR
 
-Nextcloud has [an extensive GDPR complaince kit.](https://nextcloud.com/gdpr/)
+Nextcloud has [an extensive GDPR complaince kit](https://nextcloud.com/gdpr/).
 
 > "Nextcloud offers everything you need for GDPR compliance. Compliance is a multi-step process and data can be in many locations. Our documentation helps administrators check if they have covered their bases and guides them through delivering on data access, modification and deletion requests. We offer both a high level overview as well as hands-on, concrete documentation for administrators."
