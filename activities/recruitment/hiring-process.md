@@ -13,7 +13,7 @@ type: Resource
 
 ## Announcing job opening
 
-We publish all job postings on the [careers section on the homepage](https://publiccode.net/who-we-are/careers/), and publicize them on our [Twitter account](https://twitter.com/publiccodenet).
+We publish all job postings on the [careers section on the homepage](https://publiccode.net/careers/), and publicize them on our [Twitter account](https://twitter.com/publiccodenet).
 
 We also use the current team's network to spread awareness of the job opening (via email, LinkedIn, social media). We may use (specialized) job sites and recruiters including:
 

@@ -54,7 +54,7 @@ If you provide us with meaningful contributions we might ask you to become an ad
 
 ## Work for the Foundation
 
-[We're currently hiring](https://publiccode.net/who-we-are/careers/) codebase stewards to review codebase quality and build strong open source communities. If the prospect of building an ecosystem of public code thrills you, then we'd love to hear from you.
+[We're currently hiring](https://publiccode.net/careers/) codebase stewards to review codebase quality and build strong open source communities. If the prospect of building an ecosystem of public code thrills you, then we'd love to hear from you.
 
 ## Responsible disclosure and contact information
 

@@ -2,5 +2,5 @@
 type: Resource
 layout: redirected
 sitemap: false
-redirect_to: https://publiccode.net/who-we-are/careers/intern
+redirect_to: https://publiccode.net/careers/intern
 ---
