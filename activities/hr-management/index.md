@@ -8,7 +8,5 @@ Human resource management is primarily concerned with the management of people w
 
 * [Recruitment](../recruitment/index.md)
 * [Onboarding](onboarding.md)
-Probation
-Salary administration
-Loonheffing (LH) – payroll tax
-Expenses
+* [Probation](probation.md)
+* [Salary administration](salary-administration.md)
