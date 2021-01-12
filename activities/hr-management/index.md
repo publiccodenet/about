@@ -10,3 +10,4 @@ Human resource management is primarily concerned with the management of people w
 * [Onboarding](onboarding.md)
 * [Probation](probation.md)
 * [Salary administration](salary-administration.md)
+* [Expenses](../staff-management/expense.md)
