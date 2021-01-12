@@ -16,5 +16,11 @@ explains: how salary administration is managed
 * In the Tentoo NMBRS dashboard the latest SEPA file can be found. The date of the file needs to be changed to the date we want to pay (24 or 25th of the month)
 * The Operations Coordinator uploads the SEPA to the bank and processes it
 * When ready, the Operations Coordinator sends a mail to the Chief Executive to release the payments. Make sure to include a PDF with an overview of the salaries, which can also be downloaded from the Tentoo NMBRS dashboard
-* A few days after the salary run a mail is send by Tentoo to the Operations Coordinator with a payment prompt for the payroll and social taxes (loonheffingen)
-* The Operations Coordinator verifies and processes the payment in the bank portal and requests the Chief Executive to release the payment
+
+## Loonheffing (LH) – payroll tax
+
+* Tentoo reports monthly “loonheffingen en sociale verzekeringspremies” (wage and social taxes) to the tax office
+* Tentoo sends an email to the Operations Coordinator with amount due
+* The Operations Coordinator sets-up the payment in the banking environment, assigns the payment date (e.g. March needs to be paid in April) and completes it with the first signature
+* Then the Operations Coordinator sends the Chief Executive an email requesting release of the payment. Ask the Chief Executive to report back when it’s released
+* Note: This payment information does not have to be sent to Exact as Exact is integrated with Tentoo
