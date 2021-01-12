@@ -38,7 +38,7 @@ Have each person join the call on a separate connection aligned with our [confer
 
 Call-in link: <https://meet.publiccode.net/FoundationCommunityCall>
 
-Agenda link: <https://hackmd.io/-OegeqvoThCbAsw3c3gIjw>
+Agenda link: <https://hackmd.io/9THmWbpQTLi8L9UIzczSyw>
 
 ### No show
 
