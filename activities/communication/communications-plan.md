@@ -227,7 +227,7 @@ We are also actively building our ecosystem by:
 Our channels are:
 
 * [Our blog](https://blog.publiccode.net/): long form, platform of record (read more about our blog)
-* [Twitter](https://twitter.com/publiccodenet/): short form, ephemera
+* Twitter: short form, ephemera
 * LinkedIn: share our blogposts or reshare others' content about us, ephemera (mostly avoid, since it’s a closed platform - even linking to it here breaks our continuous integration)
 * Facebook: medium form, ephemera (mostly avoid, since it’s a closed platform)
 
