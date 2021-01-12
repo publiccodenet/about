@@ -14,7 +14,18 @@ After successful negotiations, the Operations Coordinator sends a draft employme
 * Bank details
 * Loonheffingsverklaring (Tentoo takes care of this once the employee is added to the system by the Operations Coordinator)
 
-## Onboarding
+## Onboarding for Operations Coordinator
+
+The Operations Coordinator needs to add the new employee to Tentoo NMBRS:
+
+* Add new employee by filling out “nieuwe medewerker” form. Once approved by Tentoo (can take a few days) the user account is created
+* Pay attention when filling out the salary. At the moment their form doesn't accommodate for our salary structure (holiday allowance is calculated in the gross monthly salary)
+* E.g. if someone will earn € 5500 gross and works 80%, the salary needs to be added as follows: 4400 / 108 * 100 = € 4074.07 gross excluding holiday allowance
+* If the person works fulltime earning € 5500, the calculation is as follows: 5500 / 108 * 100 = € 5092,59 gross excluding holiday allowance
+* To create the user account go to the profile of the new hire and click on 'home'
+* On the bottom-right you see “medewerker login” there you can create the user account which can be used for both the desktop as the mobile NMBRS application. Pick scenario 2
+
+## Onboarding for employee
 
 If the employee agrees to the terms and has no further questions, onboarding ensues as follows:
 
