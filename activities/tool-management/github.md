@@ -16,6 +16,6 @@ GitHub is managed by the Directors and Codebase Stewards. New employees are onbo
 
 ## Privacy and GDPR
 
-GitHub has [an extensive Privacy Notice.](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-insights-and-data-protection-for-your-organization)
+GitHub has [an extensive Privacy Notice.](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)
 
-> "Under various data protection regulations, such as the General Data Protection Regulation (GDPR), users may have the right to request exclusion from processing, access, and correction, or to request deletion of their personal data. As the data controller, your organization should evaluate whether a particular user request is valid and, if appropriate, take action to fulfill the request."
+> "GitHub collects information directly from you for your registration, payment, transactions, and user profile. We also automatically collect from you your usage information, cookies, and device information, subject, where necessary, to your consent. GitHub may also collect User Personal Information from third parties. We only collect the minimum amount of personal information necessary from you, unless you choose to provide more."
