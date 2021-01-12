@@ -8,7 +8,7 @@ GitHub, Inc. is a subsidiary of Microsoft which provides hosting for software de
 
 ## Using GitHub
 
-GitHub is our bread and butter when it comes to codebase management, codebase auditing, issue tracking and version control, both for ourselves as our community.
+GitHub is our bread and butter when it comes to codebase management, codebase auditing, issue tracking and version control, both for ourselves and our community.
 
 ## GitHub management
 
