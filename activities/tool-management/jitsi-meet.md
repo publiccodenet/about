@@ -49,7 +49,7 @@ If you need to make tweaks to the configuration files, then these can be accesse
 
 `sudo nano /usr/share/jitsi-meet/interface_config.js`
 
-[Prosody](https://prosody.im/) is used for creating user accounts and managing thereof.
+[Prosody](https://prosody.im/) is used for creating and managing user accounts.
 
 `ls -l /var/lib/prosody/*/accounts/*`
 
