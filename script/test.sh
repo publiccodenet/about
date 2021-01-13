@@ -18,6 +18,7 @@ bundle exec jekyll build
 bundle exec htmlproofer \
     --assume-extension \
     --url-ignore "/github.com/(.*)/edit/" \
+    --url-ignore "/twitter.com/(.*)" \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
     --http_status_ignore "429" \
     ./_site
