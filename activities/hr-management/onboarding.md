@@ -3,7 +3,7 @@ type: Guide
 explains: how onboarding is managed
 ---
 
-# Contracts and payroll administration
+# Onboarding and payroll administration
 
 After successful negotiations, the Operations Coordinator sends a draft employment contract to the new employee. The following information is requested when the draft contract is send. This information is needed to finalize the contract and to prepare the payroll administration.
 
