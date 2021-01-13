@@ -13,7 +13,7 @@ The Foundation for Public Code needs tools to accomplish its mission. We use a v
 
 ## Tool guidance
 
-This guidance covers:
+Our guidance covers:
 
 * Instructions for users
 * How we manage the tool internally
@@ -22,14 +22,17 @@ This guidance covers:
 
 ## Our current tools are
 
+* [1password](1password.md) (password management)
 * [Docusign](docusign.md) (contract management)
 * [Google Workspace](google-workspace.md) (email, calendaring and internal document management)
 * [Jitsi Meet](jitsi-meet.md) (videoconferencing)
 * [Mattermost](mattermost.md) (chat)
+* [Miro](miro.md) (collaborative whiteboard)
 * [Odoo Community](odoo.md) (CRM and project management)
 * [Podbean](podbean.md) (publishing our podcasts)
 * [Streamyard](streamyard.md) (livestreaming our podcast)
 * [Tentoo](tentoo.md) (human resources management, including processing salaries and expenses)
+* [Voys](voys.md) (VoIP provider)
 
 ## Website, DNS and VPS'es for self-hosted tools
 
