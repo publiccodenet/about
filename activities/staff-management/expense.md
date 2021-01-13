@@ -47,5 +47,5 @@ After approval the reimbursement is added to your next salary payment.
 * Approval is done by the Operations Coordinator in the Tentoo portal
 * Step 1: “toewijzen” (assign), step 2: “goedkeuren / vraag om verbetering” (approve or ask for improvement), step 3: approval by accountant, which is someone at Tentoo
 * Approved expenses will show up at next salary stub and will be paid with salaries (untaxed)
-NB: The Operations Coordinator needs to check if the expenses are booked to the correct ledger number
 * For contractors and volunteers, the [expense form](https://docs.google.com/spreadsheets/d/1m_5vpScmpBAFOOXUEGWEqrd2FF_WhLjoJDcPF9wT_0Y/edit#gid=0) has to be sent as a PDF and be accompanied by ‘proof’ (receipts etc) for each line item. Send all this to the Operations Coordinator: <hr@publiccode.net>.
+* The Operations Coordinator needs to check if the expenses are booked to the correct ledger number
