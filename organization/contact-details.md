@@ -23,8 +23,8 @@ We publish our news and announcements on:
 
 + [our mailing list](https://forms.gle/gn7wR2Eaxbv5g1BF9)
 + [our blog](https://blog.publiccode.net/)
-+ Twitter: @publiccodenet
++ Twitter
 
 We very occasionally update our Facebook and LinkedIn pages.
 
-We arrange bi-weekly community calls: [agenda](https://hackmd.io/@clausmullie/BJGGtcGRE).
+We hold two community calls per month. [Sign up for community call invitations](https://forms.gle/gn7wR2Eaxbv5g1BF9).
