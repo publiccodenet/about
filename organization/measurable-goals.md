@@ -14,13 +14,13 @@ Until March 2021, we are working towards achieving the following four outcomes. 
 
 * Baseline: 0 members, 10 organizations in “lead”
 * Target: 3 members, 15 organizations in “lead”
-* Means of verification: Membership contracts signed, membership pipeline documentation
+* Means of verification: membership contracts signed, membership pipeline documentation
 
 #### 2. Funds secured to finance the Foundation
 
-* Baseline: € 2 Million
-* Target: € 3 Million
-* Means of verification: Philanthropic gifts received; payment requests sent; membership dues paid
+* Baseline: € 2 million
+* Target: € 3 million
+* Means of verification: philanthropic gifts received, payment requests sent, membership dues paid
 
 ## 2. Codebase communities we work with are more open and collaborative, with healthy and growing communities
 
@@ -30,7 +30,7 @@ Until March 2021, we are working towards achieving the following four outcomes. 
 
 * Baseline: Current number of implementations of the codebase
 * Target: 2 new implementations per codebase
-* Means of verification: Number of public organizations testing or implementing a stewarded codebase
+* Means of verification: number of public organizations testing or implementing a stewarded codebase
 
 ## 3. Public organizations benefit from being members of the Foundation for Public Code
 
@@ -40,7 +40,7 @@ Until March 2021, we are working towards achieving the following four outcomes. 
 
 * Baseline: 0 case studies
 * Target: 2 case studies
-* Means of verification: Testimonials/statements on measurable benefits provided by members and published in case studies
+* Means of verification: testimonials or statements on measurable benefits provided by members and published in case studies
 
 ## 4. Our audience experiences a consolidated brand, with accessible content that is useful, relevant, timely and inspiring
 
@@ -50,28 +50,28 @@ Until March 2021, we are working towards achieving the following four outcomes. 
 
 * Baseline: establish baseline
 * Target: To be determined once baselines determined
-* Means of verification: Tracking email and personal approaches, requests for our tools in their preferred format/language, emails to info, phonecalls
+* Means of verification: tracking email and personal approaches, requests for our tools in preferred formats or languages, emails to info@publiccode.net, phonecalls
 
 #### 2. Being invited to speak at or contribute to others’ platforms (press, publications and events)
 
 * Baseline: establish baseline
 * Target: To be determined once baselines determined
-* Means of verification: Events and communications calendar (proportion invitations vs we pitch)
+* Means of verification: events and communications calendar (proportion invitations vs we pitch)
 
 #### 3. References in government documents, recommendations and referrals
 
 * Baseline: 2 mentions in government documents, 1 policy referral, listed in civic-tech and tech resource lists
 * Target: 30% increase in mentions
-* Means of verification: List on publiccode.net, use for communications
+* Means of verification: list on publiccode.net, use for communications
 
 #### 4. Our community keeps engaging with us and grows
 
 * Baseline: no analytics
 * Target: set up analytics
-* Means of verification: Tracking engagement through: recurring community call participants, being @’d in conversations, resharing our content, total numbers grow month on month
+* Means of verification: tracking engagement through: recurring community call participants, being @’d in conversations, resharing our content, total numbers growing month on month
 
 #### 5. The Standard for Public Code is widely used and disseminated
 
 * Baseline: establish baseline
 * Target: track dissemination
-* Means of verification: Code forks; Standard downloads; mentions
+* Means of verification: code forks, Standard downloads, mentions
