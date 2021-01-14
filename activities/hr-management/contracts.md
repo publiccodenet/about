@@ -1,0 +1,28 @@
+---
+type: Guide
+explains: how contracts and contract renewals are managed
+---
+
+# Employment contracts
+
+The employment contract is drafted by the Operations Coordinator upon agreement on the terms by all parties. [Onboarding information](onboarding.md) is gathered in advance. Once the contract is ready the Operations Coordinator will upload it to [Docusign](docusign.md) for signage by the Executive Director, chairman of the board and the new employee. As soon as all the involved parties have signed a PDF of the signed contract will be send to the employee, followed by a welcome email and our [onboarding package.](onboarding.md) The [contract template is on our Drive.](https://docs.google.com/document/d/1MQjkagZOo7gHPb1QLfuZUaYzIGVC47r1/edit)
+
+## Employment contract renewals
+
+The Operations Coordinator keeps track of the contract expiration dates [in a spreadsheet.](https://docs.google.com/spreadsheets/d/1isVOEetjiaLKMxJHPGPusnBLORxjHUc_/edit#gid=21927936). The Operations Coordinator sends a reminder to the executive team about an upcoming renewal 6 weeks in advance, as we need to take the one month notice period into account with some leeway, as the renewal needs to be discussed in advance with the executive team.
+
+An employee always needs to hear the contract will be renewed one month before it expires. This notice period is also important in case a contract will not be renewed. One month notice is the customary in The Netherlands.
+
+When it's decided a contract will be renewed, a talk will to be planned with the employee. This talk functions as a performance talk where the manager and employee can give and receive feedback and vice versa. This is also the moment an employee can ask for different terms.
+
+The process is as follows:
+
+* The Operations Coordinator sends a reminder to the executive team about an upcoming renewal 6 weeks in advance
+* Coordinators have the talk with the Chief Executive
+* Codebase Stewards have the talk with their Coordinators
+* Outcome is reported to the Operations Coordinator
+
+## Service agreements and contractors
+
+We work with contractors and freelancers. For big or long-term assignments a service agreement is drafted. For small or short-term assignments a quote suffices.
+The Operations Coordinator takes care of the service agreement, requests time sheets and makes sure invoices are send and paid.
