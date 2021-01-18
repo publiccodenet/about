@@ -4,7 +4,7 @@ type: resource
 
 # Nextcloud
 
-Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud is free and open-source. We are currenty using Nextcloud for file sharing with our community and the general public.
+Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud is free and open source. We are currenty using Nextcloud for file sharing with our community and the general public.
 
 ## Using Nextcloud
 
