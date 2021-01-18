@@ -9,7 +9,7 @@ Our mission requires collaboration! We're eager for your questions or suggestion
 + email: <info@publiccode.net>
 + post: Keizersgracht 617, 1017 DS Amsterdam, the Netherlands
 + phone: +31 20 2 444 500
-+ Twitter: [@publiccodenet](http://www.twitter.com/publiccodenet)
++ Twitter: @publiccodenet
 
 [Our schedule](yearly-schedule.md) shows when the office is closed.
 
@@ -23,8 +23,8 @@ We publish our news and announcements on:
 
 + [our mailing list](https://forms.gle/gn7wR2Eaxbv5g1BF9)
 + [our blog](https://blog.publiccode.net/)
-+ [Twitter](http://www.twitter.com/publiccodenet)
++ Twitter
 
 We very occasionally update our Facebook and LinkedIn pages.
 
-We arrange bi-weekly community calls: [agenda](https://hackmd.io/@clausmullie/BJGGtcGRE).
+We hold two community calls per month. [Sign up for community call invitations](https://forms.gle/gn7wR2Eaxbv5g1BF9).

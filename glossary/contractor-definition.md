@@ -4,5 +4,4 @@ type: Resource
 
 # Contractor
 
-Some roles in our organization are fulfilled by contractors.
-For transparency, these are mentioned with the legal entity they bill through.
+Some roles in our organization are fulfilled by contractors. A contractor is a person or firm that undertakes a contract to provide materials or labour to perform a service or do a job.

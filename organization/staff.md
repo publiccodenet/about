@@ -12,7 +12,7 @@ As we are a community leadership organization that mostly helps others, we aim f
 
 The staff consists of a manager, [a coordination team](#coordination-team) and specialists.
 
-Some roles in our organization are fulfilled by contractors. For transparency, these are mentioned with the legal entity they bill through.
+Some roles in our organization are fulfilled by [contractors](../glossary/contractor-definition.md). For transparency, these are mentioned with the legal entity they bill through.
 
 ## Domains
 
