@@ -9,7 +9,7 @@ redirect_from:
 
 ## 1. Opening the call
 
-Call-in link: <https://meet.google.com/tfd-acmn-tkb>
+Call-in link: <https://meet.publiccode.net/StandardforPublicCode>
 
 Agenda link: <https://hackmd.io/-OegeqvoThCbAsw3c3gIjw>
 
