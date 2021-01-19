@@ -20,6 +20,7 @@ This guidance covers:
 Our current tools are:
 
 * [Docusign](docusign.md) (contract management)
+* [GitHub](github.md) (version control and codebase management)
 * [Google Workspace](google-workspace.md) (email, calendaring and internal document management)
 * [Jitsi Meet](jitsi-meet.md) (videoconferencing)
 * [Mattermost](mattermost.md) (chat)
