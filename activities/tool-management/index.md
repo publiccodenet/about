@@ -29,7 +29,6 @@ Our guidance covers:
 * [Mailman](mailing-lists.md) (mailing lists)
 * [Mattermost](mattermost.md) (chat)
 * [Miro](miro.md) (collaborative whiteboard)
-* [Nextcloud](nextcloud.md) (file sharing)
 * [Odoo Community](odoo.md) (CRM and project management)
 * [Podbean](podbean.md) (publishing our podcasts)
 * [Streamyard](streamyard.md) (livestreaming our podcast)
