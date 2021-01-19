@@ -16,6 +16,6 @@ The Operations Coordinator, Chief Executive and Codebase Stewards can add new us
 
 ## Privacy and GDPR
 
-Miro's (rebranded from RealtimeBoard Inc.) Privacy Policy describes in detail how they use and collect information.
+[Miro's (rebranded from RealtimeBoard Inc.) Privacy Policy](https://miro.com/legal/privacy-policy/) describes in detail how they use and collect information.
 
 > "PII collected by us is protected as personal data under applicable data protection law. PII does not include "Aggregated Information" which is information or data we collect where individual user identities have been removed, including metadata on your use of the Services, IP address logs, device and location information. Aggregated Information helps us understand trends, user needs and other information to provide improved Services and may be used by us for any purpose."
