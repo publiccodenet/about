@@ -31,6 +31,7 @@ Our guidance covers:
 * [Mattermost](mattermost.md) (chat)
 * [Miro](miro.md) (collaborative whiteboard)
 * [Odoo Community](odoo.md) (CRM and project management)
+* [Planable](planable.md) (planning social media content)
 * [Podbean](podbean.md) (publishing our podcasts)
 * [Streamyard](streamyard.md) (livestreaming our podcast)
 * [Tentoo](tentoo.md) (human resources management, including processing salaries and expenses)
