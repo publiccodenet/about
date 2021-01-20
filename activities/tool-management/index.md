@@ -27,7 +27,7 @@ Our guidance covers:
 * [GitHub](github.md) (version control and codebase management)
 * [Google Workspace](google-workspace.md) (email, calendaring and internal document management)
 * [Jitsi Meet](jitsi-meet.md) (videoconferencing)
-* [Mailman](mailing-lists.md) (mailing lists)
+* [Mailman](mailing-lists.md) (mailing lists with Hyperkitty archiver)
 * [Mattermost](mattermost.md) (chat)
 * [Miro](miro.md) (collaborative whiteboard)
 * [Odoo Community](odoo.md) (CRM and project management)
