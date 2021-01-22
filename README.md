@@ -19,6 +19,8 @@ The repository builds to a static site deployed at [about.publiccode.net](https:
 
 Releasing and deploying [is done with a release branch](activities/documentation/merge-develop-into-master.md).
 
+If you want to make changes to the homepage on the about. website, you need to make changes in the file index.md . 
+
 We aim to deploy every Monday.
 
 You can use the scripts:
