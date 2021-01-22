@@ -29,6 +29,7 @@ Any of your new coworkers will be glad to help! <3
 
 These are some tools some of us find helpful:
 
+* [Newcomers](https://github.com/publiccodenet/about/blob/develop/activities/trainings/github-for-newcomers.md) -  for learning to use GitHub effectively for working with the Foundation for Public Code projects.
 * [HackMD.io](https://hackmd.io/) - for collaborating on draft documents in Markdown with people outside the organization (especially helpful for content we plan to publish)
 * [Markdown Here](https://markdown-here.com/) - for formatting emails written using Markdown
 * [Github Learning lab](https://lab.github.com/) - for learning git or refresh your skill
