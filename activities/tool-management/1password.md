@@ -8,7 +8,7 @@ type: resource
 
 ## Using 1Password
 
-* Jitsi Meet can be reached on 'publiccodenet.1password.com'.
+* 1Password can be reached on 'publiccodenet.1password.com'.
 * To ensure security and consistency, each employee has to use 1Password.
 * If log-in credentials needs to be shared, it has to be done within 1Password using the "send a copy" option. It's not allowed to share passwords in plaintext (email).
 * A strong Master Password needs to be set to open the vault.
