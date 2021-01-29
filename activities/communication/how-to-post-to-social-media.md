@@ -5,13 +5,7 @@ explains: how to use Planable
 
 # How to post to social media
 
-> destination: https://about.publiccode.net/activities/communication/
-> put in communication/index between 'how to blog' and 'basic tweet template'
-
-
 We use Planable to draft, review and post social media posts on Twitter, LinkedIn and Facebook. Planable is set up so that many people on the team can propose social media posts, but no posts can go live without a review. 
-
-
 
 Our goals for Planable are:
 
