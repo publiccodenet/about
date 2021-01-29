@@ -1,6 +1,6 @@
 ---
 type: Guide
-explains: ways in which people and orginzations can join the Foundation for Public Code
+explains: ways in which people and organizations can join the Foundation for Public Code
 ---
 
 # Join us
