@@ -26,7 +26,7 @@ Typical content for our social posts includes:
 
 Most of our social followers are real people (many of whom we know!) who are already excited about public code, so we don't spam or try to convert them.
 
-[Read the commmunications plan](https://about.publiccode.net/activities/communication/communications*plan.html) for more information about our audiences and messages.
+[Read the commmunications plan](https://about.publiccode.net/activities/communication/communications-plan.html) for more information about our audiences and messages.
 
 ## Tips for writing social media posts
 
@@ -47,19 +47,19 @@ Most of our social followers are real people (many of whom we know!) who are alr
 * Add a tag with your name so the communications team can reach out to you with questions.
 * Schedule the message at least 24 hours in advance so the communications team have a margin to review the message.
 * Check if there are already other scheduled posts for your preferred publishing time.
-* The communications team will probably tweak your post to be more successful * this is not a reflection on your abilities as a writer.
+* The communications team will probably tweak your post to be more successful - this is not a reflection on your abilities as a writer.
 * Once reviewed, the communications team will approve or comment right next to your message in Planable.
 
 ## Planable accounts
 
 Most staff have contributor permissions: you can draft a post, comment and propose a scheduled publishing time.
 
-You can also [share a public link](https://help.planable.io/en/articles/3803135*share*posts*with*a*public*link) to your draft with anyone else you'd like to see it * they don't need to have a Planable account to comment.
+You can also [share a public link](https://help.planable.io/en/articles/3803135-share-posts-with-a-public-link) to your draft with anyone else you'd like to see it - they don't need to have a Planable account to comment.
 
-You don't have permission to approve your post or the scheduled time * all posts must be approved by a second person before a post can go live.
+You don't have permission to approve your post or the scheduled time - all posts must be approved by a second person before a post can go live.
 
 ## Resources
 
-* [See the basic tweet template](https://about.publiccode.net/activities/communication/basic*tweet*template.html) for a useful starting point
+* [See the basic tweet template](https://about.publiccode.net/activities/communication/basic-tweet-template.html) for a useful starting point
 * [Our illustrations](https://illustrations.publiccode.net/)
 * [Photos from past events](https://drive.google.com/drive/u/0/folders/0AKgB_Nq7eZ5FUk9PVA)
