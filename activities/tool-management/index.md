@@ -27,7 +27,7 @@ Our current tools are:
 * [Mailman](mailing-lists.md) (mailing lists with Hyperkitty archiver)
 * [Mattermost](mattermost.md) (chat)
 * [Miro](miro.md) (online collaborative whiteboard)
- [Nextcloud](nextcloud.md) (file hosting services)
+* [Nextcloud](nextcloud.md) (file hosting services)
 * [Odoo Community](odoo.md) (CRM and project management)
 * [Podbean](podbean.md) (publishing our podcasts)
 * [Streamyard](streamyard.md) (livestreaming our podcast)
