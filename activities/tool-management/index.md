@@ -32,4 +32,4 @@ Our current tools are:
 * [Podbean](podbean.md) (publishing our podcasts)
 * [Streamyard](streamyard.md) (livestreaming our podcast)
 * [Tentoo](tentoo.md) (human resources management, including processing salaries and expenses)
-* [Voys](voys.md) (VoIP)
+* [Voys](voys.md) (Telephony)
