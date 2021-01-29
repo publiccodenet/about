@@ -4,7 +4,7 @@ type: resource
 
 # Voys
 
-Voys is our VoIP provider.
+Voys is our telephony provider through Voice over IP (VoIP).
 
 ## Using Voys
 
