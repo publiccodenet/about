@@ -65,7 +65,7 @@ Our intention is to keep all posts, unless someone specifically requests their d
 
 ## Mailman management
 
-The Operations Coordinator maintains Mailman and takes care of back end actions and user administration. Mailman and the Hyperkitty archive are hosted on a VPS at independent service provider, [Maadix.](https://maadix.net/en)
+The Operations Coordinator maintains Mailman and takes care of back end actions and user administration. Mailman and the Hyperkitty archive are hosted on a VPS at [Maadix](https://maadix.net/en), an independent service provider.
 
 The Maadix VPS can be upgraded via [the control panel of the machine](https://nextcloud-publiccode.maadix.org/cpanel/), as well as directly from the command line via SSH. If tweaks to configurations need to be made directly on the machine, the following command is used to get root on the machine:
 
