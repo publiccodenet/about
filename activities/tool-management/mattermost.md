@@ -28,7 +28,7 @@ When the updates are ready the following commands need to be applied:
 
 `sudo systemctl start mattermost`
 
-Upgrading to the latest version of Mattermost upon receiving the notification can be done by following [the steps as per the Mattermost upgrade instructions.](https://docs.mattermost.com/administration/upgrade.html)
+Upgrading to the latest version of Mattermost upon receiving the notification can be done by following [the steps as per the Mattermost upgrade instructions](https://docs.mattermost.com/administration/upgrade.html).
 
 ## Privacy and GDPR
 
