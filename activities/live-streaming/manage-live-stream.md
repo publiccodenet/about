@@ -5,7 +5,7 @@ explains: how to run a live stream
 
 # Managing a live stream
 
-When running a [live stream](index.md) of 'Let's talk about  public code' there are some steps to remember.
+When running a [live stream](index.md) of 'Let's talk about  public code' there are some steps to remember:
 
 - Test everything before going live.
 - Prepare tabs with easy access to moderation tools of the different platforms to be able to intervene in case of offensive commenting. Preferably, this is done by a staff member not in the actual interview.
