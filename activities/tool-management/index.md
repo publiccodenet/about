@@ -36,7 +36,7 @@ Our guidance covers:
 * [Podbean](podbean.md) (publishing our podcasts)
 * [Streamyard](streamyard.md) (livestreaming our podcast)
 * [Tentoo](tentoo.md) (human resources management, including processing salaries and expenses)
-* [Voys](voys.md) (Telephony)
+* [Voys](voys.md) (telephony)
 
 ## Website, DNS and VPS'es for self-hosted tools
 
