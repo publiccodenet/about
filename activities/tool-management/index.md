@@ -29,17 +29,18 @@ Our guidance covers:
 * [Jitsi Meet](jitsi-meet.md) (videoconferencing)
 * [Mailman](mailing-lists.md) (mailing lists with Hyperkitty archiver)
 * [Mattermost](mattermost.md) (chat)
-* [Miro](miro.md) (collaborative whiteboard)
-* [Odoo Community](odoo.md) (CRM and project management)
+* [Miro](miro.md) (online collaborative whiteboard)
+* [Nextcloud](nextcloud.md) (file hosting services)
+* [Odoo Community](odoo.md) (contact relationship management and project management)
 * [Planable](planable.md) (planning social media content)
 * [Podbean](podbean.md) (publishing our podcasts)
 * [Streamyard](streamyard.md) (livestreaming our podcast)
 * [Tentoo](tentoo.md) (human resources management, including processing salaries and expenses)
-* [Voys](voys.md) (VoIP)
+* [Voys](voys.md) (Telephony)
 
 ## Website, DNS and VPS'es for self-hosted tools
 
 * Our website is hosted with Jekyll at [GitHub Pages](https://pages.github.com/)
 * Our DNS records are hosted at [Gandi](https://www.gandi.net/en)
 * Jitsi and Mattermost are hosted at [Digital Ocean droplets](https://www.digitalocean.com/)
-* Mailman and Nextcloud are hosted at independent service provider, [Maadix](https://maadix.net/)
+* Mailman and Nextcloud are hosted at [Maadix](https://maadix.net/)
