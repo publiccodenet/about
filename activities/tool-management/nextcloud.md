@@ -24,7 +24,7 @@ Tweaks in the Nextcloud configuration can be made after SSHing into the machine 
 
 ## Privacy and GDPR
 
-We run a self-hosted instance of Nextcloud on a server managed by the trusted [service provider Maadix in Spain.](https://maadix.net/en/terms-conditions)
+We run a self-hosted instance of Nextcloud on a server managed by our [service provider Maadix in Spain](https://maadix.net/en/terms-conditions).
 
 > "Personal data will be treated with the appropriate degree of protection, in accordance with current legislation, with the necessary security measures being taken to avoid its alteration, loss and unauthorised treatment or access by third parties. In no case is there any policy of transferring personal data to third parties. Maadix will not be able to access the data that the client stores in its server, unless the client requests an explicit intervention and provides an access route."
 
