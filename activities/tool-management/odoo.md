@@ -30,9 +30,8 @@ The aliases are necessary to send external emails directly to the right pipeline
 
 * [privacy policy](https://www.openworx.nl/privacy-statement) (in Dutch)
 
-> "Openworx verwerkt uw persoonsgegevens doordat u gebruik maakt van onze diensten en/of omdat u deze zelf aan ons verstrekt. Hieronder vindt u een overzicht van de persoonsgegevens die wij verwerken."
+> "Openworx verwerkt uw persoonsgegevens doordat u gebruik maakt van onze diensten en/of omdat u deze zelf aan ons verstrekt. Hieronder vindt u een overzicht van de persoonsgegevens die wij verwerken. Persoonsgegevens die wij verwerken zijn:"
 
-> "Persoonsgegevens die wij verwerken:"
 > * Voor- en achternaam
 > * Adresgegevens
 > * Telefoonnummer
