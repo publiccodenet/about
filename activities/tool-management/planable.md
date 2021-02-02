@@ -18,7 +18,8 @@ Our Planable account is managed by the Operations Coordinator and Chief Executiv
 
 [Planable's Privacy Policy has detailed information on data collection, data management and GDPR](https://planable.io/privacy/#data-we-collect)
 
-> The following data is collected: 
+> The following data is collected:
+
 A. Registration and Contact Data
 We collect data about you when you (a) register to use the Service and (b) otherwise provide contact information to us via email or through our Offerings. This data you provide may include your username, first and last name, email address, mailing address or phone number.
 
