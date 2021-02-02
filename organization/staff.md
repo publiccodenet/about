@@ -63,11 +63,11 @@ Roles:
 * [Coordinator](#coordinator) communications:
   Elena Findley-de Regt
 * Designer:
-Ryan Conlan
-(contractor Angelplasma)
+  Ryan Conlan
+  (contractor Angelplasma)
 * Illustrator:
-Floris Deerenberg
-(contractor A Studio Called Quest)
+  Floris Deerenberg
+  (contractor A Studio Called Quest)
 
 ### Membership development
 
