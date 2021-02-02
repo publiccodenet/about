@@ -8,7 +8,7 @@ Voys is our telephony provider through Voice over IP (VoIP).
 
 ## Using Voys
 
-Employees that need to call regularly receive an account. A local (020) number will be assigned. Voys can be used with an app on a mobile phone. [We have a guide on how to make and receive calls from your mobile phone using the Voys app.](../communication/using-phone-app.md).
+Employees that need to call regularly receive an account. A local (020) number will be assigned. Voys can be used with an app on a mobile phone. Read the [guide on how to make and receive calls from your mobile phone using the Voys app](../communication/using-phone-app.md).
 
 ## Voys management
 
