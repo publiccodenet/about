@@ -30,24 +30,22 @@ The aliases are necessary to send external emails directly to the right pipeline
 
 * [privacy policy](https://www.openworx.nl/privacy-statement) (in Dutch)
 
-> "Openworx verwerkt uw persoonsgegevens doordat u gebruik maakt van onze diensten en/of omdat u deze zelf aan ons verstrekt. Hieronder vindt u een overzicht van de persoonsgegevens die wij verwerken."
+> Openworx verwerkt uw persoonsgegevens doordat u gebruik maakt van onze diensten en/of omdat u deze zelf aan ons verstrekt. Hieronder vindt u een overzicht van de persoonsgegevens die wij verwerken. Persoonsgegevens die wij verwerken zijn:
 
-> Persoonsgegevens die wij verwerken zijn:
+* Voor- en achternaam
+* Adresgegevens
+* Telefoonnummer
+* E-mailadres
+* IP-adres
+* Door u ingevulde gegevens
+* Gegevens over uw activiteiten op onze website
+* Bankrekeningnummer
 
-> * Voor- en achternaam
-> * Adresgegevens
-> * Telefoonnummer
-> * E-mailadres
-> * IP-adres
-> * Door u ingevulde gegevens
-> * Gegevens over uw activiteiten op onze website
-> * Bankrekeningnummer
+> Openworx verwerkt uw persoonsgegevens voor de volgende doelen:
 
-> "Met welk doel en op basis van welke grondslag wij persoonsgegevens verwerken. Openworx verwerkt uw persoonsgegevens voor de volgende doelen:"
-
-> * Het afhandelen van uw betaling
-> * U te kunnen bellen of e-mailen indien dit nodig is om onze dienstverlening uit te kunnen voeren
-> * U te informeren over wijzigingen van onze diensten en producten
-> * U de mogelijkheid te bieden een account aan te maken
-> * Om goederen en diensten bij u af te leveren
-> * Openworx verwerkt ook persoonsgegevens als wij hier wettelijk toe verplicht zijn, zoals gegevens die wij nodig hebben voor onze belastingaangifte
+* Het afhandelen van uw betaling
+* U te kunnen bellen of e-mailen indien dit nodig is om onze dienstverlening uit te kunnen voeren
+* U te informeren over wijzigingen van onze diensten en producten
+* U de mogelijkheid te bieden een account aan te maken
+* Om goederen en diensten bij u af te leveren
+* Openworx verwerkt ook persoonsgegevens als wij hier wettelijk toe verplicht zijn, zoals gegevens die wij nodig hebben voor onze belastingaangifte
