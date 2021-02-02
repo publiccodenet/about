@@ -7,7 +7,7 @@ explains: how to commission a new illustration
 
 The [Foundation for Public Code's illustrations](https://illustrations.publiccode.net/) add colour and humanity to the abstract subjects we deal with. Our illustrations are licensed CC-0, meaning anyone can do anything with them.
 
-Our illustration contractor is [Floris Deerenberg](https://github.com/fdeerenberg). 
+Our illustration contractor is [Floris Deerenberg](https://github.com/fdeerenberg).
 
 These are the steps for commissioning a new illustration.
 
