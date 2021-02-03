@@ -15,7 +15,7 @@ Our goals for Planable are:
 
 ## Why we post to social media
 
-We use social media to share information that's interesting or exciting to us. Our information should be timely, and it's ok if posts are no longer be relevant a week after they're published.
+We use social media to share information that's interesting or exciting to us. Our information should be timely, and it's ok if posts are no longer relevant a week after they're published.
 
 Typical content for our social posts includes:
 
