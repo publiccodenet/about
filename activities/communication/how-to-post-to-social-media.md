@@ -46,7 +46,7 @@ Most of our social followers are real people (many of whom we know!) who are alr
 * Post your draft in Planable timeline. Note that this may not be the final message since it's subject to review.
 * Add a tag with your name so the communications team can reach out to you with questions.
 * Schedule the message at least 24 hours in advance so the communications team have a margin to review the message.
-* Check if there are already other scheduled posts for your preferred publishing time.
+* Check if there are already other scheduled posts for your preferred publishing time. If there are, start a conversation with the authors of those to finalize the scheduling.
 * The communications team will probably tweak your post to be more successful - this is not a reflection on your abilities as a writer.
 * Once reviewed, the communications team will approve or comment right next to your message in Planable.
 
