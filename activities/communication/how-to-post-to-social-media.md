@@ -42,7 +42,7 @@ Most of our social followers are real people (many of whom we know!) who are alr
 ## Process
 
 * Make sure you have access to Planable. If not, ask the [communications team](https://about.publiccode.net/organization/staff.html#communications).
-* Select the social media channel/s where you want your message to be published. Note that LinkedIn's integration doesn't work great when mentioning a person or company (@____).
+* Select the social media channel/s where you want your message to be published. Note that LinkedIn's integration isn't great when mentioning a person or company (@____), so edit your post after publication in LinkedIn to tag them correctly.
 * Post your draft in Planable timeline. Note that this may not be the final message since it's subject to review.
 * Add a tag with your name so the communications team can reach out to you with questions.
 * Schedule the message at least 24 hours in advance so the communications team have a margin to review the message.
