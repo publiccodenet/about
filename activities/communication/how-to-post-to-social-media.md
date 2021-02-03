@@ -35,7 +35,7 @@ Most of our social followers are real people (many of whom we know!) who are alr
 * Keep in mind audiences in other time zones. Is your message important for them to read?
 * Use the right tone in your post. Notice that enthusiasm varies whether we're announcing something that excites us or not.
 * Tag the organizations or people you are writing about if possible.
-* Use relevant hashtags like #PublicCode,  #StandardforPublicCode, #ltapc, #OpenSource, #FOSS, #GovTech
+* Use relevant hashtags like #PublicCode, #StandardforPublicCode, #ltapc, #OpenSource, #FOSS, #GovTech
 * In order to make the message more engaging, include an image and/or video with every post. Note that links usually unfold a preview of the content. Emojis are also welcome in moderation.
 * Always include a link for further information in case people are intrigued by what you've written.
 
