@@ -29,7 +29,6 @@ Our current tools are:
 * [Miro](miro.md) (online collaborative whiteboard)
 * [Nextcloud](nextcloud.md) (file hosting services)
 * [Odoo Community](odoo.md) (contact relationship management and project management)
-* [Plausible Analytics](plausible-analytics.md) (open-source website analytics tool)
 * [Podbean](podbean.md) (publishing our podcasts)
 * [Streamyard](streamyard.md) (livestreaming our podcast)
 * [Tentoo](tentoo.md) (human resources management, including processing salaries and expenses)
