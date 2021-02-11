@@ -4,7 +4,7 @@ type: Resource
 
 # Artículos de la asociación 'Foundation for Public Code Vereniging'
 
-> El presente documento contienen una traducción no oficial desarrollada únicamente con fines informativos. El texto vinculante, por tanto, será el del [documento holandés original](https://github.com/publiccodenet/about/blob/develop/organization/articles-of-association.nl.md) en todos los aspectos legales.
+> El presente documento contiene una traducción no oficial desarrollada únicamente con fines informativos. El texto vinculante, por tanto, será el del [documento holandés original](https://github.com/publiccodenet/about/blob/develop/organization/articles-of-association.nl.md) en todos los aspectos legales.
 
 El 3 de junio de dos mil diecinueve, el Sr. Lourens Wouter de Waard, notario con sede en Ámsterdam, comparece ante mí:
 
