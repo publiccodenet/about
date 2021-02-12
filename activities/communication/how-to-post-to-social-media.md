@@ -26,29 +26,29 @@ Typical content for our social posts includes:
 
 Most of our social followers are real people (many of whom we know!) who are already excited about public code, so we don't spam or try to convert them.
 
-[Read the commmunications plan](https://about.publiccode.net/activities/communication/communications-plan.html) for more information about our audiences and messages.
+[Read the commmunications plan](/communications-plan.md) for more information about our audiences and messages.
 
 ## Tips for writing social media posts
 
 * The most interesting posts are the ones from our community and codebases. Try to showcase their success stories before ours.
-* Make sure the audience of your post matches the Foundation for Public Code one.
+* Make sure the audience of your post matches the [Foundation for Public Code audience](/communications-plan.md#audience).
 * Keep in mind audiences in other time zones. Is your message important for them to read?
 * Use the right tone in your post. Notice that enthusiasm varies whether we're announcing something that excites us or not.
 * Tag the organizations or people you are writing about if possible.
-* Use relevant hashtags like #PublicCode, #StandardforPublicCode, #ltapc, #OpenSource, #FOSS, #GovTech
-* In order to make the message more engaging, include an image and/or video with every post. Note that links usually unfold a preview of the content. Emojis are also welcome in moderation.
+* Use relevant hashtags like #PublicCode, #StandardforPublicCode, #ltapc, #OpenSource, #GovTech, #FOSS
+* In order to make the message more engaging, include an image or video with every post. Note that links usually unfold a preview of the content. Some emojis are also welcome.
 * Always include a link for further information in case people are intrigued by what you've written.
 
 ## Process
 
-* Make sure you have access to Planable. If not, ask the [communications team](https://about.publiccode.net/organization/staff.html#communications).
-* Select the social media channel/s where you want your message to be published. Note that LinkedIn's integration isn't great when mentioning a person or company (@____), so edit your post after publication in LinkedIn to tag them correctly.
-* Post your draft in Planable timeline. Note that this may not be the final message since it's subject to review.
-* Add a tag with your name so the communications team can reach out to you with questions.
-* Schedule the message at least 24 hours in advance so the communications team have a margin to review the message.
-* Check if there are already other scheduled posts for your preferred publishing time. If there are, start a conversation with the authors of those to finalize the scheduling.
-* The communications team will probably tweak your post to be more successful - this is not a reflection on your abilities as a writer.
-* Once reviewed, the communications team will approve or comment right next to your message in Planable.
+1. Make sure you have access to Planable. If not, ask the [communications team](https://about.publiccode.net/organization/staff.html#communications).
+2. Select the social media channel/s where you want your message to be published. Note that LinkedIn's integration isn't great when mentioning a person or company (@____), so edit your post after publication in LinkedIn to tag them correctly.
+3. Post your draft in Planable timeline. Note that this may not be the final message since it's subject to review.
+4. Add a tag with your name so the communications team can reach out to you with questions.
+5. Schedule the message at least 24 hours in advance so the communications team have a margin to review the message.
+6. Check if there are already other scheduled posts for your preferred publishing time. If there are, start a conversation with the authors of those to finalize the scheduling.
+7. The communications team will probably tweak your post to be more successful - this is not a reflection on your abilities as a writer.
+8. Once reviewed, the communications team will approve or comment right next to your message in Planable.
 
 ## Planable accounts
 
