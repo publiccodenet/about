@@ -12,4 +12,5 @@ explains: where we are mentioned in public policy documents
 * Amsterdam municipality: [Mid-term report of the A Digital City Agenda (Agenda Digitale Stad)](https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971) (in Dutch)
 
 ## 2019
+
 * Amsterdam municipality: The [Sourcing and Open Source Strategy Amsterdam](https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08) is one of the municipal strategies to achieve the goals set out in the A Digital City Agenda ([Agenda Digitale Stad](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/)) (in Dutch)
