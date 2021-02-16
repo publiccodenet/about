@@ -16,7 +16,7 @@ A concise financial one-pager is produced by the Operations Coordinator for the 
 
 ## Annual reporting
 
-Annual reporting consists of the annual financial statement and an annual report. The latter is a powerful piece of communications that shows how we deliver on our mission, and celebrate our accomplishments.
+As an ANBI, we are legally obliged to publish two kinds of reports: an annual financial statement (Jaarrekening, see below) and an annual report (Jaarverslag). The latter is a powerful piece of communications that shows how we deliver on our mission, achieve the goals set out in our policy plan, and celebrate our accomplishments.
 
 ## Financial annual statement
 
