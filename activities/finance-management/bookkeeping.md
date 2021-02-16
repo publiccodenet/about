@@ -9,7 +9,7 @@ explains: how bookkeeping is managed
 
 ## Exact
 
-[Exact is a Dutch software company](https://www.exact.com/) that offers accounting, ERP, and other software for small and medium enterprises. We have a license via GetMonkey’s. The Operations Coordinator and Chief Executive have access to Exact. Temporary access can be given to financial consultants.
+[Exact is a Dutch software company](https://www.exact.com/) that offers accounting, ERP, and other software for small and medium enterprises. We have a license via GetMonkeys. The Operations Coordinator and Chief Executive have access to Exact. Temporary access can be given to financial consultants.
 
 ## Visionplanner
 
