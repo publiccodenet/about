@@ -20,7 +20,7 @@ As an ANBI, we are legally obliged to publish two kinds of reports: an annual fi
 
 ## Annual financial statement
 
-Our first financial year runs from 1 July 2019 - 31 December 2020. The Operations Coordinator is working closely with the bookkeeper to produce the statement. An ANBI has to publish the financial statement on our website. The financial statement may concern the following information:
+The Operations Coordinator is responsible for producing the annual financial statement (Jaarverslag), in close collaboration with our bookkeeper. The financial statement should include the following information:
 
 * The balance sheet
 * The profit and loss statement
