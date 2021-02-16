@@ -32,7 +32,6 @@ The financial statement must be published on our website within 6 six months aft
 
 ## King Baudouin Foundation United States (KBFUS)
 
-The King Baudouin Foundation’s mission is to contribute to a better society. The Foundation is an actor for change and innovation, serving the public interest and increasing social cohesion in Belgium and Europe. They seek to maximize their impact by strengthening the capacity of organizations and individuals. They also stimulate effective philanthropy by individuals and corporations. The Foundation’s key values are integrity, transparency, pluralism, independence, respect for diversity, and promoting solidarity. The Foundation’s current areas of activity are social justice & poverty, health, heritage and culture, social engagement, Africa, Latin America, Asia, Education and development of talents, Europe, climate, the environment and biodiversity. The King Baudouin Foundation is a public benefit foundation.
 
 We opened a fund at the KBFUS Foundation to enable smooth faciliation of receiving gifts from US donors. The name of our fund is [“Foundation for Public Code US Fund”.](https://kbfus.networkforgood.com/projects/52915-p-kbfus-funds-foundation-for-public-code-nl)
 
