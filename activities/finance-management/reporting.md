@@ -18,7 +18,7 @@ A concise financial one-pager is produced by the Operations Coordinator for the 
 
 As an ANBI, we are legally obliged to publish two kinds of reports: an annual financial statement (Jaarrekening, see below) and an annual report (Jaarverslag). The latter is a powerful piece of communications that shows how we deliver on our mission, achieve the goals set out in our policy plan, and celebrate our accomplishments.
 
-## Financial annual statement
+## Annual financial statement
 
 Our first financial year runs from 1 July 2019 - 31 December 2020. The Operations Coordinator is working closely with the bookkeeper to produce the statement. An ANBI has to publish the financial statement on our website. The financial statement may concern the following information:
 
