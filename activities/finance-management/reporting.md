@@ -32,7 +32,6 @@ The financial statement must be published on our website within six months after
 
 ## King Baudouin Foundation United States (KBFUS)
 
-
 We opened a fund at the KBFUS Foundation to enable smooth faciliation of receiving gifts from US donors. The name of our fund is [“Foundation for Public Code US Fund”.](https://kbfus.networkforgood.com/projects/52915-p-kbfus-funds-foundation-for-public-code-nl)
 
 The Operations Coordinator has log-in credentials to the grants interface where the fund is managed and reports can be filed. [More information about the fund and how the process works can be found on the Drive.](https://drive.google.com/drive/folders/1hv1XKbA6y8XYO9KqbKo5-TFlFxRROn0R)
