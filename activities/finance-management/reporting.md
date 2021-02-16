@@ -26,7 +26,7 @@ The Operations Coordinator is responsible for producing the annual financial sta
 * The profit and loss statement
 * An additional explanation
 
-The financial statement must be published on our website within 6 six months after the end of the financial year.
+The financial statement must be published on our website within six months after the end of the financial year.
 
 [Template for our annual financial statement.](https://drive.google.com/drive/folders/1eeW-cCescwdGoxuCKwB4oMlhE5512Qu_)
 
