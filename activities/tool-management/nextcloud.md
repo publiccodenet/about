@@ -28,4 +28,4 @@ We run a self-hosted instance of Nextcloud on a server managed by our [service p
 
 > "Personal data will be treated with the appropriate degree of protection, in accordance with current legislation, with the necessary security measures being taken to avoid its alteration, loss and unauthorised treatment or access by third parties. In no case is there any policy of transferring personal data to third parties. Maadix will not be able to access the data that the client stores in its server, unless the client requests an explicit intervention and provides an access route."
 
-The Foundation strongly supports individuals’ right to privacy. [Please read our GDPR and Privacy Policy for more information](https://about.publiccode.net/organization/privacy.html).
+The Foundation strongly supports individuals’ right to privacy. [Read our GDPR and Privacy Policy for more information](../../organization/privacy.md).
