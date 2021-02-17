@@ -1,6 +1,8 @@
 ---
 type: Guide
 explains: How to publish new content on About for Foundation staff
+redirect_from:
+    - activities/documentation/merge-develop-into-master
 ---
 
 # How to publish About (merging develop into main)
