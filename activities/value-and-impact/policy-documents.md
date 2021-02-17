@@ -5,6 +5,10 @@ explains: where we are mentioned in public policy documents
 
 # Policy documents that mention the Foundation for Public Code
 
+## 2021
+
+* State of California: [Vision 2023 - California Technology Strategic Plan](https://vision2023.cdt.ca.gov/pdf/Vision-2023-California-Technology-Strategic-Plan.pdf)
+
 ## 2020
 
 * Netherlands national government: [Letter to parliament about the release of government software source code](https://www.rijksoverheid.nl/documenten/kamerstukken/2020/04/17/kamerbrief-inzake-vrijgeven-broncode-overheidssoftware) (in Dutch)
