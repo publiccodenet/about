@@ -16,4 +16,4 @@ These are the steps for commissioning a new illustration.
 3. Floris will do work his magic: produce sketches free associating on your idea.
 4. Floris will share his sketches for a steer: first in the design system chat for communications team feedback, and next on the Github issue. Please give feedback on the Github issue, so others can also participate.
 5. Floris will refine the illustrations you both agree are most promising to the format you need them.
-6. Floris will [publish them on Github](https://github.com/publiccodenet/illustrations/tree/master/illustrations) for you to use!
+6. Floris will [publish them on Github](https://github.com/publiccodenet/illustrations/tree/main/illustrations) for you to use!
