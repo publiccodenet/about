@@ -7,7 +7,7 @@ explains: where we are mentioned in public policy documents
 
 ## 2021
 
-* State of California: [Vision 2023 - California Technology Strategic Plan](https://vision2023.cdt.ca.gov/pdf/Vision-2023-California-Technology-Strategic-Plan.pdf)
+* State of California: [Vision 2023 - California Technology Strategic Plan](https://vision2023.cdt.ca.gov/) [[PDF](https://vision2023.cdt.ca.gov/pdf/Vision-2023-California-Technology-Strategic-Plan.pdf)
 
 ## 2020
 
