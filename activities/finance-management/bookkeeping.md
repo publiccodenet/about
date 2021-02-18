@@ -9,11 +9,11 @@ explains: how bookkeeping is managed
 
 ## Exact
 
-[Exact is a Dutch software company](https://www.exact.com/) that offers accounting, ERP, and other software for small and medium enterprises. We have a license via GetMonkeys. The Operations Coordinator and Chief Executive have access to Exact. Temporary access can be given to financial consultants.
+[Exact](https://www.exact.com/) is a Dutch software company that offers accounting, enterprise resource planning, and other software for small and medium enterprises. We have a license via GetMonkeys. The Operations Coordinator and Chief Executive have access to Exact. Temporary access can be given to financial consultants.
 
 ## Visionplanner
 
-[Visionplanner](https://www.visionplanner.com/) is a leading provider of financial reporting and accounting solutions to small and medium-sized companies, accountants, and administrative offices. It has a direct integration with Exact and we use it for forecasting. The budget blueprint (spreadsheet) serves as the baseline for the information in Visionplanner. Thanks to the integration with Exact, our bank and Tentoo NMBRS, it gives a complete overview of all our financials. The Operations Coordinator and Chief Executive have access to Visionplanner.
+[Visionplanner](https://www.visionplanner.com/) is a leading provider of financial reporting and accounting solutions to small and medium-sized companies, accountants, and administrative offices. It has a direct integration with Exact and we use it for forecasting. The budget blueprint (spreadsheet) serves as the baseline for the information in Visionplanner. Thanks to the integration with Exact, our bank, and Tentoo NMBRS, it gives a complete overview of all our financials. The Operations Coordinator and Chief Executive have access to Visionplanner.
 
 ## WeFact
 
@@ -41,15 +41,15 @@ The Operations Coordinator is responsible for paying and processing all the invo
 
 * Bank statements can be downloaded from the Rabobank dashboard
 * Rabobank is linked to Exact, so we don't need to submit the statements
-* Credit card statements are send by snail-mail as well as available in the Rabobank dashboard. The credit card statements need to be mailed to Exact every month: <2y4k@verkoop.exactonline.nl> as PDF.
+* Credit card statements are sent by post and also available in the Rabobank dashboard. The credit card statements need to be mailed to Exact every month: <2y4k@verkoop.exactonline.nl> as PDF.
 
 ## Budget
 
-* The budget blueprint (spreadsheet) which is used as the baseline for budgeting and forecasting was constructed with help of our finance consultant, Rob Schouten.
-* The budget is approved by the board by the end of each year and is added to Visionplanner
+* The budget blueprint (spreadsheet) which is used as the baseline for budgeting and forecasting was constructed with the help of our finance consultant, Rob Schouten
+* The budget is approved by the Board of Directors by the end of each year and is added to Visionplanner
 * The Operations Coordinator is responsible for budgeting and adding it to Visionplanner
 
-## Tax status pertaining financials
+## Tax status pertaining to financials
 
 * We have ANBI status: read more information about ANBI benefits and requirements
 * We pay social taxes (loonheffing)
