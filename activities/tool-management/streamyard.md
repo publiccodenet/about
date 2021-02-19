@@ -14,7 +14,7 @@ The operations coordinator created an account with an alias. Codebase stewards h
 
 ## Streamyard management
 
-Account management and billing is the responsibility of the operations coordinator . Access to the platform by new employees can be facilitated by the operations coordinator as well.
+Account management and billing is the responsibility of the operations coordinator. Access to the platform by new employees can be facilitated by the operations coordinator as well.
 
 ## Privacy and GDPR
 
