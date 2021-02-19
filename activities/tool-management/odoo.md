@@ -18,7 +18,7 @@ We offer training to new staff.
 
 Our service provider is OpenWorx.
 
-The Operations coordinator takes care of user administration, reports bugs and is the contact person for the service provider.
+The Operations Coordinator takes care of user administration, reports bugs and is the contact person for the service provider.
 
 ### Odoo aliases
 
