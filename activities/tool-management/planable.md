@@ -8,11 +8,11 @@ Planable is a collaboration tool for social media teams to create, plan, review,
 
 ## Using Planable
 
-Our Communications Coordinator and Codebase Stewards for Community have accounts and use the tool to plan and publish social media content.
+Our communications coordinator and codebase stewards for community have accounts and use the tool to plan and publish social media content.
 
 ## Planable management
 
-Our Planable account is managed by the Operations Coordinator and chief executive.
+Our Planable account is managed by the operations coordinator and chief executive.
 
 ## Privacy and GDPR
 

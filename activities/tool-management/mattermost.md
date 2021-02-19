@@ -12,7 +12,7 @@ Mattermost is a flexible, open source messaging platform that enables secure tea
 
 ## Mattermost management
 
-Mattermost is installed, maintained and kept up-to-date by the Operations Coordinator and is running on a VPS with 8 GB of RAM. User registration and management also falls under the Operations Coordinator responsibilities. This includes uploading important emojis :)
+Mattermost is installed, maintained and kept up-to-date by the operations coordinator and is running on a VPS with 8 GB of RAM. User registration and management also falls under the operations coordinator's responsibilities. This includes uploading important emojis :)
 
 General updates and upgrades by SSH-ing into the machine as root:
 

@@ -10,11 +10,11 @@ We use Streamyard to livestream our podcast [Let's talk about public code](https
 
 ## Using Streamyard
 
-The Operations Coordinator created an account with an alias. Codebase stewards have access to the platform.
+The operations coordinator created an account with an alias. Codebase stewards have access to the platform.
 
 ## Streamyard management
 
-Account management and billing is the responsibility of the Operations Coordinator . Access to the platform by new employees can be facilitated by the Operations Coordinator as well.
+Account management and billing is the responsibility of the operations coordinator . Access to the platform by new employees can be facilitated by the operations coordinator as well.
 
 ## Privacy and GDPR
 

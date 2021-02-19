@@ -15,7 +15,7 @@ Jitsi Meet is our videocall and conference tool. Jitsi is an open source project
 
 ## Jitsi management
 
-Jitsi is running on a VPS with 8 GB of RAM for resilience and scalability. The VPS is maintained by the Operations Coordinator who also takes care of user administration and customizations.
+Jitsi is running on a VPS with 8 GB of RAM for resilience and scalability. The VPS is maintained by the operations coordinator who also takes care of user administration and customizations.
 
 SSH keys are needed to perform updates, as one needs to access the machines as root. Log into the machine via the command line with:
 

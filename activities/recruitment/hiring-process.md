@@ -8,8 +8,8 @@ type: Resource
 
 * Head of human resources (HRM), responsible for the hiring process
 * Lead codebase steward, with a role in the first interview of applicants for codebase stewardship roles
-* Chief Executive (CEO), responsible for who we hire
-* Directors Foundation for Public Code (BOD), responsible for oversight
+* Chief executive (CEO), responsible for who we hire
+* Directors of the Foundation for Public Code (BOD), responsible for oversight
 
 ## Announcing job opening
 

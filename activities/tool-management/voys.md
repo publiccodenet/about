@@ -12,7 +12,7 @@ Employees that need to call regularly receive an account. A local (020) number w
 
 ## Voys management
 
-The Operations Coordinator and chief executive can assign and install accounts.
+The operations coordinator and chief executive can assign and install accounts.
 
 There is [documentation available](https://www.voys.nl/hulp/toestellen/) (in Dutch) to help with setting it up, both for administrators as well as users.
 
