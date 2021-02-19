@@ -26,7 +26,7 @@ We assume the product asset order will be different for greenfield development.
 | 1 | Decide to open source | Confirms | Quality |
 | 2 | Plain English | Confirms | Product |
 | 3 | Organization page on Github | Responsible | CEO |
-| 4 | Disable merge to master | Responsible | Quality |
+| 4 | Disable merge to main | Responsible | Quality |
 | 5 | One paragraph codebase description | Provides assistance | Product |
 | 6 | Document codebase objectives | Confirms | Product |
 | 7 | Configuration options | Confirms | Quality |

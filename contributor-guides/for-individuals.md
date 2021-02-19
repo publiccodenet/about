@@ -42,7 +42,7 @@ Feel free to suggest changes to the content in a pull request.
 
 This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid [Markdown](https://guides.github.com/features/mastering-markdown/). If you want to you can also [build and preview the website locally](../README.md) before making a pull request.
 
-As per [the content governance guide](../GOVERNANCE.md) pull requests can only be merged into `develop` or `master` after being reviewed by a director.
+As per [the content governance guide](../GOVERNANCE.md) pull requests can only be merged into `develop` or `main` after being reviewed by a director.
 
 ### Contribute to our projects
 
