@@ -14,7 +14,7 @@ We use Tentoo NMBRS on the desktop as well as the mobile app. Employees can requ
 
 The Operations Coordinator has administrative access to NMBRS and makes sure the personnel files are kept up to date.
 
-NMBRS is a fully-fledged HR service and registers employee's contact and personal details, such as date of birth, home address and who their emergency contacts are. It also has details of contract terms, a leave overview and several mutation forms needed for changes in contract terms, salary or home address. Tentoo's HR department processes the information and is responsible for producing the payslips and other reports pertaining to salaries and taxes, such as income taxes. The Operations Coordinator transfers the salaries by uploading the SEPA file to the bank. The Chief Executive releases the payments.
+NMBRS is a fully-fledged HR service and registers employee's contact and personal details, such as date of birth, home address and who their emergency contacts are. It also has details of contract terms, a leave overview and several mutation forms needed for changes in contract terms, salary or home address. Tentoo's HR department processes the information and is responsible for producing the payslips and other reports pertaining to salaries and taxes, such as income taxes. The Operations Coordinator transfers the salaries by uploading the SEPA file to the bank. The chief executive releases the payments.
 
 ## Tentoo privacy policy
 

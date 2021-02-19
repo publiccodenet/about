@@ -71,4 +71,4 @@ The Maadix VPS can be upgraded via [the control panel of the machine](https://ne
 
 `ssh -p 2009 cipmas@176.9.160.125`
 
-You’ll be prompted to enter the password (in 1password sysadmin folder, which can be accessed by the Operations Coordinator and Chief Executive).
+You’ll be prompted to enter the password (in 1password sysadmin folder, which can be accessed by the Operations Coordinator and chief executive).

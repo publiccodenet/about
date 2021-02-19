@@ -12,7 +12,7 @@ Our Communications Coordinator and Codebase Stewards for Community have accounts
 
 ## Planable management
 
-Our Planable account is managed by the Operations Coordinator and Chief Executive.
+Our Planable account is managed by the Operations Coordinator and chief executive.
 
 ## Privacy and GDPR
 
