@@ -33,6 +33,7 @@ These are some tools some of us find helpful:
 * [Markdown Here](https://markdown-here.com/) - for formatting emails written using Markdown
 * [Github Learning lab](https://lab.github.com/) - for learning git or refresh your skill
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - for a list of the most common used git commands
+* Rewriting Git History - Amend, Reword, Delete, Reorder, Squash and Split ([video](https://www.youtube.com/watch?v=ElRzTuYln0M), [article](https://www.themoderncoder.com/rewriting-git-history/)) - for making the git history as clear and understandable as possible
 
 ## Useful context
 
