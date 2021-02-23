@@ -93,7 +93,7 @@ Tag the communications coordinator plus any other colleagues whose review you'd 
 
 Once approved, merge your pull request.
 
-To publish the new content, you'll have to create a release branch and [merge develop into master](../documentation/merge-develop-into-master.md).
+To publish the new content, you'll have to create a release branch and [merge develop into main](../documentation/merge-develop-into-main.md).
 
 ## Further reading
 
