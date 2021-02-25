@@ -17,7 +17,7 @@ type: resource
 
 ## 1Password management
 
-All team members receive an account from the operations coordinator during onboarding. The operations coordinator and chief executive have administrative access to 1Password. They can kickstart recovery processes in case an employee loses access to 1Password, as well as set up vaults for sharing and assign access rights to existing vaults.
+All team members receive an account from the operations coordinator during onboarding. The operations coordinator and chief executive have administrative access to 1Password. They can start recovery processes in case an employee loses access to 1Password, as well as set up vaults for sharing and assign access rights to existing vaults.
 
 ## Privacy and GDPR
 
