@@ -51,7 +51,7 @@ The Operations Coordinator is responsible for paying and processing all the invo
 
 ## Tax status pertaining to financials
 
-* We have ANBI status: read more information about ANBI benefits and requirements
+* We have ANBI status: read more information about [ANBI benefits and requirements](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/tax_advantages_pbo/)
 * We pay social taxes (loonheffing)
 * We are VAT (BTW) exempt
 * We are corporate income tax (vennootschapsbelasting) exempt
