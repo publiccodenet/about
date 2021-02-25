@@ -31,7 +31,6 @@ You can see OpenWorx's:
 * [privacy policy](https://www.openworx.nl/privacy-statement) (in Dutch)
 
 * [data processing agreement](https://www.openworx.nl/verwerkersovereenkomst) (in Dutch)
-* 
+
 > "4.1 Verwerker dient zorg te dragen voor de naleving van de voorwaarden die op grond van de Algemene Verordening Gegevensbescherming worden gesteld aan het verwerken van de Persoonsgegevens."
-> 
 > "4.6 Verwerker slaat gegevens op in landen binnen de Europese Economische Ruimte (hierna: EER) en in derde landen met een passend beschermingsniveau. Doorgifte en opslag van Persoonsgegevens buiten de EER of in derde landen zonder passend beschermingsniveau is niet toegestaan zonder voorafgaande schriftelijke toestemming van Verwerkingsverantwoordelijke. Verwerker zal op verzoek van Verwerkingsverantwoordelijke melden in welke landen de persoonsgegevens worden verwerkt."
