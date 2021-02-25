@@ -20,7 +20,7 @@ Our guidance covers:
 * The tool's privacy and GDPR policies
 * How and where the tools are managed
 
-## Current tools
+### Current tools
 
 * [1password](1password.md) (password management)
 * [Docusign](docusign.md) (contract management)
