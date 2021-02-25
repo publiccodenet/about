@@ -28,24 +28,8 @@ The aliases are necessary to send external emails directly to the right pipeline
 
 * [data processing agreement](https://www.openworx.nl/verwerkersovereenkomst) (in Dutch)
 
+> "4.1 Verwerker dient zorg te dragen voor de naleving van de voorwaarden die op grond van de Algemene Verordening Gegevensbescherming worden gesteld aan het verwerken van de Persoonsgegevens."
+
+> "4.6 Verwerker slaat gegevens op in landen binnen de Europese Economische Ruimte (hierna: EER) en in derde landen met een passend beschermingsniveau. Doorgifte en opslag van Persoonsgegevens buiten de EER of in derde landen zonder passend beschermingsniveau is niet toegestaan zonder voorafgaande schriftelijke toestemming van Verwerkingsverantwoordelijke. Verwerker zal op verzoek van Verwerkingsverantwoordelijke melden in welke landen de persoonsgegevens worden verwerkt."
+
 * [privacy policy](https://www.openworx.nl/privacy-statement) (in Dutch)
-
-> Openworx verwerkt uw persoonsgegevens doordat u gebruik maakt van onze diensten en/of omdat u deze zelf aan ons verstrekt. Hieronder vindt u een overzicht van de persoonsgegevens die wij verwerken. Persoonsgegevens die wij verwerken zijn:
-
-* Voor- en achternaam
-* Adresgegevens
-* Telefoonnummer
-* E-mailadres
-* IP-adres
-* Door u ingevulde gegevens
-* Gegevens over uw activiteiten op onze website
-* Bankrekeningnummer
-
-> Openworx verwerkt uw persoonsgegevens voor de volgende doelen:
-
-* Het afhandelen van uw betaling
-* U te kunnen bellen of e-mailen indien dit nodig is om onze dienstverlening uit te kunnen voeren
-* U te informeren over wijzigingen van onze diensten en producten
-* U de mogelijkheid te bieden een account aan te maken
-* Om goederen en diensten bij u af te leveren
-* Openworx verwerkt ook persoonsgegevens als wij hier wettelijk toe verplicht zijn, zoals gegevens die wij nodig hebben voor onze belastingaangifte
