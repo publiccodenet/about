@@ -5,7 +5,7 @@ explains: how banking is managed at the Foundation
 
 # Bank
 
-Our bank is the Rabobank. There is a checking and savings account. We are in progress of opening a USD account. There are bank cards and credit cards and online keys. Bank cards:
+Our bank is the Rabobank. There is a EUR checking and savings account. We are in progress of opening a USD account. There are bank cards, credit cards and online keys. Bank cards:
 
 * The Chief Executive, Operations Coordinator, and Treasurer of the board have an online key for internet banking
 * The Chief Executive has a debit card (wereldpas) and credit card
