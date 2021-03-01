@@ -12,6 +12,6 @@ The `sprint` branch contains all features approved by at least one director and 
 
 Every change and new feature can be accepted into the `develop` branch by any director that did not open that pull request.
 
-## Publishing changes from `sprint` to `main`
+## Publishing changes from `develop` to `main`
 
 All of the changes in `develop` are agreed upon by all directors of the Foundation for Public Code before they can be merged and are accepted as 'truth'. This usually happens in the weekly directors meeting.
