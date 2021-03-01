@@ -6,7 +6,7 @@ type: Resource
 
 This project represents the Foundation for Public Code.
 Therefore any changes adopted into the `main` branch have to be accepted by the directors of the Foundation for Public Code.
-The `sprint` branch contains all features approved by at least one director and it represents the current 'working draft' version of the Foundation.
+The `develop` branch contains all features approved by at least one other committer and it represents the current 'working draft' version of the Foundation.
 
 ## New content and changes into the `develop` branch
 
