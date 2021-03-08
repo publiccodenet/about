@@ -18,6 +18,8 @@ This schedule shows recurring events the Foundation for Public Code prepares for
 
 5 April: Easter Monday (public holiday in the Netherlands, office closed)
 
+6 April: Corona de-stress day (office closed)
+
 27 April: King's day (public holiday in the Netherlands, office closed)
 
 ## May
