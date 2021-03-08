@@ -4,7 +4,7 @@ type: Index
 
 # Value and impact
 
-These are activities, documents and evidence for how we create value and impact:
+These are activities, documents and evidence for how we create value and impact.
 
 ## Value
 
