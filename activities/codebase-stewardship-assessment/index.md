@@ -1,5 +1,5 @@
 ---
-type: resource
+type: index
 ---
 
 # Codebase stewardship assessment
