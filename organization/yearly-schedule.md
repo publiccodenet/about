@@ -26,9 +26,9 @@ This schedule shows recurring events the Foundation for Public Code prepares for
 
 13 May: Ascension day (public holiday in the Netherlands, office closed)
 
-## June
-
 23 - 24 May: Pentecost and Whit Monday (public holidays in the Netherlands, office closed)
+
+## June
 
 ## July
 
