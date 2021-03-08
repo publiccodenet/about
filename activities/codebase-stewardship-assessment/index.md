@@ -1,8 +1,8 @@
 ---
-type: resource
+type: index
 ---
 
-# Codebase stewarship assessment
+# Codebase stewardship assessment
 
 In assessment we evaluate whether a codebase can be [incubated in codebase stewardship](../codebase-stewardship/lifecycle.md).
 
