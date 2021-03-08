@@ -16,7 +16,7 @@ Together with the codebase stewards figure out if there is anything specific you
 ### Templated agenda items
 
 1. Opening the call
-  * Introduction round (all)
+  * Everyone introduces themselves and why they are in this call (all)
   * Short update from the Foundation for Public Code (chair)
 2. Substance of the call
 
