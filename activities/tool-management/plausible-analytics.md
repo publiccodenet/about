@@ -4,9 +4,9 @@ type: resource
 
 # Plausible Analytics
 
-Plausible Analytics is a simple, lightweight (< 1 KB), open source and privacy-friendly analytics tool. It doesn’t use cookies.
+Plausible Analytics is a simple, lightweight (< 1 KB), open source and privacy-friendly analytics tool. It doesn’t use cookies. [See our Plausible dashboard](https://plausible.io/publiccode.net).
 
-We're currently trialling Plausible (see [issue 64](https://github.com/publiccodenet/jekyll-theme/issues/64)). [See our Plausible dashboard](https://plausible.io/publiccode.net).
+We're currently trialling Plausible (see [issue 64](https://github.com/publiccodenet/jekyll-theme/issues/64)).
 
 ## Using Plausible Analytics
 
