@@ -75,7 +75,7 @@ We keep staff data for [as long as is required by Dutch law](https://www.tuxx.nl
 
 ## Changes to this information
 
-[See all versions of this page](https://github.com/publiccodenet/about/commits/master/organization/privacy.md).
+[See all versions of this page](https://github.com/publiccodenet/about/commits/main/organization/privacy.md).
 
 ## Your rights
 

@@ -5,7 +5,7 @@
 > [...] to enable public-purpose software and policy that is open and collaborative.
 
 This repository is meant to reflect the concept of the Foundation for Public Code and hold all information about it.
-It's `master` branch is the official ['source of truth'](GOVERNANCE.md) and central repository for all information about the Foundation for Public Code.
+It's `main` branch is the official ['source of truth'](GOVERNANCE.md) and central repository for all information about the Foundation for Public Code.
 
 ## Contributing
 
@@ -17,7 +17,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 The repository builds to a static site deployed at [about.publiccode.net](https://about.publiccode.net/). It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
-Releasing and deploying [is done with a release branch](activities/documentation/merge-develop-into-master.md).
+Releasing and deploying [is done with a release branch](activities/documentation/merge-develop-into-main.md).
 
 We aim to deploy every Monday.
 
@@ -33,7 +33,7 @@ All branches are tested with every change for broken links, so if some site we l
 | Branch | Build Status | |
 |----|----|----|
 | `develop` | [![Build Status](https://travis-ci.com/publiccodenet/about.svg?branch=develop)](https://travis-ci.com/publiccodenet/about/branches) | Version from which we work |
-| `master` | [![Build Status](https://travis-ci.com/publiccodenet/about.svg?branch=master)](https://travis-ci.com/publiccodenet/about/branches) | Deployed to <https://about.publiccode.net>, once a week |
+| `main` | [![Build Status](https://travis-ci.com/publiccodenet/about.svg?branch=main)](https://travis-ci.com/publiccodenet/about/branches) | Deployed to <https://about.publiccode.net>, once a week |
 
 ## License
 
