@@ -435,7 +435,7 @@ The general assembly may adopt association rules with regard to all matters rela
 
 ### Article 32: Transitional provision
 
-The first financial year ends on 31 December 2022.
+The first financial year ends on 31 December 2020.
 
 This article expires at the end of the first financial year.
 
