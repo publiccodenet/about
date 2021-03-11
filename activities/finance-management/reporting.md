@@ -5,9 +5,11 @@ explains: reporting requirements
 
 # Reporting
 
+We report our financial results to the board, the King Baudouin Fund and to other stakeholders, including the general public when publishing our annual reports.
+
 ## Board meeting reports
 
-A concise financial one-pager is produced by the Operations Coordinator for board meeting. The one-pager gives an overview of:
+A concise financial one-pager is produced by the Operations Coordinator for board meetings. The one-pager gives an overview of:
 
 * The current cash position
 * Costs incurred
