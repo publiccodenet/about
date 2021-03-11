@@ -5,7 +5,7 @@ explains: how bookkeeping is managed
 
 # Bookkeeping
 
-[GetMonkeys](https://getmonkeys.io/) is our service provider. They process and book all the payments every second Wednesday of the month. Any corrections can be mailed to the bookkeeper and are processed the next day. GetMonkeys is also responsible for producing our annual financial reports and can be asked for other financial services based on our needs.
+[GetMonkeys](https://getmonkeys.io/) is our service provider. They process and book all the payments every second Wednesday of the month. Any corrections can be mailed to the bookkeeper and are processed the next day. GetMonkeys is also responsible for producing our annual financial reports and can be asked for other financial services as needed.
 
 ## Exact
 
