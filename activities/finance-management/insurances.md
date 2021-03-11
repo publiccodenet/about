@@ -12,6 +12,6 @@ We have the following insurances:
 * Board insurance
 * Travel insurance for team
 * Absenteeism insurance (sickness)
-* Inventory insurance (office furniture) includes fire insurance
+* Inventory insurance (office furniture), which includes fire insurance
 
 Detailed overview of insurances and terms can be found [on our Secret Drive.](https://drive.google.com/drive/folders/1xbO--Pjr5CFDKTbaFiMS8A_SpEAIS06A)
