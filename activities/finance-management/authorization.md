@@ -3,7 +3,7 @@ type: Guide
 explains: how authorization is managed at the Foundation
 ---
 
-# Authorization
+# Financial authorization
 
 Payments below € 5000 can be made directly by the Operations Coordinator.
 
