@@ -17,7 +17,7 @@ explains: how bookkeeping is managed
 
 ## WeFact
 
-WeFact is a lightweight and easy to use program for invoicing. We use it for membership administration. It’s integrated with both Exact as well as Visionplanner. The Operations Coordinator has access to WeFact and creates accounts for other staff members that need access. WeFact has our customized template for our membership payment note. Payment requests are sent directly from WeFact to our members at the beginning of each year from our own domain via <info@publiccode.net>.
+WeFact is a lightweight and easy to use program for invoicing. We use it for membership administration. It’s integrated with both Exact as well as Visionplanner. The Operations Coordinator has access to WeFact and creates accounts for other staff members that need access. WeFact has our customized template for membership invoices. Payment requests are sent directly from WeFact to our members at the beginning of each year from our own domain via <info@publiccode.net>.
 
 ## Payments
 
