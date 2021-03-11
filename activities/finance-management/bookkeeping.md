@@ -29,7 +29,7 @@ The Operations Coordinator is responsible for paying and processing all the invo
 
 * Send paid invoices to <2y4k@inkoop.exactonline.nl> as PDF, including expense reports from third parties
 * Make sure to add right ledger in the title of the PDF so the bookkeeper knows where to book it
-* Do NOT send invoices from Rabobank (booked from Bank), GetMonkeys, and Tentoo, as these are all integrated with Exact
+* Do NOT send invoices from Rabobank, GetMonkeys, and Tentoo, as these are all integrated within Exact
 * Do NOT send receipts from underlying expense forms, as this would lead to duplication
 * Filing: The Operations Coordinator keeps invoices and expense forms organized by month and year in the [Secret Finance Drive.](https://drive.google.com/drive/folders/1B47cfi314HJzoW7_QDaaaG1hfvxwCjpJ)
 
