@@ -41,7 +41,7 @@ The Operations Coordinator is responsible for paying and processing all the invo
 
 * Bank statements can be downloaded from the Rabobank dashboard
 * Rabobank is linked to Exact, so we don't need to submit the statements
-* Credit card statements are sent by post and also available in the Rabobank dashboard. The credit card statements need to be mailed to Exact every month: <2y4k@verkoop.exactonline.nl> as PDF.
+* Credit card statements are sent by post and also available in the Rabobank dashboard. The credit card statements need to be emailed to Exact every month: <2y4k@verkoop.exactonline.nl> as PDF.
 
 ## Budget
 
