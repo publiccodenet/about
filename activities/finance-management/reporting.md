@@ -23,7 +23,7 @@ As an ANBI, we are legally obliged to publish two kinds of reports: an annual fi
 
 ## Annual financial statement
 
-The Operations Coordinator is responsible for producing the annual financial statement (Jaarverslag), in close collaboration with our bookkeeper. The financial statement should include the following information:
+The Operations Coordinator is responsible for producing the annual financial statement (jaarverslag), in close collaboration with our bookkeeper. The financial statement must include the following information:
 
 * The balance sheet
 * The profit and loss statement
