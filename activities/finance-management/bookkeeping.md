@@ -21,7 +21,7 @@ WeFact is a lightweight and easy to use program for invoicing. We use it for mem
 
 ## Payments
 
-All payments are managed by the Operation Coordinator. The Operations Coordinator makes sure there is always an underlying document or receipt (Boekstuk) for each transaction. Having a papertrail is essential.
+All payments are managed by the Operation Coordinator. The Operations Coordinator makes sure there is always an underlying document or receipt (boekstuk) for each transaction. Having a paper trail is essential.
 
 ## Invoices – payable
 
