@@ -5,6 +5,7 @@ explains: reporting requirements
 
 # Reporting
 
+We produce financial reports for different audiences throughout the year.
 We report our financial results to the board, the King Baudouin Fund and to other stakeholders, including the general public when publishing our annual reports.
 
 ## Board meeting reports
