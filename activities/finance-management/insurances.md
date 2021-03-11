@@ -4,7 +4,7 @@ type: Resource
 
 # Insurances
 
-We work with an insurance intermediary [Zicht Adviseurs](https://www.zichtadviseurs.nl/zakelijk) for all our insurances. Contract renewals and invoices are both sent by snail-mail or via email and saved in a physical folder in the desk cabinet underneath the Chief Executive desk.
+We work with insurance intermediary [Zicht Adviseurs](https://www.zichtadviseurs.nl/zakelijk) for all our insurances. Contract renewals and invoices are both sent by snail mail or via email and saved in a physical folder in the desk cabinet underneath the Chief Executive's desk.
 
 We have the following insurances:
 
