@@ -31,7 +31,7 @@ The Operations Coordinator is responsible for producing the annual financial sta
 
 The financial statement must be published on our website within six months after the end of the financial year.
 
-[Template for our annual financial statement.](https://drive.google.com/drive/folders/1eeW-cCescwdGoxuCKwB4oMlhE5512Qu_)
+[Template for our annual financial statement](https://drive.google.com/drive/folders/1eeW-cCescwdGoxuCKwB4oMlhE5512Qu_).
 
 ## King Baudouin Foundation United States (KBFUS)
 
