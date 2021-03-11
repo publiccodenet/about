@@ -8,7 +8,7 @@ We work with insurance intermediary [Zicht Adviseurs](https://www.zichtadviseurs
 
 We have the following insurances:
 
-* Corporate Liability
+* Corporate liability
 * Board insurance
 * Travel insurance for team
 * Absenteeism insurance (sickness)
