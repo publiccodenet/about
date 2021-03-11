@@ -7,7 +7,7 @@ explains: reporting requirements
 
 ## Board meeting reports
 
-A concise financial one-pager is produced by the Operations Coordinator for the bi-monthly board meeting. The one-pager gives an overview of:
+A concise financial one-pager is produced by the Operations Coordinator for board meeting. The one-pager gives an overview of:
 
 * The current cash position
 * Costs incurred
