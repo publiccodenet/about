@@ -16,7 +16,7 @@ A concise financial one-pager is produced by the Operations Coordinator for boar
 
 ## Annual reporting
 
-As an ANBI, we are legally obliged to publish two kinds of reports: an annual financial statement (Jaarrekening, see below) and an annual report (Jaarverslag). The latter is a powerful piece of communications that shows how we deliver on our mission, achieve the goals set out in our policy plan, and celebrate our accomplishments.
+As an ANBI, we are legally obliged to publish two kinds of reports: an annual financial statement (jaarrekening, see below) and an annual report (jaarverslag). The latter is a powerful piece of communications that shows how we deliver on our mission, achieve the goals set out in our policy plan, and celebrate our accomplishments.
 
 ## Annual financial statement
 
