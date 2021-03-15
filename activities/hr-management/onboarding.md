@@ -32,7 +32,7 @@ If the employee agrees to the terms and has no further questions, onboarding ens
 * Contract is converted from draft to final version and uploaded to Docusign
 * The Chief Executive, President of the board and the employee need to sign
 * Once everyone has signed the contract, the fully signed version is sent to the employee by the Operations Coordinator
-* In the same mail, The Operations Coordinator also send a welcome email and our onboarding package
+* In the same email, the Operations Coordinator also send a welcome message and our onboarding package
 
 ### Welcome email and onboarding package
 
