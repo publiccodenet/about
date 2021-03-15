@@ -13,7 +13,7 @@ The Operations Coordinator keeps track of the contract expiration dates [in a sp
 
 Employees are told whether their contract will be renewed one month before it expires. This gives them one month's notice if the contract is not renewed. One month's notice is the customary in The Netherlands.
 
-When it's decided a contract will be renewed, a talk will to be planned with the employee. This talk functions as a performance talk where the manager and employee can give and receive feedback and vice versa. This is also the moment an employee can ask for different terms.
+When it's decided a contract will be renewed, a talk will to be planned with the employee. This talk acts as a performance review where the manager and employee can give and receive feedback and vice versa. This is also when an employee can ask for different terms.
 
 The process is as follows:
 
