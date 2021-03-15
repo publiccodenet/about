@@ -15,7 +15,7 @@ Google publishes [extensive support documentation](https://support.google.com/).
 
 ## Google Workspace management
 
-Google Workspace (user) administration is managed by the Operations coordinator. The Operations coordinator as well as the Chief executive have full adminstrative privileges. The Operations coordinator is responsible for user management. She ensures proper on-boarding and off-boarding policies are in place and enforced. She also creates and manages groups, aliases, domain management and 3rd party app integrations.
+Google Workspace (user) administration is managed by the operations coordinator. The operations coordinator as well as the chief executive have full adminstrative privileges. The operations coordinator is responsible for user management. She ensures proper on-boarding and off-boarding policies are in place and enforced. She also creates and manages groups, aliases, domain management and 3rd party app integrations.
 
 ## Privacy and GDPR
 

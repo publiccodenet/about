@@ -10,7 +10,7 @@ The office is located at:
 Keizersgracht 617
 1017 DS Amsterdam
 
-We have an anti-squat contract (bruikleenovereenkomst) with K&O Group, which manages the property on behalf of the owner, Hansainvest GmbH. The contract ends on 31 March 2021 with the possibility of extending it on a month-to-month basis, until the building has found a new renter.
+We have an anti-squat contract (bruikleenovereenkomst) with K&O Group, which manages the property on behalf of the owner, Hansainvest GmbH. The contract ends on 30 June 2021 with the possibility of extending it on a month-to-month basis until the building is rented again.
 
 ## Resources
 
