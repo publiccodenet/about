@@ -16,6 +16,7 @@ Before using this guide, make sure to [get a decision on attending the event](de
 ### Before the event
 
 * Appoint someone who is responsible for this particular event. Even though responsibilities may be delegated, it helps to be clear on who has authority to make decisions. This also reduces the risk that a task might be left undone.
+* Decide if you want to immerse yourself in the event or just cherry-pick sessions. Experience shows that to be able to network effectively and get a full event experience you need to be able to focus properly. To enable this, make sure you don't have other work planned at the same time that will compete for your attention. This applies to both physical and online events.
 * Create internal awareness. In order to enable synergies, sharing the overall plans with the rest of the organization is important.
 * Check the agenda. If someone happens to be connected to any of the speakers, consider reaching out. Coordination about this should start a month before the event or as soon as the program is released.
 * If the event has a call for papers or accepts submissions or ideas for talks, consider answering that, since it puts us in a prime position to present our [mission](../../organization/mission.md)
