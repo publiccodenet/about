@@ -41,5 +41,5 @@ This enables us to know you are back in and avoids action by the arbo-dienst.
 
 ## Sick leave management
 
-The Operations Coordinator immediately reports the sick leave in [the portal of our absenteeism insurance].(https://mijnwerkgeversportaal.acumen.nl/index3.html)
+The Operations Coordinator immediately reports the sick leave in [the portal of our absenteeism insurance](https://mijnwerkgeversportaal.acumen.nl/index3.html).
 As soon as the employee is better it needs to be reported in the same portal. This can also be done retroactively if the Operations Coordinator is not present on the day the employee goes back to work.
