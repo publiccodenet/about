@@ -21,6 +21,6 @@ explains: how salary administration is managed
 
 * Tentoo reports monthly “loonheffingen en sociale verzekeringspremies” (wage and social taxes) to the tax office
 * Tentoo sends an email to the Operations Coordinator with amount due
-* The Operations Coordinator sets-up the payment in the banking environment, assigns the payment date (e.g. March needs to be paid in April) and completes it with the first signature
+* The Operations Coordinator sets up the payment in the banking environment, assigns the payment date (e.g. March needs to be paid in April) and completes it with the first signature
 * Then the Operations Coordinator sends the Chief Executive an email requesting release of the payment. Ask the Chief Executive to report back when it’s released
 * Note: This payment information does not have to be sent to Exact as Exact is integrated with Tentoo
