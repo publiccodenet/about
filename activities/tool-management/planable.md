@@ -16,4 +16,4 @@ Our Planable account is managed by the operations coordinator and chief executiv
 
 ## Privacy and GDPR
 
-[Planable's Privacy Policy has detailed information on data collection, data management and GDPR.](https://planable.io/privacy/#data-we-collect) We emailed them with some questions about GDPR as their data processing agreements are not clear.
+[Planable's Privacy Policy has detailed information on data collection, data management and GDPR](https://planable.io/privacy/#data-we-collect). We emailed them with some questions about GDPR as their data processing agreements are not clear.
