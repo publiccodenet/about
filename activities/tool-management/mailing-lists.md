@@ -47,7 +47,7 @@ You can also unsubscribe via the web page by [simply clicking on the mailing lis
 
 You should make sure potential and current mailing list members have easy access to the guidance for people who join our mailing lists.
 
-The Operations coordinator can assign list owner status to other team members. With this status team members can sign themselves up to create an account on our Mailman instance. With a list owner account, the control panel can be accessed to update and customize list settings, as well as monitor pending confirmations from newly signed up members that may not have received the confirmation mail. This mail may end up in spam folders which we can notify them about.
+The operations coordinator can assign list owner status to other team members. With this status, team members can sign themselves up to create an account on our Mailman instance. It also allows access to the control panel, in which list settings can be updated and customized, and pending confirmations from newly signed up members that may not have received the confirmation mail can be monitored. This mail may end up in spam folders which we can notify them about.
 
 ### What to do with people's data
 
@@ -65,4 +65,10 @@ Our intention is to keep all posts, unless someone specifically requests their d
 
 ## Mailman management
 
-The Operations coordinator maintains Mailman and takes care of back end actions and user administration.
+The operations coordinator maintains Mailman and takes care of back end actions and user administration. Mailman and the Hyperkitty archive are hosted on a VPS at [Maadix](https://maadix.net/en), an independent service provider.
+
+The Maadix VPS can be upgraded via [the control panel of the machine](https://nextcloud-publiccode.maadix.org/cpanel/), as well as directly from the command line via SSH. If tweaks to configurations need to be made directly on the machine, the following command is used to get root on the machine:
+
+`ssh -p 2009 cipmas@176.9.160.125`
+
+You’ll be prompted to enter the password (in 1password sysadmin folder, which can be accessed by the operations coordinator and chief executive).
