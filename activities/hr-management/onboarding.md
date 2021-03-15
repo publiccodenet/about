@@ -5,7 +5,7 @@ explains: how onboarding is managed
 
 # Onboarding and payroll administration
 
-After successful negotiations, the Operations Coordinator sends a draft employment contract to the new employee. The following information is requested when the draft contract is send. This information is needed to finalize the contract and to prepare the payroll administration.
+After successful negotiations, the Operations Coordinator sends a draft employment contract to the new employee. The following information is requested when the draft contract is sent. This information is needed to finalize the contract and prepare the payroll administration.
 
 * BSN
 * Passport or ID scan
