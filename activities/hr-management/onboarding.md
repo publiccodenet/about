@@ -12,7 +12,7 @@ After successful negotiations, the Operations Coordinator sends a draft employme
 * Home address
 * Phone numbers (including an emergency contact)
 * Bank details
-* Loonheffingsverklaring (Tentoo takes care of this once the employee is added to the system by the Operations Coordinator)
+* [Loonheffingsverklaring](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen). Tentoo takes care of this once the employee is added to the system by the Operations Coordinator.
 
 ## Onboarding for Operations Coordinator
 
