@@ -2,7 +2,7 @@
 type: resource
 ---
 
-# Board finance update September 2020
+# Finance update September 2020
 
 ## Summary
 
