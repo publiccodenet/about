@@ -35,9 +35,9 @@ The leave can now be approved by your manager.
 
 Firstly, you can see how much leave you have when logging into your Tentoo NMBRS account. Navigate to the "leave" section on your dashboard.
 
-Please let the Operations Coordinator know if you want to take more vacation time than you have and if you want the additional leave to be deducted from next year's quota (Tentoo NMBRS does this automatically) or if you want to buy more days.
+Please let the operations coordinator know if you want to take more vacation time than you have and if you want the additional leave to be deducted from next year's quota (Tentoo NMBRS does this automatically) or if you want to buy more days.
 
-When buying more vacation time you need to [fill out a form approving the deduction from your salary](https://docs.google.com/document/d/1l-Z03ri4We4rv6inEvudjW0XYt2k0-p0vkCrhbb_1sw/edit). After the form is signed and received by the Operations Coordinator the amount will be deducted in the upcoming salary run, or the salary run of the period where the extra time off is taken.
+When buying more vacation time you need to [fill out a form approving the deduction from your salary](https://docs.google.com/document/d/1l-Z03ri4We4rv6inEvudjW0XYt2k0-p0vkCrhbb_1sw/edit). After the form is signed and received by the operations coordinator the amount will be deducted in the upcoming salary run, or the salary run of the period where the extra time off is taken.
 
 You may also want to know what extra vacation time actually costs:
 
