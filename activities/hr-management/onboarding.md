@@ -10,7 +10,7 @@ After successful negotiations, the Operations Coordinator sends a draft employme
 * Dutch [citizen service number (BSN)](https://www.government.nl/topics/personal-data/citizen-service-number-bsn)
 * Passport or ID scan
 * Home address
-* Phone numbers (including of family, or spouse for emergency)
+* Phone numbers (including an emergency contact)
 * Bank details
 * Loonheffingsverklaring (Tentoo takes care of this once the employee is added to the system by the Operations Coordinator)
 
