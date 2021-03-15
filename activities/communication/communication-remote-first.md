@@ -18,7 +18,7 @@ So for example, someone sends an open ended request for input or help or review,
 
 This can be demotivating for the initiator (feeling of shouting into the void, not being taken seriously, valued or respected, and feeling like doing meaningless work), expensive for the organisation (many people reading, thinking about it, closing, opening it later again, without coming to a conclusion), and a cycle of the item resurfacing without resolution.
 
-While this loop is easily closed in a collocated working environment (reach over and say hey), a remote environment makes this more tricky.
+While this loop is easily closed in a co-located working environment (reach over and say hey), a remote environment makes this more tricky.
 
 We identified several ways to mitigate this by trying to get a culture around:
 1) Don't deprioritise with silence, but actively say you can't/won't prioritise something
