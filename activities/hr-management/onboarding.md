@@ -40,6 +40,6 @@ The welcome email and onboarding package consists of the following information:
 
 * Letting the employee know that we have a BYOD (bring your own device) policy
 * That we offer a monitor and good headset (also when working remotely). If the laptop breaks we can contribute to a new one
-* An overview of accounts and tools they need and how they can access / activate these Links to About and other important resources a
+* An overview of accounts and tools they need and how they can access / activate these 
 * The onboarding package includes links to learning resources for GitHub, Markdown, links to inspirational talks from our board President, Ben Cerveny and other open source proponents, as well as links to open source organizations and communities
 * Welcome email template and onboarding package [are on our secret Drive.](https://drive.google.com/drive/folders/1KqeG3KxibxmbkhQl5yKUdsmTtMMnwlqB)
