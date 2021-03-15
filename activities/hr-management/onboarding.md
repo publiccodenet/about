@@ -7,7 +7,7 @@ explains: how onboarding is managed
 
 After successful negotiations, the Operations Coordinator sends a draft employment contract to the new employee. The following information is requested when the draft contract is sent. This information is needed to finalize the contract and prepare the payroll administration.
 
-* BSN
+* Dutch [citizen service number (BSN)](https://www.government.nl/topics/personal-data/citizen-service-number-bsn)
 * Passport or ID scan
 * Home address
 * Phone numbers (including of family, or spouse for emergency)
