@@ -2,7 +2,7 @@
 type: resource
 ---
 
-# Board finance update February 2021
+# Finance update February 2021
 
 ## Summary
 
