@@ -12,7 +12,7 @@ Some people on the team found that when having 1-on-1 check-in calls or chats, d
 
 ## 'Closing the loop' on open-ended requests.
 
-We identified a potentially harmful patterns around open requests not being 'closed'. 
+We identified a potentially harmful pattern around open requests not being 'closed'. 
 
 So for example, someone sends an open ended request for input or help or review, but doesn't hear back from anyone.
 
