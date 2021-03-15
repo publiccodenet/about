@@ -36,4 +36,4 @@ The community call notes are published on our [blog](https://blog.publiccode.net
 
 ## Further reading
 
-* [conference call etiquette](../communication/conference-call-etiquette.md)
+* [Conference call etiquette](../communication/conference-call-etiquette.md)
