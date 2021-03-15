@@ -5,7 +5,7 @@ explains: how contracts and contract renewals are managed
 
 # Employment contracts
 
-The employment contract is drafted by the Operations Coordinator upon agreement on the terms by all parties. [Onboarding information](onboarding.md) is gathered in advance. Once the contract is ready the Operations Coordinator will upload it to Docusign for signage by the Executive Director, chairman of the board and the new employee. As soon as all the involved parties have signed a PDF of the signed contract will be send to the employee, followed by a welcome email and our [onboarding package.](onboarding.md) The [contract template is on our Drive.](https://docs.google.com/document/d/1MQjkagZOo7gHPb1QLfuZUaYzIGVC47r1/edit)
+The employment contract is drafted by the Operations Coordinator upon agreement on the terms by all parties. [Onboarding information](onboarding.md) is gathered in advance. Once the contract is ready, the Operations Coordinator will upload it to Docusign for signing by the Executive Director, chairman of the board and the new employee. As soon as everyone has signed, a PDF of the signed contract is sent to the employee, followed by a welcome email and our [onboarding package](onboarding.md). The [contract template is on our Drive](https://docs.google.com/document/d/1MQjkagZOo7gHPb1QLfuZUaYzIGVC47r1/edit).
 
 ## Employment contract renewals
 
