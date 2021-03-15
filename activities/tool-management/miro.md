@@ -12,7 +12,7 @@ Miro [has extensive documention](https://help.miro.com/hc/en-us).
 
 ## Miro management
 
-The Operations Coordinator, Chief Executive and Codebase Stewards can add new users to Miro.
+The operations coordinator, chief executive and codebase stewards can add new users to Miro and manage their permissions. Existing users can also invite new users to join.
 
 ## Privacy and GDPR
 
