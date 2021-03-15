@@ -8,7 +8,7 @@ explains: how salary administration is managed
 * Tentoo takes care of our salary administration. Tentoo’s account is linked to ExactOnline, no need to submit anything related to salary administration
 * [Login via website](https://tentoo.nmbrs.nl/applications) or the app
 * The Chief Executive and Operations Coordinator have ‘company’ logins with which they can access the personnel files and keep them up to date
-* All employees have their own login as well as access to the app (can be set to English and to Dutch). They can submit expenses, download salary stubs, request vacation days and check their vacation time balance. They can also fill in mutation forms for new addresses, partners, email addresses (we use the personal email for this tool, since the salary stubs etc. have to remain accessible) and emergency contact info
+* All employees have their own login as well as access to the app (can be set to English and to Dutch). They can submit expenses, download salary stubs, request vacation days and check their vacation time balance. They can also fill in change notification (mutation) forms for new addresses, partners, emergency contact details, and email addresses (we use the personal email for this tool, since the salary stubs etc. have to remain accessible)
 * Expenses have to be approved in the portal. The Chief Executive and Operations Coordinator can do this
 * Every month, before the 15th of the month, the Operations Coordinator opens the salary run. Any mutations need to be send in before the run is started
 * Change notification (mutations) include more or less hours, different pay, or reimbursements. Forms are available in the Tentoo NMBRS dashboard and are send from there as well
