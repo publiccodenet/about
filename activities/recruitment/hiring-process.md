@@ -8,18 +8,14 @@ type: Resource
 
 * Head of human resources (HRM), responsible for the hiring process
 * Lead codebase steward, with a role in the first interview of applicants for codebase stewardship roles
-* Chief Executive (CEO), responsible for who we hire
-* Directors Foundation for Public Code (BOD), responsible for oversight
+* Chief executive (CEO), responsible for who we hire
+* Directors of the Foundation for Public Code (BOD), responsible for oversight
 
 ## Announcing job opening
 
 We publish all job postings on the [careers section on the homepage](https://publiccode.net/careers), and publicize them on our Twitter account (@publiccodenet).
 
-We also use the current team's network to spread awareness of the job opening (via email, LinkedIn, social media). We may use (specialized) job sites and recruiters including:
-
-* [fossjobs.net open source jobs board](https://www.fossjobs.net/)
-* [StackOverflow Jobs](https://stackoverflow.com/jobs)
-* LinkedIn page for Foundation for Public Code
+We also use the current team's network to spread awareness of the job opening (via email, LinkedIn, social media). We may use (specialized) job sites and recruiters including [fossjobs.net open source jobs board](https://www.fossjobs.net/) and [StackOverflow Jobs](https://stackoverflow.com/jobs).
 
 Between summer 2019 and summer 2020, most of our new hires discovered us through LinkedIn job ads.
 

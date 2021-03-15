@@ -8,13 +8,15 @@ Voys is our telephony provider through Voice over IP (VoIP).
 
 ## Using Voys
 
-Employees that need to call regularly receive an account. A local (020) number will be assigned. Voys can be used with an app on a mobile phone. There is [documentation available](https://www.voys.nl/hulp/toestellen/) (in Dutch) to help with setting it up, both for administrators as well as users.
-
-We've [translated basic Voys user set up guidance to English](https://about.publiccode.net/activities/communication/managing-voip-phone-numbers.html) to make it easier for non-Dutch speaking staff.
+Employees that need to call regularly receive an account. A local (020) number will be assigned. Voys can be used with an app on a mobile phone. Read the [guide on how to make and receive calls from your mobile phone using the Voys app](../communication/using-phone-app.md).
 
 ## Voys management
 
-The Operations Coordinator and Chief Executive can assign and install accounts.
+The operations coordinator and chief executive can assign and install accounts.
+
+There is [documentation available](https://www.voys.nl/hulp/toestellen/) (in Dutch) to help with setting it up, both for administrators as well as users.
+
+We've [translated basic Voys user set up guidance to English](https://about.publiccode.net/activities/communication/managing-voip-phone-numbers.html) to make it easier for non-Dutch speaking staff.
 
 ## Privacy and GDPR
 
