@@ -27,7 +27,7 @@ The Operations Coordinator needs to add the new employee to Tentoo NMBRS:
 
 ## Onboarding for employee
 
-If the employee agrees to the terms and has no further questions, onboarding ensues as follows:
+If the employee agrees to the terms and has no further questions, onboarding takes place as follows:
 
 * Contract is converted from draft to final version and uploaded to Docusign
 * The Chief Executive, President of the board and the employee need to sign
