@@ -11,7 +11,7 @@ The employment contract is drafted by the Operations Coordinator upon agreement 
 
 The Operations Coordinator keeps track of the contract expiration dates [in a spreadsheet.](https://docs.google.com/spreadsheets/d/1isVOEetjiaLKMxJHPGPusnBLORxjHUc_/edit#gid=21927936). The Operations Coordinator sends a reminder to the executive team about an upcoming renewal 6 weeks in advance, as we need to take the one month notice period into account with some leeway, as the renewal needs to be discussed in advance with the executive team.
 
-An employee always needs to hear the contract will be renewed one month before it expires. This notice period is also important in case a contract will not be renewed. One month notice is the customary in The Netherlands.
+Employees are told whether their contract will be renewed one month before it expires. This gives them one month's notice if the contract is not renewed. One month's notice is the customary in The Netherlands.
 
 When it's decided a contract will be renewed, a talk will to be planned with the employee. This talk functions as a performance talk where the manager and employee can give and receive feedback and vice versa. This is also the moment an employee can ask for different terms.
 
