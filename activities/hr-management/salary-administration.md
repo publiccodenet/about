@@ -14,7 +14,7 @@ explains: how salary administration is managed
 * Change notification (mutations) include more or less hours, different pay, or reimbursements. Forms are available in the Tentoo NMBRS dashboard and are send from there as well
 * Once the salary run has finished the Operations Coordinator receives a notification
 * In the Tentoo NMBRS dashboard the latest SEPA file can be found. The date of the file needs to be changed to the date we want to pay (24 or 25th of the month)
-* The Operations Coordinator uploads the SEPA to the bank and processes it
+* The Operations Coordinator uploads the SEPA to the bank and prepares the payment instructions, such as setting the date and send it for approval
 * When ready, the Operations Coordinator sends a mail to the Chief Executive to release the payments. Make sure to include a PDF with an overview of the salaries, which can also be downloaded from the Tentoo NMBRS dashboard
 
 ## Loonheffing (LH) – payroll tax
