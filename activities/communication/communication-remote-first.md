@@ -26,4 +26,4 @@ We identified several ways to mitigate this by trying to get a culture around:
 3) Signal clearly if/when this is a blocker to your work that prevents you from moving on
 4) Where possible, ask individuals for input over an undefined group 
 5) Where possible, provide clear context, aims and expectations around the request
-6) When you take on an open request, try signal whether it is something you will prioritise, or something you will do *if* you have time and space
+6) When you take on an open request, try signaling whether it is something you will prioritize, or something you will do *if* you have time and space
