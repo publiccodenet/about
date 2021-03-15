@@ -35,10 +35,6 @@ These are some tools some of us find helpful:
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - for a list of the most common used git commands
 * Rewriting Git History - Amend, Reword, Delete, Reorder, Squash and Split ([video](https://www.youtube.com/watch?v=ElRzTuYln0M), [article](https://www.themoderncoder.com/rewriting-git-history/)) - for making the git history as clear and understandable as possible
 
-## Useful tips
-
-[Remote working]
-
 ## Useful context
 
 * [Collaborative Code is the Future of Cities @ DecidimFest 2019](https://www.youtube.com/watch?v=cnJtnZ9Cx1o). Talk by Ben Cerveny on the background behind the Foundation for Public Code
