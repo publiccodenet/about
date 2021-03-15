@@ -46,7 +46,7 @@
     <bpmn:sequenceFlow id="SequenceFlow_16z885x" sourceRef="Task_1s5uu8w" targetRef="ExclusiveGateway_1cjm7om" />
     <bpmn:sequenceFlow id="SequenceFlow_0q4hh2k" name="No" sourceRef="ExclusiveGateway_1cjm7om" targetRef="Task_17bpeqz" />
     <bpmn:sequenceFlow id="SequenceFlow_05s3d34" name="Yes" sourceRef="ExclusiveGateway_1cjm7om" targetRef="Task_1s5uu8w" />
-    <bpmn:exclusiveGateway id="ExclusiveGateway_0lmezg8" name="Can be incubated?">
+    <bpmn:exclusiveGateway id="ExclusiveGateway_0lmezg8" name="Agreement on incubation">
       <bpmn:incoming>SequenceFlow_00obnt4</bpmn:incoming>
       <bpmn:incoming>SequenceFlow_0c67fp8</bpmn:incoming>
       <bpmn:outgoing>SequenceFlow_0yslxw9</bpmn:outgoing>
@@ -164,7 +164,7 @@
       <bpmndi:BPMNShape id="ExclusiveGateway_0lmezg8_di" bpmnElement="ExclusiveGateway_0lmezg8" isMarkerVisible="true">
         <dc:Bounds x="685" y="243" width="50" height="50" />
         <bpmndi:BPMNLabel>
-          <dc:Bounds x="725" y="206" width="54" height="27" />
+          <dc:Bounds x="718" y="206" width="69" height="27" />
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNEdge id="SequenceFlow_0yslxw9_di" bpmnElement="SequenceFlow_0yslxw9">
