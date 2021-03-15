@@ -17,7 +17,7 @@ explains: how salary administration is managed
 * The Operations Coordinator uploads the SEPA to the bank and prepares the payment instructions, such as setting the date and send it for approval
 * When ready, the Operations Coordinator sends a mail to the Chief Executive to release the payments. Make sure to include a PDF with an overview of the salaries, which can also be downloaded from the Tentoo NMBRS dashboard
 
-## Loonheffing (LH) – payroll tax
+## Loonheffing – payroll tax
 
 * Tentoo reports monthly “loonheffingen en sociale verzekeringspremies” (wage and social taxes) to the tax office
 * Tentoo sends an email to the Operations Coordinator with amount due
