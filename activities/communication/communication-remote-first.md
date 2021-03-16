@@ -4,7 +4,7 @@ type: Resource
 
 As we aim to work remote-first, and a lot of our work with codebase communities happens remotely, here are some tips on communication in a remote-first environment.
 
-## Questioning video-call as default. 
+## Questioning video-call as default
 
 This is definitely down to individual preferences, but video calls may be more taxing on the eyes and require more points to pay attention to. 
 
