@@ -11,7 +11,7 @@ The link for this form can be shared and used wherever we feel that those we are
 
 ## Update contacts
 
-When preparing for sending out [invites to community calls](../standard-maintenance/preparing-community-call.md) or the newsletter, first the contacts need to be updated. Check in the notes in the bottom of the survey when it was last updated. In the top right corner of the survey there is a button stating how many answers the survey has. Clicking it reveals all the persons that have signed up and their options. By selecting all the answers that was `Created on` later than in it was last updated and then the download button in the top left corner you get all the answers in one file. With the details from the file, update existing contacts or create new ones. Use the tags, ´Newsletter´, ´Community Call / Foundation', ´Community Call /Standard´ and ´SendValuable´ to store their preferences for being contacted.
+When preparing to send out [invitations to community calls](../standard-maintenance/preparing-community-call.md) or the newsletter, first the contacts need to be updated. Check in the notes in the bottom of the survey when it was last updated. In the top right corner of the survey there is a button stating how many answers the survey has. Clicking it reveals all the persons that have signed up and their options. By selecting all the answers that were `Created on` later than when it was last updated and then the download button in the top left corner you get all the answers in one file. With the details from the file, update existing contacts or create new ones. Use the tags ´Newsletter´, ´Community Call / Foundation', ´Community Call /Standard´ and ´SendValuable´ to store their preferences for being contacted.
 
 ## Log the update
 
