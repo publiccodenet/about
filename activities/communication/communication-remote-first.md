@@ -8,7 +8,7 @@ As we aim to work remote-first, and a lot of our work with codebase communities 
 
 This is definitely down to individual preferences, but video calls may be more taxing on the eyes and require more points to pay attention to. 
 
-Some people on the team found that when having 1-on-1 check-in calls or chats, doing it over a phone call while walking around outside worked just as well (or better) and was less taxing/tiring. 
+Some people on the team found that when having 1-on-1 check-in calls or chats, doing it over a phone call while walking around outside worked just as well (or better) and was less tiring. 
 
 ## 'Closing the loop' on open-ended requests
 
