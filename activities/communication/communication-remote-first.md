@@ -10,7 +10,7 @@ This is definitely down to individual preferences, but video calls may be more t
 
 Some people on the team found that when having 1-on-1 check-in calls or chats, doing it over a phone call while walking around outside worked just as well (or better) and was less taxing/tiring. 
 
-## 'Closing the loop' on open-ended requests.
+## 'Closing the loop' on open-ended requests
 
 We identified a potentially harmful pattern around open requests not being 'closed'. 
 
