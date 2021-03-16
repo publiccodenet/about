@@ -16,7 +16,7 @@ We identified a potentially harmful pattern around open requests not being 'clos
 
 So for example, someone sends an open ended request for input or help or review, but doesn't hear back from anyone.
 
-This can be demotivating for the initiator (feeling of shouting into the void, not being taken seriously, valued or respected, and feeling like doing meaningless work), expensive for the organisation (many people reading, thinking about it, closing, opening it later again, without coming to a conclusion), and a cycle of the item resurfacing without resolution.
+This can be demotivating for the initiator (feeling of shouting into the void, not being taken seriously, valued or respected, and feeling like doing meaningless work), expensive for the organisation (many people reading, thinking about it, closing, opening it later again, without coming to a conclusion), and lead to a cycle of the item resurfacing without resolution.
 
 While this loop is easily closed in a co-located working environment (reach over and say hey), a remote environment makes this more tricky.
 
