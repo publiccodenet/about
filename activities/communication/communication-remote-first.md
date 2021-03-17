@@ -6,7 +6,7 @@ As we aim to work remote-first, and a lot of our work with codebase communities 
 
 ## Questioning video-call as default
 
-This is definitely down to individual preferences, but video calls may be more taxing on the eyes and require more points to pay attention to. 
+This is definitely down to individual preferences, but video calls may be more taxing on the eyes and require more points to pay attention to.
 
 Some people on the team found that when having 1-on-1 check-in calls or chats, doing it over a phone call while walking around outside worked just as well (or better) and was less tiring. 
 
