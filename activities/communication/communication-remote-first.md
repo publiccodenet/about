@@ -2,6 +2,8 @@
 type: Resource
 ---
 
+# Tips on communication in a remote first environment
+
 As we aim to work remote-first, and a lot of our work with codebase communities happens remotely, here are some tips on communication in a remote-first environment.
 
 ## Questioning video-call as default
