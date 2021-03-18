@@ -24,7 +24,7 @@ If for any reason you do not feel that you can perform your work at your usual a
 On the first day of sickness you need to let us know you are sick before 9am. You can do so by mailing <hr@publiccode.net>.
 This is also true on a day you were planning to work from home or on a day you have booked as vacation.
 
-HR (or your manager) will inform your colleagues so that they can plan accordingly.
+The Operations Coordinator (or your manager) will inform your colleagues so that they can plan accordingly.
 
 ## Returning to work
 
@@ -38,3 +38,8 @@ Alternatively, email the morning (when you resume work), at the latest.
 
 This is important as HR needs to end the notification of your sickness in the HR portal.
 This enables us to know you are back in and avoids action by the arbo-dienst.
+
+## Sick leave management
+
+The Operations Coordinator immediately reports the sick leave in [the portal of our absenteeism insurance](https://mijnwerkgeversportaal.acumen.nl/index3.html).
+As soon as the employee is better it needs to be reported in the same portal. This can also be done retroactively if the Operations Coordinator is not present on the day the employee goes back to work.
