@@ -16,10 +16,11 @@ The community call notes are published on our [blog](https://blog.publiccode.net
 
 ## How to join our community calls
 
-[Sign up for community call invitations](https://forms.gle/gn7wR2Eaxbv5g1BF9).
+[Sign up for community call invitations](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).
 
 ## Guides for preparing, running and post-processing community calls
 
+* [Managing community call sign up](../communication/sign-up.md)
 * [Post-processing a community call](post-process-community-call.md)
 * [How to write a community call blogpost](community-call-blogposts.md)
 
@@ -36,4 +37,4 @@ The community call notes are published on our [blog](https://blog.publiccode.net
 
 ## Further reading
 
-* [conference call etiquette](../communication/conference-call-etiquette.md)
+* [Conference call etiquette](../communication/conference-call-etiquette.md)

@@ -30,4 +30,4 @@ Additionally, we have separate sites that show our [projects](https://projects.p
 
 We can [use your help](CONTRIBUTING.md) to make the Foundation for Public Code a success.
 
-If you want to get our news delivered directly to you, [join our mailing list](https://forms.gle/gn7wR2Eaxbv5g1BF9).
+If you want to get our news delivered directly to you, [join our mailing list](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).

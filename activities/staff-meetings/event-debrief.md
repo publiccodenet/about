@@ -19,7 +19,7 @@ Individually, develop high level notes on who you met, what you learnt and poten
 1. New contacts:
     * who are the interesting people we met?
     * why do we think they are interesting for us as an organization?
-    * what [newsletters, mailing lists](https://forms.gle/gn7wR2Eaxbv5g1BF9) or future events should we invite them to?
+    * what [newsletters, mailing lists](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842) or future events should we invite them to?
     * [process the contacts](../events/process-contacts.md)
 2. What could the event and our participation in it mean for:
     * [membership](../member-relations/)
