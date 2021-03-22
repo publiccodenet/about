@@ -5,7 +5,7 @@ type: resource
 
 # All press and media mentions of the Foundation for Public Code
 
-Here's the complete list of all mentions of the Foundation for Public Code on 3rd party platforms.
+Here's the complete list of all mentions of the Foundation for Public Code on third party platforms.
 
 We're always happy to work with journalists  - just email us at <press@publiccode.net>.
 
