@@ -30,7 +30,7 @@ The operations coordinator needs to add the new employee to Tentoo NMBRS:
 If the employee agrees to the terms and has no further questions, onboarding takes place as follows:
 
 * Contract is converted from draft to final version and uploaded to Docusign
-* The chief executive, President of the board and the employee need to sign
+* The chief executive, president of the board of directors and the employee need to sign
 * Once everyone has signed the contract, the fully signed version is sent to the employee by the operations coordinator
 * In the same email, the operations coordinator also sends a welcome message and our onboarding package
 
@@ -41,5 +41,5 @@ The welcome email and onboarding package consists of the following information:
 * Letting the employee know that we have a BYOD (bring your own device) policy
 * That we offer a monitor and good headset (also when working remotely). If the laptop breaks we can contribute to a new one
 * An overview of accounts and tools they need and how they can access / activate these
-* The onboarding package includes links to learning resources for GitHub, Markdown, links to inspirational talks from our board President, Ben Cerveny and other open source proponents, as well as links to open source organizations and communities
+* The onboarding package includes links to learning resources for GitHub, Markdown, links to inspirational talks from our board president, Ben Cerveny and other open source proponents, as well as links to open source organizations and communities
 * Welcome email template and onboarding package [are on our secret Drive](https://drive.google.com/drive/folders/1KqeG3KxibxmbkhQl5yKUdsmTtMMnwlqB).

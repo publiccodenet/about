@@ -5,7 +5,7 @@ explains: how contracts and contract renewals are managed
 
 # Employment contracts
 
-The employment contract is drafted by the operations coordinator upon agreement on the terms by all parties. [Onboarding information](onboarding.md) is gathered in advance. Once the contract is ready, the operations coordinator will upload it to Docusign for signing by the Executive Director, chairman of the board and the new employee. As soon as everyone has signed, a PDF of the signed contract is sent to the employee, followed by a welcome email and our [onboarding package](onboarding.md). The [contract template is on our Drive](https://docs.google.com/document/d/1MQjkagZOo7gHPb1QLfuZUaYzIGVC47r1/edit).
+The employment contract is drafted by the operations coordinator upon agreement on the terms by all parties. [Onboarding information](onboarding.md) is gathered in advance. Once the contract is ready, the operations coordinator will upload it to Docusign for signing by the chief executive, chairman of the board and the new employee. As soon as everyone has signed, a PDF of the signed contract is sent to the employee, followed by a welcome email and our [onboarding package](onboarding.md). The [contract template is on our Drive](https://docs.google.com/document/d/1MQjkagZOo7gHPb1QLfuZUaYzIGVC47r1/edit).
 
 ## Employment contract renewals
 
@@ -18,8 +18,8 @@ When it's decided a contract will be renewed, a talk will to be planned with the
 The process is as follows:
 
 * The operations coordinator sends a reminder to the executive team about an upcoming renewal 6 weeks in advance
-* Coordinators have the talk with the Chief Executive
-* Codebase Stewards have the talk with their Coordinators
+* Coordinators have the talk with the chief executive
+* Codebase stewards have the talk with their coordinators
 * Outcome is reported to the operations coordinator
 
 ## Service agreements and contractors
