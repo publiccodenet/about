@@ -21,7 +21,7 @@ Our canonical source of truth is this website. Watch us work and join our discus
 
 We publish our news and announcements on:
 
-+ [our mailing list](https://forms.gle/gn7wR2Eaxbv5g1BF9)
++ [our mailing list](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842)
 + [our blog](https://blog.publiccode.net/)
 + Twitter
 
