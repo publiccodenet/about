@@ -28,4 +28,4 @@ You may also be interested in:
 
 - [Foundation for Public Code: How to help governments develop high-quality, sustainable, cost-effective, and low-risk public services through open source collaborations](https://os2.eu/blog/foundation-public-code-how-help-governments-develop-high-quality-sustainable-cost-effective-and) - an interview by OS2 with Boris van Hoytema and Claus Mullie (September 2019)
 - Marleen Stikker's book [Het internet is stuk](https://www.singeluitgeverijen.nl/de-geus/boek/het-internet-is-stuk/) (in Dutch) (November 2019)
-![Het Internet is Stuk](/het-internet-is-stuk.jpeg)
+![Het Internet is Stuk](/Het-internet-is-stuk.jpeg)
