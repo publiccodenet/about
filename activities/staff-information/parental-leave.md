@@ -1,6 +1,8 @@
 ---
 type: Guide
 explains: what to do and what to know when you or your partner are expecting
+redirect_from:
+    - ../staff-management/parental-leave.md
 ---
 
 # Pregnancy, birth, and partner leave

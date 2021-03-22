@@ -1,5 +1,7 @@
 ---
 type: Index
+redirect_from:
+    - ../staff-management/index.md
 ---
 
 # Staff management
