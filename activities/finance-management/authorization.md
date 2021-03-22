@@ -5,7 +5,7 @@ explains: how authorization is managed at the Foundation
 
 # Financial authorization
 
-Payments below € 5000 can be made directly by the Operations Coordinator.
+Payments below € 5000 can be made directly by the operations coordinator.
 
 Payments above € 50.000 must be approved by two board members. [See the Articles of Association.](../../organization/articles-of-association.md)
 
