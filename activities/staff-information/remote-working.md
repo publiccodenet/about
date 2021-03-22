@@ -1,6 +1,8 @@
 ---
 type: Guide
 explains: how we support people working with us remotely
+redirect_from:
+    - ../staff-management/remote-working.md
 ---
 
 # Remote working at the Foundation for Public Code

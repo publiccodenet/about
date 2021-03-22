@@ -1,6 +1,8 @@
 ---
 type: Guide
 explains: how to pay for things on behalf of the Foundation for Public Code and how to get reimbursed
+redirect_from:
+    - ../staff-management/expense.md
 ---
 
 # Expenses
