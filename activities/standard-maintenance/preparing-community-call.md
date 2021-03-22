@@ -24,8 +24,7 @@ Together with the codebase stewards figure out if there is anything specific you
 
 ### External
 
-Start with updating Odoo with people that signed up on the form since the last community call. Add the tags to the contacts to make it possible to have Odoo select them for the appropriate call.
-
+* Start with updating Odoo according to the [sign up management guide](../communication/sign-up)
 * Send out invitations ([inspiration: template for Foundation for Public Code community calls](../communication/community-call-invite-template.md))
 * Update the calendar by adding newly signed up people and the current agenda
 
