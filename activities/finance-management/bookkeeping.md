@@ -21,7 +21,7 @@ WeFact is a lightweight and easy to use program for invoicing. We use it for mem
 
 ## Payments
 
-All payments are managed by the Operation Coordinator. The operations coordinator makes sure there is always an underlying document or receipt (boekstuk) for each transaction. Having a paper trail is essential.
+All payments are managed by the operation coordinator. The operations coordinator makes sure there is always an underlying document or receipt (boekstuk) for each transaction. Having a paper trail is essential.
 
 ## Invoices – payable
 
@@ -31,7 +31,7 @@ The operations coordinator is responsible for paying and processing all the invo
 * Make sure to add right ledger in the title of the PDF so the bookkeeper knows where to book it
 * Do NOT send invoices from Rabobank, GetMonkeys, and Tentoo, as these are all integrated within Exact
 * Do NOT send receipts from underlying expense forms, as this would lead to duplication
-* Filing: The operations coordinator keeps invoices and expense forms organized by month and year in the [Secret Finance Drive](https://drive.google.com/drive/folders/1B47cfi314HJzoW7_QDaaaG1hfvxwCjpJ).
+* Filing: The operations coordinator keeps invoices and expense forms organized by month and year in the [secret finance drive](https://drive.google.com/drive/folders/1B47cfi314HJzoW7_QDaaaG1hfvxwCjpJ).
 
 ## Invoices – receivable
 
@@ -46,7 +46,7 @@ The operations coordinator is responsible for paying and processing all the invo
 ## Budget
 
 * The budget blueprint (spreadsheet) which is used as the baseline for budgeting and forecasting was constructed with the help of our finance consultant, Rob Schouten
-* The budget is approved by the Board of Directors by the end of each year and is added to Visionplanner
+* The budget is approved by the board of directors by the end of each year and is added to Visionplanner
 * The operations coordinator is responsible for budgeting and adding it to Visionplanner
 
 ## Tax status pertaining to financials
