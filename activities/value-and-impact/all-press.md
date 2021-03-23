@@ -14,9 +14,11 @@ You may also be interested in:
 - [a list of policy documents that mention the Foundation for Public Code](https://about.publiccode.net/activities/value-and-impact/policy-documents.html)
 - [our conference talks and articles we've written](https://projects.publiccode.net/talks-and-articles.html)
 
-## 2020
+## 2021
 
 - [Help: open source software will be mandatory, what now?](https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu), summary of a panel discussion with Boris van Hoytema, Ivonne Janssen-Dings and Koos Steenbergen at the Conferentie Nederland Digitaal in February 2021 (in Dutch)
+## 2020
+
 - [5 big ideas for fixing global cities’ most daunting challenges](https://fortune.com/2020/02/17/cities-challenges-solutions-housing-buses-climate-loneliness/) by Lydia Belanger and Emma Hinchliffe in Fortune.com (February 2020)
 - [Next-Generation Engagement Platforms, and How They Are Useful Right Now (Part 1)](https://civichall.org/civicist/next-generation-engagement-platforms-and-how-are-they-useful-right-now-part-1/), by Matt Stempeck on CivicHall.org (May 2020)
 - [The sixth version of Standard for Public Code has been released on GitHub and the development of version 0.2.1 is open for contributions](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-release-standard-public-code), by Charlotte Heikendorf on the [Open Source Observatory and Repository](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) (OSOR) (May 2020)
