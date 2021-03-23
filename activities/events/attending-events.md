@@ -22,7 +22,7 @@ Before using this guide, make sure to [get a decision on attending the event](de
 * If the event has a call for papers or accepts submissions or ideas for talks, consider answering that, since it puts us in a prime position to present our [mission](../../organization/mission.md)
 * Consider bringing informational material to give away to people that want to get to know us better. Contact the organizer to find out if there are places to put these at.
 * Consider using a shared document to do the planning in, perhaps using [this template](events-planning-template.md).
-* Plan your [travels](../staff-management/travel.md).
+* Plan your [travels](../staff-information/travel.md).
 * Prepare a team chat (that is capable of notifications) if you are more than one staff member attending.
 * Make sure you attend the event with a brief, well-rehearsed [pitch explaining what the Foundation for Public Code does](../communication/pitching.md). Tailor the pitch to the audience you are going to meet.
 
@@ -49,7 +49,7 @@ Do this as soon as this information is published. If you have concerns over how 
 * Upload photos.
 * If just one person attended the event, debrief at the daily standup and offer to venture deeper with anyone who may be interested.
 * If two or more people attended the event, do a [debrief](../staff-meetings/event-debrief.md).
-* [Process all expenses for the event](../staff-management/expense.md).
+* [Process all expenses for the event](../staff-information/expense.md).
 * [Process all new contacts for the event](process-contacts.md).
 * Make sure everyone from the team has access to that contacts file where all of the team can take a look at the status of a certain lead or if that person has ever been approached by us. This is also important for future events.
 * Evaluate if the goals set for the event were met.
