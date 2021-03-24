@@ -16,10 +16,7 @@ Stat! | 10 | Huzzah
 Total | 16 | 28%
 
 </div>
-<style type="text/css">
-div[data-theme-table="annual-report-table-total"] {
-td { background-color: red; }
-}
-</style>
+
+<style type="text/css">div[data-theme-table="annual-report-table-total"] {td { color: red; }}</style>
 
 Test text
