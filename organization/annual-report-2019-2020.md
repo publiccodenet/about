@@ -12,5 +12,10 @@ This is a financial stat | 1 | 3%
 Another financial stat | 5 | 25%
 Stat! | 10 | Huzzah
 Total | 16 | 28%
+{: .annual-report-table-total}
+
+<style>
+.annual-report-table-total { color: red; }
+</style>
 
 Test text
