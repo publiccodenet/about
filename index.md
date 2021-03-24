@@ -22,7 +22,7 @@ Read more about:
 
 ## Our sites
 
-Our [home page at publiccode.net](https://publiccode.net) features a [high level overview of codebase stewardship](https://publiccode.net/codebase-stewardship/), [our team bios](https://publiccode.net/team/), and [the careers page with open positions](https://publiccode.net/careers/).
+Our [home page at publiccode.net](https://publiccode.net) features a [high level overview of codebase stewardship](https://publiccode.net/codebase-stewardship/), [our team bios](https://publiccode.net/who-we-are/), and [the careers page with open positions](https://publiccode.net/careers).
 
 Additionally, we have separate sites that show our [projects](https://projects.publiccode.net), [how to use the brand](https://brand.publiccode.net/) and our [blog](https://blog.publiccode.net).
 
