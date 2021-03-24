@@ -7,7 +7,7 @@ explains: how to do post-production of a live stream
 
 When doing post-production of a 'Let's talk about public code' [live stream](index.md), there are some steps to remember:
 
-* Attendee and viewer follow up: connect them to a call to action such as [sign up for our tailored-to-your-preferences-newsletter](https://forms.gle/gn7wR2Eaxbv5g1BF9).
+* Attendee and viewer follow up: connect them to a call to action such as [sign up for our tailored-to-your-preferences-newsletter](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).
 * Cut an audio version and upload to [Podbean](../tool-management/podbean.md).
   * Cut out long pauses, coughs and other noise, but try to keep the content similar to the recording.
   * Compress and normalize.
