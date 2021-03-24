@@ -12,7 +12,7 @@ This is a financial stat | 1 | 3%
 Another financial stat | 5 | 25%
 Stat! | 10 | Huzzah
 Total | 16 | 28%
-{: class="annual-report-table-total"}
+{: rules="groups"}
 
 <span style="background-color:yellow">test highlight</span>
 
