@@ -17,6 +17,8 @@ Total | 16 | 28%
 
 </div>
 
+<span style="background-color:yellow">test highlight</span>
+
 <style type="text/css">div[data-theme-table="annual-report-table-total"] {td { color: red; }}</style>
 
 Test text
