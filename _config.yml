@@ -1,5 +1,6 @@
 title: About the Foundation for Public Code
 permalinks: pretty
+markdown: kramdown
 
 include:
   - README.md
