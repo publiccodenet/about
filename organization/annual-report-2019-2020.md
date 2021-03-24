@@ -19,3 +19,6 @@ Total | 16 | 28%
 <style type="text/css">div[data-theme-table="annual-report-table-total"] {td { color: red; }}</style>
 
 Test text
+
+> A nice blockquote
+{: title="Blockquote title"}
