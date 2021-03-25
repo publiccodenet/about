@@ -21,6 +21,6 @@ All team members receive an account from the operations coordinator during onboa
 
 ## Privacy and GDPR
 
-The services offered by AgileBits, Inc. through 1Password fully comply with the requirements of the European Union’s General Data Protection Regulation (GDPR). European data is held on servers located in Europe. [Read more about AgileBits Privacy Policy.](https://1password.com/legal/privacy/).
+The services offered by AgileBits, Inc. through 1Password fully comply with the requirements of the European Union’s General Data Protection Regulation (GDPR). European data is held on servers located in Europe. [Read more about AgileBits Privacy Policy](https://1password.com/legal/privacy/).
 
 > "We do not collect or obtain data from third parties. We collect some data from you, in order to provide you with our 1Password products and associated services. You provide some data directly, such as when you create a 1Password account, when you register for a 1Password event or a webinar, or contact us for support. Such data is limited to your email address only. We get some limited data from your use of the 1Password products and services. Such data includes your IP address, and the make and model of your device through which you access or use 1Password products or services."
