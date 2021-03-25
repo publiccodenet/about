@@ -16,7 +16,7 @@ You may also be interested in:
 
 ## 2021
 
-* [Help: open source software will be mandatory, what now?](https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu) - summary of a panel discussion with Boris van Hoytema, Ivonne Janssen-Dings and Koos Steenbergen at the Conferentie Nederland Digitaal in February 2021 on [opensource.pleio.nl](https://opensource.pleio.nl) (in Dutch)
+* [Help: open source software will be mandatory, now what?](https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu) - summary of a panel discussion with Boris van Hoytema, Ivonne Janssen-Dings and Koos Steenbergen at the Conferentie Nederland Digitaal in February 2021 on [opensource.pleio.nl](https://opensource.pleio.nl) (in Dutch)
 
 ## 2020
 
@@ -31,5 +31,4 @@ You may also be interested in:
 
 * [Foundation for Public Code: How to help governments develop high-quality, sustainable, cost-effective, and low-risk public services through open source collaborations](https://os2.eu/blog/foundation-public-code-how-help-governments-develop-high-quality-sustainable-cost-effective-and) - interview by Charlotte Heikendorf with Boris van Hoytema and Claus Mullie for [OS2](https://os2.eu/node/332) (September 2019)
 * [The Internet is Broken](https://www.singeluitgeverijen.nl/de-geus/boek/het-internet-is-stuk/) - book by Marleen Stikker's (November 2019) (in Dutch)
-
-![Het Internet is Stuk](Het-internet-is-stuk.jpeg)
+![Het Internet is Stuk](/Het-internet-is-stuk.jpeg)
