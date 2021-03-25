@@ -25,11 +25,13 @@ While this loop is easily closed in a co-located working environment (reach over
 Several ways to mitigate this could include developing a culture around:
 
 As an initiator:
+
 * Set a deadline for responses, and signal what you will do after that deadline (move ahead, or stop working on it if no other interest,...) 
 * Signal clearly if/when this is a blocker to your work that prevents you from moving on
 * Where possible, ask individuals for input over an undefined group 
 * Where possible, provide clear context, aims and expectations around the request
 
 As a responder:
+
 * Don't deprioritize with silence, but actively say you can't/won't prioritize something
 * When you take on an open request, try signaling whether it is something you will prioritize, or something you will only do *if* you have time and space
