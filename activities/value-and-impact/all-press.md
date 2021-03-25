@@ -17,6 +17,7 @@ You may also be interested in:
 ## 2021
 
 - [Help: open source software will be mandatory, what now?](https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu) - summary of a panel discussion with Boris van Hoytema, Ivonne Janssen-Dings and Koos Steenbergen at the Conferentie Nederland Digitaal in February 2021 on [opensource.pleio.nl](https://opensource.pleio.nl) (in Dutch)
+
 ## 2020
 
 - [5 big ideas for fixing global cities’ most daunting challenges](https://fortune.com/2020/02/17/cities-challenges-solutions-housing-buses-climate-loneliness/) - article by Lydia Belanger and Emma Hinchliffe in Fortune.com (February 2020)
