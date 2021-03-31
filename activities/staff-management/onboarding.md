@@ -30,7 +30,7 @@ The operations coordinator needs to add the new employee to Tentoo NMBRS:
 If the employee agrees to the terms and has no further questions, onboarding takes place as follows:
 
 * Contract is converted from draft to final version and uploaded to Docusign
-* The chief executive, president of the board of directors and the employee need to sign
+* The chief executive, president and the employee need to sign
 * Once everyone has signed the contract, the fully signed version is sent to the employee by the operations coordinator
 * In the same email, the operations coordinator also sends a welcome message and our onboarding package
 
