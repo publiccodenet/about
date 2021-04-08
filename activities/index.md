@@ -28,6 +28,7 @@ Activities that support the above as well as make staff operations work:
 * [Philanthropic fundraising](philanthropic-fundraising/index.md)
 * [Procurement](procurement/index.md)
 * [Recruitment](recruitment/index.md)
+* [Staff information](staff-information/index.md)
 * [Staff management](staff-management/index.md)
 * [Staff meetings](staff-meetings/index.md)
 * [Supporting codebase governance](supporting-codebase-governance/index.md)
