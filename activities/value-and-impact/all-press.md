@@ -11,7 +11,7 @@ We're always happy to work with journalists  - just email us at <press@publiccod
 
 You may also be interested in:
 
-* [a list of policy documents that mention the Foundation for Public Code](https://about.publiccode.net/activities/value-and-impact/policy-documents.html)
+* [a list of policy documents that mention the Foundation for Public Code](policy-documents.md)
 * [our conference talks and articles we've written](https://projects.publiccode.net/talks-and-articles.html)
 
 ## 2021
