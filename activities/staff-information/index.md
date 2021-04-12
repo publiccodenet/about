@@ -33,5 +33,4 @@ Things you'll want to know when you start working here:
 
 See also:
 
-* [Staff code of conduct](../../organization/staff-code-of-conduct.md)
 * [Remuneration policy](../../organization/remuneration-policy.md)
