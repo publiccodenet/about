@@ -16,3 +16,5 @@ When preparing to send out [invitations to community calls](../standard-maintena
 ## Log the update
 
 After the contacts have been updated, use the function **Log note** in the bottom of the survey to leave a message that contacts have been updated (a timestamp will be added automatically).
+
+Delete the contacts file you downloaded, so that we can be confident we're GDPR compliant.
