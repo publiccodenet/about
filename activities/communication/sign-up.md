@@ -11,7 +11,12 @@ Share the link to this form whenever we communicate with people who might want t
 
 ## Update contacts
 
-When preparing to send out [invitations to community calls](../standard-maintenance/preparing-community-call.md) or the newsletter, first the contacts need to be updated. Check in the notes in the bottom of the survey when it was last updated. In the top right corner of the survey there is a button stating how many answers the survey has. Clicking it reveals all the persons that have signed up and their options. By selecting all the answers that were `Created on` later than when it was last updated and then the download button in the top left corner you get all the answers in one file. With the details from the file, update existing contacts or create new ones. Use the tags ´Newsletter´, ´Community Call / Foundation', ´Community Call /Standard´ and ´SendValuable´ to store their preferences for being contacted.
+Update Odoo Contacts before sending out [invitations to community calls](../standard-maintenance/preparing-community-call.md) or the newsletter. The notes at the bottom of the survey will say when Contacts was last updated. In the top right corner of the survey is a button showing how many answers the survey has. Click it to see all the people that have signed up and for what. Download a file of all new contacts by:
+
+* selecting all the people (survey responses) with a 'Created on' date since the contacts were last updated 
+* clicking the download button in the top left corner 
+
+With the details from the file, update existing contacts or create new ones. Use the tags 'Newsletter', 'Community Call / Foundation', 'Community Call /Standard' and 'SendValuable' to store their preferences for being contacted.
 
 ## Log the update
 
