@@ -2,7 +2,7 @@
 type: resource
 ---
 
-# Jitsi Meet
+# Jitsi Meet guides
 
 Jitsi Meet is our videocall and conference tool. Next to our internal Jitsi Meet, we also have a Jitsi Meet instance running for our community on 'meet.community.publiccode.net'. Users can [sign up for an account](https://meet.community.publiccode.net/accountmanager/register/) so they can host meetings themselves.
 
