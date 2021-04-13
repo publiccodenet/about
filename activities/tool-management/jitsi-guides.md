@@ -9,8 +9,21 @@ Jitsi Meet is our videocall and conference tool. Next to our internal Jitsi Meet
 ## Jitsi Meet user guide
 
 * A user signs up by filling out the [registration form](https://meet.community.publiccode.net/accountmanager/register/)
+
+![User registration](/activities/tool-management/jitsi_user_sign_up.png)
+
+* A confirmation mail is sent to the user
+
+![User confirmation](/activities/tool-management/jitsi_user_activation_mail.png)
+
 * The user confirms the account by following the link sent to the email address supplied during registration
+
+![User confirmation](/activities/tool-management/jitsi_user_registration_complete.png)
+
 * An admin receives an email with a link that will approve the user registration
+
+![User confirmation](/activities/tool-management/jitsi_user_account_activated.png)
+
 * When the admin approves the request, the user receives an email informing them that they can now login
 * After that the user can start meetings using their newly set credentials
 
