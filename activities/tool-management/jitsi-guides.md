@@ -30,7 +30,15 @@ Jitsi Meet is our videocall and conference tool. Next to our internal Jitsi Meet
 ## Jitsi Meet admin guide
 
 * After a user registered an account an admin receives an email requesting approval
+
+![Admin email](/activities/tool-management/jitsi_admin_approval_request.png)
+
 * The admin logs in to the [Django registration interface](https://meet.community.publiccode.net/accountmanager/admin)
+
+![Admin Django](/activities/tool-management/jitsi_admin_django_approve_user_final1.png)
+
 * The admin can approve and set permissions for the user
 * For external users check "active" for staff make sure to also check "staff status"
 * The operations coordinator and chief executive have superuser status
+
+![Admin Django](/activities/tool-management/jitsi_admin_django_save_user_after_approval_final.png)
