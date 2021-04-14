@@ -9,20 +9,23 @@ When setting up a new [live stream](index.md) for 'Let's talk about public code'
 
 ## Who, when and what
 
-* Decide who will be the next guest
-* Decide the date and time of the stream
-* Prepare questions for the interview in a HackMD shared with all interviewers
-* Share the questions with the guest so no delays happen and they can run it past their communications department if needed
-* An ace up your sleeve: backup name in case the current guest can't make it. Ideally, that person would be the next guest
-* Update the running script intro and rounding off sections
+1. Decide who will be the next guest
+   1. In [Odoo](../tool-management/odoo.md) we have a project "Let's talk about public code" with `Ideas`
+   2. Discuss in the team who would fit as a guest (based on [guest selection criteria](/index)) in the near future and make contact with them
+   3. If the guest agrees, move them to `Preplanning`
+   4. Decide the date and time of the stream and move the card to `Next episode`
+2. Prepare questions for the interview in a HackMD shared with all interviewers
+3. Share the questions with the guest so no delays happen and they can run it past their communications department if needed
+4. An ace up your sleeve: backup name in case the current guest can't make it. Ideally, that person would be the next guest
+5. Update the running script intro and rounding off sections
 
 ## Platform preparations
 
-* Make a new intro video with the [BumperScripter](https://github.com/publiccodenet/bumperscripter), adding the guest and organization
-* Create a new preview image adding the guest and organization with the help of the [preview image template](preview-image.svg)
-* In the week before the stream, create a new broadcast in [StreamYard](../tool-management/streamyard.md)
-* Upload the new intro video in Streamyard and remove the old one to avoid confusion during the stream
-* Update banners with links related to the upcoming show
+1. Make a new intro video with the [BumperScripter](https://github.com/publiccodenet/bumperscripter), adding the guest and organization
+2. Create a new preview image adding the guest and organization with the help of the [preview image template](preview-image.svg)
+3. In the week before the stream, create a new broadcast in [StreamYard](../tool-management/streamyard.md)
+4. Upload the new intro video in Streamyard and remove the old one to avoid confusion during the stream
+5. Update banners with links related to the upcoming show
 
 ## Communication
 
