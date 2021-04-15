@@ -1,5 +1,5 @@
 ---
-type: resource
+type: guide
 ---
 
 # Jitsi Meet guides
@@ -30,6 +30,7 @@ Jitsi Meet is our videocall and conference tool. Next to our internal Jitsi Meet
 ## Jitsi Meet admin guide
 
 * After a user registered an account an admin receives an email requesting approval
+* The email is sent to 'meet-community-approval@publiccode.net'. 
 
 ![Admin email](/activities/tool-management/jitsi_admin_approval_request.png)
 
@@ -38,7 +39,6 @@ Jitsi Meet is our videocall and conference tool. Next to our internal Jitsi Meet
 ![Admin Django](/activities/tool-management/jitsi_admin_django_approve_user_final1.png)
 
 * The admin can approve and set permissions for the user
-* For external users check "active" for staff make sure to also check "staff status"
-* The operations coordinator and chief executive have superuser status
+* For external users check "active" for staff "staff status" needs to be checked as well. The operations coordinator and chief executive have superuser status. Make sure to click 'save'
 
 ![Admin Django](/activities/tool-management/jitsi_admin_django_save_user_after_approval_final.png)
