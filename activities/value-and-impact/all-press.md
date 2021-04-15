@@ -17,6 +17,7 @@ You may also be interested in:
 ## 2021
 
 * [Help: open source software will be mandatory, now what?](https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu) - summary of a panel discussion with Boris van Hoytema, Ivonne Janssen-Dings and Koos Steenbergen at the Conferentie Nederland Digitaal on [opensource.pleio.nl](https://opensource.pleio.nl) (in Dutch) (February 2021)
+* [Open enables public sector digital transformation in the Netherlands](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/we-liberated-our-own-data-silos-market) - overview of OpenZaak's development by Sivan Pätsch on the [Open Source Observatory and Repository](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) (OSOR) (April 2021)
 
 ## 2020
 
