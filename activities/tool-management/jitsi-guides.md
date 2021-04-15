@@ -30,7 +30,7 @@ Jitsi Meet is our videocall and conference tool. Next to our internal Jitsi Meet
 ## Jitsi Meet admin guide
 
 * After a user registered an account an admin receives an email requesting approval
-* The email is sent to 'meet-community-approval@publiccode.net'. 
+* The email is sent to 'meet-community-approval@publiccode.net'
 
 ![Admin email](/activities/tool-management/jitsi_admin_approval_request.png)
 
