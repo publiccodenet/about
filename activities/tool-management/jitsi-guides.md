@@ -1,5 +1,6 @@
 ---
 type: guide
+explains: account creation on our community instance of Jitsi Meet
 ---
 
 # Jitsi Meet guides
