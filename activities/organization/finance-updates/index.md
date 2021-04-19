@@ -8,4 +8,4 @@ For each board meeting the Operations Coordinator prepares a finance update with
 
 * [September 2020 finance update](finance-update-september-2020.md)
 * [December 2020 finance update](finance-update-december-2020.md)
-* [February 2021 finance update]finance-update-february-2021.md)
+* [February 2021 finance update](finance-update-february-2021.md)
