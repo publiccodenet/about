@@ -18,7 +18,7 @@ type: resource
 
 ## Financial annual report
 
-Financial report (Jaarverslag + Jaarrekening) currently being developed by Deborah with support from accountants (Maarten Smulders Get Monkeys and Rob). Ready by mid-March 2021.
+Financial report (Jaarverslag + Jaarrekening) currently being developed by Deborah with support from accountants (Maarten Smulders from Get Monkeys and Rob). Ready by mid-March 2021.
 
 ## Interim conclusion
 
