@@ -23,4 +23,4 @@ Financial report (Jaarverslag + Jaarrekening) currently being developed by Debor
 ## Interim conclusion
 
 * Operational expenses can be funded for the next 16 months
-* There is a need to get inflow of cash through: Member contributions and philanthropic donations
+* There is a need to get inflow of cash through member contributions and philanthropic donations
