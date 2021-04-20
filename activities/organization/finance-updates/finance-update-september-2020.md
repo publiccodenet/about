@@ -22,11 +22,11 @@ The Foundation started with a startup-loan of € 1 million (€ 0,2mio + 0,8mil
 
 ## Interim conclusion
 
-The new funding loan came in time for the funding of the Foundation for Public Code. The runway is extended; the Opex (operational expenses) can be funded for the upcoming 12 to 13 months. Even though the runway is extended by AS, there is a need to get inflow of cash by:
+The new funding loan came in time for the funding of the Foundation for Public Code. The runway is extended; the Opex (operational expenses) can be funded for the upcoming 12 to 13 months. Even though the runway is extended by Arnout, there is a need to get inflow of cash by:
 
 * Contributions (members)
 * Pledged donations
 
 ## Background information
 
-The financial administration was subject to changing conditions. At the start there was a start-up loan and  a planned funding loan, both on an annuity basis. The redemption schema and the interest payment schema was based on this annuity basis  and amortized over the months. Now the administration is based on the actual receival of the gifts; the amounts aren’t amortized.
+The financial administration was subject to changing conditions. At the start there was a start-up loan and a planned funding loan, both on an annuity basis. The redemption schema and the interest payment schema was based on this annuity basis  and amortized over the months. Now the administration is based on the actual receival of the gifts; the amounts aren’t amortized.
