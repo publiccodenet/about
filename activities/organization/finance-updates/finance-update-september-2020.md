@@ -12,7 +12,7 @@ type: resource
 
 ## Funding
 
-The Foundation started with a startup-loan of € 1 million (€ 0,2mio + 0,8mil). This loan (including accrued interest € 29.691) is paid back on the 24th August 2020. On the 24th August the Foundation received a loan of € 1.702.200 that is part of a fiscal gift schema. Furthermore, the first (formal fiscal) gift was received € 435.500. In total an net-amount of € 1.137.700 (€ 1,7mil + 0,4mil -/- 1mil) was received.
+The Foundation started with a startup-loan of € 1 million (€ 0,2mil + 0,8mil). This loan (including accrued interest € 29.691) is paid back on the 24th August 2020. On the 24th August the Foundation received a loan of € 1.702.200 that is part of a fiscal gift schema. Furthermore, the first (formal fiscal) gift was received € 435.500. In total an net-amount of € 1.137.700 (€ 1,7mil + 0,4mil -/- 1mil) was received.
 
 ## State of the administration
 
@@ -29,4 +29,4 @@ The new funding loan came in time for the funding of the Foundation for Public C
 
 ## Background information
 
-The financial administration was subject to changing conditions. At the start there was a start-up loan and a planned funding loan, both on an annuity basis. The redemption schema and the interest payment schema was based on this annuity basis  and amortized over the months. Now the administration is based on the actual receival of the gifts; the amounts aren’t amortized.
+The financial administration was subject to changing conditions. At the start there was a start-up loan and a planned funding loan, both on an annuity basis. The redemption scheme and the interest payment scheme were based on this annuity basis and amortized over the months. Now the administration is based on the actual receipt of the gifts; the amounts aren’t amortized.
