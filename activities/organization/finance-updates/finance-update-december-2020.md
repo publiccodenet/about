@@ -18,7 +18,7 @@ In October 2020 a decision was made to change the structure of the gift. On Nove
 
 ## General
 
-* The opening of a USD account is in progress and will help facilitate [money transfers from KBFUS](../../activities/philanthropic-fundraising/donating-united-states.md) and to balance out the costs incurred by conversion rates and fees intermediary banks charge for international wire transfers.
+* The opening of a USD account is in progress and will help facilitate money transfers from KBFUS and to balance out the costs incurred by conversion rates and fees intermediary banks charge for international wire transfers.
 * The gift from Josh Elkes will be transferred as soon as this account is opened, which will be before the end of this year.
 
 ## State of the administration
