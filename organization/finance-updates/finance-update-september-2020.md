@@ -12,7 +12,7 @@ type: resource
 
 ## Funding
 
-The Foundation started with a startup-loan of € 1 million (€ 0,2mio + 0,8mio). This loan (including accrued interest € 29.691) is paid back on the 24th August 2020. On the 24th August the Foundation received a loan of € 1.702.200 that is part of a fiscal gift schema. Furthermore, the first (formal fiscal) gift was received € 435.500. In total an net-amount of € 1.137.700 (€ 1,7mio + 0,4mio -/- 1mio) was received.
+The Foundation started with a startup-loan of € 1 million (€ 0,2mio + 0,8mil). This loan (including accrued interest € 29.691) is paid back on the 24th August 2020. On the 24th August the Foundation received a loan of € 1.702.200 that is part of a fiscal gift schema. Furthermore, the first (formal fiscal) gift was received € 435.500. In total an net-amount of € 1.137.700 (€ 1,7mil + 0,4mil -/- 1mil) was received.
 
 ## State of the administration
 
