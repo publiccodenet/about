@@ -22,7 +22,7 @@ The Foundation started with a startup-loan of € 1 million (€ 0,2mio + 0,8mil
 
 ## Interim conclusion
 
-The new funding loan came in time for the funding of the foundation. The so called runway is extended; the Opex (operational expenses) can be funded for the upcoming 12 to 13 months. Even though the runway is extended by AS, there is a need to get inflow of cash by:
+The new funding loan came in time for the funding of the Foundation for Public Code. The runway is extended; the Opex (operational expenses) can be funded for the upcoming 12 to 13 months. Even though the runway is extended by AS, there is a need to get inflow of cash by:
 
 * Contributions (members)
 * Pledged donations
