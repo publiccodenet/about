@@ -43,5 +43,5 @@ The budget for 2021 is based on actuals and a fair estimation of additional cost
 
 The new funding loan came in time for the continuation of funding for the Foundation. The runway is extended; the Opex (operational expenses) can be funded for the upcoming 19 months. Even though the runway is extended by Arnout, there is a need to get inflow of cash by:
 
-* Contributions (members) - Provincie Zuid-Holland is our first member, but more is needed
+* Contributions (members) - Provincie Zuid-Holland is our first member, but more are needed
 * Pledged donations
