@@ -9,3 +9,6 @@ A Conflict of Interest is defined as any situation in which a board of directors
 Interested Parties, by the very nature of their roles within the Foundation for Public Code, are always in a position to exploit their positions for personal gain. The policy provides definitions, guidelines and procedures which, if followed, may allow a conflict of interest to be discovered and voluntarily defused before any misconduct or the perception of misconduct occurs. 
 
 A Conflict of Interest is not the same as actual wrong-doing. However, a perceived Conflict of Interest outside of actual wrongdoing - especially if non-disclosed or poorly managed, may still lead to public misunderstanding, loss of public confidence and the Foundation for Public Code’s damaged reputation. That’s why it is critical to understand the potential relationship between personal and professional interests and how to identify, avoid and disclose such situations.
+
+* [Conflict of Interest policy](../conflict-of-interest/policy.md)
+* [Disclosure form](../conflict-of-interest/disclosure-form.md)
