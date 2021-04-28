@@ -14,7 +14,7 @@ c. All Interested Parties at hire and on an annual basis thereafter must sign a 
 
 ## Common Examples of Conflict of Interest
 
-* Having a direct or indirect financial interest in or relationship with a relative, competitor, customer, or supplier 
+* Having a direct or indirect financial interest in or relationship with a relative, competitor, customer, or supplier
 * Committing the Foundation for Public Code to give its financial or other support to any outside activity or organization without appropriate written authorization
 * Accepting personal gifts or entertainment from competitors, customers, suppliers, or potential suppliers. [See our code of conduct.](../organization/staff-code-of-conduct.md)
 * Working for a competitor, supplier, or customer while employed by the Foundation for Public Code
@@ -44,13 +44,13 @@ Be prepared to describe fully any relationships, transactions, positions you hol
 
 After disclosure of the Conflict of Interest or perceived Conflict of Interest and all material facts, and after any discussion with the Interested Party, a Designated Authority (e.g. the Board of Directors, or a lawyer if it involves a board member) will determine if there is a Conflict of Interest.
 
-### Process if a Conflict of Interest Exists 
+### Process if a Conflict of Interest Exists
 
 * If a Conflict of Interest is determined, the Designated Authority will exercise due diligence to determine whether the Foundation for Public Code can obtain with reasonable effort a more advantageous transaction or arrangement from a person or entity that would defuse the Conflict of Interest.
 * If a more advantageous transaction or arrangement is not reasonably possible under the circumstances, the Designated Authority may determine by a majority vote of the Disinterested Authorities whether the transaction or arrangement is in the Foundation for Public Code's best interest, or for its own benefit, and/or whether it is fair and reasonable.
 * In conformity with the above determination it will make its decision as to whether to enter into the transaction or agreement or terminating the transaction or agreement.
 
-## Violations of the Conflict of Interest Policy 
+## Violations of the Conflict of Interest Policy
 
 If the Designated Authority has reasonable cause to believe an Interested Party has failed to disclose an actual or perceived conflict of interest, it will inform the Interested Party of the basis for such belief and afford the interested party an opportunity to explain the alleged failure to disclose. If, after hearing the Interested Party response and after making further investigations as warranted by the circumstances, the Designated Authority determines the interested party has failed to disclose an actual or possible conflict of interest, it will take appropriate disciplinary and corrective action, up to and including termination.
 
@@ -60,6 +60,6 @@ If the Designated Authority has reasonable cause to believe an Interested Party 
 * Conflict of Interest, any situation in which an individual is in a position to exploit professional or official capacity in some way for personal gain. In addition, it is a situation where an independent observer might reasonably question whether the individual's professional actions or decisions are improperly influenced by considerations of personal gain. The conflict can arise through various relationships including, but not limited to, family relationships, economic relationships and personal or intimate relationships that result in a direct or indirect financial interest in a transaction or arrangement
 * Perceived Conflict of Interest, any situation in which an individual may be perceived to be in a position to exploit professional or official capacity in some way for personal gain
 * Abused Conflict of Interest, any situation in which an individual intentionally exploits his/her professional or official capacity in some way for personal gain
-* Financial Interest, a financial interest includes direct and indirect compensation as well as gifts or favors that are substantial. A financial interest is not necessarily a Conflict of Interest. A person who has a financial interest may have a Conflict of Interest only if the Designated Authority decides that a Conflict of Interest exists 
+* Financial Interest, a financial interest includes direct and indirect compensation as well as gifts or favors that are substantial. A financial interest is not necessarily a Conflict of Interest. A person who has a financial interest may have a Conflict of Interest only if the Designated Authority decides that a Conflict of Interest exists
 * Designated Authority, an individual appointed to address the conflict of interest. The Designated Authority will depend on the nature of the conflict. In some cases, communication between a supervisor, the Operations coordinator and the Chief Executive will resolve the issue. In others, the Board of Directors or a legal consultant may be asked to play a role
 * Disinterested Authority, an individual eligible to review and evaluate a disclosed Conflict of Interest, who does not need to personally recuse himself/herself as there is no personal conflict of interest within his/her role
