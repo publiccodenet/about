@@ -16,7 +16,7 @@ c. All Interested Parties at hire and on an annual basis thereafter must sign a 
 
 * Having a direct or indirect financial interest in or relationship with a relative, competitor, customer, or supplier
 * Committing the Foundation for Public Code to give its financial or other support to any outside activity or organization without appropriate written authorization
-* Accepting personal gifts or entertainment from competitors, customers, suppliers, or potential suppliers. [See our code of conduct.](../organization/staff-code-of-conduct.md)
+* Accepting personal gifts or entertainment from competitors, customers, suppliers, or potential suppliers. [See our code of conduct.](https://about.publiccode.net/organization/staff-code-of-conduct.html)
 * Working for a competitor, supplier, or customer while employed by the Foundation for Public Code
 * Engaging in self-employment in competition with the Foundation for Public Code
 * Using proprietary or confidential the Foundation for Public Code information for personal gain or to the Foundation for Public Code’s detriment
