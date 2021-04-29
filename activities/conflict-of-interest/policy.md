@@ -4,6 +4,12 @@ type: Resource
 
 # Conflict of Interest policy
 
+The purpose of a Conflict of Interest policy is to help an officer, director of the board of trustees (director), employee, contractor, or volunteer (collectively “Interested Party”) of the Foundation for Public Code to identify and disclose a personal Conflict of Interest. The policy is intended to supplement but not replace any applicable laws governing conflict of interest applicable to commercial, nonprofit and charitable organizations.
+
+Interested Parties, by the very nature of their roles within the Foundation for Public Code, are always in a position to exploit their positions for personal gain. The policy provides definitions, guidelines and procedures which, if followed, may allow a conflict of interest to be discovered and voluntarily defused before any misconduct or the perception of misconduct occurs.
+
+A Conflict of Interest is not the same as actual wrong-doing. However, a perceived Conflict of Interest outside of actual wrongdoing - especially if non-disclosed or poorly managed, may still lead to public misunderstanding, loss of public confidence and the Foundation for Public Code’s damaged reputation. That’s why it is critical to understand the potential relationship between personal and professional interests and how to identify, avoid and disclose such situations.
+
 Interested parties must identify, avoid and disclose an actual or perceived Conflict of Interest... If, because of other work or activities, an Interested Party cannot make this commitment, the Foundation for Public Code may need to take disciplinary measures up to and including termination of employment.
 
 a. An Interested Party may not take advantage of his/her knowledge or authorities at the Foundation for Public Code for personal gain. Conscious intent to exploit a conflict of interest equates to theft. Failure to recognize a personal conflict of interest does not absolve an Interested Party from responsibility or punishment.
