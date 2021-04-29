@@ -4,7 +4,7 @@ type: Resource
 
 # Conflict of Interest introduction
 
-The Foundation for Public Code is maturing, and we are implementing a formal Conflict of Interest policy and procedure to ensure professionalism as well as doing our due diligence as a publicly-owned association. A Conflict of Interest has to be declared annually. New hires will receive a form to declare any possible Conflict of Interests at the time of signing their employment contract. To ensure there are no Conflict of Interests within the current team, we will ask them to declare conflicts, if any, retroactively. The Operations coordinator will facilitate the process. 
+The Foundation for Public Code is maturing, and we are implementing a formal Conflict of Interest policy and procedure to ensure professionalism as well as doing our due diligence as a publicly-owned association. A Conflict of Interest has to be declared annually. New hires will receive a form to declare any possible Conflict of Interests at the time of signing their employment contract. To ensure there are no Conflict of Interests within the current team, we will ask them to declare conflicts, if any, retroactively. The Operations coordinator will facilitate the process.
 
 ## Conflict of Interest policy
 
