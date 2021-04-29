@@ -4,6 +4,8 @@ type: Resource
 
 # Conflict of Interest policy
 
+The Foundation for Public Code is maturing and we are implementing a formal Conflict of Interest policy and procedure to ensure professionalization as well as doing our due diligence as a publiclly-owned association. A Conflict of Interest has to be declared annually. New hires will receive a form to declare any possible Conflict of Interests at the time of signing their employment contract. To ensure there are no Conflict of Interests within the current team, we will ask them to declare conflicts, if any, retroactively. The Operations coordinator will facilitate the process. 
+
 The purpose of a Conflict of Interest policy is to help a director, director of the board, employee, contractor, or volunteer (collectively “Interested Party”) of the Foundation for Public Code to identify and disclose a personal Conflict of Interest. The policy is intended to supplement but not replace any applicable laws governing Conflict of Interest applicable to commercial, nonprofit and charitable organizations.
 
 Interested Parties, by the very nature of their roles within the Foundation for Public Code, are always in a position to exploit their positions for personal gain. The policy provides definitions, guidelines and procedures which, if followed, may allow a Conflict of Interest to be discovered and voluntarily defused before any misconduct or the perception of misconduct occurs.
