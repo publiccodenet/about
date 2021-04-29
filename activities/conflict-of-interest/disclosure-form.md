@@ -2,7 +2,7 @@
 type: Guide
 ---
 
-# Conflict of Interest Disclosure Form
+# Conflict of Interest disclosure form
 
 A Conflict of Interest can be serious, hence it's important to report any possible conflicts as soon as possible.
 
