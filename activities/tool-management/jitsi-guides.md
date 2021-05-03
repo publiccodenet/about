@@ -11,7 +11,7 @@ See [more information about Jitsi Meet](https://about.publiccode.net/activities/
 
 ## Jitsi Meet user guide
 
-1. A user signs up by filling out the [registration form](https://meet.communitypubliccode.net/accountmanager/register/).
+1. A user signs up by filling out the [registration form](https://meet.community.publiccode.net/accountmanager/register/).
 
 ![User registration](/activities/tool-management/jitsi_user_sign_up.png)
 
