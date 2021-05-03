@@ -40,6 +40,6 @@ Jitsi Meet is our videocall and conference tool. Next to our internal Jitsi Meet
 ![Admin Django](/activities/tool-management/jitsi_admin_django_approve_user_final1.png)
 
 * The admin can approve and set permissions for the user
-* For external users check "active" for staff "staff status" needs to be checked as well. The operations coordinator and chief executive have superuser status. Make sure to click 'save'
+* For external users, "active" for staff "staff status" needs to be checked as well. The operations coordinator and chief executive have superuser status. Make sure to click 'save'.
 
 ![Admin Django](/activities/tool-management/jitsi_admin_django_save_user_after_approval_final.png)
