@@ -46,10 +46,6 @@ Or,
 
 Interested Party discloses to the Operations coordinator. The Operations coordinator evaluates the disclosure, elevating to the Chief Executive if necessary.
 
-### Disclosure form
-
-The Conflict of Interest disclosure form is [accessible on the Drive.](../conflict-of-interest/disclosure-form.md)
-
 ### Information to Include in a Disclosure
 
 Be prepared to describe fully any relationships, transactions, positions you hold (volunteer or otherwise), or circumstances that you believe could contribute to a Conflict of Interest between the Foundation for Public Code and your personal interests, financial or otherwise.
@@ -58,7 +54,11 @@ Be prepared to describe fully any relationships, transactions, positions you hol
 
 After disclosure of the Conflict of Interest or perceived Conflict of Interest and all material facts, and after any discussion with the Interested Party, a Designated Authority (e.g. the Board of Directors, or a lawyer if it involves a board member) will determine if there is a Conflict of Interest.
 
-### Process if a Conflict of Interest Exists
+### Disclosure form
+
+The Conflict of Interest disclosure form is [accessible on the Drive.](../conflict-of-interest/disclosure-form.md)
+
+### Procedure if a Conflict of Interest Exists
 
 * If a Conflict of Interest is determined, the Designated Authority will exercise due diligence to determine whether the Foundation for Public Code can obtain with reasonable effort a more advantageous transaction or arrangement from a person or entity that would defuse the Conflict of Interest.
 * If a more advantageous transaction or arrangement is not reasonably possible under the circumstances, the Designated Authority may determine by a majority vote of the Disinterested Authorities whether the transaction or arrangement is in the Foundation for Public Code's best interest, or for its own benefit, and/or whether it is fair and reasonable.
