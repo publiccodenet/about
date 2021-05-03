@@ -3,7 +3,7 @@ type: guide
 explains: account creation on our community instance of Jitsi Meet
 ---
 
-# Jitsi Meet guides
+# Jitsi Meet user and admin guides
 
 Jitsi Meet is our videocall and conference tool. Next to our internal Jitsi Meet, we also have a Jitsi Meet instance running for our community on 'meet.community.publiccode.net'. Users can [sign up for an account](https://meet.community.publiccode.net/accountmanager/register/) so they can host meetings themselves.
 
@@ -43,3 +43,5 @@ Jitsi Meet is our videocall and conference tool. Next to our internal Jitsi Meet
 * For external users, "active" for staff "staff status" needs to be checked as well. The operations coordinator and chief executive have superuser status. Make sure to click 'save'.
 
 ![Admin Django](/activities/tool-management/jitsi_admin_django_save_user_after_approval_final.png)
+
+More information about [Jitsi Meet in our tool management section.](https://about.publiccode.net/activities/tool-management/jitsi-meet.html)
