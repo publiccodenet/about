@@ -46,6 +46,10 @@ Or,
 
 Interested Party discloses to the Operations coordinator. The Operations coordinator evaluates the disclosure, elevating to the Chief Executive if necessary.
 
+### Disclosure form
+
+The Conflict of Interest disclosure form is [accessible on the Drive.](../conflict-of-interest/disclosure-form.md)
+
 ### Information to Include in a Disclosure
 
 Be prepared to describe fully any relationships, transactions, positions you hold (volunteer or otherwise), or circumstances that you believe could contribute to a Conflict of Interest between the Foundation for Public Code and your personal interests, financial or otherwise.
