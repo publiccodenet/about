@@ -29,29 +29,29 @@ SSH keys are needed to perform updates, as one needs to access the machines as r
 
 The following commands perform general updates and upgrades:
 
-`sudo apt update`
+`apt update`
 
-`sudo apt upgrade`
+`apt upgrade`
 
 When that is ready the following commands need to be applied to reboot the machine:
 
-`sudo systemctl restart prosody.service`
+`systemctl restart prosody.service`
 
-`sudo systemctl restart jicofo.service`
+`systemctl restart jicofo.service`
 
-`sudo systemctl restart jitsi-videobridge2.service`
+`systemctl restart jitsi-videobridge2.service`
 
 If you need to make tweaks to the configuration files, then these can be accessed via:
 
-`sudo nano /etc/jitsi/meet/meet.publiccode.net-config.js`
+`nano /etc/jitsi/meet/meet.publiccode.net-config.js`
 
-`sudo nano /etc/jitsi/jicofo/sip-communicator.properties`
+`nano /etc/jitsi/jicofo/sip-communicator.properties`
 
-`sudo nano /etc/prosody/conf.avail/meet.publiccode.net.cfg.lua`
+`nano /etc/prosody/conf.avail/meet.publiccode.net.cfg.lua`
 
-`sudo prosodyctl register user meet.publiccode.net password`
+`prosodyctl register user meet.publiccode.net password`
 
-`sudo nano /usr/share/jitsi-meet/interface_config.js`
+`nano /usr/share/jitsi-meet/interface_config.js`
 
 [Prosody](https://prosody.im/) is used for creating and managing user accounts.
 
