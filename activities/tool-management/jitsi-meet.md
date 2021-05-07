@@ -13,6 +13,10 @@ Jitsi Meet is our videocall and conference tool. Jitsi is an open source project
 * The first person to create a room or enters an existing room is the host and is required to authenticate by entering their log-in credentials.
 * Guests can join the meeting when the have the link. As an extra security measure a password can be added to the room, so guests also need the password next to the meeting link.
 
+## Jitsi Meet for our community
+
+We also have a Jitsi instance running for our community on 'meet.community.publiccode.net'. Users can [sign up for an account](https://meet.community.publiccode.net/accountmanager/register/) so they can host meetings themselves. We have a [user and administrator guide](jitsi-guides.md) available.
+
 ## Jitsi management
 
 Jitsi is running on a VPS with 8 GB of RAM for resilience and scalability. The VPS is maintained by the operations coordinator who also takes care of user administration and customizations.
