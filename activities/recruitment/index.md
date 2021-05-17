@@ -10,6 +10,7 @@ These are the resources and processes used for recruitment:
 
 * [Process for recruiting and hiring candidates](hiring-process.md)
 * [Open position advertisement template](open-position-template.md)
+* [Company description for job advertising websites](company-description.md)
 
 Resources for possible applicants:
 
