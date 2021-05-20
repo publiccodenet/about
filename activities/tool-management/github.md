@@ -16,7 +16,7 @@ Our GitHub account is managed by the directors and codebase stewards. New employ
 
 ## Privacy and GDPR
 
-GitHub has [an extensive Privacy Notice.](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)
+GitHub has [an extensive Privacy Notice](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement).
 > "GitHub collects information directly from you for your registration, payment, transactions, and user profile. We also automatically collect from you your usage information, cookies, and device information, subject, where necessary, to your consent. GitHub may also collect User Personal Information from third parties. We only collect the minimum amount of personal information necessary from you, unless you choose to provide more.
 
 GitHub processes personal information both inside and outside of the United States and relies on Standard Contractual Clauses as the legally provided mechanism to lawfully transfer data from the European Economic Area, the United Kingdom, and Switzerland to the United States. In addition, GitHub is certified to the EU-US and Swiss-US Privacy Shield Frameworks."

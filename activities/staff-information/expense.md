@@ -1,6 +1,8 @@
 ---
 type: Guide
 explains: how to pay for things on behalf of the Foundation for Public Code and how to get reimbursed
+redirect_from:
+    - ../staff-management/expense.md
 ---
 
 # Expenses
@@ -41,11 +43,11 @@ After approval the reimbursement is added to your next salary payment.
 
 [Contractors](../../glossary/contractor-definition.md) and volunteers should [complete the expense form](https://docs.google.com/spreadsheets/d/1m_5vpScmpBAFOOXUEGWEqrd2FF_WhLjoJDcPF9wT_0Y/edit#gid=0) and email it to <hr@publiccode.net> together with the receipts.
 
-## How to reimburse for the Operations Coordinator
+## How to reimburse for the operations coordinator
 
 * Employees can fill out an expense form through the Tentoo NMBRS website or app
-* Approval is done by the Operations Coordinator in the Tentoo portal
+* Approval is done by the operations coordinator in the Tentoo portal
 * Step 1: “toewijzen” (assign), step 2: “goedkeuren / vraag om verbetering” (approve or ask for improvement), step 3: approval by accountant, which is someone at Tentoo
 * Approved expenses will show up at next salary stub and will be paid with salaries (untaxed)
-* For contractors and volunteers, the [expense form](https://docs.google.com/spreadsheets/d/1m_5vpScmpBAFOOXUEGWEqrd2FF_WhLjoJDcPF9wT_0Y/edit#gid=0) has to be sent as a PDF and be accompanied by ‘proof’ (receipts etc) for each line item. Send all this to the Operations Coordinator: <hr@publiccode.net>.
-* The Operations Coordinator needs to check if the expenses are booked to the correct ledger number
+* For contractors and volunteers, the [expense form](https://docs.google.com/spreadsheets/d/1m_5vpScmpBAFOOXUEGWEqrd2FF_WhLjoJDcPF9wT_0Y/edit#gid=0) has to be sent as a PDF and be accompanied by ‘proof’ (receipts etc) for each line item. Send all this to the operations coordinator: <hr@publiccode.net>.
+* The operations coordinator needs to check if the expenses are booked to the correct ledger number

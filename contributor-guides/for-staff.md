@@ -17,10 +17,10 @@ Here are some important things to figure out in the first couple of days:
 * Calendar - add your holidays to the team calendar
 * Manual of me - fill out your own and read the existing ones
 * Oodo - We use Odoo for our internal chat tool as well as project management and customer relations management
-* Github - push a branch, make a pull request (maybe to improve this page!). If you are new to this, start with a '[good first issue](https://github.com/publiccodenet/about/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)'. You can request an invitation to have your Github account added to the [Foundation for Public Code](https://github.com/publiccodenet/) organizational account.
+* Github - push a branch, make a pull request (maybe to improve this page!). If you are new to this, review [GitHub for newcomers](../activities/trainings/github-for-newcomers.md). Then start with a '[good first issue](https://github.com/publiccodenet/about/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)'. You can request an invitation to have your Github account added to the [Foundation for Public Code](https://github.com/publiccodenet/) organizational account.
 * Attend morning standup ritual that is in the team calendar
 * Attend sprint retrospective & planning - review the kanbans beforehand
-* Tentoo NMBRS ESS (employee self service) mobile app - to [request leave](../activities/staff-management/leave.md), [file expenses](../activities/staff-management/expense.md) and see your payslips
+* Tentoo NMBRS ESS (employee self service) mobile app - to [request leave](../activities/staff-information/leave.md), [file expenses](../activities/staff-information/expense.md) and see your payslips
 * If you already have a GitLab account you can [join the Foundation for Public Code group](https://gitlab.com/publiccodenet) although we don't do any work on GitLab.
 * [Start contributing!](../activities/documentation/index.md)
 

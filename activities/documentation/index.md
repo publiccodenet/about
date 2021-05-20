@@ -29,4 +29,4 @@ In order to make it easier to navigate and contribute information we try to limi
 * [Folder structure of About](about-folder-structure.md)
 * [How to publish on About](merge-develop-into-main.md)
 
-See also our [trainings](../trainings/index.md) which has tips on Github, issues, and more.
+See also our [trainings](../trainings/index.md), which have tips on Github, issues, and more.

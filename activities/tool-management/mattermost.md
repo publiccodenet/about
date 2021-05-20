@@ -8,7 +8,7 @@ Mattermost is a flexible, open source messaging platform that enables secure tea
 
 ## Using Mattermost
 
-[Read our chat guidance.](https://about.publiccode.net/activities/communication/using-chat.html)
+[Read our chat guidance](https://about.publiccode.net/activities/communication/using-chat.html).
 
 ## Mattermost management
 
@@ -38,5 +38,5 @@ Upgrading to the latest version of Mattermost upon receiving the notification ca
 >
 >* Security Infrastructure: Continual investment in security, privacy and compliance capabilities.
 >* Contractual Obligations: Appropriate contractual obligations through our terms of service, including the Data Processing Addendum in our standard Terms of Service.
->* Privacy Measures: Self-certification to international standards for data transfer standards including E.U.-U.S. Privacy Shield. Privacy measures are outlined in our [Privacy Policy.](https://mattermost.com/privacy-policy/)
+>* Privacy Measures: Self-certification to international standards for data transfer standards including E.U.-U.S. Privacy Shield. Privacy measures are outlined in our [Privacy Policy](https://mattermost.com/privacy-policy/).
 >* Product Features: To ensure data management and data portability.
