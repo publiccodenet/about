@@ -15,7 +15,7 @@ Jitsi Meet is our videocall and conference tool. Jitsi is an open source project
 
 ## Jitsi Meet for our community
 
-We also have a Jitsi instance running for our community on 'meet.community.publiccode.net'. Users can [sign up for an account](https://meet.community.publiccode.net/accountmanager/register/) so they can host meetings themselves. We have a administration and user guide available.
+We also have a Jitsi instance running for our community on 'meet.community.publiccode.net'. Users can [sign up for an account](https://meet.community.publiccode.net/accountmanager/register/) so they can host meetings themselves. We have a [user and administrator guide](jitsi-guides.md) available.
 
 ## Jitsi management
 
