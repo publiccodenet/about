@@ -1,9 +1,9 @@
 ---
 type: Guide
-explains: ways in which people and organizations can join the Foundation for Public Code
+explains: ways in which people and organizations can contribute to the Foundation for Public Code
 ---
 
-# Join us
+# Contribute to our community
 
 Thanks for your interest in the Foundation for Public Code! We’re excited to meet you.
 
