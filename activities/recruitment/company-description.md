@@ -6,7 +6,7 @@ type: resource
 
 > Written initially for Stack Overflow Jobs (using their subheadings), this can be reused or remixed elsewhere.
 
-## About Foundation for Public Code
+## About the Foundation for Public Code
 
 We aim to build international public sector communities working together to share open source software and policy in a radically collaborative and open way. Public organizations are building more open software than ever before, but collaborating at the scale needed to co-develop and maintain a codebase is still hard - it's not the core responsibility of any single public organization.
 
