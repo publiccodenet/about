@@ -4,7 +4,7 @@ type: resource
 
 # Company description for job advertising websites
 
-> Written initially for Stack Overflow (using their subheadings), this can be reused or remixed elsewhere.
+> Written initially for Stack Overflow Jobs (using their subheadings), this can be reused or remixed elsewhere.
 
 ## About Foundation for Public Code
 
@@ -21,7 +21,7 @@ We do this through active codebase stewardship and by publishing the [Standard f
 
 ### How we work
 
-All of us fundamentally believe that our public organizations using FOSS will result in better public services for everyone and be a better use of taxpayer money. We do impactful work as part of a mission we believe in.
+All of us fundamentally believe that our public organizations using free and open source software (FOSS) will result in better public services for everyone and be a better use of taxpayer money. We do impactful work as part of a mission we believe in.
 
 We're small, open, flexible and non-hierarchical. We act with integrity and compassion towards each other and the broader communities we're a part of. We make decisions by rough consensus, and value the diversity of perspectives on our team.
 
@@ -34,7 +34,7 @@ We're ambitious but humble - we sincerely want this to succeed, but there's no g
 ### Benefits
 
 * 25 days of paid leave plus an average of 6 public holidays
-* enthusiastic BYOD culture
+* enthusiastic bring your own device (BYOD) culture
 * flexible work environment
 * friendly, motivating and sincere atmosphere
 * highly skilled international colleagues and collaborators
