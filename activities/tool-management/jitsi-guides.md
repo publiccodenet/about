@@ -32,3 +32,7 @@ See [more information about Jitsi Meet](https://about.publiccode.net/activities/
 4. The admin can approve and set permissions for the user
 5. For external users, "active" for staff "staff status" needs to be checked as well. The operations coordinator and chief executive have superuser status. Make sure to click 'save'.
   ![Admin Django](/activities/tool-management/jitsi_admin_django_save_user_after_approval_final.png)
+  
+## Jitsi Meet general documentation
+  
+* [Jitsi meet handbook](https://jitsi.github.io/handbook/docs/intro)
