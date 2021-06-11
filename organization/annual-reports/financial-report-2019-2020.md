@@ -65,8 +65,8 @@ The Foundation for Public Code is completely unique. There is no other organizat
 Founding principles:
 
 * We are a non-profit and non-partisan organization.
-* We publish under licenses approved by the Open Source Initiative or Creative Commons licenses that do not limit commercial reuse.
-* We are controlled by our members, who are wholly publicly controlled organizations.*
+* We publish under licenses approved by the [Open Source Initiative](https://opensource.org/licenses) or [Creative Commons](https://creativecommons.org/licenses/) licenses that do not limit commercial reuse.
+* We are controlled by [our members](members.md), who are wholly publicly controlled organizations.*
 * We strive to keep our membership as accessible as possible to potential members, regardless of size or location.
 * We are committed to working with other organizations (commercial or non-profit) to achieve our mission.
 * We prioritize long term sustainability and growth for the benefit of our members.
@@ -142,3 +142,49 @@ Secondary positions:
 
 #### 1.3 Remuneration Policy
 
+Salaries are competitive and consistent with the social mission of the organization. The Foundation for Public Code reimburses reasonable expenses for staff, contractors and interns.
+
+Compensation for employees of the Foundation for Public Code is at the midpoint of the salary scale in the non-profit sector. The gross annual salary of the Chief Executive of the Foundation for Public Code is 80,000 EUR (including vacation pay - 1 FTE / 12 months). The annual gross salary of the coordinators and codebase stewards is on average 63,000 EUR (including vacation pay, 1 FTE / 12 months). Both pay scales are well below the maximum of 158,000 EUR of Goede Doelen Nederland (GDN) framework.
+
+Because the work we do is innovative and requires diverse expertises, individual agreements can be made with regard to each employee’s salary.
+
+Members of the Board of Directors are not paid for their work. A director may be hired separately and paid by the Foundation for Public Code for work performed in another role (e.g., manager, contractor). The Foundation for Public Code will reimburse directors for expenses incurred in connection with their duties as directors.
+
+If warranted by the employee's performance, a salary increase may be given at the time of contract renewal.
+
+We currently don’t have a pension plan set up for staff. Once the organization matures, secondary employment conditions will be reviewed.
+
+#### 1.4 Guidelines and code of conduct
+
+##### 1.4.1 Guidelines
+
+The Foundation for Public Code complies with the conditions of a Dutch public benefit organization (ANBI). For the preparation of the annual report and financial statements, we used the 650 Fundraising Organizations guideline of the Dutch Council for Annual Reporting (RJ) as issued in RJ-Uiting 2016.
+
+##### 1.4.2 Code of conduct
+
+The staff of the Foundation for Public Code fulfills a crucial role in achieving our mission on behalf of our members, the wider community and the public benefit. Staff are expected to follow the general [code of conduct](https://about.publiccode.net/CODE_OF_CONDUCT.html) that applies to our community. The staff code of conduct sets out the additional expectations we have of our staff beyond the community code of conduct.
+
+The Foundation for Public Code is a trusted non-partisan organization that operates in sectors of the economy that have significant political interests. It is crucial that the organization as well as its staff are visibly independent, trustworthy, impartial and objective.
+
+###### Conflict of interest
+
+Staff members must immediately declare:
+
+* a personal interest that might impair their independence
+* any other potential conflict of interest
+
+Outside activities covered by these rules, paid or unpaid, must first be approved by your manager.
+
+###### Receiving gifts
+
+Staff may not accept gifts, payment, or favours from non-member organizations, individuals or third parties without prior permission.
+
+Gifts may only be accepted without prior approval when:
+
+* there is a cultural, social or diplomatic obligation to accept the gift or it can be considered as promotional merchandise
+* the value of the gift does not exceed €50
+* there is no accumulation
+
+Hospitality included in participation in an approved mission, conference, workshop or other meeting does not require separate approval.
+
+#### 1.5 Communication with stakeholders, community and general public
