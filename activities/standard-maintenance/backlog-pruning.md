@@ -3,7 +3,7 @@ type: Guide
 explains: How to prune the backlog
 ---
 
-# Prune the backlog
+# Prune the Standard backlog
 
 Over time, unresolved issues will gather in the repository.
 In order to not forget important ideas and to not become overwhelmed by a huge backlog, we dedicate time to look through our oldest issues to see if they have been resolved, obsolote or can be addressed in other ways.
