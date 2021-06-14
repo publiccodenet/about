@@ -254,4 +254,133 @@ The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and
 
 The result analysis is based on the income statement for 2019 / 2020 as included in the financial statements. The result analysis provides insight into the ratio of cost types in relation to revenue. In addition, the result analysis gives a picture of the differences compared to last year.
 
+##### Profit and loss account multi-year overview
 
+|     | 2020 | 2019 |
+| --- | --- | --- |
+| Income | 801,686 | 0   |
+| Cost | 135,135 | \- 85,402 |
+| **Income minus costs** | **666,551** | **\- 85,402** |
+| People | 615,368 | 217,585 |
+| Office and admin | 36,881 | 40,000 |
+| **Total** | **652,249** | **257,585** |
+| **Operating result** | **14,302** | **\- 342,987** |
+| Financial gains and losses | \- 39,787 | 0   |
+| **Total** | **\- € 25,485** | **\- € 342,987** |
+
+## 5\. Financial statements
+
+### 5.1 Balance sheet
+
+After appropriation of the result.
+
+##### Balance sheet assets
+
+|     | 2020 | 2019 |
+| --- | --- | --- |
+| Tangible fixed assets | 7,741 | 9,760 |
+| **Fixed assets** | **7,741** | **9,760** |
+| Receivables | 66,852 | 0   |
+| Cash at bank and in hand | 1,317,997 | 665,395 |
+| **Current assets** | **1,384,849** | **665,395** |
+| Assets | **€ 1,392,590** | **€ 675,155** |
+
+##### Balance sheet liabilities
+
+|     | 2020 | 2019 |
+| --- | --- | --- |
+| General Reserve | \- 368,472 | \- 342,987 |
+| **Equity** | **\- 368,472** | **\- 342,987** |
+| **Non-current liabilities** | **1,726,000** | **1,000,000** |
+| **Current liabilities** | **35,062** | **18,142** |
+|**Liabilities** | **€ 1,392,590** | **€ 675,155** |
+
+### 5.2 Profit and loss account
+
+##### Profit and loss account
+
+|     | 2020 | 2019 |
+| --- | --- | --- |
+| Income | 801,686 | 0   |
+| Cost | 135,135 | 85,402 |
+| **Income minus costs** | **666,551** | **\- 85,402** |
+| People | 615,368 | 17,585 |
+| Office and admin | 36,881 | 40,000 |
+| **Total** | **652,249** | **257,585** |
+| **Operating result** | **14,302** | **\- 342,987** |
+| Financial gains and losses | \- 39,787 | 0   |
+| **Total** | **\- € 25,485** | **\- € 342,987** |
+
+### 5.3 Notes to the financial statements
+
+General
+
+These are the first financial statements of The Foundation for Public Code Vereniging. The book year is an extended book year from 3rd June 2019 - 31st December 2020.
+
+We chose to divide the reporting period into 2 segments from: 3rd June 2019 - 31st dec 2019 and 1st January 2020 - 31st December 2020.
+
+Continuity
+
+With regard to the continuity of the Foundation for Public Code Vereniging we would like to refer to the board report.
+
+Currencies
+
+Items included in the financial statements of the company are valued with due regard for the currency in the economic environment in which the company carries out most of its activities (the functional currency). The financial statements are denominated in euros; this is both the functional currency and presentation currency of the company.
+
+General principles
+
+The financial statements are drawn up in accordance with the provisions of Title 9, Book 2, of the Dutch Civil Code and the Dutch Accounting Standards applicable to fundraising organizations (Richtlijn 650 Fondsenwervende organisaties as published by the Dutch Accounting Standards Board ('Raad voor de Jaarverslaggeving') as set out in “RJ-Uiting 2016-13)”.
+
+Assets and liabilities are generally valued at historical cost, production cost or at fair value at the time of acquisition.
+
+If no specific valuation principle has been stated, valuation is at historical cost. The valuation principles and method of determining the result are the same as those used in the previous year, with the exception of the changes in accounting policies as set out in the relevant notes.
+
+Principles of tangible assets
+
+Other tangible fixed assets are valued at historical cost or production cost including directly attributable costs, less straight-line depreciation based on the expected future life and impairments.
+
+Subsidies on investments will be deducted from the historical cost price or production cost of the assets to which the subsidies relate.
+
+Principles of receivables
+
+Receivables are initially valued at the fair value of the consideration to be received, including transaction costs if material. Receivables are subsequently valued at the amortised cost price. Provisions for bad debts are deducted from the carrying amount of the receivable.
+
+Principles of cash and cash equivalents
+
+Cash at banks and in hand represent cash in hand, bank balances and deposits with terms of less than twelve months. Overdrafts at banks are recognised as part of debts to lending institutions under current liabilities. Cash at banks and in hand is carried at nominal value.
+
+Principles of equity
+
+The equity position of the Foundation for Public Code Vereniging is the result of the assets minus the liabilities.
+
+A part of the equity position is the General reserve. A positive result of the income statement is attributed to the general reserve, while a negative result is deducted from it.
+
+Principles of non-current liabilities
+
+On initial recognition long-term debts are recognised at fair value. Transaction costs which can be directly attributed to the acquisition of the long-term debts are included in the initial recognition. After initial recognition long-term debts are recognised at the amortised cost price, being the amount received taking into account premiums or discounts and minus transaction costs.
+
+Principles of current liabilities
+
+On initial recognition current liabilities are recognised at fair value. After initial recognition current liabilities are recognised at the amortised cost price, being the amount received taking into account premiums or discounts and minus transaction costs. This is usually the nominal value.
+
+Principles for determining the result
+
+The result is the difference between income and cost in the income-statement of the Foundation for Public Code Vereniging.
+
+Principles of revenue
+
+Income comprises the income from member contributions, donations from private individuals and institutions, subsidies, and other income (e.g. results from financial instruments: interest, dividend).
+
+Principles of operating expenses
+
+Costs are determined on a historical basis and are attributed to the reporting year to which they relate.
+
+Principles of wages and salaries; social security and pension costs
+
+The benefits payable to personnel are recorded in the income statement on the basis of the employment conditions.
+
+Principles of financial income and expenses
+
+Interest income and expenses are recognized on a pro rata basis, taking account of the effective interest rate of the assets and liabilities to which they relate. In accounting for interest expenses, the recognized transaction expenses for loans received are taken into consideration.
+
+### 5.4 Notes to the balance sheet
