@@ -14,15 +14,15 @@ Leveraging 30 combined years of experience working with cities and technology-en
 
 Based on their experience of technological innovation in a traditional industry, Pieter van der Does and Arnout Schuijff (co-founders of the Adyen payments platform) agreed with Ben and Boris that public organizations deserved better software. They joined the Board of Directors to share their expertise and connections.
 
-### 1. General
+## 1. General
 
-#### 1.1 Establishment and purpose; mission and vision
+### 1.1 Establishment and purpose; mission and vision
 
-##### 1.1.1 Establishment
+#### 1.1.1 Establishment
 
 The Foundation for Public Code was established on June 3, 2019 and is registered in the Commercial Register of the Chamber of Commerce under number 74996452. The statutory name of the organization is: Foundation for Public Code Vereniging (Association) and has its registered office in Amsterdam.
 
-##### 1.1.2 Statutory goal
+#### 1.1.2 Statutory goal
 
 The goal of the Foundation for Public Code is to support collective development and maintenance of public code (software and policy with a public purpose) in order to reduce risks, increase quality, reduce costs and increase sustainability (article 3.1 of the association bylaws).
 
@@ -36,18 +36,18 @@ The association seeks to achieve its goal by carrying out the following activiti
 * d.    drawing attention to problems ascertained and giving advice with regard to the public code they use;
 * e.    and everything related to or conducive to the above, all in the broadest sense.
 
-###### Absence of a profit motive
+##### Absence of a profit motive
 
 The Foundation for Public Code is not for profit, as is clear from the work it does and its bylaws (article 3.4)
 
-###### Beneficiary of the liquidation balance
+##### Beneficiary of the liquidation balance
 
 If the Foundation for Public Code’s Board of Directors decides to dissolve the association, the association will continue to exist for as long as is necessary to liquidate the association’s assets. Article 31.4 of the Foundation for Public Code’s bylaws state that any positive balance at the time of liquidation will be given to either:
 
 * a public benefit organization (ANBI) with a similar goal to the Foundation for Public Code
 * a foreign organization dedicated exclusively or nearly completely to the public benefit with a similar goal to the Foundation for Public Code
 
-##### 1.1.3 Mission and vision
+#### 1.1.3 Mission and vision
 
 The Foundation for Public Code’s mission is “to support collective development and maintenance of public code in order to reduce risk, increase quality, reduce cost and increase sustainability”.” (established in article 3.1 of the bylaws).
 
@@ -60,7 +60,7 @@ The Foundation for Public Code will deliver its mission by:
 
 The Foundation for Public Code is completely unique. There is no other organization that provides impartial codebase stewardship services designed to support open collaboration of public organizations for the benefit of citizens and taxpayers. This distinguishes it from organizations providing open source codebase stewardship for private sector projects, from vendors selling open source software development to public organizations, and from activist groups lobbying governments to spend taxpayer money only on open source software.
 
-##### 1.1.4 Founding principles and cultural values
+#### 1.1.4 Founding principles and cultural values
 
 Founding principles:
 
@@ -80,9 +80,9 @@ Cultural values:
 
 Our cultural values are: open, quality, trust, community, helpful. These words signify the qualities we strive for in our activities, products, staff and resources.
 
-#### 1.2 Composition Board and Directors
+### 1.2 Composition Board and Directors
 
-##### 1.2.1 Board
+#### 1.2.1 Board
 
 As of December 31, 2020, the composition of the Foundation for Public Code Association board is:
 Chairman:    Ben Cerveny
@@ -90,13 +90,13 @@ Secretary:    Boris van Hoytema
 Treasurer:    Arnout Schuijff
 Member:    Pieter van der Does
 
-##### 1.2.2 Executive team
+#### 1.2.2 Executive team
 
 An executive team consisting of Boris van Hoytema, Laura Scheske and Claus Mullie has been formed to implement strategic decisions on goals, organizational strategy and membership development.
 
-##### 1.2.3 Principal and secondary positions board and directors
+#### 1.2.3 Principal and secondary positions board and directors
 
-###### Boris van Hoytema
+##### Boris van Hoytema
 
 Principal position:
 
@@ -107,18 +107,18 @@ Secondary positions:
 * Secretary, Foundation for Public Code vereniging
 * Member of the Board of Directors, Foundation for Public Code vereniging
 
-###### Arnout Schuijff
+##### Arnout Schuijff
 
 Principal position:
 
-* Investor
+* Chief Technology Officer, Adyen N.V.
 
 Secondary positions:
 
 * Treasurer, Foundation for Public Code vereniging
 * Member of the Board of Directors, Foundation for Public Code vereniging
 
-###### Ben Cerveny
+##### Ben Cerveny
 
 Principal position:
 
@@ -130,7 +130,7 @@ Secondary positions:
 * Member of the Board of Directors, Foundation for Public Code vereniging
 * President, Foundation for Public Code (contractor via Multiple Ventures B.V.)
 
-###### Pieter van der Does
+##### Pieter van der Does
 
 Principal position:
 
@@ -140,7 +140,7 @@ Secondary positions:
 
 * Member of the Board of Directors, Foundation for Public Code vereniging
 
-#### 1.3 Remuneration Policy
+### 1.3 Remuneration Policy
 
 Salaries are competitive and consistent with the social mission of the organization. The Foundation for Public Code reimburses reasonable expenses for staff, contractors and interns.
 
@@ -154,19 +154,19 @@ If warranted by the employee's performance, a salary increase may be given at th
 
 We currently don’t have a pension plan set up for staff. Once the organization matures, secondary employment conditions will be reviewed.
 
-#### 1.4 Guidelines and code of conduct
+### 1.4 Guidelines and code of conduct
 
-##### 1.4.1 Guidelines
+#### 1.4.1 Guidelines
 
 The Foundation for Public Code complies with the conditions of a Dutch public benefit organization (ANBI). For the preparation of the annual report and financial statements, we used the 650 Fundraising Organizations guideline of the Dutch Council for Annual Reporting (RJ) as issued in RJ-Uiting 2016.
 
-##### 1.4.2 Code of conduct
+#### 1.4.2 Code of conduct
 
 The staff of the Foundation for Public Code fulfills a crucial role in achieving our mission on behalf of our members, the wider community and the public benefit. Staff are expected to follow the general [code of conduct](https://about.publiccode.net/CODE_OF_CONDUCT.html) that applies to our community. The staff code of conduct sets out the additional expectations we have of our staff beyond the community code of conduct.
 
 The Foundation for Public Code is a trusted non-partisan organization that operates in sectors of the economy that have significant political interests. It is crucial that the organization as well as its staff are visibly independent, trustworthy, impartial and objective.
 
-###### Conflict of interest
+##### Conflict of interest
 
 Staff members must immediately declare:
 
@@ -175,7 +175,7 @@ Staff members must immediately declare:
 
 Outside activities covered by these rules, paid or unpaid, must first be approved by your manager.
 
-###### Receiving gifts
+##### Receiving gifts
 
 Staff may not accept gifts, payment, or favours from non-member organizations, individuals or third parties without prior permission.
 
@@ -187,4 +187,71 @@ Gifts may only be accepted without prior approval when:
 
 Hospitality included in participation in an approved mission, conference, workshop or other meeting does not require separate approval.
 
-#### 1.5 Communication with stakeholders, community and general public
+### 1.5 Communication with stakeholders, community and general public
+
+The Foundation for Public Code is an open organization with collaboration and transparency at its core. Our goal is to ensure that everything we do is open and publicly accessible. We document all of our activities, processes and organizational information so that our stakeholders, the community, and the general public can contribute to our work. The documentation of our work is core to our ability to deliver on our mission together with the community.
+
+We continuously publish updates about our work via our website, social media, and mailing lists, in order to keep our audience informed. We also attend events throughout the year to engage with our stakeholders and raise awareness about public code.
+
+### 1.6 Risk paragraph
+
+The Foundation for Public Code was wholly philanthropically funded during the reporting period. We have received donations from three different parties:
+
+* Dia Holding B.V. (Arnout Schuijff)
+* DC Butterfield and AD Rubio Memorial Foundation (Stewart Butterfield)
+* Elkes Foundation (Josh Elkes)
+
+These philanthropists share our commitment to our mission. To prevent undue influence, all donations are un-earmarked and go into our general operating budget, in compliance with our status as a Dutch public benefit organization (ANBI).
+
+During this start-up phase, we try to look two years ahead with our financial planning.  The organization  has low financial risk: there are no debts and no assets. There is a loan agreement (anti-kraak) for the office, which incurs no rent. In the second quarter of 2020, we transitioned to remote-first working in response to government recommendations during the Covid-19 crisis. When the loan agreement expires at the end of June 2021, the contract can be extended on a monthly basis until a tenant is found. All our activities are location independent, meaning the organization can continue to function in a remote-first context. Nevertheless, some budget has been set aside starting from the third quarter of 2021 in case a new office space is needed.
+
+The current financial situation gives the organization financial security until April 2022. We expect to receive both, more member contributions, as well as more philanthropic gifts. However, it is possible that the income will be insufficient to cover our operational expenses. Costs will then have to be drastically reduced. Since personnel costs comprise the majority of our costs, reductions will need to be made in this area.
+
+### 1.7 The impact of the Covid-19 crisis and our continuity assumption
+
+The Covid-19 crisis affected our freedom to do things and the effectiveness of our work. Due to travel restrictions and national containment measures, we were not able to meet with public organizations or attend events abroad, and our staff had limited  possibilities to work in the office. Despite the physical limitations, we were able to maintain and generate relationships using digital means.
+
+Due to the composition of our income stream, we do not expect a negative impact of the Covid-19 crisis on our operations in the short term.
+
+The Foundation for Public Code is in the start-up phase and has not been able to build up resilience, for example in the form of a continuity reserve. As indicated earlier, the organization has a liquidity buffer until April 2022.
+
+### 1.8 Future paragraph
+
+The Foundation for Public Code maintains a clear financial policy with a healthy source of income. In the future, we aim to be primarily member funded, with additional philanthropic support. The financial sustainability of our organization should be secured by membership dues, with philanthropic gifts used for additional activities such as awareness raising and ecosystem growth.
+
+## 2. Fiscal affairs
+### 2.1 Public Benefit Organization
+
+On 3 June 2019, a notice was received from the Tax Office/Registration and Succession in 's-Hertogenbosch that the Foundation for Public Code Vereniging has been designated as an ANBI. The association will continue to have the ANBI status in 2021.
+
+All of the Foundation’s funds are spent on achieving its mission and benefiting the public.  Funds are not spent on the exclusive benefit of our members or other individuals.
+
+## 3. Administrative affairs
+
+The administration in 2019/2020 was carried out by the Operations Coordinator and the accounting firm Get Monkeys. We hired an experienced financial consultant to review the checks and balances budget, as well as incorporating the loan/gift structure of the gift from Dia Holding B.V.
+
+The financial statements for the period from June 3, 2019 to December 31, 2020 were compiled by the external consultants and the annual report was prepared by the Board of Directors and Operations Coordinator.
+
+The financial statements consist of the balance sheet, statement of revenue and expenses, cash flow statement, and notes to the balance sheet.
+
+On behalf of the Foundation for Public Code Vereniging:
+
+Name:        Boris van Hoytema
+Title:    Secretary of the Board
+Date:        ___________________
+
+Name:    Ben Cerveny
+Title:    Chairman of the Board
+Date:        ___________________
+
+# B. Annual Financial Statements
+
+The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and Arnout Schuijff in 2019 to guide international collaboration among public organizations around codebase design, quality and governance.
+
+## 4. Financial report
+
+### 4.1 Result analysis
+
+The result analysis is based on the income statement for 2019 / 2020 as included in the financial statements. The result analysis provides insight into the ratio of cost types in relation to revenue. In addition, the result analysis gives a picture of the differences compared to last year.
+
+
