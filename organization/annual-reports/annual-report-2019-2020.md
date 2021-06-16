@@ -1,10 +1,8 @@
----
-type: resource
----
-
 # Annual report 2019-2020
 
 Foundation for Public Code vereniging
+
+![intro banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b01.jpg)
 
 ## Preface
 
@@ -28,13 +26,13 @@ As you’ll see in this report covering our first financial year (2019-2020), we
 
 Writing this in early 2021, we seem headed toward a cautious recovery from the COVID-19 crisis. Navigating the potential fallout from the pandemic will require national and international deployments of relief and recovery spending, on a scale unparalleled since the great public works of the early 20th century. The projects undertaken in this global rollout will generate countless software components fundamental to the building, management, and maintenance of new, critical infrastructure.  
 
-In this crucial moment, we must educate the institutions acting on these projects about the vital importance of public code as a strategy for building open, inclusive, sustainable, accountable, and resilient public digital infrastructure for the future. 
+In this crucial moment, we must educate the institutions acting on these projects about the vital importance of public code as a strategy for building open, inclusive, sustainable, accountable, and resilient public digital infrastructure for the future.
 
 In the coming years, the Foundation will provide awareness, education, and share our proven stewardship approach through media, symposia, and press activities. We believe a mature public code ecosystem, in which communities of public organizations around the globe collaborate on codebases that provide all variety of infrastructural services, will fundamentally transform the relationship between citizens and their governments. Dynamically adaptive participatory frameworks for urban planning, spatial computing, social identity and communication, and public media consumption and production can all be made more inclusively available and accountably open. Traditional urban institutions like the transit network, the library, and the community center can become new vitally network-enabled public platforms.
 
 In a world where the mission of the Foundation for Public Code is fully realized, the process of governance itself becomes more responsive, resilient, and better prepared for the challenges we all face in the 21st century.
 
-Ben Cerveny
+**Ben Cerveny**
 President, Foundation for Public Code
 4 May, 2021
 Amsterdam, Netherlands
@@ -45,7 +43,9 @@ Amsterdam, Netherlands
 
 We are building a unique association of ambitious public organizations that share codebases for the benefit of citizens—organizations that know how vital stewardship is for scaling shared software projects.
 
-> Public code is both civic code (such as policy or regulation) and computer source code (like software and algorithms) executed in a public context, by humans or machines.
+> **Public code** is both civic code (such as policy or regulation) and computer source code (like software and algorithms) executed in a public context, by humans or machines.
+
+<br /><br />![Achievements section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b02.png)
 
 ## Achievements in 2019-2020
 
@@ -86,7 +86,6 @@ Our robust financial administration is set up to receive membership dues and phi
 #### Our efforts are roughly divided into four primary activities
 
 |     |     |
-| --- | --- |
 | Steward codebases | 50% |
 | Build community | 20% |
 | Educate the ecosystem | 20% |
@@ -99,7 +98,7 @@ We doubled our initial team to ten brilliant colleagues, including experts in mu
 
 #### Secured funding (with more lined up for the future)
 
-We wouldn’t be where we are today without our donors, who believe we are integral to the structural solution to scale open source software in public organizations. Generous donations from Arnout Schuijff (co-founder, Adyen), Stewart Butterfield (CEO, Slack Technologies) and Josh Elkes (CEO, Harbour) enabled us to develop our stewardship operations, conduct research and development, and raise awareness around public code. As a public benefit organization and with the KBFUS Public Code US fund, gifts in both the Netherlands and the United States are tax deductible.
+We wouldn’t be where we are today without our donors, who believe we are integral to the structural solution to scale open source software in public organizations. Generous donations from **Arnout Schuijff** (co-founder, Adyen), **Stewart Butterfield** (CEO, Slack Technologies) and **Josh Elkes** (CEO, Harbour) enabled us to develop our stewardship operations, conduct research and development, and raise awareness around public code. As a public benefit organization and with the KBFUS Public Code US fund, gifts in both the Netherlands and the United States are tax deductible.
 
 > Our donors pledged nearly €3 million in 2019 and 2020.
 
@@ -125,7 +124,7 @@ As we gained momentum among civil servants and developers, we expected building 
 
 ### Began Codebase Stewardship
 
-### Everything a project needs to be sustainable, collaborative and trusted
+#### Everything a project needs to be sustainable, collaborative and trusted
 
 Our work with government technology projects led us to hypothesize that thriving public organizations require extra support and best practice guidance in four areas: code quality, community building, product development and marketing, and empowering vendors. We’re proud to have validated our approach in our first financial year.
 
@@ -133,33 +132,33 @@ Our stewards help organizations implement the guidance and best practices set ou
 
 Over the course of the financial year, three codebases entered our stewardship program: Digital Omgevingsbeleid, Signalen and OpenZaak.
 
-We discovered:
+##### We discovered:
 
-* Open source governance—the strategy, priorities and decision-making that guide product growth—is uniquely challenging for civil servants. To help, we developed a game communities are using to learn about interdependent responsibilities in role based systems. [See more about the Governance Game](https://youtu.be/Dt0WFla4eeM). 
+* Open source governance—the strategy, priorities and decision-making that guide product growth—is uniquely challenging for civil servants. To help, we developed a game communities are using to learn about interdependent responsibilities in role based systems. [See more about the Governance Game](https://youtu.be/Dt0WFla4eeM).
 *  Market parties must be as involved as public organizations in the codebase community so they can build long-term sustainable business models. As part of the [OpenZaak market consultation](https://github.com/open-zaak/open-zaak-market-consultation), we developed a process of working with market parties to define governance benefiting everyone involved.
 * Our value increases for communities with international ambitions and unique products (i.e. less commodified commercial competition).
-    
 
 #### Assessing the Digital Omgevingsbeleid codebase
 
-##### Stewardship is increasing environmental and civic sustainability, efficiency and transparency in Zuid-Holland.
+##### Stewardship is increasing environmental and civic sustainability, efficiency and transparency in Zuid-Holland
 
 Our first member, the Province of Zuid-Holland, is developing a tool to let both policy makers and citizens explore all environmental laws and policies, see where they apply, and compare them to previous versions.
 
 For example, if someone wants to build a wind farm, they can quickly understand what's allowed on their prospective site. Digital Omgevingsbeleid also makes it easier for a civil servant considering new regulation to see how the new regulations will interact with regulations that already apply.
 
-We helped the team get ready for working in the open by:
+##### We helped the team get ready for working in the open by:
 
 * preparing the team and management to work in the open
 * preparing the team’s assets for publication
 * advising on code quality to support reusability and transparency
-    
+
 [See the current status for Digital Omgevingsbeleid](https://publiccode.net/codebases/omgevingsbeleid.html).
 
 #### Stewarding the Signalen codebase
+
 ##### Our stewardship is enabling collaboration on and reuse of Amsterdam’s mission-critical reporting system, across the Netherlands and beyond.
 
-> Signalen video explainer for the Markdown version: https://youtu.be/AdBNyYwbf8A
+> Signalen video explainer: https://youtu.be/AdBNyYwbf8A
 
 The Signalen community’s stewardship ambitions are an important milestone in their commitment to openness and collaboration.
 
@@ -167,22 +166,22 @@ Originally developed in Amsterdam, Signalen is an open source solution for recei
 
 In cooperation with the Association of Netherlands Municipalities (VNG), our codebase stewards established the community and collaboration with municipalities and vendors. We've conducted this process entirely in the open, enabling further adoption and reuse within the Netherlands and beyond.
 
-Our work included:
+##### Our work included:
 
-- Supporting VNG with scale-up and adoption strategies
-- Organizing a community day with municipalities
-- Organizing product development workshops with civil servants
-- Increasing collaboration potential by clarifying branching and GitFlow models, adding unit test automation, integration testing, and engineering guidelines
-- Establishing collaborative open documentation to keep track of learnings on how to implement and reuse Signalen
+* Supporting VNG with scale-up and adoption strategies
+* Organizing a community day with municipalities
+* Organizing product development workshops with civil servants
+* Increasing collaboration potential by clarifying branching and GitFlow models, adding unit test automation, integration testing, and engineering guidelines
+* Establishing collaborative open documentation to keep track of learnings on how to implement and reuse Signalen
 
-Results:
+##### Results:
 
-- Implementation in ‘s-Hertogenbosch, progress in Almere, and testing for re-use in five further municipalities
-- An established governance structure, including shared product management, feature roadmaps and technical steering
-- Amsterdam opened its internal budget for development to co-sponsor features needed by other community members
-- A new product website in both English and Dutch
-- An online documentation hub
-- A community video explainer
+* Implementation in ‘s-Hertogenbosch, progress in Almere, and testing for re-use in five further municipalities
+* An established governance structure, including shared product management, feature roadmaps and technical steering
+* Amsterdam opened its internal budget for development to co-sponsor features needed by other community members
+* A new product website in both English and Dutch
+* An online documentation hub
+* A community video explainer
 
 [See the current status for Signalen](https://publiccode.net/codebases/signalen.html).
 
@@ -198,19 +197,19 @@ OpenZaak was initially developed by Maykin Media B.V. and commissioned by the mu
 
 Our work included:
 
-- Advising the Dimpact association on procurement and adoption strategy
-- Organizing a market consultation to co-create codebase governance and community dynamics, and better understand vendor business models and risk sharing. (>10 vendors participated)
-- Organizing a workshop with municipalities and vendors to identify needs for increasing adoption and re-use
-- Working closely with the commissioning municipalities to help them grow OpenZaak to a trusted codebase with different types of vendors, offering a range of services using OpenZaak
-- Supporting and encouraging vendors to contribute to governance and develop services based on OpenZaak, ranging from hosting to full-service provisioning
+* Advising the Dimpact association on procurement and adoption strategy
+* Organizing a market consultation to co-create codebase governance and community dynamics, and better understand vendor business models and risk sharing. (>10 vendors participated)
+* Organizing a workshop with municipalities and vendors to identify needs for increasing adoption and re-use
+* Working closely with the commissioning municipalities to help them grow OpenZaak to a trusted codebase with different types of vendors, offering a range of services using OpenZaak
+* Supporting and encouraging vendors to contribute to governance and develop services based on OpenZaak, ranging from hosting to full-service provisioning
 
 Results:
 
-- OpenZaak maintainers consider the Standard for Public Code integral to achieving their vision
-- Joint codebase governance by vendors and municipalities through established technical and product steering groups
-- Community independently organizes and conducts technical and product steering meetings
-- Established and documented process for security incidents
-- A new product website in both English and Dutch
+* OpenZaak maintainers consider the Standard for Public Code integral to achieving their vision
+* Joint codebase governance by vendors and municipalities through established technical and product steering groups
+* Community independently organizes and conducts technical and product steering meetings
+* Established and documented process for security incidents
+* A new product website in both English and Dutch
 
 >[See the current status for OpenZaak](https://publiccode.net/codebases/openzaak.html)
 
@@ -223,19 +222,19 @@ We are well on our way to becoming a beacon for international, public sector ope
 #### Speaking up
 
 We spoke, sat on panels, and raised awareness about public code and our work at 26 events in 2019 to 2020. [Check out our recorded talks](https://projects.publiccode.net/talks-and-articles.html).
-    
+
 #### ‘Let’s Talk About Public Code’ podcast
 
-In September 2020, we began interviewing public code champions. Our guests included Arnau Monterde (Decidim), Rasmus Frey (OS2), Sergei Maertens (Maykin Media), Tjerk Vaags (Contezza), and Lea Hemetsberger (Open and Agile Smart Cities). [Listen to past episodes](https://podcast.publiccode.net/).
-    
+In September 2020, we began interviewing public code champions, including initial guests Arnau Monterde (Decidim) and Rasmus Frey (OS2). [Listen to past episodes](https://podcast.publiccode.net/).
+
 #### Community calls and community day
 
 We hosted 30 community calls to exchange experiences and get feedback on our work and the Standard for Public Code. We organized our first event in October 2019, with stewardship workshops, Governance Game demos, and learned how other codebase teams approach their work. Attendees from five public organizations traveled internationally to attend.
-    
+
 #### Supporting codebases
 
 We helped 22 public codebases with review and consultation.
-    
+
 #### Italy built a powerful system on top of our ideas. Others are following.
 
 After Italy’s Team Digitale successfully based their national public code repository on our jointly developed publiccode.yml standard, the German and Dutch public code communities are looking to do the same.
@@ -253,6 +252,8 @@ Building on our [public commitment](https://blog.publiccode.net/policy/2020/10/0
 * Provided guidance to multiple governments’ development of resources and policy, including the Association of Netherlands Municipalities, Dutch Ministry of the Interior and Kingdom Relations, and European Commission
 * Ran workshops for European collaboration partnership [SCORE](https://northsearegion.eu/score)
 
+<br /><br />![About Us section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b03.png)
+
 ## About us
 
 ### Our work is getting noticed
@@ -264,50 +265,53 @@ As we build stronger awareness of public code, the press and other organizations
 In June 2020, the Dutch chapter of the Internet Society (ISOC) recognized our work with the 2020 Aanmoedigingsprijs (Encouragement Award). We were proud to be nominated for the annual Innovation Award, and delighted by Internet Society Netherlands’ recognition.
 
 > “The Foundation for Public Code won the Encouragement Award 2020. The jury sees great potential in the initiative and looks forward to a structural contribution to a healthy open source culture within the public sector.”
-— ISOC 2020 Innovation Award press release
+— **ISOC 2020 Innovation Award** press release
 
 > "The Foundation for Public Code is helping our collaboration of Dutch cities to increase our code quality, and making codebases more accessible for others to use"
-— Jacco Brouwer, the association of Dutch municipalities (VNG-Realisatie)
+— **Jacco Brouwer**, the association of Dutch municipalities (VNG-Realisatie)
 
 >“OS2’s board and secretariat have a continued focus on international cooperation, and the exporting of OS2 open source products for use outside Denmark. In that matter, we wish to work with the Foundation for Public Code, as we consider it a very strong bid for the best cross-governmental collaboration partner at the European level.
 We are well aware that for the OS2 portfolio to perform internationally, demands will be higher—and this is not a task we can fulfil ourselves. Cooperation with the Foundation for Public Code can increase the international viability of our open source products.”
-— Rasmus Frey, Chief Executive, OS2 - Danish Public Digitalization Network
+— **Rasmus Frey**, Chief Executive, OS2 (Danish Public Digitalization Network)
 
 ### Our people
 
-In 2019, our initial team included:
+**In 2019, our initial team included:**
 
-* Boris van Hoytema (Chief Executive, co-founder)
-* Ben Cerveny (President, co-founder)
-* Elena Findley-de Regt (Communications Coordinator)
-* Claus Mullie (Codebase Stewardship Coordinator)
-* Mirjam van Tiel (Operations Coordinator until December)
+* **Boris van Hoytema** (Chief Executive, co-founder)
+* **Ben Cerveny** (President, co-founder)
+* **Elena Findley-de Regt** (Communications Coordinator)
+* **Claus Mullie** (Codebase Stewardship Coordinator)
+* **Mirjam van Tiel** (Operations Coordinator until December)
 
-with Willemijn van Bekkum providing pro-bono legal and human resources support. 
+with **Willemijn van Bekkum** providing pro-bono legal and human resources support. 
 
-They were later joined by:
-* Eric Herman (Lead Codebase Steward for Quality)
-* Jan Ainali (Codebase Steward for Community)
+**They were later joined by:**
 
-with Floris Deerenberg and Ryan Conlan providing ad hoc illustration, design and communication support.
+* **Eric Herman** (Lead Codebase Steward for Quality)
+* **Jan Ainali** (Codebase Steward for Community)
 
-In 2020, we welcomed:
+with **Floris Deerenberg** and **Ryan Conlan** providing ad hoc illustration, design and communication support.
 
-* Deborah Meibergen (Operations Coordinator)
-* Alba Roza (Codebase Steward for Community)
-* Laura Scheske (Membership Developer)
-* Felix Faassen (Codebase Steward for Product)
+**In 2020, we welcomed:**
 
-with Rob Schouten providing financial expertise together with our bookkeepers from Get Monkeys.
+* **Deborah Meibergen** (Operations Coordinator)
+* **Alba Roza** (Codebase Steward for Community)
+* **Laura Scheske** (Membership Developer)
+* **Felix Faassen** (Codebase Steward for Product)
+
+with **Rob Schouten** providing financial expertise together with our bookkeepers from Get Monkeys.
 
 ### Our board of directors
 
-* Arnout Schuijff (Treasurer)
-* Ben Cerveny (Chairman)
-* Boris van Hoytema (Secretary)
-* Pieter van der Does
+* **Arnout Schuijff** (Treasurer)
+* **Ben Cerveny** (Chairman)
+* **Boris van Hoytema** (Secretary)
+* **Pieter van der Does**
 
 Board members do not receive any compensation, and did not incur any expenses for their activities.
+
+<br /><br />![Finances section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b04.png)
 
 ## Our Finances
 
@@ -323,15 +327,17 @@ During this startup phase, we try to look two years ahead with our financial pla
 
 The current financial situation gives the Foundation for Public Code financial security until April 2022.
 
-Our largest cost, or put otherwise, our biggest investment, is the amazing people who make our work possible. This includes their salaries, wage taxes, insurances and expenses. Our other costs are: 
+**Our largest cost by far (really, our biggest investment) is the amazing people who make our work possible. This includes their salaries, wage taxes, insurances and expenses.**
 
-- Office and admin (VoIP telephony, various insurances, tools, furniture to enable working from home, equipment and subscriptions to enable our staff to do their best work) 
-- Project and community costs (includes events, community tools, travel for conferences and meetings with the community, design, and marketing and market research)
-- Fundraising and membership development
-- Interest expenses (interest from the loan gift)
-    
 
-????<img src=":/8e089331d440452db1f2a736a86f2823" width="380" height="63" style="margin-left: 0px; margin-top: 0px;">
+<img src="https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/80per-people.png" alt="80% people" style="max-height:72px;"/><br />
+
+**Our other costs:**
+
+* Office and admin (VoIP telephony, insurance, tools, furniture for working from home, equipment and subscriptions to enable our staff to do their best work) 
+* Project and community costs (Events, community tools, travel for conferences and meetings with the community, design, marketing and market research)
+* Fundraising and membership development
+* Interest expenses from the loan gift
 
 ### Financial details
 
@@ -357,7 +363,9 @@ Total income in 2019 and 2020 was €801,686.
 
 #### Budget for financial year 2019-2020 
 
-With the help of financial consultant Rob Schouten, we reviewed the way our administration was set up, and created a budget template. You can have a look at [our budget for 2019 and 2020](https://docs.google.com/spreadsheets/d/1SLCXYgqUOxVfl004_DLOJc4MsOvPn5vG/edit#gid=1568320296).
+With the help of financial consultant Rob Schouten, we reviewed the way our administration was set up, and created a budget template.
+
+[See our budget for 2019 and 2020](https://docs.google.com/spreadsheets/d/1SLCXYgqUOxVfl004_DLOJc4MsOvPn5vG/edit#gid=1568320296).
 
 #### Our financial model for the coming years
 
@@ -370,6 +378,8 @@ The Foundation for Public Code Vereniging started with a funding loan to cover r
 #### Impact of the Covid-19 crisis and our continuity
 
 The Covid-19 crisis affected our freedom to do things and the effectiveness of our work. Due to travel restrictions and national containment measures, we were not able to meet with public organizations or attend events abroad, and our staff had limited possibilities to work in the office. Despite the physical limitations, we were able to maintain and generate relationships using digital means. Due to the composition of our income stream, we do not expect a negative impact of the Covid-19 crisis on our operations in the short term. The Foundation for Public Code is in the start-up phase and has not been able to build up resilience, for example in the form of a continuity reserve. As indicated earlier, the organization has a liquidity buffer until April 2022.
+
+<br /><br />![Ambitions section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b05.png)
 
 ## Our ambitions for the next year
 
@@ -385,13 +395,13 @@ Meanwhile, we’ll continue to develop an ecosystem with a place for public orga
 
 Above all, we’re supporting the development of the new profession of digital public workers, while removing their roadblocks to new knowledge and skills, and enhancing their ability to operate across cultures while providing longer-term sustainability.
 
-Read on for how we plan to expand our impact in 2021 and beyond:
+#### Read on for how we plan to expand our impact in 2021 and beyond:
 
-- increase community awareness and skills
-- steward codebases to illustrate public code’s value
-- publish a more global and broadly useful Standard for Public Code
-- strengthen and diversify our collaborations
-- clarify our impact, and exemplify an open public organization
+* increase community awareness and skills
+* steward codebases to illustrate public code’s value
+* publish a more global and broadly useful Standard for Public Code
+* strengthen and diversify our collaborations
+* clarify our impact, and exemplify an open public organization
 
 ### Increase public code skills and awareness
 
@@ -399,17 +409,17 @@ Public code enables governments to undergo digital transformation in a responsib
 
 To highlight the importance of public code and teach more people how to use it in their work, we’ll work with our community to create new explainer videos, resources and training materials for a wide range of people—from policy experts to operational management, from vendors delivering software to residents.
 
-### Steward Open Zaak, Signalen and Omgevingsbeleid to maturity
+### Steward OpenZaak, Signalen and Omgevingsbeleid to maturity
 
 The first codebases we stewarded grew significantly over the last year despite still being in our Incubation phase, and have helped prove the value of a committed third party stewarding the codebase.
 
 To help these codebases mature, we will continue working with their communities to:
 
-- grow their international reach
-- boost their public profile
-- co-develop equitable and evolving shared governance
-- improve codebases until they fully comply with the Standard for Public Code
-- support them in becoming exemplary public technologies and open-source projects
+* grow their international reach
+* boost their public profile
+* co-develop equitable and evolving shared governance
+* improve codebases until they fully comply with the Standard for Public Code
+* support them in becoming exemplary public technologies and open-source projects
 
 ### New stewardships illustrating the value of public code
 
@@ -417,7 +427,7 @@ The codebases we currently steward have given us evidence for the viability and 
 
 This year, we'll support new codebases that help us further demonstrate the full possible impact of public code. For example, a codebase with a thriving international community will better enable us to counter critics concerned that national legal context is too big an obstacle.
 
-### ## A more global Standard for Public Code useful to non-developers
+### A more global Standard for Public Code useful to non-developers
 
 The Standard for Public Code has proven its value in showing that public code is operationalizable in technology. When the Standard is used not just by developers, but also operational management and policymakers, it is even more effective.
 
@@ -457,18 +467,20 @@ At the Foundation for Public Code, we hope to be a model public organization tha
 
 This coming year, we’ll further develop strong, open, transparent and fair processes for:
 
-- our internal personnel, financial and organizational processes
-- how we support others
+* our internal personnel, financial and organizational processes
+* how we support others
 
 ### Conclusion
 
-If we’ve learned one thing since we launched, it might be: we hold an important piece of the public digital transformation puzzle. For now, we seem to be on the front line of a big change: the government of the future will be open.
+If we’ve learned one thing since we launched, it might be: we hold an important piece of the public digital transformation puzzle. 
+
+For now, we seem to be on the front line of a big change: the government of the future will be open.
 
 Thanks to our community, expertise, momentum and team, we’re uniquely positioned to go at these challenges head on. And we’re excited to do so.
 
 I hope you’ll be joining us!
 
-Boris van Hoytema
-Chief executive of the Foundation for Public Code
-
-# 
+**Boris van Hoytema**
+Chief executive, Foundation for Public Code
+4 May, 2021
+Amsterdam, Netherlands
