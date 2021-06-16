@@ -1,8 +1,12 @@
+---
+type: resource
+---
+
 # Annual report 2019-2020
 
 Foundation for Public Code vereniging
 
-![intro banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b01.jpg)
+![intro banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b01_v03.jpg)
 
 ## Preface
 
@@ -24,7 +28,7 @@ When we launched the Foundation, our goals were simple: we would build communiti
 
 As you’ll see in this report covering our first financial year (2019-2020), we have worked hard to prove our codebase stewardship approach, build communities, and ensure our longevity. In the year ahead, we’ll focus on demonstrating the value of collaboration at scale, guiding the ecosystem, and creating broader awareness of the value of the Public Code approach.
 
-Writing this in early 2021, we seem headed toward a cautious recovery from the COVID-19 crisis. Navigating the potential fallout from the pandemic will require national and international deployments of relief and recovery spending, on a scale unparalleled since the great public works of the early 20th century. The projects undertaken in this global rollout will generate countless software components fundamental to the building, management, and maintenance of new, critical infrastructure.  
+Writing this in early 2021, we seem headed toward a cautious recovery from the COVID-19 crisis. Navigating the potential fallout from the pandemic will require national and international deployments of relief and recovery spending, on a scale unparalleled since the great public works of the early 20th century. The projects undertaken in this global rollout will generate countless software components fundamental to the building, management, and maintenance of new, critical infrastructure.
 
 In this crucial moment, we must educate the institutions acting on these projects about the vital importance of public code as a strategy for building open, inclusive, sustainable, accountable, and resilient public digital infrastructure for the future.
 
@@ -45,7 +49,7 @@ We are building a unique association of ambitious public organizations that shar
 
 > **Public code** is both civic code (such as policy or regulation) and computer source code (like software and algorithms) executed in a public context, by humans or machines.
 
-<br /><br />![Achievements section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b02.png)
+<br><br>![Achievements section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b02.png)
 
 ## Achievements in 2019-2020
 
@@ -85,12 +89,12 @@ Our robust financial administration is set up to receive membership dues and phi
 
 #### Our efforts are roughly divided into four primary activities
 
-|     |     |
+| | |
+| - | - |
 | Steward codebases | 50% |
 | Build community | 20% |
 | Educate the ecosystem | 20% |
 | Secure funding | 10% |
-
 
 #### Grew and recruited from a deep talent pool
 
@@ -135,12 +139,12 @@ Over the course of the financial year, three codebases entered our stewardship p
 ##### We discovered:
 
 * Open source governance—the strategy, priorities and decision-making that guide product growth—is uniquely challenging for civil servants. To help, we developed a game communities are using to learn about interdependent responsibilities in role based systems. [See more about the Governance Game](https://youtu.be/Dt0WFla4eeM).
-*  Market parties must be as involved as public organizations in the codebase community so they can build long-term sustainable business models. As part of the [OpenZaak market consultation](https://github.com/open-zaak/open-zaak-market-consultation), we developed a process of working with market parties to define governance benefiting everyone involved.
+* Market parties must be as involved as public organizations in the codebase community so they can build long-term sustainable business models. As part of the [OpenZaak market consultation](https://github.com/open-zaak/open-zaak-market-consultation), we developed a process of working with market parties to define governance benefiting everyone involved.
 * Our value increases for communities with international ambitions and unique products (i.e. less commodified commercial competition).
 
 #### Assessing the Digital Omgevingsbeleid codebase
 
-##### Stewardship is increasing environmental and civic sustainability, efficiency and transparency in Zuid-Holland
+##### Stewardship is increasing environmental and civic sustainability, efficiency and transparency in Zuid-Holland.
 
 Our first member, the Province of Zuid-Holland, is developing a tool to let both policy makers and citizens explore all environmental laws and policies, see where they apply, and compare them to previous versions.
 
@@ -195,7 +199,7 @@ OpenZaak is a production-ready API platform that implements a widely used standa
 
 OpenZaak was initially developed by Maykin Media B.V. and commissioned by the municipalities of Amsterdam, Rotterdam, Utrecht, Tilburg, Arnhem, Haarlem, ‘s-Hertogenbosch, Delft, Hoorn, Medemblik, and a coalition of Stede Broec, Enkhuizen and Drechterland (SED), under coordination of a Dutch municipal association, Dimpact.
 
-Our work included:
+##### Our work included:
 
 * Advising the Dimpact association on procurement and adoption strategy
 * Organizing a market consultation to co-create codebase governance and community dynamics, and better understand vendor business models and risk sharing. (>10 vendors participated)
@@ -203,7 +207,7 @@ Our work included:
 * Working closely with the commissioning municipalities to help them grow OpenZaak to a trusted codebase with different types of vendors, offering a range of services using OpenZaak
 * Supporting and encouraging vendors to contribute to governance and develop services based on OpenZaak, ranging from hosting to full-service provisioning
 
-Results:
+##### Results:
 
 * OpenZaak maintainers consider the Standard for Public Code integral to achieving their vision
 * Joint codebase governance by vendors and municipalities through established technical and product steering groups
@@ -238,21 +242,21 @@ We helped 22 public codebases with review and consultation.
 #### Italy built a powerful system on top of our ideas. Others are following.
 
 After Italy’s Team Digitale successfully based their national public code repository on our jointly developed publiccode.yml standard, the German and Dutch public code communities are looking to do the same.
-    
+
 #### Adoption as a UN Digital Public Good?
 
 Building on our [public commitment](https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html) to the Sustainable Development Goals in September 2020, we proposed the Standard for Public Code for adoption as a Digital Public Good. While our application approval is pending, we’re proud that the Standard is [recommended to other aspiring Digital Public Good projects](https://github.com/DPGAlliance/DPG-Resources).
-    
+
 #### More involvement
 
 * Gave feedback on a draft of Open Source Observatory and Repository’s [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/supporting-oss-communities-public-sector)
 * Contributed to the State of California’s ‘[Vision 2023’ Technology Strategic Plan](https://vision2023.cdt.ca.gov/)
-* Part of Amsterdam’s [Sourcing and Open Source Strategy](https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08) to achieve goals set out in [A Digital City Agenda](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/) (in Dutch), and mentioned in the  [Mid-term report](https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971)
-* We’re included in the Swedish  [open data knowledge sharing wiki](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Standard-for-Public-Code) and the EU’s Open Source Observatory’s [resource catalog](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/specific-resources#section-32)
+* Part of Amsterdam’s [Sourcing and Open Source Strategy](https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08) to achieve goals set out in [A Digital City Agenda](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/) (in Dutch), and mentioned in the [Mid-term report](https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971)
+* We’re included in the Swedish [open data knowledge sharing wiki](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Standard-for-Public-Code) and the EU’s Open Source Observatory’s [resource catalog](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/specific-resources#section-32)
 * Provided guidance to multiple governments’ development of resources and policy, including the Association of Netherlands Municipalities, Dutch Ministry of the Interior and Kingdom Relations, and European Commission
 * Ran workshops for European collaboration partnership [SCORE](https://northsearegion.eu/score)
 
-<br /><br />![About Us section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b03.png)
+<br><br>![About Us section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b03.png)
 
 ## About us
 
@@ -311,7 +315,7 @@ with **Rob Schouten** providing financial expertise together with our bookkeeper
 
 Board members do not receive any compensation, and did not incur any expenses for their activities.
 
-<br /><br />![Finances section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b04.png)
+<br><br>![Finances section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b04.png)
 
 ## Our Finances
 
@@ -329,13 +333,12 @@ The current financial situation gives the Foundation for Public Code financial s
 
 **Our largest cost by far (really, our biggest investment) is the amazing people who make our work possible. This includes their salaries, wage taxes, insurances and expenses.**
 
-
-<img src="https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/80per-people.png" alt="80% people" style="max-height:72px;"/><br />
+<img src="https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/80per-people.png" alt="80% people" style="max-height:72px;"><br>
 
 **Our other costs:**
 
-* Office and admin (VoIP telephony, insurance, tools, furniture for working from home, equipment and subscriptions to enable our staff to do their best work) 
-* Project and community costs (Events, community tools, travel for conferences and meetings with the community, design, marketing and market research)
+* Office and admin (VoIP telephony, insurance, tools, furniture for working from home, equipment and subscriptions to enable our staff to do their best work)
+* Project and community costs (events, community tools, travel for conferences and meetings with the community, design, marketing and market research)
 * Fundraising and membership development
 * Interest expenses from the loan gift
 
@@ -349,19 +352,19 @@ Total costs in 2019 and 2020 were €1,170,158.
 | Office & Admin | 36,881 | 40,000 | 76,881 |
 | Project & Community | 17,596 | 27,322 | 44,918 |
 | Fundraising | 117,539 | 58,080 | 175,619 |
-| Other expenses | 39,787 | 0   | 39,787 |
+| Other expenses | 39,787 | 0 | 39,787 |
 | **Total** | **827,171** | **342,987** | **1,170,158** |
 
 Total income in 2019 and 2020 was €801,686.
 
 | Income (in €) | 2020 | 2019 |
 | --- | --- | --- | --- 
-| Contribution members | 2,486 | 0   |     |
-| US Gifts | 367,700 | 0   |     |
-| (Fiscal based) gifts | 431,500 | 0   |     |
-| **Total** | **801,686** | **0**   |     |
+| Contribution members | 2,486 | 0 | |
+| US Gifts | 367,700 | 0 | |
+| (Fiscal based) gifts | 431,500 | 0 | |
+| **Total** | **801,686** | **0** | |
 
-#### Budget for financial year 2019-2020 
+#### Budget for financial year 2019-2020
 
 With the help of financial consultant Rob Schouten, we reviewed the way our administration was set up, and created a budget template.
 
@@ -379,7 +382,7 @@ The Foundation for Public Code Vereniging started with a funding loan to cover r
 
 The Covid-19 crisis affected our freedom to do things and the effectiveness of our work. Due to travel restrictions and national containment measures, we were not able to meet with public organizations or attend events abroad, and our staff had limited possibilities to work in the office. Despite the physical limitations, we were able to maintain and generate relationships using digital means. Due to the composition of our income stream, we do not expect a negative impact of the Covid-19 crisis on our operations in the short term. The Foundation for Public Code is in the start-up phase and has not been able to build up resilience, for example in the form of a continuity reserve. As indicated earlier, the organization has a liquidity buffer until April 2022.
 
-<br /><br />![Ambitions section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b05.png)
+<br><br>![Ambitions section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b05.png)
 
 ## Our ambitions for the next year
 
@@ -472,7 +475,7 @@ This coming year, we’ll further develop strong, open, transparent and fair pro
 
 ### Conclusion
 
-If we’ve learned one thing since we launched, it might be: we hold an important piece of the public digital transformation puzzle. 
+If we’ve learned one thing since we launched, it might be: we hold an important piece of the public digital transformation puzzle.
 
 For now, we seem to be on the front line of a big change: the government of the future will be open.
 
