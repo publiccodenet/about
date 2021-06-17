@@ -278,6 +278,8 @@ In June 2020, the Dutch chapter of the Internet Society (ISOC) recognized our wo
 We are well aware that for the OS2 portfolio to perform internationally, demands will be higher—and this is not a task we can fulfil ourselves. Cooperation with the Foundation for Public Code can increase the international viability of our open source products.”
 — **Rasmus Frey**, Chief Executive, OS2 (Danish Public Digitalization Network)
 
+<br><br>![Team photo](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/team-hike-2020_v03.jpg)
+
 ### Our people
 
 **In 2019, our initial team included:**
@@ -288,7 +290,7 @@ We are well aware that for the OS2 portfolio to perform internationally, demands
 * **Claus Mullie** (Codebase Stewardship Coordinator)
 * **Mirjam van Tiel** (Operations Coordinator until December)
 
-with **Willemijn van Bekkum** providing pro-bono legal and human resources support. 
+with **Willemijn van Bekkum** providing pro-bono legal and human resources support.
 
 **They were later joined by:**
 
@@ -358,11 +360,11 @@ Total costs in 2019 and 2020 were €1,170,158.
 Total income in 2019 and 2020 was €801,686.
 
 | Income (in €) | 2020 | 2019 |
-| --- | --- | --- | --- 
-| Contribution members | 2,486 | 0 | |
-| US Gifts | 367,700 | 0 | |
-| (Fiscal based) gifts | 431,500 | 0 | |
-| **Total** | **801,686** | **0** | |
+| --- | --- | --- |
+| Contribution members | 2,486 | 0 |
+| US Gifts | 367,700 | 0 |
+| (Fiscal based) gifts | 431,500 | 0 |
+| **Total** | **801,686** | **0** |
 
 #### Budget for financial year 2019-2020
 
