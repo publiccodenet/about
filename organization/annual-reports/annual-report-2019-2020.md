@@ -193,7 +193,7 @@ In cooperation with the Association of Netherlands Municipalities (VNG), our cod
 
 ##### Our stewardship is integral to the evolution of fundamental services for 45+ Dutch municipalities.
 
-The OpenZaak codebase is currently in incubation with our codebase stewardship team. It is an open-source case register API provision platform for municipalities who want to deliver citizen-friendly services online.
+The OpenZaak codebase is currently in incubation with our codebase stewardship team. It is an open source case register API provision platform for municipalities who want to deliver citizen-friendly services online.
 
 OpenZaak is a production-ready API platform that implements a widely used standard for case-oriented working. It allows municipalities to offer safe and reliable online services to their citizens. Because OpenZaak relies on the Dutch national case-oriented working standard, it becomes easier to securely exchange data with other municipalities or applications.
 
@@ -221,7 +221,7 @@ OpenZaak was initially developed by Maykin Media B.V. and commissioned by the mu
 
 We engaged widely with the public code and government digitalization ecosystem via project contributions, public talks, and creating new channels to exchange knowledge with the communities imagining and building the digital infrastructure of the future.
 
-We are well on our way to becoming a beacon for international, public sector open-source collaboration.
+We are well on our way to becoming a beacon for international, public sector open source collaboration.
 
 #### Speaking up
 
@@ -250,7 +250,7 @@ Building on our [public commitment](https://blog.publiccode.net/policy/2020/10/0
 #### More involvement
 
 * Gave feedback on a draft of Open Source Observatory and Repository’s [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/supporting-oss-communities-public-sector)
-* Contributed to the State of California’s [‘Vision 2023’ Technology Strategic Plan](https://vision2023.cdt.ca.gov/)
+* Contributed to the State of California’s ['Vision 2023’ Technology Strategic Plan](https://vision2023.cdt.ca.gov/)
 * Part of Amsterdam’s [Sourcing and Open Source Strategy](https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08) to achieve goals set out in [A Digital City Agenda](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/) (in Dutch), and mentioned in the [Mid-term report](https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971)
 * We’re included in the Swedish [open data knowledge sharing wiki](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Standard-for-Public-Code) and the EU’s Open Source Observatory’s [resource catalog](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/specific-resources#section-32)
 * Provided guidance to multiple governments’ development of resources and policy, including the Association of Netherlands Municipalities, Dutch Ministry of the Interior and Kingdom Relations, and European Commission
@@ -325,7 +325,7 @@ This section provides an overview of the financials that accompanies this annual
 
 [See the full financial report](https://about.publiccode.net/organization/annual-reports/financial-report-2019-2020).
 
-In its startup phase, this organization was dependent on philanthropic donations. It has been the aim of the Foundation to eventually be self-supporting through the contributions of members.
+In its startup phase, this organization was dependent on philanthropic donations. It has been the aim of the Foundation to eventually be self-supporting through the contributions of public organizations.
 
 Generous philanthropic donations have allowed us to expand our stewardship operations, conduct research and development, and raise awareness around public code. Our donors pledged a total of €2,983,857 in 2019 and 2020. To prevent undue influence, all donations are un-earmarked and go into our general operating budget, in compliance with our status as a Dutch public benefit organization (ANBI).
 
@@ -424,7 +424,7 @@ To help these codebases mature, we will continue working with their communities 
 * boost their public profile
 * co-develop equitable and evolving shared governance
 * improve codebases until they fully comply with the Standard for Public Code
-* support them in becoming exemplary public technologies and open-source projects
+* support them in becoming exemplary public technologies and open source projects
 
 ### New stewardships illustrating the value of public code
 
