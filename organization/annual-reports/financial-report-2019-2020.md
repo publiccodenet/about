@@ -255,7 +255,9 @@ The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and
 
 The result analysis is based on the income statement for 2019 / 2020 as included in the financial statements. The result analysis provides insight into the ratio of cost types in relation to revenue. In addition, the result analysis gives a picture of the differences compared to last year.
 
-| Profit and loss account multi-year overview (in €) | 2020 | 2019 |
+##### Profit and loss account multi-year overview (in €)
+
+|  | 2020 | 2019 |
 | --- | --- | --- |
 | Income | 801,686 | 0   |
 | Cost | 135,135 | \- 85,402 |
@@ -273,7 +275,9 @@ The result analysis is based on the income statement for 2019 / 2020 as included
 
 After appropriation of the result.
 
-| Balance sheet assets (in €) | 2020 | 2019 |
+##### Balance sheet assets (in €)
+
+| | 2020 | 2019 |
 | --- | --- | --- |
 | Tangible fixed assets | 7,741 | 9,760 |
 | **Fixed assets** | **7,741** | **9,760** |
@@ -282,17 +286,19 @@ After appropriation of the result.
 | **Current assets** | **1,384,849** | **665,395** |
 | **Assets** | **1,392,590** | **675,155** |
 
-| Balance sheet liabilities (in €) | 2020 | 2019 |
+##### Balance sheet assets (in €)
+
+|  | 2020 | 2019 |
 | --- | --- | --- |
 | General Reserve | \- 368,472 | \- 342,987 |
 | **Equity** | **\- 368,472** | **\- 342,987** |
 | **Non-current liabilities** | **1,726,000** | **1,000,000** |
 | **Current liabilities** | **35,062** | **18,142** |
-|**Liabilities** | **€ 1,392,590** | **€ 675,155** |
+|**Liabilities** | **1,392,590** | **675,155** |
 
 #### 5.2 Profit and loss account
 
-##### Profit and loss account
+##### Profit and loss account (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
@@ -304,7 +310,7 @@ After appropriation of the result.
 | **Total** | **652,249** | **257,585** |
 | **Operating result** | **14,302** | **\- 342,987** |
 | Financial gains and losses | \- 39,787 | 0   |
-| **Total** | **\- € 25,485** | **\- € 342,987** |
+| **Total** | **\- 25,485** | **\- 342,987** |
 
 #### 5.3 Notes to the financial statements
 
@@ -380,70 +386,70 @@ Interest income and expenses are recognized on a pro rata basis, taking account 
 
 #### 5.4 Notes to the balance sheet
 
-##### Tangible fixed assets
+##### Tangible fixed assets (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Equipment | 10,097 | 10,097 |
 | Depreciation Equipment | \- 2,356 | \- 337 |
-|     | **€ 7,741** | **€ 9,760** |
+|     | **7,741** | **9,760** |
 
 The company uses the following annual depreciation percentages for tangible fixed assets - Other company equipment: 20%
 
-##### Receivables
+##### Receivables (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Accounts receivable | 12,486 | 0   |
 | Other receivables | 13,150 | 0   |
 | Accrued assets | 41,216 | 0   |
-|     | **€ 66,852** | **0**  |
+|     | **66,852** | **0**  |
 
 Accounts receivable all have a remaining term to maturity of less than one year, unless stated otherwise.
 
-##### Other receivables
+##### Other receivables (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Deferred costs | 13,150 | 0   |
-|     | **€ 13,150** | **0**   |
+|     | **13,150** | **0**   |
 
-##### Accrued assets
+##### Accrued assets (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Payment to be received | 41,216 | 0   |
-|     | **€ 41,216** | **0**   |
+|     | **41,216** | **0**   |
 
-##### Cash at bank and in hand
+##### Cash at bank and in hand (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Credits in bank accounts | 1,317,997 | 665,395 |
-|     | **€ 1,317,997** | **€ 665,395** |
+|     | **1,317,997** | **665,395** |
 
 The bank balance can be called up immediately. There are no encumbrances on the bank balance.
 
-##### Equity
+##### Equity (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | General Reserve | \- 368,472 | \- 342,987 |
-|     | **\- € 368,472** | **\- € 342,987** |
+|     | **\- 368,472** | **\- 342,987** |
 
 Over the period of 3rd June 2019 - 31st December 2020, the result of the income statement was deducted from the General Reserve.
 
-##### Non-current liabilities
+##### Non-current liabilities (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Long term liabilities | 0   | 1,000,000 |
 | General Reserve | 1,726,000 | 0   |
-|     | **€ 1,726,000** | **€ 1,000,000** |
+|     | **1,726,000** | **1,000,000** |
 
 The Foundation for Public Code Vereniging started with a funding loan to cover running costs, provided by one of the founding members. The duration of the loan was 5 years, at an interest rate of 3%. A yearly redemption is granted to the Foundation. This funding loan was redeemed in 2020.
 
-##### Current liabilities
+##### Current liabilities (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
@@ -452,28 +458,28 @@ The Foundation for Public Code Vereniging started with a funding loan to cover r
 | Tax and social insurance premiums | 335 | 5,745 |
 | Wages processing expenses | 0   | 4,159 |
 | Other liabilities | 0   | 649 |
-|     | **€ 35,062** | **€ 18,142** |
+|     | **35,062** | **18,142** |
 
-##### Tax and social insurance
+##### Tax and social insurance (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Payroll tax | 335 | 5,745 |
-|     | **€ 335** | **€ 5,745** |
+|     | **335** | **5,745** |
 
-##### Wage processing expenses
+##### Wage processing expenses (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Net wages | 0   | 4,159 |
-|     | **0**   | **€ 4,159** |
+|     | **0**   | **4,159** |
 
-##### Other liabilities
+##### Other liabilities (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Other liabilities | 0   | 649 |
-|     | **0**   | **€ 649** |
+|     | **0**   | **649** |
 
 ##### Off-balance sheet liability claims
 
@@ -485,16 +491,16 @@ The Foundation for Public Code Vereniging has no operating lease commitments.
 
 #### 5.5 Notes to the profit and loss account
 
-##### Income
+##### Income (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Contribution members | 2,486 | 0   |
 | US Gifts | 367,700 | 0   |
 | (Fiscal based) gifts | 431,500 | 0   |
-|     | **€ 801,686** | **0**   |
+|     | **801,686** | **0**   |
 
-##### Project & Community Management
+##### Project & Community Management (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
@@ -502,28 +508,28 @@ The Foundation for Public Code Vereniging has no operating lease commitments.
 | Project: Marketing & Market Research | 12,523 | 11,932 |
 | Project: Event/Community related | 1,246 | 5,880 |
 | Project: IT expenses/Community related | 97  | 0   |
-|     | **€ 17,596** | **€ 27,322** |
+|     | **17,596** | **27,322** |
 
 The project and community management costs are expenditures directly attributable to achieving the goals of the Foundation for Public Code.
 
-##### Fundraising
+##### Fundraising (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Fundraising | 117,539 | 58,080 |
-|     | **€ 117,539** | **€ 58,080** |
+|     | **117,539** | **58,080** |
 
 The fundraising and membership development costs are expenditures directly attributable to achieving the goals of the Foundation for Public Code.
 
-##### Total Costs
+##### Total Costs (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | People | 615,368 | 217,585 |
 | Office and Admin | 36,881 | 40,000 |
-|     | **€ 652,249** | **€ 257,585** |
+|     | **652,249** | **257,585** |
 
-##### People
+##### People (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
@@ -531,16 +537,16 @@ The fundraising and membership development costs are expenditures directly attri
 | Social insurance premiums | 99,581 | 28,261 |
 | Sick pay insurance | 12,611 | 3,496 |
 | Other staff expenses | 11,041 | 17,307 |
-|     | € 615,368 | € 217,585 |
+|     | **615,368** | **217,585** |
 
 During 2020, on average, 8 employees were employed on a full-time basis. In 2019, 3 were employed on average.
 
-##### Other interest expenses
+##### Other interest expenses (in €)
 
 |     | 2020 | 2019 |
 | --- | --- | --- |
 | Other interest expenses | 39,343 | 0   |
-|     | **€ 39,343** | **0**   |
+|     | **39,343** | **0**   |
 
 These interest expenses relate to the (donation) loan.
 
