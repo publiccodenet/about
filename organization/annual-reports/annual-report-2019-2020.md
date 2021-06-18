@@ -136,7 +136,7 @@ Our stewards help organizations implement the guidance and best practices set ou
 
 Over the course of the financial year, three codebases entered our stewardship program: Digital Omgevingsbeleid, Signalen and OpenZaak.
 
-##### We discovered:
+We discovered:
 
 * Open source governance—the strategy, priorities and decision-making that guide product growth—is uniquely challenging for civil servants. To help, we developed a game communities are using to learn about interdependent responsibilities in role based systems. [See more about the Governance Game](https://youtu.be/Dt0WFla4eeM).
 * Market parties must be as involved as public organizations in the codebase community so they can build long-term sustainable business models. As part of the [OpenZaak market consultation](https://github.com/open-zaak/open-zaak-market-consultation), we developed a process of working with market parties to define governance benefiting everyone involved.
@@ -144,13 +144,13 @@ Over the course of the financial year, three codebases entered our stewardship p
 
 #### Assessing the Digital Omgevingsbeleid codebase
 
-##### Stewardship is increasing environmental and civic sustainability, efficiency and transparency in Zuid-Holland.
+##### Stewardship is increasing environmental and civic sustainability, efficiency and transparency in Zuid-Holland
 
 Our first member, the Province of Zuid-Holland, is developing a tool to let both policy makers and citizens explore all environmental laws and policies, see where they apply, and compare them to previous versions.
 
 For example, if someone wants to build a wind farm, they can quickly understand what's allowed on their prospective site. Digital Omgevingsbeleid also makes it easier for a civil servant considering new regulation to see how the new regulations will interact with regulations that already apply.
 
-##### We helped the team get ready for working in the open by:
+We helped the team get ready for working in the open by:
 
 * preparing the team and management to work in the open
 * preparing the team’s assets for publication
@@ -160,7 +160,7 @@ For example, if someone wants to build a wind farm, they can quickly understand 
 
 #### Stewarding the Signalen codebase
 
-##### Our stewardship is enabling collaboration on and reuse of Amsterdam’s mission-critical reporting system, across the Netherlands and beyond.
+##### Our stewardship is enabling collaboration on and reuse of Amsterdam’s mission-critical reporting system, across the Netherlands and beyond
 
 > Signalen video explainer: https://youtu.be/AdBNyYwbf8A
 
@@ -170,7 +170,7 @@ Originally developed in Amsterdam, Signalen is an open source solution for recei
 
 In cooperation with the Association of Netherlands Municipalities (VNG), our codebase stewards established the community and collaboration with municipalities and vendors. We've conducted this process entirely in the open, enabling further adoption and reuse within the Netherlands and beyond.
 
-##### Our work included:
+Our work included:
 
 * Supporting VNG with scale-up and adoption strategies
 * Organizing a community day with municipalities
@@ -178,7 +178,7 @@ In cooperation with the Association of Netherlands Municipalities (VNG), our cod
 * Increasing collaboration potential by clarifying branching and GitFlow models, adding unit test automation, integration testing, and engineering guidelines
 * Establishing collaborative open documentation to keep track of learnings on how to implement and reuse Signalen
 
-##### Results:
+##### Results
 
 * Implementation in ‘s-Hertogenbosch, progress in Almere, and testing for re-use in five further municipalities
 * An established governance structure, including shared product management, feature roadmaps and technical steering
@@ -191,7 +191,7 @@ In cooperation with the Association of Netherlands Municipalities (VNG), our cod
 
 #### Stewarding the OpenZaak codebase
 
-##### Our stewardship is integral to the evolution of fundamental services for 45+ Dutch municipalities.
+##### Our stewardship is integral to the evolution of fundamental services for 45+ Dutch municipalities
 
 The OpenZaak codebase is currently in incubation with our codebase stewardship team. It is an open source case register API provision platform for municipalities who want to deliver citizen-friendly services online.
 
@@ -199,7 +199,7 @@ OpenZaak is a production-ready API platform that implements a widely used standa
 
 OpenZaak was initially developed by Maykin Media B.V. and commissioned by the municipalities of Amsterdam, Rotterdam, Utrecht, Tilburg, Arnhem, Haarlem, ‘s-Hertogenbosch, Delft, Hoorn, Medemblik, and a coalition of Stede Broec, Enkhuizen and Drechterland (SED), under coordination of a Dutch municipal association, Dimpact.
 
-##### Our work included:
+Our work included:
 
 * Advising the Dimpact association on procurement and adoption strategy
 * Organizing a market consultation to co-create codebase governance and community dynamics, and better understand vendor business models and risk sharing. (>10 vendors participated)
@@ -207,7 +207,7 @@ OpenZaak was initially developed by Maykin Media B.V. and commissioned by the mu
 * Working closely with the commissioning municipalities to help them grow OpenZaak to a trusted codebase with different types of vendors, offering a range of services using OpenZaak
 * Supporting and encouraging vendors to contribute to governance and develop services based on OpenZaak, ranging from hosting to full-service provisioning
 
-##### Results:
+##### Results
 
 * OpenZaak maintainers consider the Standard for Public Code integral to achieving their vision
 * Joint codebase governance by vendors and municipalities through established technical and product steering groups
@@ -239,7 +239,7 @@ We hosted 30 community calls to exchange experiences and get feedback on our wor
 
 We helped 22 public codebases with review and consultation.
 
-#### Italy built a powerful system on top of our ideas. Others are following.
+#### Italy built a powerful system on top of our ideas. Others are following
 
 After Italy’s Team Digitale successfully based their national public code repository on our jointly developed publiccode.yml standard, the German and Dutch public code communities are looking to do the same.
 
@@ -400,7 +400,7 @@ Meanwhile, we’ll continue to develop an ecosystem with a place for public orga
 
 Above all, we’re supporting the development of the new profession of digital public workers, while removing their roadblocks to new knowledge and skills, and enhancing their ability to operate across cultures while providing longer-term sustainability.
 
-#### Read on for how we plan to expand our impact in 2021 and beyond:
+#### Read on for how we plan to expand our impact in 2021 and beyond
 
 * increase community awareness and skills
 * steward codebases to illustrate public code’s value
