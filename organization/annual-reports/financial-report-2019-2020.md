@@ -205,7 +205,7 @@ These philanthropists share our commitment to our mission. To prevent undue infl
 
 During this start-up phase, we try to look two years ahead with our financial planning.  The organization  has low financial risk: there are no debts and no assets. There is a loan agreement (anti-kraak) for the office, which incurs no rent. In the second quarter of 2020, we transitioned to remote-first working in response to government recommendations during the Covid-19 crisis. When the loan agreement expires at the end of June 2021, the contract can be extended on a monthly basis until a tenant is found. All our activities are location independent, meaning the organization can continue to function in a remote-first context. Nevertheless, some budget has been set aside starting from the third quarter of 2021 in case a new office space is needed.
 
-The current financial situation gives the organization financial security until April 2022. We expect to receive both, more member contributions, as well as more philanthropic gifts. However, it is possible that the income will be insufficient to cover our operational expenses. Costs will then have to be drastically reduced. Since personnel costs comprise the majority of our costs, reductions will need to be made in this area.
+The current financial situation gives the organization financial security until April 2022. We expect to receive both more member contributions, as well as more philanthropic gifts. However, it is possible that the income will be insufficient to cover our operational expenses. Costs will then have to be drastically reduced. Since personnel costs comprise the majority of our costs, reductions will need to be made in this area.
 
 #### 1.7 The impact of the Covid-19 crisis and our continuity assumption
 
@@ -255,9 +255,7 @@ The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and
 
 The result analysis is based on the income statement for 2019 / 2020 as included in the financial statements. The result analysis provides insight into the ratio of cost types in relation to revenue. In addition, the result analysis gives a picture of the differences compared to last year.
 
-##### Profit and loss account multi-year overview
-
-|     | 2020 | 2019 |
+| Profit and loss account multi-year overview (in €) | 2020 | 2019 |
 | --- | --- | --- |
 | Income | 801,686 | 0   |
 | Cost | 135,135 | \- 85,402 |
@@ -267,7 +265,7 @@ The result analysis is based on the income statement for 2019 / 2020 as included
 | **Total** | **652,249** | **257,585** |
 | **Operating result** | **14,302** | **\- 342,987** |
 | Financial gains and losses | \- 39,787 | 0   |
-| **Total** | **\- € 25,485** | **\- € 342,987** |
+| **Total** | **\- 25,485** | **\- 342,987** |
 
 ### 5\. Financial statements
 
@@ -275,20 +273,16 @@ The result analysis is based on the income statement for 2019 / 2020 as included
 
 After appropriation of the result.
 
-##### Balance sheet assets
-
-|     | 2020 | 2019 |
+| Balance sheet assets (in €) | 2020 | 2019 |
 | --- | --- | --- |
 | Tangible fixed assets | 7,741 | 9,760 |
 | **Fixed assets** | **7,741** | **9,760** |
 | Receivables | 66,852 | 0   |
 | Cash at bank and in hand | 1,317,997 | 665,395 |
 | **Current assets** | **1,384,849** | **665,395** |
-| Assets | **€ 1,392,590** | **€ 675,155** |
+| **Assets** | **1,392,590** | **675,155** |
 
-##### Balance sheet liabilities
-
-|     | 2020 | 2019 |
+| Balance sheet liabilities (in €) | 2020 | 2019 |
 | --- | --- | --- |
 | General Reserve | \- 368,472 | \- 342,987 |
 | **Equity** | **\- 368,472** | **\- 342,987** |
