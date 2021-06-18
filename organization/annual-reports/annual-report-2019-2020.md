@@ -239,11 +239,11 @@ We hosted 30 community calls to exchange experiences and get feedback on our wor
 
 We helped 22 public codebases with review and consultation.
 
-#### Italy built a powerful system on top of our ideas. Others are following
+#### Italy built a powerful system on top of our ideas - others are following
 
 After Italy’s Team Digitale successfully based their national public code repository on our jointly developed publiccode.yml standard, the German and Dutch public code communities are looking to do the same.
 
-#### Adoption as a UN Digital Public Good?
+#### Possible adoption as a UN Digital Public Good
 
 Building on our [public commitment](https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html) to the Sustainable Development Goals in September 2020, we proposed the Standard for Public Code for adoption as a Digital Public Good. While our application approval is pending, we’re proud that the Standard is [recommended to other aspiring Digital Public Good projects](https://github.com/DPGAlliance/DPG-Resources).
 
