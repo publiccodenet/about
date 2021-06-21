@@ -8,7 +8,8 @@ The strategic council is a group of individual advisors that helps the Foundatio
 
 ## Membership of the strategic council
 
-Membership of the strategic council is on invitation from the board of directors.
+Potential new members of the strategic council are invited by the board of directors.
+On acceptance of the role the member is added to the strategic council.
 
 Members of the strategic council are expected to:
 
@@ -19,7 +20,7 @@ Members of the strategic council are expected to:
 
 This commitment is estimated to be about an average 15 minutes per week.
 This is a voluntary role and non-remunerated.
-Membership of the strategic council can be terminated by either party and at any time in writing.
+Membership of the strategic council can be terminated by the member of the strategic council or the board of directors and at any time in writing.
 
 ## Members of the strategic council
 
