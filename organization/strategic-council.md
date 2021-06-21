@@ -19,6 +19,7 @@ Members of the strategic council are expected to:
 
 This commitment is estimated to be about an average 15 minutes per week.
 This is a voluntary role and non-remunerated.
+Membership of the strategic council can be terminated by either party and at any time in writing.
 
 ## Members of the strategic council
 
