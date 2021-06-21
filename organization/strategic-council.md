@@ -17,7 +17,7 @@ Members of the strategic council are expected to:
 * follow along with the briefings sent by the board of directors
 * participate in (email) discussions of the council
 
-This commitment is estimated to be about 15 minutes per week.
+This commitment is estimated to be about an average 15 minutes per week.
 
 ## Members of the strategic council
 
