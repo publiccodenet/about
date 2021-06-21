@@ -18,7 +18,9 @@ Members of the strategic council are expected to:
 * participate in (email) discussions of the council
 
 This commitment is estimated to be about an average 15 minutes per week.
+This is a voluntary role and non-remunerated.
 
 ## Members of the strategic council
 
-This resource lists all members of the strategic council. The strategic council currently has no members.
+This resource lists all members of the strategic council.
+The strategic council currently has no members.
