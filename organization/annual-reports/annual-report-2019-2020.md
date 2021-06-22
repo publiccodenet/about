@@ -49,7 +49,7 @@ We are building a unique association of ambitious public organizations that shar
 
 > **Public code** is both civic code (such as policy or regulation) and computer source code (like software and algorithms) executed in a public context, by humans or machines.
 
-<br><br>![Achievements section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b02.png)
+![Achievements section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b02.png)
 
 ## Achievements in 2019-2020
 
@@ -254,7 +254,7 @@ Building on our [public commitment](https://blog.publiccode.net/policy/2020/10/0
 * Provided guidance to multiple governments’ development of resources and policy, including the Association of Netherlands Municipalities, Dutch Ministry of the Interior and Kingdom Relations, and European Commission
 * Ran workshops for European collaboration partnership [SCORE](https://northsearegion.eu/score)
 
-<br><br>![About Us section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b03.png)
+![About Us section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b03.png)
 
 ## About us
 
@@ -273,7 +273,7 @@ In June 2020, the Dutch chapter of the Internet Society (ISOC) recognized our wo
 >“OS2’s board and secretariat have a continued focus on international cooperation, and the exporting of OS2 open source products for use outside Denmark. In that matter, we wish to work with the Foundation for Public Code, as we consider it a very strong bid for the best cross-governmental collaboration partner at the European level.
 >We are well aware that for the OS2 portfolio to perform internationally, demands will be higher—and this is not a task we can fulfil ourselves. Cooperation with the Foundation for Public Code can increase the international viability of our open source products.” — **Rasmus Frey**, Chief Executive, OS2 (Danish Public Digitalization Network)
 
-<br><br>![Team photo](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/team-hike-2020_v03.jpg)
+![Team photo](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/team-hike-2020_v03.jpg)
 
 ### Our people
 
@@ -312,7 +312,7 @@ with **Rob Schouten** providing financial expertise together with our bookkeeper
 
 Board members do not receive any compensation, and did not incur any expenses for their activities.
 
-<br><br>![Finances section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b04.png)
+![Finances section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b04.png)
 
 ## Our Finances
 
@@ -379,7 +379,7 @@ The Foundation for Public Code Vereniging started with a funding loan to cover r
 
 The Covid-19 crisis affected our freedom to do things and the effectiveness of our work. Due to travel restrictions and national containment measures, we were not able to meet with public organizations or attend events abroad, and our staff had limited possibilities to work in the office. Despite the physical limitations, we were able to maintain and generate relationships using digital means. Due to the composition of our income stream, we do not expect a negative impact of the Covid-19 crisis on our operations in the short term. The Foundation for Public Code is in the start-up phase and has not been able to build up resilience, for example in the form of a continuity reserve. As indicated earlier, the organization has a liquidity buffer until April 2022.
 
-<br><br>![Ambitions section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b05.png)
+![Ambitions section banner](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/ar-19-20-b05.png)
 
 ## Our ambitions for the next year
 
