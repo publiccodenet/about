@@ -286,7 +286,7 @@ After appropriation of the result.
 | **Current assets** | **1,384,849** | **665,395** |
 | **Assets** | **1,392,590** | **675,155** |
 
-##### Balance sheet assets (in €)
+##### Balance sheet liabilities (in €)
 
 |  | 2020 | 2019 |
 | --- | --- | --- |
