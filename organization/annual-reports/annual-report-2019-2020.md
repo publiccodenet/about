@@ -162,8 +162,6 @@ We helped the team get ready for working in the open by:
 
 ##### Our stewardship is enabling collaboration on and reuse of Amsterdam’s mission-critical reporting system, across the Netherlands and beyond
 
-> Signalen video explainer: https://youtu.be/AdBNyYwbf8A
-
 The Signalen community’s stewardship ambitions are an important milestone in their commitment to openness and collaboration.
 
 Originally developed in Amsterdam, Signalen is an open source solution for receiving, classifying and prioritizing citizens’ nuisance reports about the public space. The process and task system handles over 300,000 reports each year, automatically categorizing and routing reports to the appropriate handlers.
@@ -178,7 +176,7 @@ Our work included:
 * Increasing collaboration potential by clarifying branching and GitFlow models, adding unit test automation, integration testing, and engineering guidelines
 * Establishing collaborative open documentation to keep track of learnings on how to implement and reuse Signalen
 
-##### Results
+##### Results for Signalen
 
 * Implementation in ‘s-Hertogenbosch, progress in Almere, and testing for re-use in five further municipalities
 * An established governance structure, including shared product management, feature roadmaps and technical steering
@@ -207,7 +205,7 @@ Our work included:
 * Working closely with the commissioning municipalities to help them grow OpenZaak to a trusted codebase with different types of vendors, offering a range of services using OpenZaak
 * Supporting and encouraging vendors to contribute to governance and develop services based on OpenZaak, ranging from hosting to full-service provisioning
 
-##### Results
+##### Results for OpenZaak
 
 * OpenZaak maintainers consider the Standard for Public Code integral to achieving their vision
 * Joint codebase governance by vendors and municipalities through established technical and product steering groups
@@ -266,17 +264,14 @@ As we build stronger awareness of public code, the press and other organizations
 
 [See all mentions](https://about.publiccode.net/activities/value-and-impact/all-press.html).
 
+> “The Foundation for Public Code won the Encouragement Award 2020. The jury sees great potential in the initiative and looks forward to a structural contribution to a healthy open source culture within the public sector.” — **ISOC 2020 Innovation Award** press release
+
 In June 2020, the Dutch chapter of the Internet Society (ISOC) recognized our work with the 2020 Aanmoedigingsprijs (Encouragement Award). We were proud to be nominated for the annual Innovation Award, and delighted by Internet Society Netherlands’ recognition.
 
-> “The Foundation for Public Code won the Encouragement Award 2020. The jury sees great potential in the initiative and looks forward to a structural contribution to a healthy open source culture within the public sector.”
-— **ISOC 2020 Innovation Award** press release
-
-> "The Foundation for Public Code is helping our collaboration of Dutch cities to increase our code quality, and making codebases more accessible for others to use"
-— **Jacco Brouwer**, the association of Dutch municipalities (VNG-Realisatie)
+> "The Foundation for Public Code is helping our collaboration of Dutch cities to increase our code quality, and making codebases more accessible for others to use" — **Jacco Brouwer**, the association of Dutch municipalities (VNG-Realisatie)
 
 >“OS2’s board and secretariat have a continued focus on international cooperation, and the exporting of OS2 open source products for use outside Denmark. In that matter, we wish to work with the Foundation for Public Code, as we consider it a very strong bid for the best cross-governmental collaboration partner at the European level.
-We are well aware that for the OS2 portfolio to perform internationally, demands will be higher—and this is not a task we can fulfil ourselves. Cooperation with the Foundation for Public Code can increase the international viability of our open source products.”
-— **Rasmus Frey**, Chief Executive, OS2 (Danish Public Digitalization Network)
+>We are well aware that for the OS2 portfolio to perform internationally, demands will be higher—and this is not a task we can fulfil ourselves. Cooperation with the Foundation for Public Code can increase the international viability of our open source products.” — **Rasmus Frey**, Chief Executive, OS2 (Danish Public Digitalization Network)
 
 <br><br>![Team photo](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/team-hike-2020_v03.jpg)
 
