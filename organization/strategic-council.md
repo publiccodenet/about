@@ -4,7 +4,7 @@ type: Resource
 
 # Strategic council
 
-The strategic council is a group of individual advisors that helps the Foundation For Public Code [board of directors](../organization/governance-model.md#board-of-directors) with key strategic descisions as well as serve as ambasadors of it's [mission](mission.md) and organization.
+The strategic council is a group of individual advisors that help the Foundation for Public Code [board of directors](../organization/governance-model.md#board-of-directors) with key strategic decisions as well as serve as ambassadors for its [mission](mission.md).
 
 ## Membership of the strategic council
 
