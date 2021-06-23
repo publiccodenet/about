@@ -239,7 +239,7 @@ On behalf of the Foundation for Public Code Vereniging:
 
 Name:        Boris van Hoytema
 Title:    Secretary of the Board
-Date:        ___________________
+Date:        23 June 2021
 
 Name:    Ben Cerveny
 Title:    Chairman of the Board
