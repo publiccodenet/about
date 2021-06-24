@@ -35,7 +35,7 @@ Questions about the content of the position are routed to chief executive or the
 8. CE and OC determination of the specific offer, including salary range and benefits
 9. Third interview, hopefully a formality, of the preferred candidate with OC and a BoD member. Decision on making an offer is made after third interview
 10. OC makes the offer to the candidate and negotiates, always in consultation with CE and the director(s)
-11. Signing of contract and starting by the new team member, supervised by their hierarchical supervisor
+11. Signing of contract and starting by the new team member, supervised by the role's supervisor
 
 ## Resources for interviewers
 
