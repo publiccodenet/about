@@ -7,7 +7,7 @@ type: Resource
 ## Roles in this process
 
 * The operations coordinator (OC), is responsible for the hiring process
-* Lead codebase steward, with a role in the first interview of applicants for codebase stewardship roles
+* Coordinators or lead codebase steward, for the first round of interviews
 * Chief executive (CEO), responsible for who we hire
 * Directors of the Foundation for Public Code (BoD), responsible for oversight
 
