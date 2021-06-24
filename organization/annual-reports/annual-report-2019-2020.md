@@ -330,7 +330,7 @@ The current financial situation gives the Foundation for Public Code financial s
 
 **Our largest cost by far (really, our biggest investment) is the amazing people who make our work possible. This includes their salaries, wage taxes, insurances and expenses.**
 
-<img src="https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/80per-people.png" alt="80% people" style="max-height:72px;"><br>
+![80% people](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/80per-people.png)
 
 **Our other costs:**
 
