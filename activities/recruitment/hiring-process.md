@@ -21,7 +21,7 @@ Between summer 2019 and summer 2021, most of our new hires discovered us through
 
 ## Processing reactions of people expressing interest
 
-Questions about the content of the position are routed to chief executive. Questions about the hiring procedure and the conditions are routed to the operations coordinator who also takes care of processing and pre-selection.
+Questions about the content of the position are routed to chief executive or the role's future supervisor. Questions about the hiring procedure and the conditions are routed to the operations coordinator who also takes care of processing and pre-selection.
 
 ## Planned recruitment and hiring process
 
