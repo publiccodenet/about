@@ -270,8 +270,8 @@ In June 2020, the Dutch chapter of the Internet Society (ISOC) recognized our wo
 
 > "The Foundation for Public Code is helping our collaboration of Dutch cities to increase our code quality, and making codebases more accessible for others to use" — **Jacco Brouwer**, the association of Dutch municipalities (VNG-Realisatie)
 
->“OS2’s board and secretariat have a continued focus on international cooperation, and the exporting of OS2 open source products for use outside Denmark. In that matter, we wish to work with the Foundation for Public Code, as we consider it a very strong bid for the best cross-governmental collaboration partner at the European level.
->We are well aware that for the OS2 portfolio to perform internationally, demands will be higher—and this is not a task we can fulfil ourselves. Cooperation with the Foundation for Public Code can increase the international viability of our open source products.” — **Rasmus Frey**, Chief Executive, OS2 (Danish Public Digitalization Network)
+> “OS2’s board and secretariat have a continued focus on international cooperation, and the exporting of OS2 open source products for use outside Denmark. In that matter, we wish to work with the Foundation for Public Code, as we consider it a very strong bid for the best cross-governmental collaboration partner at the European level.
+> We are well aware that for the OS2 portfolio to perform internationally, demands will be higher—and this is not a task we can fulfil ourselves. Cooperation with the Foundation for Public Code can increase the international viability of our open source products.” — **Rasmus Frey**, Chief Executive, OS2 (Danish Public Digitalization Network)
 
 ![Team photo](https://raw.githubusercontent.com/publiccodenet/about/annual-report-2019-2020/organization/annual-reports/images/team-hike-2020_v03.jpg)
 
