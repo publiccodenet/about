@@ -11,6 +11,8 @@ type: Resource
 * Chief executive (CEO), responsible for who we hire
 * Directors of the Foundation for Public Code (BoD), responsible for oversight
 
+Read more about [our staff roles](../../organization/staff).
+
 ## Announcing job opening
 
 We publish all job postings on the [careers section on the homepage](https://publiccode.net/careers), and publicize them on our Twitter account (@publiccodenet).
