@@ -104,7 +104,7 @@ We doubled our initial team to ten brilliant colleagues, including experts in mu
 
 We wouldn’t be where we are today without our donors, who believe we are integral to the structural solution to scale open source software in public organizations. Generous donations from **Arnout Schuijff** (co-founder, Adyen), **Stewart Butterfield** (CEO, Slack Technologies) and **Josh Elkes** (CEO, Harbour) enabled us to develop our stewardship operations, conduct research and development, and raise awareness around public code. As a public benefit organization and with the KBFUS Public Code US fund, gifts in both the Netherlands and the United States are tax deductible.
 
-> Our donors pledged nearly €3 million in 2019 and 2020.
+Our donors pledged nearly €3 million in 2019 and 2020.
 
 ### Launched the Standard for Public Code
 
