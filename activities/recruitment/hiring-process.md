@@ -32,7 +32,7 @@ Questions about the content of the position are routed to chief executive or the
 5. First interview: a lead codebase steward or coordinator, depending on the role, and another senior staff person, approximately 1 hr, partially on the basis of a pre-established list of desirable competences and other characteristics (i.e. fit for role, fit for organization - including culture, growth, leadership, long/short term). Half of the interview is spent presenting the Foundation for Public Code, in the other half, the candidate has a chance to present themselves. Immediately after the interview the interviewers score the candidate on the items on the list and determine if the candidate should progress to a second interview. OC will contact the candidate to inform them
 6. Second interview: CE with OC, also partially based on the pre-established list, and with attention to issues not discussed in the first interview
 7. Approximately 80-90% of the time is spent on questioning the candidate. Immediately after the interview the interviewers score the candidate, based on the list and other impressions gathered. CE and OC decide if the candidate should be offered the job.
-8. CE and OC determination of the offer, including salary range and benefits
+8. CE and OC determination of the specific offer, including salary range and benefits
 9. Third interview, hopefully a formality, of the preferred candidate with OC and a BoD member. Decision on making an offer is made after third interview
 10. OC makes the offer to the candidate and negotiates, always in consultation with CE and the director(s)
 11. Signing of contract and starting by the new team member, supervised by their hierarchical supervisor
