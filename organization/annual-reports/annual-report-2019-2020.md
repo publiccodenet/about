@@ -36,10 +36,10 @@ In the coming years, the Foundation will provide awareness, education, and share
 
 In a world where the mission of the Foundation for Public Code is fully realized, the process of governance itself becomes more responsive, resilient, and better prepared for the challenges we all face in the 21st century.
 
-**Ben Cerveny**
+**Ben Cerveny**,
 President, Foundation for Public Code
-4 May, 2021
-Amsterdam, Netherlands
+
+4 May, 2021 — Amsterdam, Netherlands
 
 ### Mission
 
