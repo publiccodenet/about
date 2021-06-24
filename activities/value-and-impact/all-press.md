@@ -16,6 +16,7 @@ You may also be interested in:
 
 ## 2021
 
+* [Leading European Open Source Non-Profit Organizations Announce OSPO Alliance To Promote Best Practices in Open Source Governance](https://newsroom.eclipse.org/news/announcements/leading-european-open-source-non-profit-organizations-announce-ospo-alliance) - press release announcing the launch of the OSPO Alliance by the Eclipse Foundation (June 2021)
 * [Help: open source software will be mandatory, now what?](https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu) - summary of a panel discussion with Boris van Hoytema, Ivonne Janssen-Dings and Koos Steenbergen at the Conferentie Nederland Digitaal on [opensource.pleio.nl](https://opensource.pleio.nl) (in Dutch) (February 2021)
 * [Open enables public sector digital transformation in the Netherlands](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/we-liberated-our-own-data-silos-market) - overview of OpenZaak's development by Sivan Pätsch on the [Open Source Observatory and Repository](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) (OSOR) (April 2021)
 
