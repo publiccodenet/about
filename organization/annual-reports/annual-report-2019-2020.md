@@ -480,7 +480,7 @@ Thanks to our community, expertise, momentum and team, we’re uniquely position
 
 I hope you’ll be joining us!
 
-**Boris van Hoytema**
+**Boris van Hoytema**,
 Chief executive, Foundation for Public Code
-4 May, 2021
-Amsterdam, Netherlands
+
+4 May 2021 — Amsterdam, Netherlands
