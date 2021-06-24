@@ -213,7 +213,7 @@ Our work included:
 * Established and documented process for security incidents
 * A new product website in both English and Dutch
 
->[See the current status for OpenZaak](https://publiccode.net/codebases/openzaak.html)
+[See the current status for OpenZaak](https://publiccode.net/codebases/openzaak.html)
 
 ### Welcomed as a valued member of the ecosystem
 
