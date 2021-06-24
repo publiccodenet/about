@@ -36,10 +36,10 @@ In the coming years, the Foundation will provide awareness, education, and share
 
 In a world where the mission of the Foundation for Public Code is fully realized, the process of governance itself becomes more responsive, resilient, and better prepared for the challenges we all face in the 21st century.
 
-**Ben Cerveny**
+**Ben Cerveny**,
 President, Foundation for Public Code
-4 May, 2021
-Amsterdam, Netherlands
+
+4 May, 2021 — Amsterdam, Netherlands
 
 ### Mission
 
@@ -104,7 +104,7 @@ We doubled our initial team to ten brilliant colleagues, including experts in mu
 
 We wouldn’t be where we are today without our donors, who believe we are integral to the structural solution to scale open source software in public organizations. Generous donations from **Arnout Schuijff** (co-founder, Adyen), **Stewart Butterfield** (CEO, Slack Technologies) and **Josh Elkes** (CEO, Harbour) enabled us to develop our stewardship operations, conduct research and development, and raise awareness around public code. As a public benefit organization and with the KBFUS Public Code US fund, gifts in both the Netherlands and the United States are tax deductible.
 
-> Our donors pledged nearly €3 million in 2019 and 2020.
+Our donors pledged nearly €3 million in 2019 and 2020.
 
 ### Launched the Standard for Public Code
 
@@ -213,7 +213,7 @@ Our work included:
 * Established and documented process for security incidents
 * A new product website in both English and Dutch
 
->[See the current status for OpenZaak](https://publiccode.net/codebases/openzaak.html)
+[See the current status for OpenZaak](https://publiccode.net/codebases/openzaak.html)
 
 ### Welcomed as a valued member of the ecosystem
 
@@ -270,8 +270,8 @@ In June 2020, the Dutch chapter of the Internet Society (ISOC) recognized our wo
 
 > "The Foundation for Public Code is helping our collaboration of Dutch cities to increase our code quality, and making codebases more accessible for others to use" — **Jacco Brouwer**, the association of Dutch municipalities (VNG-Realisatie)
 
->“OS2’s board and secretariat have a continued focus on international cooperation, and the exporting of OS2 open source products for use outside Denmark. In that matter, we wish to work with the Foundation for Public Code, as we consider it a very strong bid for the best cross-governmental collaboration partner at the European level.
->We are well aware that for the OS2 portfolio to perform internationally, demands will be higher—and this is not a task we can fulfil ourselves. Cooperation with the Foundation for Public Code can increase the international viability of our open source products.” — **Rasmus Frey**, Chief Executive, OS2 (Danish Public Digitalization Network)
+> “OS2’s board and secretariat have a continued focus on international cooperation, and the exporting of OS2 open source products for use outside Denmark. In that matter, we wish to work with the Foundation for Public Code, as we consider it a very strong bid for the best cross-governmental collaboration partner at the European level.
+> We are well aware that for the OS2 portfolio to perform internationally, demands will be higher—and this is not a task we can fulfil ourselves. Cooperation with the Foundation for Public Code can increase the international viability of our open source products.” — **Rasmus Frey**, Chief Executive, OS2 (Danish Public Digitalization Network)
 
 ![Team photo](images/team-hike-2020_v03.jpg)
 
@@ -480,7 +480,7 @@ Thanks to our community, expertise, momentum and team, we’re uniquely position
 
 I hope you’ll be joining us!
 
-**Boris van Hoytema**
+**Boris van Hoytema**,
 Chief executive, Foundation for Public Code
-4 May, 2021
-Amsterdam, Netherlands
+
+4 May 2021 — Amsterdam, Netherlands
