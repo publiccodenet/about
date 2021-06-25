@@ -22,6 +22,7 @@ This is how we're building the organization to support our mission:
 * [Roadmap](roadmap.md)
 * [Policy plan 2019-2022](policy-plan.md)
 * [Measurable goals December 2020-March 2021](measurable-goals.md)
+* [Annual reports](annual-reports)
 
 This is how we approach our work:
 
