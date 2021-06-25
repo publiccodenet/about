@@ -16,7 +16,7 @@ Members of the strategic council are expected to:
 * advise the board of directors or general assembly on strategic matters
 * serve as a public ambassador for the organization and its mission
 * follow along with briefings sent by the board of directors
-* participate in the council's (email) discussions 
+* participate in the council's (email) discussions
 
 This commitment is estimated to be about an average 15 minutes per week.
 This is a voluntary role and non-remunerated.
