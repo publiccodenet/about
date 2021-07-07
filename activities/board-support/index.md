@@ -1,5 +1,5 @@
 ---
-type: resource
+type: index
 ---
 
 # Board of directors support
