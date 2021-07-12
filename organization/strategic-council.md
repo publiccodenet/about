@@ -18,7 +18,7 @@ Members of the strategic council are expected to:
 * follow along with briefings sent by the board of directors
 * participate in the council's (email) discussions
 
-This commitment is estimated to be about an average 15 minutes per week.
+This commitment is estimated to be an average of 15 minutes per week.
 This is a voluntary role and non-remunerated.
 Membership of the strategic council can be terminated at any time in writing by either the member of the strategic council or the board of directors.
 
