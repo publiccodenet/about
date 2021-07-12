@@ -13,6 +13,7 @@ The Foundation for Public Code's mission is to enable public-purpose software an
 This is how we're building the organization to support our mission:
 
 * [Members](members.md)
+* [Strategic council](strategic-council.md)
 * [Governance model](governance-model.md)
 * [Financial model](financial-model.md)
 * [Articles of association](articles-of-association.md) with translations in [Spanish (Español)](articles-of-association.es.md) and [Dutch (Nederlands)](articles-of-association.nl.md)
