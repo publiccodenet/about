@@ -12,7 +12,7 @@ In your work you will need to introduce and explain the Foundation for Public Co
 Here are some important things to figure out in the first couple of days:
 
 * [Using space guide](../activities/office-management/using-space.md) - how we use the spaces in the office
-* Email - you should have an account, make sure you can send and receive
+* Email - you should have an account, make sure you can send and receive, you can also use a [standard email signature](../activities/communication/email-signature-template.md) to clearly convey who is communicating and build trust
 * [Staff chat](../activities/communication/using-chat.md) - say hello, we're a welcoming bunch
 * Calendar - add your holidays to the team calendar
 * Manual of me - fill out your own and read the existing ones

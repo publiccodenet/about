@@ -87,7 +87,7 @@ Responsibilities:
 
 * [Staff management](../activities/staff-management/index.md)
 * [Procurement](../activities/procurement/index.md), [office management](../activities/office-management/index.md) and contract management
-* Finances, budget and resource management
+* [Finances, budget and resource management](../activities/finance-management/index.md)
 * [Infrastructure and tools](../activities/tool-management/index.html)
 
 Roles:
