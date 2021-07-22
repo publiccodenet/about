@@ -29,6 +29,7 @@ We can provide codebase stewardship from the beginning of the development or for
 * [community assets](community-assets.md)
 * [product assets needed during early incubation](product-assets-for-early-incubation.md)
 * [stewardship proposal we can send to principal maintainers](stewardship-proposal-template.md)
+* [guide for using Odoo to track our codebases](odoo-codebases.md)
 
 ## Further reading
 
