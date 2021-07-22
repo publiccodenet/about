@@ -6,7 +6,7 @@ redirect_from:
 
 # Privacy
 
-The Foundation strongly supports individuals' right to privacy. For this reason we don't have an analytics package that tracks individual users on any of our websites.
+The Foundation strongly supports individuals' right to privacy. For this reason we don't track individual users on any of our websites but count traffic for analytics.
 
 We keep contact details for:
 
