@@ -8,7 +8,8 @@ This guide explains: How to learn to use GitHub effectively for working with the
 
 GitHub is an incredibly powerful tool for collaboration at scale. However it is a power tool and requires some serious learning and understanding. For this reason, in order to learn effectively and not be frustrated often it pays to really dive deep into what it is and how it works.
 
-If you know what a rebase is, this guide is not for you. If you don't, we expect you to know and understand everything that is in these courses.
+If you know how to rebase a branch, you may not find very much new in this guide.
+Otherwise, we hope the contents linked below will provide you with the knowledge you need to operate git and GitHub.
 
 ## Do it yourself, guided
 
