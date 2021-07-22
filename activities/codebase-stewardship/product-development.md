@@ -31,11 +31,12 @@ As codebase stewards we work with different levels of codebases that implement p
 When a codebase is being replicated or used by more than one organization a community faces the following challenges in order to support the product life cycle.
 
 How does a community:
-- Decide which features are being developed?
-- Prioritize and estimate features needed?
-- Finance and organize the development needed to be done?
-- Share and community with each other and there stakeholders?
-- Handle conflict of interest?
+
+* Decide which features are being developed?
+* Prioritize and estimate features needed?
+* Finance and organize the development needed to be done?
+* Share and community with each other and there stakeholders?
+* Handle conflict of interest?
 
 All these challenges are related to how a community govern its codebase and community. As codebase stewards we help communities explore and answer these question by supporting and coaching them in the different phases of the product life cycle.
 
@@ -94,7 +95,6 @@ Communicate, manage and collaborate. This phase is to reiterate the above phases
 Codebase stewards can support all phases by helping the community to adopt a process and method which helps them to discuss, describe and prioritize on product features. This process is an integral and recurring process which is referred to as (shared) product management. Being able to execute shared product management involves defining the product management aspect of the governance of a codebase and affects all life cycle phases for the duration of the product's lifespan (see All phases). This process can be supported by conducting workshops on product management and helping the community define an open and shared product backlog.
 
 ## Product development assets
-
 
 | Asset | Description | Link | Product Life cycle phase |
 | -------- | -------- | -------- | -------- |
