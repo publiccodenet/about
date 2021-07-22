@@ -4,6 +4,7 @@ set -e # halt script on error
 # Lint markdown using the Markdownlint gem with the default ruleset except for:
 # MD007 Unordered list indentation: we allow sub-lists to also have bullets
 # MD013 Line length: we allow long lines
+# MD028 Blank line inside blockquote: we allow blank lines between block quotes (to permit consecutive quotations by different people)
 # MD029 Ordered list item prefix: we allow lists to be sequentially numbered
 #
 # Additionally, we have these violations which should be resolved:
@@ -11,7 +12,7 @@ set -e # halt script on error
 # MD032 Lists should be surrounded by blank lines
 # MD034 Bare URL used
 #
-bundle exec mdl -r ~MD007,~MD013,~MD029,~MD026,~MD032,~MD034 -i -g '.'
+bundle exec mdl -r ~MD007,~MD013,~MD028,~MD029,~MD026,~MD032,~MD034 -i -g '.'
 
 # Build the site
 bundle exec jekyll build
