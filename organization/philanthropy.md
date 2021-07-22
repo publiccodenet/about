@@ -29,7 +29,7 @@ We've received donations from:
 * Josh Elkes
 * Stewart Butterfield
 
-Arnout is one of our co-founders and currently also sits on the board of directors.
+Arnout is also one of our co-founders and previously held a position on the board of directors (2019-2021).
 
 ## How to donate
 
