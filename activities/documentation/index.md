@@ -27,6 +27,6 @@ In order to make it easier to navigate and contribute information we try to limi
 * [How to write an index](writing-indexes.md)
 * [File name convention in About](about-file-names.md)
 * [Folder structure of About](about-folder-structure.md)
-* [How to publish on About](merge-develop-into-main.md)
+* [How to publish on About (merging develop into main)](merge-develop-into-main.md)
 
 See also our [trainings](../trainings/index.md), which have tips on Github, issues, and more.
