@@ -62,7 +62,7 @@ Codebases can also move from Incubate to Backburner or Archive.
 
 ### Full stewardship
 
-When a codebase in Incubation meets all the citeria of the Standard for Public Code it will automatically enter Full stewardship (although the task in Odoo has to be manually moved).
+When a codebase in Incubation meets all the citeria of the Standard for Public Code, it will automatically enter Full stewardship (although the task in Odoo has to be manually moved).
 
 Codebases can exit Full stewardship for the Attic or Archive.
 
@@ -80,18 +80,18 @@ A codebase can be moved to the Archive from any other column.
 Reasons for moving a codebase to the Archive may vary, but can include (not intended as an exhaustive list):
 
 * learning that the codebase is not really public code
-* the codebase community have no ambition to comply with the Standard for Public Code
+* the codebase community has no ambition to comply with the Standard for Public Code
 * agreeing that Full stewardship is not suitable for this codebase
 
-A codebase can come out of the Archive if circumstances change and depending on those, may move to Research, Identify, Commit, or Assess.
+A codebase can come out of the Archive if circumstances change. Depending on its circumstances, it may move to Research, Identify, Commit, or Assess.
 
 ## Log notes
 
-Eash task has a log where one can log notes. We use this to keep track on what contacts we have had with the codebase and how the progress is going.
+Eash task has a log where one can log notes. We use this to keep track of the contacts we've had with the codebase and how the progress is going.
 Beware that tagging someone in the contacts will send email to them with the note and add them as a follower to the card, meaning that they will recieve all future log notes unless removed again.
 
 ### Email integration
 
 All tasks can both send and recieve emails. Under the description you can use Send message to send an email that gets automatically saved on the log.
-In this [spreadsheet](https://docs.google.com/spreadsheets/d/1jkyAFQuwspuLyJNc0zi_9Lw_xbHS4qcIavfAWMWTSIE/edit#gid=0) (only accessible to staff of the Foundation for Public Code) are email aliases for the codebases.
+In this [spreadsheet](https://docs.google.com/spreadsheets/d/1jkyAFQuwspuLyJNc0zi_9Lw_xbHS4qcIavfAWMWTSIE/edit#gid=0) (only accessible to  Foundation for Public Code staff) are email aliases for the codebases.
 If a new codebase is added, the operations coordinator can create new aliases.
