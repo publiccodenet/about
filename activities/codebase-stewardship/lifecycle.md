@@ -41,7 +41,7 @@ Since the codebases might adhere to outdated standards it will need to go back i
 
 ## Tools
 
-To track where in the lifecycle a codebase we are looking at is, we use a project in Odoo.
+To track where in the lifecycle a codebase is, we use a project in Odoo.
 The process for that is detailed in [codebases in Odoo](odoo-codebases.md).
 
 ## Public list
