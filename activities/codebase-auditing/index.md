@@ -4,7 +4,7 @@ type: Index
 
 # Codebase auditing
 
-We perform audits on [codebases](../../glossary/codebase-definition.md) – including source code, policy, documentation and conversations therein – as well as individual contribution to that codebase in order to guarantee that they are compliant with:
+We perform audits on [codebases](../../glossary/codebase-definition.md) – including source code, policy, documentation and conversations therein – as well as individual contributions to that codebase in order to guarantee that they are compliant with:
 
 * the [Standard for Public Code](https://standard.publiccode.net/)
 * the standards set out in the codebase itself

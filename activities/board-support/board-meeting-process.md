@@ -4,6 +4,9 @@ type: resource
 
 # Board meeting process, agendas and minutes
 
+The [board of directors](../../organization/governance-model.md#board-of-directors) has regular meetings.
+This process sets out what actions need to be taken, what artifacts need to be produced and when this needs to happen.
+
 The secretary of the Foundation for Public Code Vereniging is responsible for the preparation and continuity of the board meetings.
 
 The secretary can be assisted in these tasks with:
