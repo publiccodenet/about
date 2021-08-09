@@ -9,7 +9,7 @@ The strategic council is a group of individual advisors that help the Foundation
 ## Membership of the strategic council
 
 The board of directors invites new members to join the strategic council.
-On acceptance of the role the member is added to the strategic council.
+After accepting the role, the member is added to the strategic council.
 
 Members of the strategic council are expected to:
 
