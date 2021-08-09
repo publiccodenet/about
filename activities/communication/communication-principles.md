@@ -8,7 +8,7 @@ The Foundation For Public Code itself is open source.
 
 Our communication principles are:
 
-* open, unless
+* open, unless: open by default, unless you can explain why it needs to be closed
 * invites contributions by all
 * clearly explained
 * hypertextual, web first
