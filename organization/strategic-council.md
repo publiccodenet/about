@@ -36,7 +36,7 @@ These are the steps for appointing a new strategic council member.
 
 Strategic council appointments are for 1 year. Strategic council members can be  reappointed repeatedly.
 
-Membership of the strategic council can be terminated at any time in writing by either the member of the strategic council or the board of directors.
+Membership of the strategic council can be terminated at any time in writing by either the strategic council member or the board of directors.
 
 ## Operating procedures
 
