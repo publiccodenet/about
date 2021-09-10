@@ -9,7 +9,6 @@ The strategic council is a group of individual advisors that help the Foundation
 ## Members of the strategic council
 
 This resource lists all members of the strategic council.
-The strategic council currently has no members.
 
 ## Membership of the strategic council
 
@@ -19,6 +18,7 @@ Members of the strategic council are expected to:
 * serve as a public ambassador for the organization and its mission
 * follow along with briefings sent by the board of directors
 * participate in the council's (email) discussions
+* propose new strategic council members based on the Foundation's needs at the time
 
 This is a voluntary role and non-remunerated.
 
@@ -32,7 +32,9 @@ These are the steps for appointing a new strategic council member.
 4. The board of directors invites new members to join the strategic council.
 5. After accepting the role, the member is added to the strategic council.
 
-## End of membership
+## Membership duration and end of membership
+
+Strategic council appointments are for 1 year. Strategic council members can be  reappointed repeatedly.
 
 Membership of the strategic council can be terminated at any time in writing by either the member of the strategic council or the board of directors.
 
