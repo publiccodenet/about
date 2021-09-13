@@ -18,17 +18,29 @@ General updates and upgrades by SSH-ing into the machine as root:
 
 `ssh root@64.227.76.103`
 
-`sudo apt update`
+`apt update`
 
-`sudo apt upgrade`
+`apt upgrade`
 
-When the updates are ready the following commands need to be applied:
+Most updates can be applied without stopping and starting the machine. The command line will prompt you if the machine needs to be restarted. If that's the case you need the following commands:
 
-`sudo systemctl stop mattermost`
+`systemctl stop mattermost`
 
-`sudo systemctl start mattermost`
+`systemctl start mattermost`
 
 Upgrading to the latest version of Mattermost upon receiving the notification can be done by following [the steps as per the Mattermost upgrade instructions](https://docs.mattermost.com/administration/upgrade.html).
+
+Channel and user management:
+
+Old or unused channels should either be archived or deleted. To see which channels exist, check the following:
+
+`root@mattermost:/opt/mattermost# bin/mattermost channel list Staff`
+
+If you found the channel that needs to be deleted e.g. for GDPR reasons or offboarding of staff, use the following command:
+
+`root@mattermost:/opt/mattermost# bin/mattermost channel delete Staff:{name of channel}`
+
+From the directory where the Mattermost server is installed, a `mattermost` command is available for configuring the system. There is extensive documentation on [command line tools](https://docs.mattermost.com/manage/command-line-tools.html).
 
 ## Privacy and GDPR
 
