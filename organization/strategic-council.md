@@ -6,6 +6,8 @@ type: Resource
 
 The strategic council is a group of individual advisors that help the Foundation for Public Code [board of directors](../organization/governance-model.md#board-of-directors) with key strategic decisions as well as serve as ambassadors for its [mission](mission.md).
 
+To encourage meeting efficiency, the strategic council has maximum 5 members. This number may be changed by the board of directors if necessary.
+
 ## Members of the strategic council
 
 This resource lists all members of the strategic council.
@@ -36,7 +38,7 @@ These are the steps for appointing a new strategic council member.
 
 Strategic council appointments are for 1 year. Strategic council members can be  reappointed repeatedly.
 
-Membership of the strategic council can be terminated at any time in writing by either the strategic council member or the board of directors.
+Membership of the strategic council can be ended at any time in writing by either the strategic council member or the board of directors.
 
 ## Operating procedures
 
