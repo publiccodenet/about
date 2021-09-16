@@ -48,7 +48,7 @@ As soon as the employee is better it needs to be reported in the same portal. Th
 
 ### Long-term sick leave management
 
-In case an employee is sick for a longer time the ARBO doctor will be involved. Our ARBO service is [RegioPoortwachters](https://www.regiopoortwachters.nl/). A case manager from RegioPoortwachters will reach out to inquire about the sick employee within approx. 10 days after the initial sickness report in the insurance portal. The ARBO service portal is integrated with our insurance portal.
+In case an employee is sick for a longer time [an ARBO (company) doctor will be involved](https://www.arboned.nl/en/absence-support/company-doctor-as-specialist). Our ARBO service is [RegioPoortwachters](https://www.regiopoortwachters.nl/). A case manager from RegioPoortwachters will reach out to inquire about the sick employee within approx. 10 days after the initial sickness report in the insurance portal. The ARBO service portal is integrated with our insurance portal.
 
 A meeting with an ARBO doctor will be planned to assess the situation of the employee. Depending on the outcome of the assessment, reintegration will be initialized when the situation allows. [A reintegration plan (plan van aanpak) will be drafted for employees who get ill](https://business.gov.nl/regulation/working-conditions-employees/). This plan should include the procedures all involved parties must follow. The director must approve the plan.
 
