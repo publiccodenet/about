@@ -11,7 +11,7 @@ This guide assumes that you have already updated the contacts as described in [t
 
 ## Create newsletter in Odoo
 
-The easiest way to create a newsltter is to copy an existing one, that way you don't have to format the email from scratch.
+The easiest way to create a newsletter is to copy an existing one. That way you don't have to format the email from scratch.
 Unselect the filter "My Mailings" in the Email Marketing module to see all emails that have been sent.
 Click on the email you want to copy to first open it.
 When opened, just above the email, there is a drop down selection named "Action".
