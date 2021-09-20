@@ -18,7 +18,7 @@ When opened, just above the email, there is a drop down selection named "Action"
 Use "Duplicate" to get a copy of the email that you can modify.
 Make sure that the appropriate tags are selected as recipients for this email.
 
-Edit the newsletter and click Save when you are done.
+"Edit" the newsletter and click "Save" when you are done.
 
 ## Test the email
 
