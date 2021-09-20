@@ -33,4 +33,4 @@ Again, fix anything that is discovered.
 
 When you are ready, click "Send" and confirm.
 This places the email in a queue, and the emails will be sent automatically after a while (usually within 30 minutes).
-If needed, the email can be cancelled at this stage.
+If needed, the email can be edited or cancelled at this stage.
