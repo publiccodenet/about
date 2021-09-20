@@ -40,6 +40,6 @@ You may also be interested in:
 * [Foundation for Public Code: How to help governments develop high-quality, sustainable, cost-effective, and low-risk public services through open source collaborations](https://os2.eu/blog/foundation-public-code-how-help-governments-develop-high-quality-sustainable-cost-effective-and) - interview by Charlotte Heikendorf with Boris van Hoytema and Claus Mullie for [OS2](https://os2.eu/node/332) (September 2019)
 * [Open Source Observatory (OSOR) October newsletter](https://ec.europa.eu/newsroom/joinup/newsletter-archives/18462) - our collaboration with Team Digitale is highlighted (November 2019)
 * [The Internet is Broken](https://www.singeluitgeverijen.nl/de-geus/boek/het-internet-is-stuk/) - book by Marleen Stikker (November 2019) (in Dutch)
-* [Open Source and the French Public Sector beyond 2020](https://bzg.fr/en/open-source-and-the-french-public-sector-beyond-2020/) -mentioned in the context of reusable soulutions and publiccode.yml (December 2019)
+* [Open Source and the French Public Sector beyond 2020](https://bzg.fr/en/open-source-and-the-french-public-sector-beyond-2020/) - blogpost by Bastien Guerry, we're mentioned in the context of reusable soulutions and publiccode.yml (December 2019)
 
 ![Het Internet is Stuk](Het-internet-is-stuk.jpeg)
