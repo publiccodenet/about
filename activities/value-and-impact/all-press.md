@@ -22,6 +22,7 @@ You may also be interested in:
 * [Common Ground first quarterly report 2021](https://publicaties.vngrealisatie.nl/commonground/2021/1/) - highlighting the collaboration on Signalen (April 2021) (Dutch)
 * [Signalen case study](https://commonground.nl/news/view/2a13308d-872e-4b98-8dff-d4d3bcb36586/steeds-meer-gemeenten-maken-gebruik-van-signalen) - by [VNG Realisatie](https://www.vngrealisatie.nl/) (April 2021) (Dutch)
 * [Leading European Open Source Non-Profit Organizations Announce OSPO Alliance To Promote Best Practices in Open Source Governance](https://newsroom.eclipse.org/news/announcements/leading-european-open-source-non-profit-organizations-announce-ospo-alliance) - press release announcing the launch of the OSPO Alliance by the Eclipse Foundation (June 2021)
+* [Exploring Digital Public Goods - Introduction](https://digitalpublicgoods.xyz/introduction) - essay by Richard Pope on [Exploring Digital Public Goods](https://digitalpublicgoods.xyz/) (May 2021)
 
 ## 2020
 
