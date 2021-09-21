@@ -43,7 +43,7 @@ When that is ready the following commands need to be applied to reboot the machi
 
 If you need to make tweaks to the configuration files, then these can be accessed via:
 
-`nano /etc/jitsi/meet/meet.publiccode.net-config.js`
+`nano /etc/jitsi/meet/meet.publiccode.net-config.js` 
 
 `nano /etc/jitsi/jicofo/sip-communicator.properties`
 
@@ -56,6 +56,8 @@ If you need to make tweaks to the configuration files, then these can be accesse
 [Prosody](https://prosody.im/) is used for creating and managing user accounts.
 
 `ls -l /var/lib/prosody/*/accounts/*`
+
+If you are making changes or updates to the Jitsi Community configuration `meet.publiccode.net` needs to be replaced with `meet.community.publiccode.net`
 
 ## Privacy and GDPR
 
