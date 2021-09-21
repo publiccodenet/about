@@ -56,7 +56,7 @@ A meeting with an ARBO doctor will be planned to assess the situation of the emp
 
 The ARBO service case manager is the main contact person between the sick employee and the director, and will send updates regularly. It's important to track the percentage of sickness vs reintegration hours in the insurance portal. For example, if an employee is working 20%, this means they are sick for 80%. This needs to be kept up-to-date as the insurance payout is based on the percentage of sickness.
 
-After a certain amount of time, approx. 1.5 months after the initial sickness report, the insurance company will request payslips of the sick employee to prepare for the insurance pay-out. The director will receive a mail about this. [The payslips are available for admins in Tentoo](https://about.publiccode.net/activities/tool-management/tentoo.html).
+Approximately 1.5 months after the initial sickness report, the insurance company will request the sick employee's payslips to prepare for the insurance payout. The director will receive an email about this. [Payslips are available to admins in Tentoo](https://about.publiccode.net/activities/tool-management/tentoo.html).
 
 ### UWV (Uitvoeringsinstituut Werknemersverzekeringen)
 
