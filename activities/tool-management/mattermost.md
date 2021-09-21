@@ -36,7 +36,7 @@ Old or unused channels should either be archived or deleted, for example for GDP
 
 `root@mattermost:/opt/mattermost# bin/mattermost channel list Staff`
 
-If you found the channel that needs to be deleted e.g. for GDPR reasons or offboarding of staff, use the following command:
+When you have found the channel that needs to be deleted, use the following command:
 
 `root@mattermost:/opt/mattermost# bin/mattermost channel delete Staff:{name of channel}`
 
