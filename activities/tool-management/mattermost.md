@@ -32,7 +32,7 @@ Upgrading to the latest version of Mattermost upon receiving the notification ca
 
 Channel and user management:
 
-Old or unused channels should either be archived or deleted. To see which channels exist, check the following:
+Old or unused channels should either be archived or deleted, for example for GDPR reasons or offboarding of staff. To see which channels exist, check the following:
 
 `root@mattermost:/opt/mattermost# bin/mattermost channel list Staff`
 
