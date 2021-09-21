@@ -43,7 +43,7 @@ When that is ready the following commands need to be applied to reboot the machi
 
 If you need to make tweaks to the configuration files, then these can be accessed via:
 
-`nano /etc/jitsi/meet/meet.publiccode.net-config.js` 
+`nano /etc/jitsi/meet/meet.publiccode.net-config.js`
 
 `nano /etc/jitsi/jicofo/sip-communicator.properties`
 
