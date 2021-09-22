@@ -63,8 +63,9 @@ If you are making changes or updates to the Jitsi Community configuration `meet.
 
 Jitsi can be customized for a more personalized experience. The logo points to [our brand website.](https://brand.publiccode.net/logo/mark-128w128h.png)
 
-![We added our logo to our Jitsi instances](/activities/tool-management/jitsi_logo_location.png) and can be added here:
-`nano /usr/share/jitsi-meet/interface_config.js`.
+![We added our logo to our Jitsi instances](/activities/tool-management/jitsi_logo_location.png)
+
+and can be added here:`nano /usr/share/jitsi-meet/interface_config.js`.
 
 We also renamed 'fellow Jitser' to 'fellow Public Coder' for people joining our meetings.
 
