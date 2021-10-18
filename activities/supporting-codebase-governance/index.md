@@ -18,7 +18,7 @@ Codebase governance is strictly limited to the codebase. The governance of the c
 
 Governance of implementations is whatever contextual arrangement is made to enable a local implementaiton. This can include contracting of marketing parties, collective procurements, or service agreements between municipal departments. For example, this could include a joint procurement by several municipalities, coordinated by an association of municipalities, for a consortium of market parties (including development, maintainenance and hosting parties).
 
-Governance of implementations can vary strongly, ranging from one municipality who does everything in house, to municipalities who interact with a single market party for all their needs and questions. The market consultation is part of defining what these relationships should or could look like.
+Governance of implementations can vary strongly, ranging from one municipality who does everything in house, to municipalities who interact with a single market party for all their needs and questions.
 
 Below is a visual representation summarizing the information above.
 
