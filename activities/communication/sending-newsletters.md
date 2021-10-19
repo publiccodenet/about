@@ -20,6 +20,9 @@ Make sure that the appropriate tags are selected as recipients for this email.
 
 "Edit" the newsletter and click "Save" when you are done.
 
+When in edit mode, switch to the "Settings" tab and update the field "Name" with the subject of the current newsletter.
+That way [Plausible](../tool-management/plausible-analytics.md) can show clicks from the newsletter.
+
 ## Test the email
 
 Use the "Test" button to send an email to yourself to make sure the formatting looks okay.
