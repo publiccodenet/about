@@ -28,7 +28,7 @@ We write good issues because:
 The title of the issue should be short, to the point and descriptive. Enhancements can have verbs in them. Detail, technical or otherwise, should be in the body of the issue.
 
 * Context: why are you filing this issue
-* Problem or idea and this issue's [definition of done](https://about.publiccode.net/organization/definition-of-done.html)
+* Problem or idea and what will be different when this issue is resolved
 * Solution or next step: request feedback from others, propose changes or propose further investigation
 
 ## Defining done for issues

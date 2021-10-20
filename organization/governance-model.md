@@ -52,7 +52,8 @@ The board of directors meets regularly and is required to keep the general assem
 The current board members are:
 
 * Ben Cerveny (Chairman)
-* Boris van Hoytema (Secretary and acting treasurer)
+* Boris van Hoytema (Secretary)
+* Eric Herman (Treasurer)
 
 ### Advisory board
 

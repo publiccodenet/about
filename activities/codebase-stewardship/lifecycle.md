@@ -38,3 +38,12 @@ The code will stay available.
 
 Codebases can come out of the attic with renewed community interest.
 Since the codebases might adhere to outdated standards it will need to go back into incubation before it can be returned to full stewardship.
+
+## Tools
+
+To track where in the lifecycle a codebase is, we use a project in Odoo.
+The process for that is detailed in [codebases in Odoo](odoo-codebases.md).
+
+## Public list
+
+A public list of the codebases we work with, by lifecycle status, can be [viewed at our website](https://publiccode.net/codebases/).
