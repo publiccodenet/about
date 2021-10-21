@@ -45,9 +45,9 @@ If the employee agrees to the terms and has no further questions, offboarding ta
 * You
 * In case of your own device you will delete information that is either marked as SECRET or confidential
 * Let people in the open source communities you worked with your are leaving
-* Have a debrief with
+* Have a debrief with one of the directors
 
 ## Debrief (optional)
-During time of employement the employee has a unique perspective on the organzation and its people. It is therefore valuable to organize a debrief where (if employee feels comfortable with it) to provide constructive feedback on the things the employee has learned and what the employee thinks could be approved upon.
+During time of employment the employee has a unique perspective on the organization and its people. It is therefore valuable to organize a debrief where (if employee feels comfortable with it) to provide constructive feedback on the things the employee has learned and what the employee thinks could be approved upon.
 
 The debrief can be in either a meeting or through email whatever form the employee is most comfortable with.
