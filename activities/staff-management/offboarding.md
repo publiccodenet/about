@@ -20,18 +20,8 @@ Before the end date the following has to be determined:
 
 The operations coordinator needs to delete user accounts and revoke user privileges.
 
-Before deleting the user from the Google Workplace make sure you first delete the user account and/or revoke privileges from the following applications:
-
-- Jitsi
-- Revoke Github privileges from organization account.
-- Mailman
-- Miro
-- Planable
-- Plausible
-- Nextcloud
-- Odoo
-- Tentoo
-- Any user accounts on virtual machines that may have been used
+Before deleting the user from the Google Workplace make sure you first delete the user account and/or revoke privileges from the [https://about.publiccode.net/activities/tool-management/#current-tools](current tools) in use. 
+Also check if theire are any user accounts on virtual machines that may need to be deleted.
 
 ### Transferring ownership of Google documents when deleting a user
 When you delete a user from Google Workplace the software will ask to transfer ownership of the
