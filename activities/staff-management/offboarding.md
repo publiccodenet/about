@@ -41,7 +41,7 @@ Google documents towards another user. Make sure you to do this or else you will
 
 If the employee agrees to the terms and has no further questions, offboarding takes place as follows:
 
-* All belongings of the foundations are returned or you have made an arrangement with your manager whether you can keep it or pay to keep these items
+* All belongings of the Foundation for Public Code are returned or you have made an arrangement with your manager whether you can keep it or pay to keep these items
 * In case of your own device you will delete information that is either marked as SECRET or confidential
 * Let people in the open source communities you worked with your are leaving
 * Have a debrief with one of the directors
