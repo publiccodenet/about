@@ -10,7 +10,7 @@ After an employee has resigned the director sends a acknowledgement of the resig
 Before the end date the following has to be determined:
 
 * Determine if employee has remaining holidays or if the employee has remaining unpaid leave
-* Ask employee to return laptop or other hardware in loan of the foundation or agree on a payment by employee to keep these. If specific arrangements have been made make sure they are documented
+* Ask employee to return any equipment in loan from the organization or agree on a payment by employee to keep these. If specific arrangements have been made make sure they are documented
 * Calculate the final salary and provide details for the end calculation to employee
 * Ask employee to hand over access keys to office
 * Ask employee if they have downloaded their payroll slips and year summaries from Tentoo
