@@ -34,7 +34,7 @@ While widespread, global membership is the long-term goal of the Foundation, we 
 So going forward, we will first establish partnerships with interested public organizations, and help them prepare to participate in the codebase stewardship collaboration process.
 By building networks of collaboration with partners at the municipal and regional levels, it will become easier to bring the case for membership to national governments and larger states or provinces, as many of the gains in sharing public software across cities are recognized most easily by these ‘parent’ organizations.
 
-A focus for the partnership program will be global diversification, with an interest in discovering and supporting existing open software infrastructure that has been developed by cities and their vendors regionally, which solves a problem for the most potential replicating organizations.
+A focus for the partnership program will be global diversification, with an interest in discovering and supporting existing open software infrastructure that has been developed by cities and their vendors regionally, and which solves a problem for multiple other potential replicating organizations.
 In addition, we will seek multiple partners who are going to tender with a similar large procurement and attempt to build a network of public collaboration around a shared codebase.
 
 | One year | Five years | Twenty years |
