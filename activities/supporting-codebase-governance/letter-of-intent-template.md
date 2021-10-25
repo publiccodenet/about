@@ -20,7 +20,7 @@ Skipping it makes it weaker, but it has the advantage that it can be easier to s
 
 ## Template
 
-Dear Mr/Mrs/Ms. NAME OF RECEIVER:
+Dear Mr/Mrs/Ms/Mx. NAME OF RECEIVER:
 
 This letter declares COLLABORATING INSTITUTION'S intent to collaborate on the codebase entitled "TITLE OF CODEBASE,".
 
