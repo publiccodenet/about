@@ -57,7 +57,7 @@ We are moving conversations forward with national governments in Europe and Nort
 
 ### Activities and processes
 
-As an open organization, we approach our stewardship activities themselves as open process codebases.
+As an open organization, we approach our stewardship activities as open process codebases.
 We continue to develop activities like the governance game that serve to help public organizations transform their capabilities and capacities toward participation in public code ecosystemic collaboration and codebase co-development.
 While we may work to prototype and refine these processes, they are ultimately held in stewardship as process product codebases that we aim to provide to ecosystem participants, such as private consulting practitioners and transformation agencies within public organizations.
 We will develop a certification process around these activities, including our core stewardship processes, that will allow practitioners, both public and private, to offer these activities as commercial or internal services.
