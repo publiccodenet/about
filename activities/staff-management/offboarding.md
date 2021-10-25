@@ -20,10 +20,11 @@ Before the end date the following has to be determined:
 
 The operations coordinator needs to delete user accounts and revoke user privileges.
 
-Before deleting the user from the Google Workplace make sure you first delete the user account and/or revoke privileges from the [https://about.publiccode.net/activities/tool-management/#current-tools](current tools) in use. 
+Before deleting the user from the Google Workplace make sure you first delete the user account and/or revoke privileges from the [https://about.publiccode.net/activities/tool-management/#current-tools](current tools) in use.
 Also check if theire are any user accounts on virtual machines that may need to be deleted.
 
 ### Transferring ownership of Google documents when deleting a user
+
 When you delete a user from Google Workplace the software will ask to transfer ownership of the
 Google documents towards another user. Make sure you to do this or else you will loose documents.
 
@@ -37,6 +38,7 @@ If the employee agrees to the terms and has no further questions, offboarding ta
 * Have a debrief with one of the directors
 
 ## Debrief (optional)
+
 During time of employment the employee has a unique perspective on the organization and its people. It is therefore valuable to organize a debrief where (if employee feels comfortable with it) the employee has the option to provide constructive feedback on the things the employee has learned and what the employee thinks could be approved upon.
 
 The debrief can be in either a meeting or through email whatever form the employee is most comfortable with using.
