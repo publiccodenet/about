@@ -26,15 +26,6 @@ You can use the scripts:
 * `./script/serve.sh` to serve the site locally with livereload
 * `./script/test.sh` to run the tests including markdownlint and htmlproofer
 
-### Branches and Travis CI build status
-
-All branches are tested with every change for broken links, so if some site we link to on the internet goes down the 'Build Status' down here will go red.
-
-| Branch | Build Status | |
-|----|----|----|
-| `develop` | [![Build Status](https://travis-ci.com/publiccodenet/about.svg?branch=develop)](https://travis-ci.com/publiccodenet/about/branches) | Version from which we work |
-| `main` | [![Build Status](https://travis-ci.com/publiccodenet/about.svg?branch=main)](https://travis-ci.com/publiccodenet/about/branches) | Deployed to <https://about.publiccode.net>, once a week |
-
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
