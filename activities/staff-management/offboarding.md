@@ -5,7 +5,7 @@ explains: how offboarding is managed
 
 # Offboarding and payroll administration
 
-After an employee has resigned the director sends a acknowledgement of the resignation and determine the official end date for the employee.
+After an employee has resigned the manager sends a acknowledgement of the resignation and determine the official end date for the employee.
 
 Before the end date the following has to be determined:
 
@@ -39,6 +39,6 @@ If the employee agrees to the terms and has no further questions, offboarding ta
 
 ## Debrief (optional)
 
-During time of employment the employee has a unique perspective on the organization and its people. It is therefore valuable to organize a debrief where (if employee feels comfortable with it) the employee has the option to provide constructive feedback on the things the employee has learned and what the employee thinks could be approved upon.
+During time of employment the employee has a unique perspective on the organization and its people. It is therefore valuable to organize a debrief where (if employee feels comfortable with it) the employee has the option to provide constructive feedback on the things the employee has learned and what the employee thinks could be improved upon.
 
 The debrief can be in either a meeting or through email whatever form the employee is most comfortable with using.
