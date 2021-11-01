@@ -12,6 +12,7 @@ To encourage meeting efficiency, the strategic council has maximum 5 members. Th
 
 * Leslie Hawthorn, chair (Manager - Vertical Community Strategy, Red Hat Open Source Program Office)
 * Gabriella Gómez-Mont (Principal at Experimentalista, former Chief Creative Officer of Mexico City)
+* Dan Hill (Director of Strategic Design, Vinnova)
 
 ## Membership of the strategic council
 
