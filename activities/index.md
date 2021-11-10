@@ -15,6 +15,7 @@ Activities that support the above as well as make staff operations work:
 * [Codebase stewardship assessment](codebase-stewardship-assessment/index.md)
 * [Communication](communication/index.md)
 * [Community calls](community-calls/index.md)
+* [Conflicts of interest](conflict-of-interest/index.md)
 * [Documentation](documentation/index.md)
 * [Events](events/index.md)
 * [Explaining codebase stewardship](explaining-codebase-stewardship/index.md)

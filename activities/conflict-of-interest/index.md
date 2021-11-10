@@ -2,9 +2,14 @@
 type: Index
 ---
 
-# Conflict of Interest
+# Conflict of interest
 
-A Conflict of Interest is defined as any situation in which a board of directors or individual is in a position to exploit their professional or official capacity in some way for personal gain.
+The [Code of conduct](../../organization/staff-code-of-conduct.md) requires staff members to declare potential conflicts of interest.
 
-* [Conflict of Interest policy](../conflict-of-interest/policy.md)
-* [Disclosure form](../conflict-of-interest/disclosure-form.md)
+## Review declaration
+
+Managers are required to review any declarations of a potential conflicts of interest, by their staff.
+
+If as a manager you are confident the staff member's declaration does not create a situation in which serving the declared interest would work against the interests of the Foundation for Public Code, you should approve the declaration in email or writing.
+
+Otherwise, as soon as possible, schedule a meeting with the staff member to discuss how to resolve the situation.
