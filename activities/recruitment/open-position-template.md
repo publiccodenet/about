@@ -7,7 +7,7 @@ type: Resource
 This is the template from which we generate new job descriptions.
 Square brackets indicate text that should be customized for each job description.
 
-We try to align our jobs and roles with the Dutch national government role structure ([Functiegebouw Rijksoverheid](https://www.functiegebouwrijksoverheid.nl/)).
+We can try to align our jobs and roles with the Dutch national government role structure ([Functiegebouw Rijksoverheid](https://www.functiegebouwrijksoverheid.nl/)).
 
 Postions are posted in the repository [`publiccode.net` folder `careers`](https://github.com/publiccodenet/publiccode.net/tree/develop/careers).
 
