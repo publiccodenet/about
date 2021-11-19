@@ -9,7 +9,14 @@ Square brackets indicate text that should be customized for each job description
 
 We try to align our jobs and roles with the Dutch national government role structure ([Functiegebouw Rijksoverheid](https://www.functiegebouwrijksoverheid.nl/)).
 
+Postions are posted in the repository [`publiccode.net` folder `careers`](https://github.com/publiccodenet/publiccode.net/tree/develop/careers).
+
 ```markdown
+---
+type: Position
+excerpt: [Short one sentence description] ([Part or full time], Amsterdam)
+---
+
 # [Job title] [(role structure equivalent role)]
 
 Come help producers of open source software for public use – such as in cities and other public organizations – develop and maintain software and policy together.
