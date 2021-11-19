@@ -6,7 +6,9 @@ type: Resource
 
 This is the template from which we generate new job descriptions. Square brackets indicate text that should be customized for each job description.
 
-## [Job title]
+We try to align our jobs and roles with the Dutch national government function structure ([Functiegebouw Rijksoverheid](https://www.functiegebouwrijksoverheid.nl/)).
+
+## [Job title] [(Dutch national government equivalent role)]
 
 Come help producers of open source software for public use – such as in cities and other public organizations – develop and maintain software and policy together. The Foundation for Public Code provides review of codebases that are in our stewardship to help developers build trusted and reliable software that can be widely reused and foster a strong community around it.
 
@@ -34,17 +36,18 @@ You should:
 * have international experience
 * [for codebase steward roles: be an active participant in the codebase community you support]
 
-### What we expect from the [Job title]
+### Job description
 
-We expect our new [Job title] to:
-[bespoke text, starting with a verb]
-...
+This role is an [job title from the function structure at this scale] as defined in the [Functiegebouw Rijksoverheid]([URL to the job, for example https://www.functiegebouwrijksoverheid.nl/functiegebouw/functiefamilies/bedrijfsvoering/medewerker-administratie]) (the Dutch national government standardised role descriptions).
+
+> [Translated job description]
 
 ## More information about this position
 
 This is a [part or full] time role (40 hours/week) in our main offices in Amsterdam, the Netherlands. Assistance in relocation is possible.
 
-This is a one year contract, with an option to extend. Compensation is competitive as well as in line with the public mission of the organization.
+This is a one year contract, with an option to extend.
+Compensation is based on Scale [Scale] of the Dutch national government salary framework at [amount at first step of the scale] excluding holiday pay and with generous paid vacation.
 
 ## More about the application process
 
