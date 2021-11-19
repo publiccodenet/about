@@ -62,6 +62,7 @@ Assistance in relocation is possible.
 This is a one year contract, with an option to extend.
 Compensation is based on Scale {Scale number} of the Dutch national government salary framework at {amount at first step of the scale} excluding holiday pay and with generous paid vacation.
 
+{We welcome more senior applicants, which could adjust the job description and scale.}
 
 ## More about the application process
 
