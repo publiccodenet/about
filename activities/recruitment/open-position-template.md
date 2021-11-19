@@ -49,7 +49,7 @@ This role is an [job title from the function structure at this scale] as defined
 
 ## More information about this position
 
-This is a [part or full] time role (40 hours/week) in our main offices in Amsterdam, the Netherlands.
+This is a [part or full] time role ([hours/week]) in our main offices in Amsterdam, the Netherlands.
 Assistance in relocation is possible.
 
 This is a one year contract, with an option to extend.
