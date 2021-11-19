@@ -7,10 +7,10 @@ type: Resource
 This is the template from which we generate new job descriptions.
 Square brackets indicate text that should be customized for each job description.
 
-We try to align our jobs and roles with the Dutch national government function structure ([Functiegebouw Rijksoverheid](https://www.functiegebouwrijksoverheid.nl/)).
+We try to align our jobs and roles with the Dutch national government role structure ([Functiegebouw Rijksoverheid](https://www.functiegebouwrijksoverheid.nl/)).
 
 ```markdown
-# [Job title] [(Dutch national government equivalent role)]
+# [Job title] [(role structure equivalent role)]
 
 Come help producers of open source software for public use – such as in cities and other public organizations – develop and maintain software and policy together.
 The Foundation for Public Code provides review of codebases that are in our stewardship to help developers build trusted and reliable software that can be widely reused and foster a strong community around it.
