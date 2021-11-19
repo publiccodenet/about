@@ -42,7 +42,7 @@ We expect our new [Job title] to:
 
 ## More information about this position
 
-This is a full time role (40 hours/week) in our main offices in Amsterdam, the Netherlands. Assistance in relocation is possible.
+This is a [part or full] time role (40 hours/week) in our main offices in Amsterdam, the Netherlands. Assistance in relocation is possible.
 
 This is a one year contract, with an option to extend. Compensation is competitive as well as in line with the public mission of the organization.
 
