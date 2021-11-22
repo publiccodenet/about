@@ -35,6 +35,23 @@ Followed by the name of the resource:
 
 Followed by the content of the resource.
 
+#### Adding templates
+
+For templates you can use code blocks. You can make a Markdown codeblock opened by:
+
+````markdown
+```markdown
+````
+
+and closed by:
+
+````markdown
+```
+````
+
+If you want to indicate where things need to be filled in you can use curly braces, `{` and `}`, to show where the content can be added.
+Curly braces are preferred over square brackets since they do not clash with markdown syntax and over normal brackets as they stand out more.
+
 ### Further reading section
 
 At the end of your resource you can add a 'Further reading' section with relevant links to help people understand this topic or our rationale better.
