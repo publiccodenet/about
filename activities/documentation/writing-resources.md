@@ -49,7 +49,8 @@ and closed by:
 ```
 ````
 
-By using curly braces `{` and `}` you can clearly indicate where things need to be filled in whilst not clashing with markdown syntax.
+If you want to indicate where things need to be filled in you can use curly braces, `{` and `}`, to show where the content can be added.
+Curly braces are preferred over square brackets since they do not clash with markdown syntax and over normal brackets as they stand out more.
 
 ### Further reading section
 
