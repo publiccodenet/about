@@ -19,7 +19,7 @@ Activities that support the above as well as make staff operations work:
 * [Documentation](documentation/index.md)
 * [Events](events/index.md)
 * [Explaining codebase stewardship](explaining-codebase-stewardship/index.md)
-* [Finance management](finance-management/index.md)
+* [Finance management](financial-administration/index.md)
 * [Live streaming](live-streaming/index.md)
 * [Maintenance of the Standard for Public Code](standard-maintenance/index.md)
 * [Member relations](member-relations/index.md)
