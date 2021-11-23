@@ -95,7 +95,7 @@ Roles:
 * [Coordinator](#coordinator) operations:
   Deborah Meibergen
 
-### Management`
+### Management
 
 Responsibilities:
 
