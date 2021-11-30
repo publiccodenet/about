@@ -9,20 +9,21 @@ type: Resource
 A [product](../../glossary/product-definition.md) starts with an idea which reflects a need or provides a solution to specific problem.
 In the context of public code the indented product often supports the management and or execution of public policy.
 
-The process from and initial idea to a fully developed product is an evolutionary process supported by a variety of development methodologies and management frameworks (see further reading).
-A product is constantly refined, altered and improved.
+The development from and initial idea to a fully featured product is an evolutionary process supported by a variety of development methodologies and management frameworks (see further reading).
+Even seemingly fully featured software, as a product, is constantly refined, altered and improved.
+Like roads or other infrastructure which require continuous maintenance, it may be more useful to think of software as a process more than a product.
 This entire process is often referred to as the product life cycle.
 
 ## Product stewardship activities in the product life cycle
 
-In the context of codebase stewardship the goal of product stewardship is to support codebases and their communities.
+In the context of codebase stewardship, the goal of product stewardship is to support codebases and their communities.
 This helps them build and grow a viable and sustainable ecosystem around a codebase.
 Then a community can use shared resources and knowledge to support the product life cycle for the duration for its lifespan.
 
 As codebase stewards we work with different levels of codebases that implement products which differ in product maturity.
 Codebases which started out being developed and used in a single organization have different needs and dynamics than codebases used by a variety of organizations and or functional contexts.
 
-When a codebase is being replicated or used by more than one organization a community faces the following challenges in order to support the product life cycle.
+When a codebase is being developed collaboratively, replicated, or used by more than one organization a community faces numerous challenges in order to support the product life cycle.
 
 How does a community:
 
@@ -30,16 +31,16 @@ How does a community:
 * Prioritize and estimate features needed?
 * Finance and organize the development needed to be done?
 * Share and community with each other and there stakeholders?
-* Handle conflict of interest?
+* Handle conflicting needs?
 
 All these challenges are related to how a community govern its codebase and community.
-As codebase stewards we help communities explore and answer these question by supporting and coaching them in the different phases of the product life cycle.
+As codebase stewards we help communities explore and answer these question by supporting and coaching them throughout the product life cycle.
 
 Codebase stewards can support product development by helping a community to:
 
-* develop a product manifest or product description clarifying what the purpose and goal of a codebase implementing a product is, what problem(s) it solves and what value it provides towards its users.
-* take product accessibility into account using the design.
-* adopt a process and method which helps them to discuss, describe and prioritize on product features.
+* develop a product manifest or product description clarifying what the purpose and goal of a codebase implementing a product is, what problem(s) it solves and what value it provides towards its users
+* take product accessibility into account using the design
+* adopt a process and method which helps them to discuss, describe and prioritize on product features
 
 Additionaly, the codebase stewards can support by organizing a workshop that helps the community explore business models and financing.
 Such a workshop may provide inside on how further procurement and development can be funded and to include software vendors into the community to help provide and sell services around a product whilst collaborating in the open with other stakeholders.
