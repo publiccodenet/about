@@ -47,25 +47,17 @@ Such a workshop may provide inside on how further procurement and development ca
 
 ## Product development assets
 
-| Asset | Description | Link | Product Life cycle phase |
-| -------- | -------- | -------- | -------- |
+| Asset | Description | Link |
+| -------- | -------- | -------- |
 | Product Manifest or Description  | What is the purpose and goal of a product.
-What problem(s) does it solve and what value does it provide to its users | LINK     | Conceive (1) & Design (2) |
-| Product Roadmap | A high level overview of features projected through  time  describing the future direction of the development of the product.
-It also serves an archival purpose so newcomers can see how the product development has progressed through time| A visual, high-level roadmap including goals, milestones set in time.
-A [roadamp example](https://signalen.org/roadmap)| Design(2), Realize(3), All phases |
-|Product Backlog | A publicly visible shared product backlog which contains a description of categorized and prioritized features (epics and user stories) which can be related to containing procurable work packages | [Product Backlog](https://github.com/publiccodenet/product-steering/projects/1) part of [product-steering repository template](https://github.com/publiccodenet/product-steering)| Design(2), Realize(3), All phases |
-|Feature Request Template | An instruction inside the codebase explaining how to request features to be considered to be developed.
-The template SHOULD include a detailed description of a feature (user story) which supports developers and product stakeholders to be able to design, develop and procure this feature.
-| [Feature Request Template](https://github.com/publiccodenet/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md) part of [product-steering repository template](https://github.com/publiccodenet/product-steering) | Design(2), Realize(3), Service(4), All phases |
-| Governance exercise | The governance exercise is designed to help civil servants develop a shared understanding and vocabulary of how to make open source projects successful in a government organization.
-| [LINK](https://about.publiccode.net/activities/supporting-codebase-governance/exercise/) | Design(2), Realize(3), Service(4), All phases|
-| Customized governance game | A customized governance workshop can be used for a codebase that already has some form of governance in place, or is considering a draft proposal.
-Can also be used to focus on a single aspect of governance for example, product management | [LINK](https://about.publiccode.net/activities/supporting-codebase-governance/customized-governance-workshop/)|Design(2), Realize(3), Service(4), All phases|
-| Workshop "Mapping business models enabled by a codebase" | Have a collaborative working session with new or existing community members to map out potential different business models that can be created around a given codebase.
-| [Link](https://about.publiccode.net/activities/workshops/mapping-business-models/) | Realize (3), Service (4), All phases
-| Workshop "Mapping risk and service level agreements workshop" | Have a collaborative working session with new or existing community members to map out, for a given codebase, potential different risks when using the codebase in production, as well as approaches to service level agreements.
-|[Link](https://about.publiccode.net/activities/workshops/mapping-risk-and-service-level-agreements/) | Service (4), All phases|
+What problem(s) does it solve and what value does it provide to its users |  |
+| Product Roadmap | A high level overview of features projected through  time  describing the future direction of the development of the product. It also serves an archival purpose so newcomers can see how the product development has progressed through time| A visual, high-level roadmap including goals, milestones set in time.  A [roadmap example](https://signalen.org/roadmap) |
+|Product Backlog | A publicly visible shared product backlog which contains a description of categorized and prioritized features (epics and user stories) which can be related to containing procurable work packages | [Product Backlog](https://github.com/publiccodenet/product-steering/projects/1) part of [product-steering repository template](https://github.com/publiccodenet/product-steering) |
+|Feature Request Template | An instruction inside the codebase explaining how to request features to be considered to be developed. The template SHOULD include a detailed description of a feature (user story) which supports developers and product stakeholders to be able to design, develop and procure this feature.  | [Feature Request Template](https://github.com/publiccodenet/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md) part of [product-steering repository template](https://github.com/publiccodenet/product-steering) |
+| Governance exercise | The governance exercise is designed to help civil servants develop a shared understanding and vocabulary of how to make open source projects successful in a government organization. | [codebase governance exercise](https://about.publiccode.net/activities/supporting-codebase-governance/exercise/) |
+| Customized governance game | A customized governance workshop can be used for a codebase that already has some form of governance in place, or is considering a draft proposal. Can also be used to focus on a single aspect of governance for example, product management | [codebase governance workshop](https://about.publiccode.net/activities/supporting-codebase-governance/customized-governance-workshop/) |
+| Workshop "Mapping business models enabled by a codebase" | Have a collaborative working session with new or existing community members to map out potential different business models that can be created around a given codebase. | [mapping business models workshop](https://about.publiccode.net/activities/workshops/mapping-business-models/) |
+| Workshop "Mapping risk and service level agreements workshop" | Have a collaborative working session with new or existing community members to map out, for a given codebase, potential different risks when using the codebase in production, as well as approaches to service level agreements. |[mapping risk workshop](https://about.publiccode.net/activities/workshops/mapping-risk-and-service-level-agreements/) |
 
 ## Further reading
 
