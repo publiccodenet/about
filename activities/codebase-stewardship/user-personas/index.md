@@ -12,8 +12,8 @@ The aim of this set of templates is to be used by public code professionals.
 
 User personas templates:
 
-* [Project manager at a municipality. Civil servant](/project-manager-municipality.md)
-* [Project manager at an association of public entities. Civil servant](/project-manager-association.md)
-* [Communication manager at an association of public entities. Civil servant](/communications-manager.md)
-* [Policy maker. Civil servant](/policy-maker-officer.md)
-* [Vendor. Owner of a small software development company](/vendor-owner-developer.md)
+* [Project manager at a municipality. Civil servant](project-manager-municipality.md)
+* [Project manager at an association of public entities. Civil servant](project-manager-association.md)
+* [Communication manager at an association of public entities. Civil servant](communications-manager.md)
+* [Policy maker. Civil servant](policy-maker-officer.md)
+* [Vendor. Owner of a small software development company](vendor-owner-developer.md)
