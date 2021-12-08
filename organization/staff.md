@@ -61,7 +61,6 @@ Roles:
 
 * [Coordinator](#coordinator) communications:
   Elena Findley-de Regt
-  * Storyteller
 * Designer:
   Ryan Conlan
   (contractor Angelplasma)
