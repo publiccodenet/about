@@ -12,7 +12,6 @@ Activities that support the above as well as make staff operations work:
 
 * [Board of directors support](board-support/index.md)
 * [Codebase auditing](codebase-auditing/index.md)
-* [Codebase stewardship assessment](codebase-stewardship-assessment/index.md)
 * [Communication](communication/index.md)
 * [Community calls](community-calls/index.md)
 * [Conflicts of interest](conflict-of-interest/index.md)
