@@ -30,7 +30,8 @@ To this end we will expand our capabilities and capacity to continuously produce
 
 The Foundation for Public Code is an Association, which means that it is owned by its members.
 Only public administrations can become members, which will make them part owners of the Foundation, participating directly in its governance and sustainability.
-While widespread, global membership is the long-term goal of the Foundation, we recognize that, for public organizations, the hurdles to making such a commitment are significant.
+Membership of globally widespread public organizations is the long-term goal of the Foundation.
+However, we recognize that the hurdles for them to make such a commitment are significant.
 So going forward, we will first establish partnerships with interested public organizations, and help them prepare to participate in the codebase stewardship collaboration process.
 By building networks of collaboration with partners at the municipal and regional levels, it will become easier to bring the case for membership to national governments and larger states or provinces, as many of the gains in sharing public software across cities are recognized most easily by these ‘parent’ organizations.
 
