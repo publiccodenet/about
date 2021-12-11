@@ -10,7 +10,7 @@ type: Resource
 | ------------------------------------- | ---------------------------------- | -------- | --- |
 | 36, Barcelona | Communications Manager at an association of public entities                               | Lives with her partner     |   €50K  |
 
-![](https://i.imgur.com/hdirkcm.jpg)
+![Picture of Anna](https://i.imgur.com/hdirkcm.jpg)
 
 ### Personality
 
