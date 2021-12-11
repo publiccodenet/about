@@ -10,7 +10,7 @@ type: Resource
 | ------------------------------------- | ---------------------------------- | -------- | --- |
 | 41, Essen (Germany) | Project Manager at an association of municipalities                               |  Married + 2 teen kids  |   €70K |
 
-![](https://i.imgur.com/gXi8mJP.jpg)
+![Picture of Lisa](https://i.imgur.com/gXi8mJP.jpg)
 
 ### Personality
 
