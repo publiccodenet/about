@@ -10,7 +10,7 @@ type: Resource
 | ------------------------------------- | ---------------------------------- | -------- | --- |
 | 44, Delft | Project Manager at Municipality of Rotterdam                               | Married + 2 young kids     |   €80K  |
 
-![](https://i.imgur.com/TPpxjGK.jpg)
+![Picture of Bas](https://i.imgur.com/TPpxjGK.jpg)
 
 ### Personality
 
