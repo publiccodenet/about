@@ -10,7 +10,7 @@ type: Resource
 | ------------------------------------- | ---------------------------------- | -------- | --- |
 | 40, Strasbourg | Owner of a 10 people company that develops software for public organizations                               | Married    |   Depends on projects  |
 
-![](https://i.imgur.com/9yY4LTZ.jpg)
+![Picture of Michel](https://i.imgur.com/9yY4LTZ.jpg)
 
 ### Personality
 
