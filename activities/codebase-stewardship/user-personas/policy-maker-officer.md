@@ -10,7 +10,7 @@ type: Resource
 | ------------------------------------- | ---------------------------------- | -------- | --- |
 | 34, Rome | Policy & Engagement Officer                                | Single    |   45k  |
 
-![](https://images.unsplash.com/photo-1605462863863-10d9e47e15ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3870&q=80)
+![Picture of Mario](https://images.unsplash.com/photo-1605462863863-10d9e47e15ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3870&q=80)
 
 ### Personality
 
