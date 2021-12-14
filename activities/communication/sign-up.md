@@ -11,12 +11,20 @@ Share the link to this form whenever we communicate with people who might want t
 
 ## Update contacts
 
-Update Odoo Contacts before sending out [invitations to community calls](../standard-maintenance/preparing-community-call.md) or the newsletter. The notes at the bottom of the survey will say when Contacts was last updated. In the top right corner of the survey is a button showing how many answers the survey has. Click it to see all the people that have signed up and for what. Download a file of all new contacts by:
+Update Odoo Contacts before sending out [invitations to community calls](../standard-maintenance/preparing-community-call.md) or the newsletter.
+The notes at the bottom of the survey will say when Contacts was last updated.
+In the top right corner of the survey is a button showing how many answers the survey has.
+Download a file of all new contacts by:
 
-* selecting all the people (survey responses) with a 'Created on' date since the contacts were last updated
-* clicking the download button in the top left corner
+1. Click Participations > Detailed answers in the top toolbar.
+2. Unfold Newsletter and community calls lines to see which ones are new by comparing the date in 'Created on' with the log note date of when the contacts were last updated. Keep all the new one unfolded and collapse the old ones again.
+3. Check the square to the left above all the lines to check all unfolded squares at once.
+4. Click Action > Export.
+5. Add Suggested answer/Suggested value and Text answer.
+6. Click Export in the bottom left and open the file.
 
-With the details from the file, update existing contacts or create new ones. Use the tags 'Newsletter', 'Community Call / Foundation', 'Community Call /Standard' and 'SendValuable' to store their preferences for being contacted.
+With the details from the file, update existing contacts or create new ones.
+Use the tags 'Newsletter', 'Community Call / Foundation', 'Community Call /Standard' and 'SendValuable' to store their preferences for being contacted.
 
 ## Log the update
 
