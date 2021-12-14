@@ -14,6 +14,12 @@ Brief description goes here.
 | ---------- | -------------- | -------------- | ------------------- | ------------ |
 | Link       | Link           | Name (no tag!) | Link                | Link         |
 
+## Checks
+
+| Purpose check | Code check | Community check   | Scalability check |
+| ------------- | ---------- | ----------------- | ------------------|
+|               |            |                   |                   |
+
 ## Background
 
 Brief background goes here.

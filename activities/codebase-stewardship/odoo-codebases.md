@@ -37,10 +37,38 @@ Codebases can be moved here from Research, Identify, Commit or Assess and can al
 ### Identify
 
 Codebases are moved to Identify when at least two Foundation for Public Code staff members think these are interesting codebases for stewardship.
+This is done by answering questions about purpose, code, community and scalability and documents it in the Odoo card.
+The questions below are a guide of what to look at and all of them may not be applicable to every codebase.
 
 A codebase exits Identify for Commit when codebase stewards have received Foundation approval for possible stewardship of the codebase.
 
 Codebases may also move to Backburner or Archive at any time.
+
+#### Purpose
+
+* How does it relate to our mission?
+* What is the core features?
+* What makes it public code?
+
+#### Code
+
+* What is the basic state of the code health?
+* Are they using and referring to an issue tracker?
+* What seems to be the balance between maintainers and contributors?
+
+#### Community
+
+* Who is in the community?
+* Where do they speak?
+* How is the codebase governed?
+* Does it look healthy?"
+
+#### Scalability
+
+* What is the value proposition?
+* How is it funded/who is financing it?
+* Is the product scalable to other contexts?
+* Are there competing/similar existing products?
 
 ### Commit
 

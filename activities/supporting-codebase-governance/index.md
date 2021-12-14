@@ -18,7 +18,7 @@ Codebase governance is strictly limited to the codebase. The governance of the c
 
 Governance of implementations is whatever contextual arrangement is made to enable a local implementaiton. This can include contracting of marketing parties, collective procurements, or service agreements between municipal departments. For example, this could include a joint procurement by several municipalities, coordinated by an association of municipalities, for a consortium of market parties (including development, maintainenance and hosting parties).
 
-Governance of implementations can vary strongly, ranging from one municipality who does everything in house, to municipalities who interact with a single market party for all their needs and questions. The market consultation is part of defining what these relationships should or could look like.
+Governance of implementations can vary strongly, ranging from one municipality who does everything in house, to municipalities who interact with a single market party for all their needs and questions.
 
 Below is a visual representation summarizing the information above.
 
@@ -32,6 +32,7 @@ Several basic questions need to be answered regardless of the [methods](../works
   * Can certain issues only be decided by certain community members?
   * Can others be distributed and/or delegated to the wider community or specialists within the community?
   * Who decides which issues are reserved or delegated, and how can community members participate in the decision making process?
+  * Do you want to use a [letter of intent](letter-of-intent-template.md) to show the commitment of an organization joining the community?
 
 ## Designing a governance model
 
@@ -76,6 +77,7 @@ These are some tools we've developed to make codebase governance easier:
 
 * The [governance game](game/index.md) and the [governance exercise](exercise/index.md) are useful tools to employ early in the process. It helps people reflect on what governances means for a codebase, the complexity around it, and suggests things worth considering during set up. The game is also useful as a tool for visualizing how a current governance model is set up or could be changed in [a customized governance workshop](customized-governance-workshop/index.md).
 * [Technical roadmap template](technical-roadmap-template.md).
+* [Template for a letter of intent of joining a codebase](letter-of-intent-template.md).
 
 ## Further reading
 

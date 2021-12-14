@@ -18,7 +18,7 @@ Staff members must immediately declare:
 * a personal interest that might impair their independence
 * any other potential conflict of interest
 
-Outside activities covered by these rules, paid or unpaid, must first be approved by your manager.
+Outside activities covered by these rules, paid or unpaid, must first be [approved](../activities/conflict-of-interest/index.md) by your manager.
 
 ## Receiving gifts
 
