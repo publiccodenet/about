@@ -52,7 +52,7 @@ The Foundation for Public Code will always work in accordance with the law ([Wet
 
 Foundation for Public Code staff are always paid while sick (100% the first year of sickness and 70% the second year).
 
-When an employee is sick for a longer time [an ARBO (company) doctor](https://www.arboned.nl/en/absence-support/company-doctor-as-specialist) will be involved. Our ARBO service is [RegioPoortwachters](https://www.regiopoortwachters.nl/). 
+When an employee is sick for a longer time [an ARBO (company) doctor](https://www.arboned.nl/en/absence-support/company-doctor-as-specialist) will be involved. Our ARBO service is [RegioPoortwachters](https://www.regiopoortwachters.nl/).
 
 A case manager from RegioPoortwachters will reach out to inquire about the sick employee approximately 10 days after the initial sickness report in the insurance portal. The ARBO service portal is integrated with our insurance portal.
 
