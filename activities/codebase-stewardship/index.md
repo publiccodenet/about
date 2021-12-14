@@ -29,6 +29,7 @@ We can provide codebase stewardship from the beginning of the development or for
 * [community assets](community-assets.md)
 * [product assets needed during early incubation](product-assets-for-early-incubation.md)
 * [guide for using Odoo to track our codebases](odoo-codebases.md)
+* [user personas templates](/user-personas/index.md)
 
 ### Templates
 
