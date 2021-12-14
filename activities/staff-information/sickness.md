@@ -9,9 +9,7 @@ redirect_from:
 
 If you are feeling sick you might not be able to perform your work, or even worse jeopardise the stability of the organization.
 When sick you might make important mistakes or you can be contagious and cause more staff absence.
-
-Foundation for Public Code staff are always paid while sick (100% the first year of sickness and 70% the second year).
-The Foundation for Public Code will work together with staff to support their return to work as soon as possible, in accordance with the law ([Wet Verbetering Poortwachter](https://www.arboportaal.nl/onderwerpen/wet-verbetering-poortwachter)) and in collaboration with the occupational health and safety service ([arbo-dienst](https://nl.wikipedia.org/wiki/Arbodienst)) contracted by the Foundation. 
+Foundation for Public Code staff are always paid while sick.
 
 ## Can you go to work
 
@@ -43,12 +41,20 @@ This enables us to know you are back in and avoids action by the arbo-dienst.
 
 ## Sick leave management
 
+### Short-term sick leave management
+
 The chief executive immediately reports the sick leave in [the portal of our absenteeism insurance](https://mijnwerkgeversportaal.acumen.nl/index3.html).
 As soon as the employee is better it needs to be reported in the same portal. This can also be done retroactively if the chief executive is not present on the day the employee goes back to work.
 
 ### Long-term sick leave management
 
-When an employee is sick for a longer time [an ARBO (company) doctor will be involved](https://www.arboned.nl/en/absence-support/company-doctor-as-specialist). Our ARBO service is [RegioPoortwachters](https://www.regiopoortwachters.nl/). A case manager from RegioPoortwachters will reach out to inquire about the sick employee approximately 10 days after the initial sickness report in the insurance portal. The ARBO service portal is integrated with our insurance portal.
+The Foundation for Public Code will always work in accordance with the law ([Wet Verbetering Poortwachter](https://www.arboportaal.nl/onderwerpen/wet-verbetering-poortwachter)). Below is a non-authoritative and supporting summary in English.
+
+Foundation for Public Code staff are always paid while sick (100% the first year of sickness and 70% the second year).
+
+When an employee is sick for a longer time [an ARBO (company) doctor](https://www.arboned.nl/en/absence-support/company-doctor-as-specialist) will be involved. Our ARBO service is [RegioPoortwachters](https://www.regiopoortwachters.nl/). 
+
+A case manager from RegioPoortwachters will reach out to inquire about the sick employee approximately 10 days after the initial sickness report in the insurance portal. The ARBO service portal is integrated with our insurance portal.
 
 The ARBO service will plan a meeting between the employee and an ARBO doctor to assess the employee's situation. Based on the assessment, the employee will start reintegration when their situation allows. The ARBO service will draft a [reintegration plan (plan van aanpak)](https://business.gov.nl/regulation/working-conditions-employees/) for the employee. This plan should include the procedures all involved parties must follow. The chief executive must approve the plan.
 
