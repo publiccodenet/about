@@ -9,7 +9,7 @@ How we deliver codebase stewardship is based around the lifecycle of stewardship
 
 ## Assessment
 
-In order to decide on if and how we can perform incubating stewardship [we assess](../codebase-stewardship-assessment/index.md) the codebase and its community together with the community. If it is an [existing codebase](for-existing-projects.md) we look at the [stewardship feasibility](../codebase-stewardship-assessment/criteria-for-codebase-stewardship.md) first.
+In order to decide on if and how we can perform incubating stewardship we assess the codebase and its community together with the community. If it is an [existing codebase](for-existing-projects.md) we look at the [purpose, code, community and scalability](../codebase-stewardship/odoo-codebases.md#identify) first.
 
 If codebase stewardship is feasible, or if it is a new codebase, we then do a [Standard for Public Code](https://standard.publiccode.net/) gap analysis.
 
