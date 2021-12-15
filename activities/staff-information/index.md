@@ -37,3 +37,7 @@ Things you'll want to know when you start working here:
 See also:
 
 * [Remuneration policy](../../organization/remuneration-policy.md)
+
+## Professional development
+
+* [Engaging in ongoing learning through courses and other opportunities](request-professional-development.md)
