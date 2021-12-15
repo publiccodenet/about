@@ -13,7 +13,7 @@ Requirement | meets | links and notes
 All source code for any policy and software in use (unless used for fraud detection) MUST be published and publicly accessible. |  |
 Contributors MUST NOT upload sensitive information regarding users, their organization or third parties to the repository. |  |
 Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published. |  |
-The source code MAY provide the general public with insight into which source code or policy underpins any specific interaction they have with your organization. |  |
+The source code MAY provide the general public with insight into which source code or policy underpins any specific interaction they have with an organization. |  |
 
 ## [Bundle policy and source code](https://standard.publiccode.net/criteria/bundle-policy-and-code.html)
 
@@ -38,7 +38,7 @@ The codebase MUST be independent from any secret, undisclosed, proprietary or no
 The codebase SHOULD be in use by multiple parties. |  |
 The roadmap SHOULD be influenced by the needs of multiple parties. |  |
 Configuration SHOULD be used to make code adapt to context specific needs. |  |
-Codebases SHOULD include a publiccode.yml metadata description so that they’re easily discoverable. |  |
+The codebase SHOULD include a machine readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file. |  |
 Code and its documentation SHOULD NOT contain situation-specific information. |  |
 
 ## [Welcome contributors](https://standard.publiccode.net/criteria/open-to-contributions.html)
@@ -48,7 +48,7 @@ Code and its documentation SHOULD NOT contain situation-specific information. | 
 Requirement | meets | links and notes
 -----|-----|-----
 The codebase MUST allow anyone to submit suggestions for changes to the codebase. |  |
-The codebase MUST include contribution guidelines explaining how contributors can get involved, for example in a CONTRIBUTING file. |  |
+The codebase MUST include contribution guidelines explaining what kinds of contributions are welcome and how contributors can get involved, for example in a CONTRIBUTING file. |  |
 The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance. |  |
 The codebase SHOULD document the governance of the codebase, contributions and its community, for example in a GOVERNANCE file. |  |
 The codebase SHOULD have a publicly available roadmap. |  |
@@ -61,7 +61,7 @@ The codebase MAY include a code of conduct for contributors. |  |
 Requirement | meets | links and notes
 -----|-----|-----
 The codebase MUST have a public issue tracker that accepts suggestions from anyone. |  |
-The codebase MUST include an email address for security issues and responsible disclosure. |  |
+The codebase MUST include instructions for how to privately report security issues for responsible disclosure. |  |
 The documentation MUST link to both the public issue tracker and submitted codebase changes, for example in a README file. |  |
 The project MUST have communication channels for users and developers, for example email lists. |  |
 The documentation SHOULD include instructions for how to report potentially security sensitive issues on a closed channel. |  |
@@ -72,12 +72,15 @@ The documentation SHOULD include instructions for how to report potentially secu
 
 Requirement | meets | links and notes
 -----|-----|-----
-You MUST have a way to maintain version control for the code. |  |
+The community MUST have a way to maintain version control for the code. |  |
 All files in a codebase MUST be version controlled. |  |
 All decisions MUST be documented in commit messages. |  |
 Every commit message MUST link to discussions and issues wherever possible. |  |
-You SHOULD mark different versions of the codebase, for example using revision tags or textual labels. |  |
-You SHOULD prefer file formats that can easily be version controlled. |  |
+The codebase SHOULD be maintained in a distributed version control system. |  |
+Contributors SHOULD group relevant changes in commits. |  |
+Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels. |  |
+Contributors SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system. |  |
+Contributors MAY sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work. |  |
 
 ## [Require review of contributions](https://standard.publiccode.net/criteria/require-review.html)
 
@@ -87,7 +90,7 @@ Requirement | meets | links and notes
 -----|-----|-----
 All contributions that are accepted or committed to release versions of the codebase MUST be reviewed by another contributor. |  |
 Reviews MUST include source, policy, tests and documentation. |  |
-Reviewers MUST provide feedback on all decisions made and the implementation in the review. |  |
+Reviewers MUST provide feedback on all decisions to not accept a contribution.. |  |
 Contributions SHOULD conform to the standards, architecture and decisions set out in the codebase in order to pass review. |  |
 Reviews SHOULD include running both the code and the tests of the codebase. |  |
 Contributions SHOULD be reviewed by someone in a different context than the contributor. |  |
@@ -95,17 +98,17 @@ Version control systems SHOULD not accept non-reviewed contributions in release 
 Reviews SHOULD happen within two business days. |  |
 Reviews MAY be performed by multiple reviewers. |  |
 
-## [Document your objectives](https://standard.publiccode.net/criteria/document-objectives.html)
+## [Document codebase objectives](https://standard.publiccode.net/criteria/document-objectives.html)
 
 - [ ] compliant with this criterion.
 
 Requirement | meets | links and notes
 -----|-----|-----
 The codebase MUST contain documentation of its objectives – like a mission and goal statement – that is understandable by designers and developers so that they can use or contribute to the codebase. |  |
-The codebase SHOULD contain documentation of its objectives understandable by policy makers and management. |  |
+Codebase documentation SHOULD clearly describe the connections between policy objectives and codebase objectives. |  |
 The codebase MAY contain documentation of its objectives for the general public. |  |
 
-## [Document your code](https://standard.publiccode.net/criteria/documenting.html)
+## [Document the code](https://standard.publiccode.net/criteria/documenting.html)
 
 - [ ] compliant with this criterion.
 
@@ -114,9 +117,9 @@ Requirement | meets | links and notes
 All of the functionality of the codebase – policy as well as source – MUST be described in language clearly understandable for those that understand the purpose of the code. |  |
 The documentation of the codebase MUST contain: a description of how to install and run the source code, examples demonstrating the key functionality. |  |
 The documentation of the codebase SHOULD contain: a high level description that is clearly understandable for a wide audience of stakeholders, like the general public and journalists, a section describing how to install and run a standalone version of the source code, including, if necessary, a test dataset, examples for all functionality. |  |
-There SHOULD be continuous integration tests for the quality of your documentation. |  |
+There SHOULD be continuous integration tests for the quality of the documentation. |  |
 The documentation of the codebase MAY contain examples that make users want to immediately start using the codebase. |  |
-You MAY use the examples in your documentation to test the code. |  |
+The code MAY be tested by using examples in the documentation. |  |
 
 ## [Use plain English](https://standard.publiccode.net/criteria/understandable-english-first.html)
 
@@ -124,11 +127,12 @@ You MAY use the examples in your documentation to test the code. |  |
 
 Requirement | meets | links and notes
 -----|-----|-----
-All code and documentation MUST be in English. |  |
+All codebase documentation MUST be in English. |  |
+All code MUST be in English, except where policy is machine interpreted as code. |  |
 Any translation MUST be up to date with the English version and vice versa. |  |
-There SHOULD be no acronyms, abbreviations, puns or legal/domain specific terms in the codebase without an explanation preceding it or a link to an explanation. |  |
-The name of the project or codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or branding. |  |
-Documentation SHOULD aim for a lower secondary education reading level, as recommended by the Web Content Accessibility Guidelines 2. |  |
+There SHOULD be no acronyms, abbreviations, puns or legal/non-English/domain specific terms in the codebase without an explanation preceding it or a link to an explanation. |  |
+The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding. |  |
+Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable). |  |
 Any code, documentation and tests MAY have a translation. |  |
 
 ## [Use open standards](https://standard.publiccode.net/criteria/open-standards.html)
@@ -165,7 +169,7 @@ Policy and documentation MAY have testing for style and broken links. |  |
 Requirement | meets | links and notes
 -----|-----|-----
 All code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable. |  |
-Software source code MUST be licensed under an OSI-approved open source license. |  |
+Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category). |  |
 All code MUST be published with a license file. |  |
 Contributors MUST NOT be required to transfer copyright of their contributions to the codebase. |  |
 All source code files in the codebase SHOULD include a copyright notice and a license header. |  |
@@ -177,10 +181,10 @@ Codebases MAY have multiple licenses for different types of code and documentati
 
 Requirement | meets | links and notes
 -----|-----|-----
-Contributions MUST adhere to either a coding or writing style guide, either your own or an existing one that is advertised in or part of the codebase. |  |
+Contributions MUST adhere to either a coding or writing style guide, either the codebase community’s own or an existing one that is advertised in or part of the codebase. |  |
 Contributions SHOULD pass automated tests on style. |  |
-Your codebase SHOULD include inline comments and documentation for non-trivial sections. |  |
-You MAY include sections in your style guide on understandable English. |  |
+The codebase SHOULD include inline comments and documentation for non-trivial sections. |  |
+The style guide MAY include sections on understandable English. |  |
 
 ## [Document codebase maturity](https://standard.publiccode.net/criteria/document-maturity.html)
 
