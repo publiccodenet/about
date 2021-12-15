@@ -32,7 +32,7 @@ After leaving Research, a codebase will never come back here.
 
 Backburner contains codebases that we find interesting, but that we for some reason will not prioritize at the moment.
 
-Codebases can be moved here from Research, Identify, Commit or Assess and can also be moved back to those columns (except Research) when we prioritize them again.
+Codebases can be moved here from Research, Identify, Connect or Assess and can also be moved back to those columns (except Research) when we prioritize them again.
 
 ### Identify
 
@@ -40,7 +40,7 @@ Codebases are moved to Identify when at least two Foundation for Public Code sta
 This is done by answering questions about purpose, code, community and scalability and documents it in the Odoo card.
 The questions below are a guide of what to look at and all of them may not be applicable to every codebase.
 
-A codebase exits Identify for Commit when codebase stewards have received Foundation approval for possible stewardship of the codebase.
+A codebase exits Identify for Connect when codebase stewards have received Foundation approval for possible stewardship of the codebase.
 
 Codebases may also move to Backburner or Archive at any time.
 
@@ -70,11 +70,11 @@ Codebases may also move to Backburner or Archive at any time.
 * Is the product scalable to other contexts?
 * Are there competing/similar existing products?
 
-### Commit
+### Connect
 
-Codebase stewards have started talking to current maintainers about possible stewardship. The codebase community must clearly understand what stewardship would mean.
+Codebase stewards have started talking to current maintainers about possible stewardship.
 
-The codebase can exit Commit towards Assess when the community makes a public expression of commitment to aspire to stewardship, for instance in the `README` of a codebase. Codebases may also move from Commit to Backburner or Archive at any time.
+The codebase can exit Connect towards Assess when the community makes a public expression of commitment to aspire to stewardship, for instance in the `README` of a codebase. Codebases may also move from Connect to Backburner or Archive at any time.
 
 ### Assess
 
@@ -111,7 +111,7 @@ Reasons for moving a codebase to the Archive may vary, but can include (not inte
 * the codebase community has no ambition to comply with the Standard for Public Code
 * agreeing that Full stewardship is not suitable for this codebase
 
-A codebase can come out of the Archive if circumstances change. Depending on its circumstances, it may move to Research, Identify, Commit, or Assess.
+A codebase can come out of the Archive if circumstances change. Depending on its circumstances, it may move to Research, Identify, Connect, or Assess.
 
 ## Log notes
 
