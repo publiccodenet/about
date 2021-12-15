@@ -12,7 +12,7 @@ We support members in getting the most from their membership and [codebase stewa
 
 The process towards full membership is roughly divided into three phases, noting that every organization we speak to is unique. This means that individual membership processes may differ between the organizations we work with.
 
-If you're interested in membership for your organization, or have any questions, please email us at <membership@publiccode.net>
+If you're interested in membership for your organization, or have any questions, please email us at <membership@publiccode.net>. If membership is not possible for you, you might instead become a [partner](../creating-partnerships(index.md).
 
 ## 1. Membership growth
 
