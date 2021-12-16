@@ -44,7 +44,6 @@ Roles:
   Claus Mullie
 * Codebase stewards:
   * Jan Ainali
-  * Alba Roza
   * [Lead](#lead):
     Eric Herman
 

@@ -10,5 +10,5 @@ This session is necessary to run the [payment session](payment-session.md) as th
 
 Tasks:
 
-1. Approve, ask for clarification or disapprove expense requests pending from the dashboard.
+1. Approve, ask for clarification or disapprove expense requests pending from the [Tentoo NMBRS dashboard](https://tentoo.nmbrs.nl) in the 'Mutuation Forms Approver'.
 1. Request the salary run from the dashboard. With the request provide a message of all changes that have to with the salary run such as people leaving, unpaid leave etcetera.

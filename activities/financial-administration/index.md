@@ -21,5 +21,5 @@ Our financial management includes planning, organizing, directing and controllin
 
 ## Sessions
 
-* [Salary session](salary-administration.md)
+* [Salary session](salary-session.md)
 * [Payments session](payment-session.md)
