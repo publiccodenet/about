@@ -44,10 +44,8 @@ Roles:
   Claus Mullie
 * Codebase stewards:
   * Jan Ainali
-  * Alba Roza
   * [Lead](#lead):
     Eric Herman
-  * Felix Faassen
 
 ### Communications
 
@@ -78,8 +76,7 @@ Responsibilities:
 
 Roles:
 
-* [Coordinator](#coordinator) member development:
-  Claus Mullie
+* [Coordinator](#coordinator) member development
 
 ### Operations
 
@@ -87,13 +84,12 @@ Responsibilities:
 
 * [Staff management](../activities/staff-management/index.md)
 * [Procurement](../activities/procurement/index.md), [office management](../activities/office-management/index.md) and contract management
-* [Finances, budget and resource management](../activities/finance-management/index.md)
+* [Finances, budget and resource management](../activities/financial-administration/index.md)
 * [Infrastructure and tools](../activities/tool-management/index.html)
 
 Roles:
 
-* [Coordinator](#coordinator) operations:
-  Deborah Meibergen
+* [Coordinator](#coordinator) operations
 
 ### Management
 

@@ -95,7 +95,7 @@ We assume the community asset order will be different for greenfield development
 
 ## Assumptions to test
 
-This list is based on assumptions that we're testing as [we assess codebases](../codebase-stewardship-assessment/open-assessment.md).
+This list is based on our experience from working with several codebases.
 
 These include that:
 

@@ -10,9 +10,15 @@ This is a template that can be copy-pasted into Odoo for a new codebase to give 
 
 Brief description goes here.
 
-| Repository | Marketing page | Main contact   | Codebase assessment | Live example |
-| ---------- | -------------- | -------------- | ------------------- | ------------ |
-| Link       | Link           | Name (no tag!) | Link                | Link         |
+| Repository | Marketing page | Main contact   | Live example |
+| ---------- | -------------- | -------------- | ------------ |
+| Link       | Link           | Name (no tag!) | Link         |
+
+## Checks
+
+| Purpose check | Code check | Community check   | Scalability check |
+| ------------- | ---------- | ----------------- | ------------------|
+|               |            |                   |                   |
 
 ## Background
 

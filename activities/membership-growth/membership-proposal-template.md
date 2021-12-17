@@ -73,7 +73,7 @@ And supporting you with your codebases on:
 * community for your codebases - understanding how to collaborate better and more openly with other organizations
 * product packaging of your codebases - understanding how to better market and promote your codebases
 * support of your codebases - understanding how to improve your collaboration with the market
-* [assessment of your codebases](https://about.publiccode.net/activities/codebase-stewardship/criteria-for-codebase-stewardship.html) for codebase stewardship
+* assessment of your codebases for codebase stewardship
 
 As an association, our members determine how our resources are allocated across members and potential members.
 
@@ -111,4 +111,4 @@ Membership benefits and successful codebase stewardship are directly linked to c
 
 ## Contact
 
-Laura Scheske, membership developer: <laura@publiccode.net>, +31 20 2 444 563
+[Insert details of contact point]
