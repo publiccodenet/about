@@ -41,6 +41,9 @@ Questions about the content of the position are routed to chief executive or the
 
 ## Resources for interviewers
 
+If you are inexperienced in interviewing on behalf of the Foundation for Public Code, consider preparing the interview with someone with more experience. This could include practicing some of the steps and questions, discussing how the interview will go, and what kind of atmosphere is suitable. 
+It is recommended to always conduct the interview with at least one member of staff who is experienced in interviewing on behalf of the Foundation for Public Code.
+
 For interviewers the following resources are available. Access to these documents, since it might give an candidate insights into the questions we want to ask, is secret and limited to interviewers.
 
 * [Candidate evaluation sheet for community steward (secret)](https://docs.google.com/spreadsheets/d/1khdHvzk241xmkiih_4fTLj9QVdTIiK8TelBrg9QX_3k/edit#gid=0): to perform a quick post-interview exercise to highlight the candidate's strengths and weaknesses
