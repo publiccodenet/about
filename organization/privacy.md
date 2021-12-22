@@ -40,7 +40,7 @@ For job applicants, staff and interns, we collect:
 * date of birth
 * contact details: email address, physical address and phone number
 
-We may also collect:
+For job applicants, staff and interns, we may also collect:
 
 * bank details to pay salaries
 * information to manage absence
