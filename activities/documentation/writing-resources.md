@@ -65,4 +65,4 @@ At the end of your resource you can add a 'Further reading' section with relevan
 
 ### Example resources
 
-* [Resources to help explain what codebase stewardship is](../../explaining-codebase-stewardship/index.md)
+* [Resources to help explain what codebase stewardship is](../explaining-codebase-stewardship/index.md)
