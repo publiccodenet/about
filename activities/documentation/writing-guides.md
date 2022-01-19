@@ -55,7 +55,12 @@ At the end of your guide you can add a 'Further reading' section with relevant l
 * [Find great cat gifs on Giphy](https://giphy.com)
 * [Find great dog videos on YouTube](https://youtube.com)
 ```
+### Example guides
+
+* [Adding a phone user](../communication/adding-a-phone-user.md)
+* [Sending a news letter](../communication/sending-newsletters.md)
 
 ## Further reading
 
 * [Dozuki Tech Writing Handbook](https://www.dozuki.com/Tech_Writing)
+
