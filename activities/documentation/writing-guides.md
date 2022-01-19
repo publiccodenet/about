@@ -63,7 +63,7 @@ At the end of your guide you can add a 'Further reading' section with relevant l
 ### Example guides
 
 * [Adding a phone user](../communication/adding-a-phone-user.md)
-* [Sending a news letter](../communication/sending-newsletters.md)
+* [Sending a newsletter](../communication/sending-newsletters.md)
 
 ## Further reading
 
