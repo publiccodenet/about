@@ -59,6 +59,7 @@ At the end of your guide you can add a 'Further reading' section with relevant l
 * [Find great dog videos on YouTube](https://youtube.com)
 
 ```
+
 ### Example guides
 
 * [Adding a phone user](../communication/adding-a-phone-user.md)
@@ -67,4 +68,3 @@ At the end of your guide you can add a 'Further reading' section with relevant l
 ## Further reading
 
 * [Dozuki Tech Writing Handbook](https://www.dozuki.com/Tech_Writing)
-
