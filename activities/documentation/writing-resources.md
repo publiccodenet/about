@@ -62,3 +62,9 @@ At the end of your resource you can add a 'Further reading' section with relevan
 * [Find great cat gifs on Giphy](https://giphy.com)
 * [Find great dog videos on YouTube](https://youtube.com)
 ```
+
+### Example resources
+
+* [Resources to help explain what codebase stewardship is](../explaining-codebase-stewardship.md/index.md)
+
+
