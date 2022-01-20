@@ -31,13 +31,13 @@ Here are some important things to figure out in the first couple of days:
 We also have a [full list of tools](https://about.publiccode.net/activities/tool-management/) we use.
 
 It's important to understand that we strive to be an [open organisation](../organization/cultural-values.md).
-This means that we use open licenses on everything we do.
+This means that we try use open licenses on everything we do.
+
 The default license we use is [CC0 - Public Domain](https://creativecommons.org/share-your-work/public-domain/cc0).
 
-There are two exceptions to this.
-Firstly, if we need certainty that content will not be altered after publishing, we use [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
-Secondly, for brand assets and trademarks we do not use a free license.
-
+There are some exceptions to this.
+If we need certainty that content will not be altered after publishing, we use [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
+For brand assets and trademarks we do not use a free license.
 If external platforms don't provide CC 0, use one that is as free and permissive as possible.
 
 Any of your new coworkers will be glad to help! <3
