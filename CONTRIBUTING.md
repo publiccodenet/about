@@ -39,4 +39,4 @@ As a legal association in the Netherlands, the Foundation for Public Code follow
 
 ## Staff
 
-Find out more how [our staff contribute](contributor-guides/for-staff.md)
+Find out more how [our staff contribute](contributor-guides/for-staff.md).
