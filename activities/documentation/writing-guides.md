@@ -23,10 +23,12 @@ It should be in a relevant place in the [folder structure](about-folder-structur
 The MarkDown of a guide file starts with the following metadata [`front-matter`](https://jekyllrb.com/docs/front-matter/):
 
 ```markdown
+
 ---
 type: Guide
 explains: How to make pancakes for hungry people
 ---
+
 ```
 
 After the `explains` you should set out what this guide tries to explain and to whom - this is the goal of the guide. Writing this first will help you scope what you are explaining and will provide a clear answer for readers on whether this is for them.
@@ -50,11 +52,18 @@ Followed by the content of the guide.
 At the end of your guide you can add a 'Further reading' section with relevant links to anything inside or outside of About that people can use in order to understand this topic better.
 
 ```markdown
+
 ## Further reading
 
 * [Find great cat gifs on Giphy](https://giphy.com)
 * [Find great dog videos on YouTube](https://youtube.com)
+
 ```
+
+### Example guides
+
+* [Adding a phone user](../communication/adding-a-phone-user.md)
+* [Sending a newsletter](../communication/sending-newsletters.md)
 
 ## Further reading
 
