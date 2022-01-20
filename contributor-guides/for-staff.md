@@ -38,7 +38,7 @@ The default license we use is [CC0 - Public Domain](https://creativecommons.org/
 There are some exceptions to this.
 If we need certainty that content will not be altered after publishing, we use [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
 For brand assets and trademarks we do not use a free license.
-If external platforms don't provide CC 0, use one that is as free and permissive as possible.
+If external platforms don't provide CC 0, we use one that is as free and permissive as possible.
 
 Any of your new coworkers will be glad to help! <3
 
