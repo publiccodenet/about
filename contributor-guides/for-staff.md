@@ -31,7 +31,7 @@ Here are some important things to figure out in the first couple of days:
 We also have a [full list of tools](https://about.publiccode.net/activities/tool-management/) we use.
 
 It's important to understand that we strive to be an [open organisation](../organization/cultural-values.md).
-This means that we strive use open licenses on everything we do.
+This means that we strive to use open licenses on everything we do.
 
 The default license we use is [CC0 - Public Domain](https://creativecommons.org/share-your-work/public-domain/cc0).
 
