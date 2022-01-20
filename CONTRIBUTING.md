@@ -36,3 +36,7 @@ If you believe there should be a structural solution to making open source softw
 ## International sanctions
 
 As a legal association in the Netherlands, the Foundation for Public Code follows [EU law regarding international sanctions](https://sanctionsmap.eu/#/main).
+
+## Staff
+
+Find out more how [our staff contribute](contributor-guides/for-staff.md).
