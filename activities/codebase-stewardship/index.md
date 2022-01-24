@@ -1,5 +1,7 @@
 ---
 type: Index
+redirect_from:
+    - activities/codebase-stewardship/activities
 ---
 
 # Codebase stewardship
@@ -28,16 +30,7 @@ To explain codebase stewardship we split its activities in the categories
 
 Successful open source codebases build a diverse community of public organizations and vendors to implement and support the product. This includes multiple public organizations contracting new development work, and multiple developing parties adding code to the repository.
 
-The Foundation for Public Code helps facilitate these interactions around the code - for example by setting up community calls and forums, answering questions for newcomers, and facilitating the governance and technical steering in a way that is open and inclusive to everyone working at the code level (including developers, implementers and open source enthusiasts). This helps avoid duplicate work, and ensures new actors beyond those already involved can join and participate easily.
-
-Community stewardship includes:
-
-* [supporting, consulting on and executing governance](../supporting-codebase-governance/index.md)
-* [supporting committees such as technical steering committees](../supporting-codebase-governance/index.md)
-* [organizing events](../events/index.md)
-* processing feedback and contributions
-* [organizing community calls](../community-calls/index.md)
-* [organizing workshops](../workshops/index.md)
+The Foundation for Public Code helps facilitate these interactions around the code - for example by setting up [community calls](../community-calls/index.md) and [events](../events/index.md), processing feedback and contributions, [organizing workshops](../workshops/index.md), answering questions for newcomers, and [supporting, consulting on and executing codebase governance and technical steering](../supporting-codebase-governance/index.md) in a way that is open and inclusive to everyone working at the code level (including developers, implementers and open source enthusiasts). This helps avoid duplicate work, and ensures new actors beyond those already involved can join and participate easily.
 
 ### Quality
 
@@ -82,8 +75,6 @@ Product stewardship includes:
 * [codebase product development](product-development)
 * developer advocacy
 
-* [resources to help explain what codebase stewardship is](../explaining-codebase-stewardship/index.md)
-
 ## How codebase stewardship works
 
 * [the codebase stewardship lifecycle](lifecycle.md)
@@ -91,6 +82,7 @@ Product stewardship includes:
 
 ## Useful resources
 
+* [resources to help explain what codebase stewardship is](../explaining-codebase-stewardship/index.md)
 * [community assets](community-assets.md)
 * [product assets needed during early incubation](product-assets-for-early-incubation.md)
 * [guide for using Odoo to track our codebases](odoo-codebases.md)
