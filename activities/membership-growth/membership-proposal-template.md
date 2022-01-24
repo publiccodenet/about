@@ -43,7 +43,7 @@ We are currently working with over 20 public organizations around Europe (includ
 
 We developed a [Standard for Public Code](https://standard.publiccode.net/) for this purpose. The Standard is a collection of principles to help policy makers, managers, designers, developers and vendors work together to make code that is easy to understand, reuse and maintain.
 
-We also do [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/activities.html), which includes a) reviewing the codebase (and all new additions to it) to make sure it complies with the Standard for Public Code, b) facilitating multi-stakeholder development between public and private organizations, c) helping with marketing to ensure public organizations understand the software and how to implement it, and d) supporting private sector parties to work effectively on these public-sector led software systems.
+We also do [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/index.html), which includes a) reviewing the codebase (and all new additions to it) to make sure it complies with the Standard for Public Code, b) facilitating multi-stakeholder development between public and private organizations, c) helping with marketing to ensure public organizations understand the software and how to implement it, and d) supporting private sector parties to work effectively on these public-sector led software systems.
 
 This will:
 
