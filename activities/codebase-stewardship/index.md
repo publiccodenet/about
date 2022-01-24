@@ -8,7 +8,7 @@ redirect_from:
 
 We provide codebase stewardship at the codebase level.
 The [goals of codebase stewardship](goals.md) are to maximize the reuse of the [codebase](../../glossary/codebase-definition.md) and promote the long term sustainability of the community around the codebase.
-Through codebase stewardship, we help public source code and policy code products become [successful](success-for-a-codebase.md).
+Through codebase stewardship, we help public source code and policy code products become successful.
 
 We help codebases be:
 
@@ -19,7 +19,7 @@ We help codebases be:
 As such, all our activities are explicitly targeted at the codebase level.
 We do not perform them at the level of, or for the benefit of, individual community members, local geographical contexts or specific legal contexts.
 
-We can provide codebase stewardship from the beginning of the development or for [existing projects](for-existing-projects.md).
+We can provide codebase stewardship from the beginning of the development or for existing projects.
 
 ## What codebase stewardship is
 
@@ -102,10 +102,6 @@ The code will stay available.
 Codebases can come out of the attic with renewed community interest.
 Since the codebases might adhere to outdated standards it will need to go back into incubation before it can be returned to full stewardship.
 
-### Public list
-
-A public list of the codebases we work with, by lifecycle status, can be [viewed at our website](https://publiccode.net/codebases/).
-
 ## Useful resources
 
 * [how codebase stewardship works for existing projects](for-existing-projects.md)
@@ -124,3 +120,4 @@ A public list of the codebases we work with, by lifecycle status, can be [viewed
 ## Further reading
 
 * [The Foundation for Public Code introduction to codebase stewardship](https://publiccode.net/codebase-stewardship/)
+* [Public list of codebases we work with, by lifecycle status](https://publiccode.net/codebases/)
