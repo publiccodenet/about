@@ -14,4 +14,4 @@ redirect_from:
 
 * The Foundation for Public Code provides codebase stewardship for community, quality, support and product.
 
-More information can be found on our [codebase stewardship activities page](../codebase-stewardship/activities.md), and the [value proposition mapping page](../value-and-impact/index.md).
+More information can be found on our [codebase stewardship activities page](../codebase-stewardship/index.md), and the [value proposition mapping page](../value-and-impact/index.md).

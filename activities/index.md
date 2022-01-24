@@ -28,6 +28,7 @@ Activities that support the above as well as make staff operations work:
 * [Onboarding new staff](../contributor-guides/for-staff.md)
 * [Philanthropic fundraising](philanthropic-fundraising/index.md)
 * [Procurement](procurement/index.md)
+* [Product development](product-development/index.md)
 * [Recruitment](recruitment/index.md)
 * [Staff information](staff-information/index.md)
 * [Staff management](staff-management/index.md)
