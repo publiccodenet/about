@@ -106,10 +106,9 @@ Since the codebases might adhere to outdated standards it will need to go back i
 
 A public list of the codebases we work with, by lifecycle status, can be [viewed at our website](https://publiccode.net/codebases/).
 
-* [how codebase stewardship works for existing projects](for-existing-projects.md)
-
 ## Useful resources
 
+* [how codebase stewardship works for existing projects](for-existing-projects.md)
 * [Standard for Public Code auditing template](../codebase-auditing/review-template.md)
 * [resources to help explain what codebase stewardship is](../explaining-codebase-stewardship/index.md)
 * [community assets](community-assets.md)
