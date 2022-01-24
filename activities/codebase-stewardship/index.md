@@ -1,5 +1,7 @@
 ---
 type: Index
+redirect_from:
+    - activities/codebase-stewardship/activities
 ---
 
 # Codebase stewardship
