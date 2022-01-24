@@ -59,7 +59,7 @@ This helps make the codebase attractive internationally and to new vendors, and 
 
 ## Codebase stewardship lifecycle
 
-How we deliver codebase stewardship is based around the lifecycle of stewardship.
+How we deliver codebase stewardship is based around the lifecycle of stewardship ([see diagram here](lifecycle-diagram.md)).
 
 ### Assessment
 
