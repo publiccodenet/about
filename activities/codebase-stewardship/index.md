@@ -82,6 +82,8 @@ Product stewardship includes:
 * [codebase product development](product-development)
 * developer advocacy
 
+## Additional resources to help explain what codebase stewardship is 
+
 * [resources to help explain what codebase stewardship is](../explaining-codebase-stewardship/index.md)
 
 ## How codebase stewardship works
