@@ -24,7 +24,7 @@ We can provide codebase stewardship from the beginning of the development or for
 ## What codebase stewardship is
 
 To explain codebase stewardship we split its activities in the categories
-[community](#community), [quality](#quality), [support](#support), and [product](#product).
+community, quality, support, and product.
 
 ### Community
 
