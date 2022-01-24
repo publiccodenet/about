@@ -84,10 +84,6 @@ Product stewardship includes:
 * [codebase product development](product-development)
 * developer advocacy
 
-## Additional resources to help explain what codebase stewardship is 
-
-* [resources to help explain what codebase stewardship is](../explaining-codebase-stewardship/index.md)
-
 ## How codebase stewardship works
 
 * [the codebase stewardship lifecycle](lifecycle.md)
@@ -95,6 +91,7 @@ Product stewardship includes:
 
 ## Useful resources
 
+* [resources to help explain what codebase stewardship is](../explaining-codebase-stewardship/index.md)
 * [community assets](community-assets.md)
 * [product assets needed during early incubation](product-assets-for-early-incubation.md)
 * [guide for using Odoo to track our codebases](odoo-codebases.md)
