@@ -64,6 +64,7 @@ This helps make the codebase attractive internationally and to new vendors, and 
 
 ## Useful resources
 
+* [Standard for Public Code auditing template](../codebase-auditing/review-template.md)
 * [resources to help explain what codebase stewardship is](../explaining-codebase-stewardship/index.md)
 * [community assets](community-assets.md)
 * [product assets needed during early incubation](product-assets-for-early-incubation.md)
