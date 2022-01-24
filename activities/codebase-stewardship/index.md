@@ -35,7 +35,6 @@ We can provide codebase stewardship from the beginning of the development or for
 
 * [codebase in Odoo](odoo-codebase-template.md)
 * [stewardship proposal we can send to principal maintainers](stewardship-proposal-template.md)
-* [Standard for Public Code auditing template](../codebase-auditing/review-template.md)
 
 ## Further reading
 
