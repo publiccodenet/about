@@ -38,10 +38,6 @@ Successful open source codebases leverage economies of scale in a decentralized 
 
 The Foundation for Public Code helps guarantee that all the code and corresponding documentation is ready for reuse. This includes a quality check on all new code, policy and documentation added to the repository, [codebase auditing](../codebase-auditing/index.md), monitoring codebase compliance towards any future versions of the [Standard for Public Code](https://standard.publiccode.net/), security and compatibility monitoring, and making sure everything is properly explained so other people can use it in their work. This helps all parties involved trust each other’s code and work - allowing them to build on each other.
 
-Quality stewardship includes:
-
-* packaging and distributing official versions
-
 ### Support
 
 Successful open source codebases build a diverse vendor network for development, maintenance, implementation and hosting.
