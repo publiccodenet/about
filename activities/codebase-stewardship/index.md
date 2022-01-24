@@ -19,7 +19,7 @@ We help codebases be:
 As such, all our activities are explicitly targeted at the codebase level.
 We do not perform them at the level of, or for the benefit of, individual community members, local geographical contexts or specific legal contexts.
 
-We can provide codebase stewardship from the beginning of the development or for [existing projects](for-existing-projects.md).
+We can provide codebase stewardship from the beginning of the development or for existing projects.
 
 ## What codebase stewardship is
 
