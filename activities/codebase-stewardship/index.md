@@ -93,7 +93,7 @@ Repositories of codebases in incubation will have clear indicators that the code
 
 As an organization we deem this codebase, its ecosystem and its community to be mature according to the [Standard for Public Code](https://standard.publiccode.net/).
 
-3## Attic
+### Attic
 
 Codebases that have been mature at one point but whose community has lost interest are moved to the attic.
 In the attic codebases and communities are no longer stewarded.
