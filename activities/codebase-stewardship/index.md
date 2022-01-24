@@ -107,8 +107,8 @@ Since the codebases might adhere to outdated standards it will need to go back i
 * [how codebase stewardship works for existing projects](for-existing-projects.md)
 * [Standard for Public Code auditing template](../codebase-auditing/review-template.md)
 * [resources to help explain what codebase stewardship is](../explaining-codebase-stewardship/index.md)
-* [check list for community assets need during incubation](community-assets.md)
-* [product assets needed during early incubation](product-assets-for-early-incubation.md)
+* [check list for community assets need during early incubation](community-assets.md)
+* [check list for product assets needed during early incubation](product-assets-for-early-incubation.md)
 * [guide for using Odoo to track our codebases](odoo-codebases.md)
 * [user personas templates](/user-personas/index.md)
 
