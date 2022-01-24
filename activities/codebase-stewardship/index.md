@@ -102,7 +102,7 @@ The code will stay available.
 Codebases can come out of the attic with renewed community interest.
 Since the codebases might adhere to outdated standards it will need to go back into incubation before it can be returned to full stewardship.
 
-## Public list
+### Public list
 
 A public list of the codebases we work with, by lifecycle status, can be [viewed at our website](https://publiccode.net/codebases/).
 
