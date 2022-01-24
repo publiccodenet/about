@@ -53,17 +53,9 @@ This can include hosting introductory open days to the codebase, giving [trainin
 
 Successful open source codebases involve a wide community to partake in the actions described above.
 
-The Foundation for Public Code supports the product marketing and product development of codebases to reach public organizations and vendors beyond (the network of) the current community.
+The Foundation for Public Code supports the product marketing and [product development](product-development) of codebases to reach public organizations and vendors beyond (the network of) the current community.
 This can include help with the codebase’s branding, storytelling, product steering and marketing assets.
 This helps make the codebase attractive internationally and to new vendors, and easier to scale in the local context.
-
-Product stewardship includes:
-
-* codebase branding
-* codebase storytelling, communications and public relations
-* codebase product marketing
-* [codebase product development](product-development)
-* developer advocacy
 
 ## How codebase stewardship works
 
