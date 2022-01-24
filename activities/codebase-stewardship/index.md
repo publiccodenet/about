@@ -8,7 +8,7 @@ redirect_from:
 
 We provide codebase stewardship at the codebase level.
 The [goals of codebase stewardship](goals.md) are to maximize the reuse of the [codebase](../../glossary/codebase-definition.md) and promote the long term sustainability of the community around the codebase.
-Through codebase stewardship, we help public source code and policy code products become [successful](success-for-a-codebase.md).
+Through codebase stewardship, we help public source code and policy code products become successful.
 
 We help codebases be:
 
