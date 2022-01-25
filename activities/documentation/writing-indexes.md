@@ -37,3 +37,7 @@ The index should give a high level explanation of the topic. It should provide e
 ### Resources and guides
 
 This section lists the resources and guides that are available under this topic or in this folder.
+
+### Example indices
+
+* [Index of tool management](../tool-management/index.md)

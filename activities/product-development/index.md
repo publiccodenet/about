@@ -1,5 +1,7 @@
 ---
-type: Resource
+type: Index
+redirect_from:
+    - activities/codebase-stewardship/product-development.md
 ---
 
 # Codebase Product Development

@@ -23,7 +23,7 @@ Our [contributor guide for individuals](contributor-guides/for-individuals.md) e
 
 We’re especially interested in learning what you need to implement the [Standard for Public Code](https://standard.publiccode.net/) in your organization. Please [raise an issue](https://standard.publiccode.net/CONTRIBUTING.html) or email us at <info@publiccode.net>.
 
-[Sign up for our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdOArHWz6leVrOdOLcVlm9nbgKSrn5gxAgCIytZsAWgqnkbWQ/viewform) to join our community and keep up with our news.
+[Sign up for our mailing list](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842) to join our community and keep up with our news.
 
 ## Public organizations
 
@@ -36,3 +36,7 @@ If you believe there should be a structural solution to making open source softw
 ## International sanctions
 
 As a legal association in the Netherlands, the Foundation for Public Code follows [EU law regarding international sanctions](https://sanctionsmap.eu/#/main).
+
+## Staff
+
+Find out more how [our staff contribute](contributor-guides/for-staff.md).

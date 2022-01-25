@@ -9,7 +9,7 @@ It's `main` branch is the official ['source of truth'](GOVERNANCE.md) and centra
 
 ## Contributing
 
-We are looking for people like you to [contribute](CONTRIBUTING.md) to this project by suggesting improvements and helping develop the Foundation for Public Code. 😊 Get started by reading our [Contributors Guide](CONTRIBUTING.md) and [how we structure our documentation](activities/documentation/index.md).
+We are looking for people like you to [contribute](CONTRIBUTING.md) to this project by suggesting improvements and helping develop the Foundation for Public Code. 😊
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. Please be lovely to all other community members.
 
