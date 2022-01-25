@@ -1,7 +1,7 @@
 ---
 type: Resource
 redirect_from:
-    - activities/value-and-impact/user-mapping/structural-funding-philanthropy.md
+    - activities/value-and-impact/user-mapping/structural-funding-philanthropy
 ---
 
 This includes:
