@@ -20,7 +20,7 @@ Positive reasons for why they might be interested in our work:
 * enlarging communities of practice and share resources
 * facilitating re-approachability/reusability/maintenance
 * building trust and security in public services and underlying technology
-* public code is a way to [fulfill their Sustainable Development Goals](../sustainable-development-goals.md) commitments
+* public code is a way to [fulfill their Sustainable Development Goals](../../../organization/sustainable-development-goals.md) commitments
 
 Negative reasons for why they might be interested in our work:
 
