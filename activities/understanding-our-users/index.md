@@ -39,4 +39,4 @@ These are hypotheses for the reasons why the following probable user groups may 
 
 ## Additional resources
 
-* [common pitches](../../communication/pitching.md) for different opening lines to use based on who your interlocutor might be.
+* [common pitches](../communication/pitching.md) for different opening lines to use based on who your interlocutor might be.
