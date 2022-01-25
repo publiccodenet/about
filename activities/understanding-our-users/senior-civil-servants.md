@@ -1,7 +1,7 @@
 ---
 type: Resource
 redirect_from:
-    - activities/value-and-impact/user-mapping/senior-civil-servants.md
+    - activities/value-and-impact/user-mapping/senior-civil-servants
 ---
 
 # Senior civil servants
