@@ -1,7 +1,7 @@
 ---
 type: Resource
 redirect_from:
-    - activities/value-and-impact/pain-points/public-organizations.md
+    - activities/value-and-impact/pain-points/public-organizations
 ---
 
 # Public organizations maturing in their approach to digital public infrastructure
