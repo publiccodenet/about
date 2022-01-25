@@ -14,3 +14,7 @@ This set of resources helps to understand our users, and how our work does or ma
 ## Value proposition hypotheses
 
 These are hypotheses for the reasons why the following user groups may be interested in our work, and the value proposition we could offer them.
+
+## Additional resources
+
+* [common pitches](../../communication/pitching.md) for different opening lines to use based on who your interlocutor might be.
