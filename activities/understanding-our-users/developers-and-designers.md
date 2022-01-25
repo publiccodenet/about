@@ -1,7 +1,7 @@
 ---
 type: Resource
 redirect_from:
-    - activities/value-and-impact/user-mapping/developers-and-designers.md
+    - activities/value-and-impact/user-mapping/developers-and-designers
 ---
 
 # Political
