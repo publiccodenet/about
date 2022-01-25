@@ -13,6 +13,5 @@ These are activities, documents and evidence for how we create value and impact.
 
 ## Impact
 
-* [How public code supports the Sustainable Development Goals](sustainable-development-goals.md)
 * [Policy documents referring to the Foundation for Public Code](policy-documents.md)
 * [All press and media references to the Foundation for Public Code](all-press.md)
