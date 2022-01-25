@@ -1,5 +1,8 @@
 ---
 type: Index
+redirect_from:
+    - activities/value-and-impact/user-mapping/index.md
+    - activities/value-and-impact/pain-points/index.md
 ---
 
 # Understanding our users
