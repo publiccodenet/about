@@ -15,26 +15,24 @@ This set of resources helps to understand our users, and how our work does or ma
 
 These are hypotheses for the reasons why the following probable user groups may be interested in our work, and the value proposition we could offer them.
 
-## User groups
-
-Decision makers and sponsors:
+### Decision makers and sponsors:
 
 * [political](political.md)
 * [senior civil servants](senior-civil-servants.md)
 * [structural funding and philanthropy](structural-funding-philanthropy.md)
 
-Users and contributors:
+### Users and contributors:
 
 * the policy community
 * [developers, designers and the open source community](developers-and-designers.md)
 * [business management and procurement for public administrations](management-and-procurement.md)
 
-Affiliates and partners:
+### Affiliates and partners:
 
 * vendors and the private sector
 * non-governmental organizations and non-profits aligned with our mission
 
-Other interested parties:
+### Other interested parties:
 
 * end users (residents and citizens)
 * journalists and academia
