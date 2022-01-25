@@ -1,3 +1,16 @@
 ---
 type: Index
 ---
+
+# Understanding our users
+
+The work of the Foundation for Public Code impacts a wide set of stakeholders.
+This set of resources helps to understand our users, and how our work does or may impact them.
+
+## Existing pain Points 
+
+* Understanding the pain points that public organizations have whith their digital infrastructure
+
+## Value proposition hypotheses
+
+These are hypotheses for the reasons why the following user groups may be interested in our work, and the value proposition we could offer them.
