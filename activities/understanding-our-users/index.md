@@ -10,7 +10,7 @@ redirect_from:
 The work of the Foundation for Public Code impacts a wide set of stakeholders.
 This set of resources helps to understand our users, and how our work does or may impact them.
 
-## Existing pain Points 
+## Existing pain Points
 
 * Understanding the [pain points that public organizations](public-organizations.md) have whith their digital infrastructure
 
@@ -18,24 +18,24 @@ This set of resources helps to understand our users, and how our work does or ma
 
 These are hypotheses for the reasons why the following probable user groups may be interested in our work, and the value proposition we could offer them.
 
-### Decision makers and sponsors:
+### Decision makers and sponsors
 
 * [political](political.md)
 * [senior civil servants](senior-civil-servants.md)
 * [structural funding and philanthropy](structural-funding-philanthropy.md)
 
-### Users and contributors:
+### Users and contributors
 
 * the policy community
 * [developers, designers and the open source community](developers-and-designers.md)
 * [business management and procurement for public administrations](management-and-procurement.md)
 
-### Affiliates and partners:
+### Affiliates and partners
 
 * vendors and the private sector
 * non-governmental organizations and non-profits aligned with our mission
 
-### Other interested parties:
+### Other interested parties
 
 * end users (residents and citizens)
 * journalists and academia
