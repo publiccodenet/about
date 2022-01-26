@@ -4,12 +4,7 @@ type: Index
 
 # Value and impact
 
-These are activities, documents and evidence for how we create value and impact.
-
-## Value
-
-* [User mapping and value proposition hypotheses](user-mapping/index.md) for potential users of Foundation for Public Code products and activities
-* [Existing pain points](pain-points/index.md) for users of the Foundation for Public Code products and activities
+These are documents and evidence for how we create value and impact.
 
 ## Impact
 

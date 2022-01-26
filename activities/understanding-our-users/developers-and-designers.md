@@ -1,5 +1,7 @@
 ---
 type: Resource
+redirect_from:
+    - activities/value-and-impact/user-mapping/developers-and-designers
 ---
 
 # Developers, designers and the open source community

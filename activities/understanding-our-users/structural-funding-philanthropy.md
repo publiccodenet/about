@@ -1,8 +1,8 @@
 ---
 type: Resource
+redirect_from:
+    - activities/value-and-impact/user-mapping/structural-funding-philanthropy
 ---
-
-# Structural funding and philanthropy
 
 This includes:
 
