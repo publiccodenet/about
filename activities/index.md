@@ -36,6 +36,7 @@ Activities that support the above as well as make staff operations work:
 * [Supporting codebase governance](supporting-codebase-governance/index.md)
 * [Tool management](tool-management/index.md)
 * [Trainings](trainings/index.md)
+* [Understanding our users](understanding-our-users/index.md)
 * [Value and impact](value-and-impact/index.md)
 * [Workshops](workshops/index.md)
 
