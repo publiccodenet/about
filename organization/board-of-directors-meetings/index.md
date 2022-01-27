@@ -21,3 +21,5 @@ Notes and minutes of meetings of the board of directors
 
 * 2022 January 12th
   * [Minutes](2022-01-12-minutes.md)
+* 2022 January 26th
+  * [Minutes](2022-01-26-minutes.md)
