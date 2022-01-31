@@ -23,7 +23,7 @@ We can provide codebase stewardship from the beginning of the development or for
 
 ## What codebase stewardship is
 
-To explain codebase stewardship we split its activities in the categories
+To explain codebase stewardship it can be useful to consider perspectives from
 community, quality, support, and product.
 
 ### Community
