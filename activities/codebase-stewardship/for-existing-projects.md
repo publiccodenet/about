@@ -30,6 +30,7 @@ We also need the developing organization to give us:
 We will:
 
 * conduct [audits](../codebase-auditing/index.md) to help comply with the standard on every pull request
+* give advice on working in the open, including how to document and configure repositories
 * provide [training](../trainings/index.md) and [workshops](../workshops/index.md) to develop better reusable codebases as well as working with the community
 * run community events and [community calls](../community-calls/index.md) to integrate a community
 * connect relevant members of this or other communities to increase uptake and contributions
