@@ -30,6 +30,10 @@ With this knowledge you should now be good to go with your GitHub use!
 
 ## Further learning
 
+If you want to manage your (email) notifications
+
+* [Configuring notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications)
+
 If you want someone to show you:
 
 * [Git and GitHub for poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (10 minute episodes, in total about 2 hours)
