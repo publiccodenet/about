@@ -35,7 +35,6 @@ If the employee agrees to the terms and has no further questions, offboarding ta
 * All belongings of the Foundation for Public Code are returned or you have made an arrangement with your manager whether you can keep it or pay to keep these items
 * In case of your own device you will delete information that is either marked as SECRET or confidential
 * Inform people in the open source communities you worked with that your are leaving
-* Have a debrief with one of the directors
 * Facilitate the transfer of your 'work in progress' by, for example, transferring issues assigned to you to relevant colleagues, reviewing old issues you created to assess whether they are still relevant, cleaning up and deleting any personal kanban boards and stale branches, and moving content from temporary tools (such as HackMD) to pull requests, issues, or otherwise providing colleagues with an overview of this content
 
 ## Debrief (optional)
