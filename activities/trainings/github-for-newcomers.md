@@ -5,7 +5,9 @@ explains: How to learn to use GitHub effectively for working with the Foundation
 
 # GitHub for newcomers
 
-GitHub is an incredibly powerful tool for collaboration at scale. However it is a power tool and requires some serious learning and understanding. For this reason, in order to learn effectively and not be frustrated often it pays to really dive deep into what it is and how it works.
+GitHub is an incredibly powerful tool for collaboration at scale.
+However it is a power tool and requires some serious learning and understanding.
+For this reason, in order to learn effectively and not be frustrated often it pays to really dive deep into what it is and how it works.
 
 If you know how to rebase a branch, you may not find very much new in this guide.
 Otherwise, we hope the contents linked below will provide you with the knowledge you need to operate git and GitHub.
