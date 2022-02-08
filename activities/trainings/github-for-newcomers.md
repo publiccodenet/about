@@ -1,6 +1,6 @@
 ---
 type: Guide
-explains: How to learn to use GitHub effectively for working with the Foundation for Public Code projects
+explains: How to learn to use GitHub effectively for working with Foundation for Public Code projects
 ---
 
 # GitHub for newcomers
