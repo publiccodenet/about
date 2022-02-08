@@ -32,7 +32,7 @@ The general assembly:
 
 These decisions are agreed through a majority vote. Voting rights are proportional to members' membership dues. This ensures democratic ownership and control by all members.
 
-The general assembly meets at least once every year. Minutes from the general assembly meetings are shared with all members and [publicly archived](/general-assemblies/index.md)
+The general assembly meets at least once every year. Minutes from the general assembly meetings are shared with all members and [publicly archived](/general-assemblies/index.md).
 
 We commit to holding all meaningful votes electronically, so that all members can be represented regardless of ability to attend physically.
 
