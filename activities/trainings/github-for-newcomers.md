@@ -30,7 +30,7 @@ With this knowledge you should now be good to go with your GitHub use!
 
 ## Further learning
 
-If you want to manage your (email) notifications
+If you want to manage your (email) notifications:
 
 * [Configuring notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications)
 
