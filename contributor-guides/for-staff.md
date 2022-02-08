@@ -20,7 +20,7 @@ Here are some important things to figure out in the first couple of days:
 * [Staff chat](../activities/communication/using-chat.md) - say hello, we're a welcoming bunch
 * Calendar - add your holidays to the team calendar
 * Manual of me - fill out your own and read the existing ones
-* Oodo - We use Odoo for our internal chat tool as well as project management and customer relations management
+* Odoo - We use [Odoo](../activities/tool-management/odoo.md) for project management and customer relations management
 * Github - push a branch, make a pull request (maybe to improve this page!). If you are new to this, review [GitHub for newcomers](../activities/trainings/github-for-newcomers.md). Then start with a '[good first issue](https://github.com/publiccodenet/about/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)'. You can request an invitation to have your Github account added to the [Foundation for Public Code](https://github.com/publiccodenet/) organizational account.
 * Attend morning standup ritual that is in the team calendar
 * Attend sprint retrospective & planning - review the kanbans beforehand
@@ -30,7 +30,7 @@ Here are some important things to figure out in the first couple of days:
 
 We also have a [full list of tools](https://about.publiccode.net/activities/tool-management/) we use.
 
-It's important to understand that we strive to be an [open organisation](../organization/cultural-values.md).
+It's important to understand that we strive to be an [open organization](../organization/cultural-values.md).
 This means that we strive to use open licenses on everything we do.
 
 The default license we use is [CC0 - Public Domain](https://creativecommons.org/share-your-work/public-domain/cc0).
