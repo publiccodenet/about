@@ -5,7 +5,7 @@ Explains: how to manage sign ups for the newsletter and community calls
 
 # Managing newsletter and community call sign up
 
-We use [Odoo](../tool-management/odoo.md) to manage the sign up process. The modules we use are Surveys and Contacts. In Odoo we have a survey called *Newsletter and community calls*, which configures the [sign up form](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).
+We use [Odoo](../tool-management/odoo.md) to manage the sign up process. The modules we use are Surveys and Contacts. We use Surveys to create sign up sheets and collect responses from people who want to sign up. We then transfer information to Contacts  The survey called *Newsletter and community calls* configures the [sign up form](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).
 
 Share the link to this form whenever we communicate with people who might want to stay in touch with us.
 
@@ -14,6 +14,7 @@ Share the link to this form whenever we communicate with people who might want t
 Update Odoo Contacts before sending out [invitations to community calls](../standard-maintenance/preparing-community-call.md) or the newsletter.
 The notes at the bottom of the survey will say when Contacts was last updated.
 In the top right corner of the survey is a button showing how many answers the survey has.
+
 Download a file of all new contacts by:
 
 1. Click Participations > Detailed answers in the top toolbar.
