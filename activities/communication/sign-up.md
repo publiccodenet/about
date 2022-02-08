@@ -18,20 +18,17 @@ Before sending out the newsletter or [invitations to community calls](../standar
 You can find out when Contacts was last updated by looking at the notes at the bottom of the survey.
 In the top right corner of the survey is a button showing how many answers the survey has.
 
-Download a file of all new contacts by:
+Check for newly completed survey entries:
 
-1. Click Participations > Detailed answers in the top toolbar.
-2. Unfold Newsletter and community calls lines to see which ones are new by comparing the date in 'Created on' with the log note date of when the contacts were last updated. Keep all the new one unfolded and collapse the old ones again.
-3. Check the square to the left above all the lines to check all unfolded squares at once.
-4. Click Action > Export.
-5. Add Suggested answer/Suggested value and Text answer.
-6. Click Export in the bottom left and open the file.
+1. Click `Participations > Participations` in the top toolbar.
+2. Unfold `Newsletter and community calls` lines to view all survey entries.
+3. Filter for `Completed` and sort Surveys according to `Created on`.
+4. Check for new entries which were created after the date stated in the last note logging that Contacts had been updated.
+5. Click on new entries to open them and view the information.
 
-With the details from the file, update existing contacts or create new ones.
+With the details from the new entires, update existing contacts or create new ones.
 Use the tags 'Newsletter', 'Community Call / Foundation', 'Community Call /Standard' and 'SendValuable' to store their preferences for being contacted.
 
 ## Log the update
 
 After the contacts have been updated, use the function **Log note** in the bottom of the survey to leave a message that contacts have been updated (a timestamp will be added automatically).
-
-Delete the contacts file you downloaded, so that we can be confident we're GDPR compliant.
