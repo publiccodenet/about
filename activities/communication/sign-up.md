@@ -13,8 +13,9 @@ Share the link to this form whenever we communicate with people who might want t
 
 ## Update contacts
 
-Update Odoo Contacts before sending out [invitations to community calls](../standard-maintenance/preparing-community-call.md) or the newsletter.
-The notes at the bottom of the survey will say when Contacts was last updated.
+Before sending out the newsletter or [invitations to community calls](../standard-maintenance/preparing-community-call.md), ensure people who have recently completed a sign up Survey are added to Odoo Contacts.
+
+You can find out when Contacts was last updated by looking at the notes at the bottom of the survey.
 In the top right corner of the survey is a button showing how many answers the survey has.
 
 Download a file of all new contacts by:
