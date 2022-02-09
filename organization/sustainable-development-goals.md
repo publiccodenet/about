@@ -1,6 +1,8 @@
 ---
 type: resource
 explains: how our work contributes to achieving the SDGs
+redirect_from: 
+    - activities/value-and-impact/sustainable-development-goals.md
 ---
 
 # How public code supports the Sustainable Development Goals
@@ -9,7 +11,7 @@ To illustrate the impact of a healthy public code ecosystem on basis of the Unit
 
 * goal 9, ‘Industry, Innovation, and Infrastructure’: by enabling new collaborations between public and private parties
 * goal 11, ‘Sustainable Cities and Communities’: by enabling sustainable collaboration on digital transformation at scale
-* goal 16, ‘Peace, Justice, and Strong Institutions’: with transparency, quality public service delivery and participation
+* goal 16, ‘Peace, Justice, and Strong Institutions’: by enabling sovereign and transparant institutions that deliver higher quality public service and are open to citizen participation
 * goal 17, ‘Partnerships for the Goals’: by building networks and making tools available
 
 ## Further reading

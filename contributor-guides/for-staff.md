@@ -5,9 +5,13 @@ explains: The basics for being a staff member of the Foundation for Public Code
 
 # How to staff at the Foundation for Public Code
 
-Our staff are expected to follow and uphold both the [Community code of conduct](../CODE_OF_CONDUCT.md) and the [Staff code of conduct](../organization/staff-code-of-conduct.md). Make sure you are familiar with both.
+Our staff are expected to follow and uphold both the [Community code of conduct](../CODE_OF_CONDUCT.md) and the [Staff code of conduct](../organization/staff-code-of-conduct.md).
+Make sure you are familiar with both.
 
-In your work you will need to introduce and explain the Foundation for Public Code. You'll answer questions about why we exist and what we do. The [pitching guidance](../activities/communication/pitching.md) provides a good starting point to learn how to briefly explain our work to others. We also provide a guide which describes our [communications activities](../activities/communication/index.md) and how we communicate with each other.
+In your work you will need to introduce and explain the Foundation for Public Code.
+You'll answer questions about why we exist and what we do.
+The [pitching guidance](../activities/communication/pitching.md) provides a good starting point to learn how to briefly explain our work to others.
+We also provide a guide which describes our [communications activities](../activities/communication/index.md) and how we communicate with each other.
 
 Here are some important things to figure out in the first couple of days:
 
@@ -16,7 +20,7 @@ Here are some important things to figure out in the first couple of days:
 * [Staff chat](../activities/communication/using-chat.md) - say hello, we're a welcoming bunch
 * Calendar - add your holidays to the team calendar
 * Manual of me - fill out your own and read the existing ones
-* Oodo - We use Odoo for our internal chat tool as well as project management and customer relations management
+* Odoo - We use [Odoo](../activities/tool-management/odoo.md) for project management and customer relations management
 * Github - push a branch, make a pull request (maybe to improve this page!). If you are new to this, review [GitHub for newcomers](../activities/trainings/github-for-newcomers.md). Then start with a '[good first issue](https://github.com/publiccodenet/about/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)'. You can request an invitation to have your Github account added to the [Foundation for Public Code](https://github.com/publiccodenet/) organizational account.
 * Attend morning standup ritual that is in the team calendar
 * Attend sprint retrospective & planning - review the kanbans beforehand
@@ -25,6 +29,16 @@ Here are some important things to figure out in the first couple of days:
 * [Start contributing!](../activities/documentation/index.md)
 
 We also have a [full list of tools](https://about.publiccode.net/activities/tool-management/) we use.
+
+It's important to understand that we strive to be an [open organization](../organization/cultural-values.md).
+This means that we strive to use open licenses on everything we do.
+
+The default license we use is [CC0 - Public Domain](https://creativecommons.org/share-your-work/public-domain/cc0).
+
+There are some exceptions to this.
+If we need certainty that content will not be altered after publishing, we use [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
+For brand assets and trademarks we do not use a free license.
+If external platforms don't provide CC 0, we use one that is as free and permissive as possible.
 
 Any of your new coworkers will be glad to help! <3
 

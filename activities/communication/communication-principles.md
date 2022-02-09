@@ -14,3 +14,5 @@ Our communication principles are:
 * hypertextual, web first
 * interactive
 * publishable
+
+These communication principles build on and extend our [cultural values](../../organization/cultural-values.md).

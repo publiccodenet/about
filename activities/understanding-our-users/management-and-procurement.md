@@ -1,5 +1,7 @@
 ---
 type: Resource
+redirect_from:
+    - activities/value-and-impact/user-mapping/management-and-procurement
 ---
 
 # Business management and procurement for public administrations

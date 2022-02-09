@@ -32,7 +32,7 @@ The general assembly:
 
 These decisions are agreed through a majority vote. Voting rights are proportional to members' membership dues. This ensures democratic ownership and control by all members.
 
-The general assembly meets at least once every year. Minutes from the general assembly meetings are shared with all members.
+The general assembly meets at least once every year. Minutes from the general assembly meetings are shared with all members and [publicly archived](/general-assemblies/index.md)
 
 We commit to holding all meaningful votes electronically, so that all members can be represented regardless of ability to attend physically.
 
@@ -48,6 +48,7 @@ The board of directors:
 These decisions are agreed upon through majority vote.
 
 The board of directors meets regularly and is required to keep the general assembly informed about its activities.
+Minutes are [publicly archived](/board-of-directors-meetings/index.md).
 
 The current board members are:
 
@@ -57,7 +58,7 @@ The current board members are:
 
 ### Advisory board
 
-The advisory board is a set of experts that suppport the general assembly, board of directors and staff. There are some decisions for which they must be consulted.
+The advisory board is a set of experts that support the general assembly, board of directors and staff. There are some decisions for which they must be consulted.
 
 ### Staff
 

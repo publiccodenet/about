@@ -28,6 +28,7 @@ Activities that support the above as well as make staff operations work:
 * [Onboarding new staff](../contributor-guides/for-staff.md)
 * [Philanthropic fundraising](philanthropic-fundraising/index.md)
 * [Procurement](procurement/index.md)
+* [Product development](product-development/index.md)
 * [Recruitment](recruitment/index.md)
 * [Staff information](staff-information/index.md)
 * [Staff management](staff-management/index.md)
@@ -35,6 +36,7 @@ Activities that support the above as well as make staff operations work:
 * [Supporting codebase governance](supporting-codebase-governance/index.md)
 * [Tool management](tool-management/index.md)
 * [Trainings](trainings/index.md)
+* [Understanding our users](understanding-our-users/index.md)
 * [Value and impact](value-and-impact/index.md)
 * [Workshops](workshops/index.md)
 
