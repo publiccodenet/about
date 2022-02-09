@@ -11,7 +11,7 @@ This guide is intended to help codebase stewards start audits on a codebase.
 
 ## Principles
 
-As much as possible, audit should take place in the open and be done together with the community of the codebase.
+As much as possible, audits should take place in the open and be done together with the community of the codebase.
 
 ## Steps
 
