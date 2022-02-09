@@ -58,7 +58,7 @@ The current board members are:
 
 ### Advisory board
 
-The advisory board is a set of experts that support the general assembly, board of directors and staff. There are some decisions for which they must be consulted.
+The advisory board members are experts that support the general assembly, board of directors and staff. There are some decisions for which they must be consulted.
 
 ### Staff
 
