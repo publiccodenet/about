@@ -23,13 +23,11 @@ Issues are best solved by collaboration, so don't worry if you don't know all th
 
 If you respond to an issue you will be notified by email of any new responses. You can reply to that email to reply in the thread. If you are interested in a certain discussion but do not want to post, use the 'subscribe' button.
 
-### Identify issues we need to solve
+### Identify new issues
 
-If you have any suggestion about our organization, improvements to our documentation and communications or questions we invite you to [file an issue](https://github.com/publiccodenet/about/issues/new).
+Let us know what's important to you [by creating an issue](https://github.com/publiccodenet/about/issues/new). This can be something that's not clear, is missing and you'd like to see in the future, or something you found useful and could be expanded. This could be anything related to the Foundation for Public Code, including our organization, our documentation and/or our communications.
 
-For instance you could give us feedback on this guide, the [README](../README.md) or any other file in this repository.
-
-Resolving these issues is a community effort as well, so be sure to clearly describe what you mean as others might not have the same context that you have.
+If your issue is large and complex, our [guide to writing issues](../activities/training/writing-issues.md) may help you structure it. 
 
 If your issue is a question then follow the good survey question rules:
 
