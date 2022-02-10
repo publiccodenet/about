@@ -17,7 +17,7 @@ Outlined below are some ways you can help. Please note that this project is rele
 
 ### Contribute to open issues
 
-You can find a list of open issues on [our backlog]*link to issues*.
+You can find a list of open issues on [our backlog](https://github.com/publiccodenet/about/issues).
 
 Issues are best solved by collaboration, so don't worry if you don't know all the answers! We'd love to get your comments, perspectives and encouragements (👍).
 
