@@ -15,7 +15,11 @@ In this guide we try to set out all the ways you can contribute to the Foundatio
 
 Outlined below are some ways you can help. Please note that this project is released with a [Contributor Code of Conduct](../CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. Please be lovely to all other community members.
 
-### Advise us and help us solve issues
+### Contribute to open issues
+
+You can find a list of open issues on [our backlog]*link to issues*.
+
+Issues are best solved by collaboration, so don't worry if you don't know all the answers! We'd love to get your comments, perspectives and encouragements (👍).
 
 If you respond to an issue you will be notified by email of any new responses. You can reply to that email to reply in the thread. If you are interested in a certain discussion but do not want to post, use the 'subscribe' button.
 
