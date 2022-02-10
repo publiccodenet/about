@@ -38,6 +38,9 @@ If your issue is a question then follow the good survey question rules:
 
 ### Suggest changes to content in pull requests
 
+Once you have identified the issue you would like to work on, feel free to suggest changes to the content in a pull request and reference the relevant issue.
+
+
 Feel free to suggest changes to the content in a pull request. We work according to [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow), except for work that is versioned and deployed, in which case we use [a GitFlow branching model](https://datasift.github.io/gitflow/IntroducingGitFlow.html).
 
 This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid [Markdown](https://guides.github.com/features/mastering-markdown/). If you want to you can also [build and preview the website locally](../README.md) before making a pull request.
