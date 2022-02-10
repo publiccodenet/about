@@ -3,6 +3,7 @@ type: Guide
 explains: how we do audits in the open
 redirect_from:
     - activities/codebase-stewardship/open-assessment
+    - activities/codebase-stewardship-assessment/open-assessment
 ---
 
 # How we do audits in the open
