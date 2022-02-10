@@ -40,6 +40,7 @@ If your issue is a question then follow the good survey question rules:
 
 Once you have identified the issue you would like to work on, feel free to suggest changes to the content in a pull request and reference the relevant issue.
 
+If you are new to git and GitHub, check out our [trainings](../activities/trainings/index.md). These will explain how to make good issues and pull requests, as well as use Markdown.
 
 Feel free to suggest changes to the content in a pull request. We work according to [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow), except for work that is versioned and deployed, in which case we use [a GitFlow branching model](https://datasift.github.io/gitflow/IntroducingGitFlow.html).
 
