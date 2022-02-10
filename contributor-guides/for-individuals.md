@@ -42,7 +42,9 @@ Once you have identified the issue you would like to work on, feel free to sugge
 
 If you are new to git and GitHub, check out our [trainings](../activities/trainings/index.md). These will explain how to make good issues and pull requests, as well as use Markdown.
 
-This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid [Markdown](https://guides.github.com/features/mastering-markdown/). If you want to you can also [build and preview the website locally](../README.md) before making a pull request.
+This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid Markdown.
+
+If you want to you can also [build and preview the website locally](../README.md) before making a pull request.
 
 If you want to add new pages, please have a look at [how we structure this repository](../activities/documentation/index.md).
 
