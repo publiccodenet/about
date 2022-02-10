@@ -59,7 +59,3 @@ Our ambition is to:
 
 * explain why a page was deleted (perhaps by referring to an issue)
 * have a link to archived material (such as git history)
-
-## Further reading
-
-[gov.uk guide on withdrawing or unpublishing content](https://www.gov.uk/guidance/content-design/gov-uk-content-retention-and-withdrawal-archiving-policy)
