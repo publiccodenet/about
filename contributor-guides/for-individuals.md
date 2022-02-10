@@ -26,7 +26,7 @@ Please be lovely to all other community members! :heart: :rainbow:
 You can find a list of open issues on [our backlog](https://github.com/publiccodenet/about/issues).
 
 Issues are best solved by collaboration, so don't worry if you don't know all the answers!
-We'd love to get your comments, perspectives and encouragements (👍).
+We'd love to get your comments, perspectives and encouragements 👍.
 
 If you respond to an issue you will be notified by email of any new responses.
 You can reply to that email to reply in the thread.
