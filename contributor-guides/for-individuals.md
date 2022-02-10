@@ -17,8 +17,6 @@ Outlined below are some ways you can help. Please note that this project is rele
 
 ### Advise us and help us solve issues
 
-Please look at [the list of issues marked 'help wanted'](https://github.com/publiccodenet/about/labels/help%20wanted). These are all of the issues (and proposed changes to content) where we feel we need help.
-
 If you respond to an issue you will be notified by email of any new responses. You can reply to that email to reply in the thread. If you are interested in a certain discussion but do not want to post, use the 'subscribe' button.
 
 ### Identify issues we need to solve
