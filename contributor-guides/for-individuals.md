@@ -19,7 +19,7 @@ In this guide we try to set out all the ways you can contribute to the Foundatio
 Outlined below are some ways you can help.
 Please note that this project is released with a [Contributor Code of Conduct](../CODE_OF_CONDUCT.md).
 By participating in this project you agree to abide by its terms.
-Please be lovely to all other community members.
+Please be lovely to all other community members! :heart: :rainbow: 
 
 ### Contribute to open issues
 
