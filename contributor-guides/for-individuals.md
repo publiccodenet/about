@@ -38,14 +38,15 @@ Let us know what's important to you [by creating an issue](https://github.com/pu
 This can be something that's not clear, is missing and you'd like to see in the future, or something you found useful and could be expanded.
 This could be anything related to the Foundation for Public Code, including our organization, our documentation and/or our communications.
 
-If your issue is large and complex, our [guide to writing issues](../activities/training/writing-issues.md) may help you structure it. 
+Resolving these issues is a community effort as well, so be sure to clearly describe what you mean as others might not have the same context that you have.
 
-If your issue is a question then follow the good survey question rules:
+Here are some general tips for making a good issue:
 
-* Only single barrelled issues (no X and Y issues)
+* Raise one point per issue (no X and Y issues)
 * No negations in the issue title
-* The issue title should be self-contained (related to remark above)
-* Try to mitigate subjective interpretation (also related to remarks above)
+* The issue title should be clear and understandable 
+ 
+If your issue is large and complex, our [guide to writing issues](../activities/training/writing-issues.md) may help you structure it. 
 
 ### Suggest changes to content in pull requests
 
