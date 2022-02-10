@@ -7,7 +7,7 @@ type: resource
 As an [open organization](../../organization/cultural-values.md) dedicated to the long term sustainability of the public code ecosystem, our ambition is to reliably serve readers with the information they were looking for.
 This means we try never to have a url resolve to a `404:Page not found`.
 
-That being said, our content will evolve over time, and we may need to move, merge and delete pages. 
+That being said, our content will evolve over time, and we may need to move, merge and delete pages.
 What follows is how we use redirects to handle these different situations.
 
 ## How redirects work in Jekyll
