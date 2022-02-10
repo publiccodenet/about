@@ -47,7 +47,7 @@ This repository is automatically converted into a website with Jekyll and GitHub
 
 If you want to add new pages, please have a look at [how we structure this repository](../activities/documentation/index.md).
 
-As per [the content governance guide](../GOVERNANCE.md) pull requests can only be merged into `develop` or `main` after being reviewed by a director.
+To get your contributions merged, you should make your pull request towards the branch `develop`, as per [the content governance guide](../GOVERNANCE.md).
 
 ### Contribute to our projects
 
