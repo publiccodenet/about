@@ -10,7 +10,7 @@ The `develop` branch contains all features approved by at least one other commit
 
 ## New content and changes into the `develop` branch
 
-Every change and new feature can be accepted into the `develop` branch by any director that did not open that pull request.
+Every change and new feature should be made towards the `develop` branch. Staff at the Foundation for Public Code will review the pull request and it can be accepted by any director that did not open that pull request.
 
 ## Publishing changes from `develop` to `main`
 
