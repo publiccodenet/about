@@ -42,15 +42,9 @@ If external platforms don't provide CC 0, we use one that is as free and permiss
 
 Any of your new coworkers will be glad to help! <3
 
-## Useful tools
+## Useful training
 
-These are some tools some of us find helpful:
-
-* [HackMD.io](https://hackmd.io/) - for collaborating on draft documents in Markdown with people outside the organization (especially helpful for content we plan to publish)
-* [Markdown Here](https://markdown-here.com/) - for formatting emails written using Markdown
-* [Github Learning lab](https://lab.github.com/) - for learning git or refresh your skill
-* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - for a list of the most common used git commands
-* Rewriting Git History - Amend, Reword, Delete, Reorder, Squash and Split ([video](https://www.youtube.com/watch?v=ElRzTuYln0M), [article](https://www.themoderncoder.com/rewriting-git-history/)) - for making the git history as clear and understandable as possible
+We have collected a [wide array of training](../activities/index.md) that can help you in your work.
 
 ## Useful context
 
