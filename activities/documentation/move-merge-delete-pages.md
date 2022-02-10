@@ -62,4 +62,4 @@ Our ambition is to:
 
 ## Further reading
 
-[GOV.uk guide on withdrawing or unpublishing content](https://www.gov.uk/guidance/content-design/gov-uk-content-retention-and-withdrawal-archiving-policy)
+[gov.uk guide on withdrawing or unpublishing content](https://www.gov.uk/guidance/content-design/gov-uk-content-retention-and-withdrawal-archiving-policy)
