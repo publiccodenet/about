@@ -17,3 +17,4 @@ More on:
 
 * [Auditing process](auditing-process.md)
 * [Certification](certification.md)
+* [Auditing in the open](open-audits.md)
