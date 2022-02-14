@@ -4,6 +4,12 @@ type: resource
 
 # What codebase stewardship is
 
+We help codebases be:
+
+* collaboratively developed
+* maintained at scale
+* reused widely and sustainable
+
 To understand codebase stewardship it can be useful to consider perspectives from
 community, quality, support, and product.
 
