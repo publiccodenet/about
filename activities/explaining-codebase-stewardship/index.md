@@ -39,4 +39,4 @@ The resources below are set up to be components that the explainer can draw from
 
 These examples help illustrate the mechanics listed above.
 
-* [Examples of what we do during stewardship](examples.md)
+* [Example of what we do during stewardship](example.md)
