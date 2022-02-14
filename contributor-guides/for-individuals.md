@@ -19,7 +19,7 @@ In this guide we try to set out all the ways you can contribute to the Foundatio
 Outlined below are some ways you can help.
 Please note that this project is released with a [Contributor Code of Conduct](../CODE_OF_CONDUCT.md).
 By participating in this project you agree to abide by its terms.
-Please be lovely to all other community members! :heart: :rainbow: 
+Please be lovely to all other community members! :heart: :rainbow:
 
 ### Contribute to open issues
 
@@ -44,16 +44,16 @@ Here are some general tips for making a good issue:
 
 * Raise one point per issue (no X and Y issues)
 * No negations in the issue title
-* The issue title should be clear and understandable 
- 
-If your issue is large and complex, our [guide to writing issues](../activities/training/writing-issues.md) may help you structure it. 
+* The issue title should be clear and understandable
+
+If your issue is large and complex, our [guide to writing issues](../activities/training/writing-issues.md) may help you structure it.
 
 ### Suggest changes to content in pull requests
 
 Once you have identified the issue you would like to work on, feel free to suggest changes to the content in a pull request and reference the relevant issue.
 
 If you are new to git and GitHub, check out our [trainings](../activities/trainings/index.md).
-These will explain how to make good issues and pull requests, as well as use Markdown. 
+These will explain how to make good issues and pull requests, as well as use Markdown.
 
 This repository is automatically converted into a website with Jekyll and GitHub pages, so make sure that every file you contribute is valid Markdown.
 
