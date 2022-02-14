@@ -46,7 +46,7 @@ Here are some general tips for making a good issue:
 * No negations in the issue title
 * The issue title should be clear and understandable
 
-If your issue is large and complex, our [guide to writing issues](../activities/training/writing-issues.md) may help you structure it.
+If your issue is large and complex, our [guide to writing issues](../activities/trainings/writing-issues.md) may help you structure it.
 
 ### Suggest changes to content in pull requests
 
