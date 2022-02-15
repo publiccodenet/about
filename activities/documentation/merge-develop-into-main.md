@@ -19,6 +19,7 @@ The purpose of reviewing these merges carefully is to make sure that we only pub
 3. Include 'review checklist template' below as a comment on your pull request.
 4. Review all changes and additions. Small uncontroversial problems, such as typos, can be fixed in the release branch. For larger and/or controversial problems (such as restructuring of context), create a new branch and make a pull request into the release branch. For any open ended issues (such as new content suggestions), create an issue.
 5. Once review is complete, merge to main! :tada:
+6. If any changes were made to the release branch, make a pull request from main into develop. This ensures these changes will also be implemented in develop, keeping it up to date.
 
 Our publishing process is [based on GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html).
 
