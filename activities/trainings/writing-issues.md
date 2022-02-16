@@ -16,6 +16,8 @@ The goal of an issue is to provide knowledge about and context on what to fix or
 
 An issue can contain a proposed fix, but does not have to.
 
+Raise one point per issue, and try avoid negations in the issue title.
+
 We write good issues because:
 
 * it helps communicate things that need to be done
@@ -34,15 +36,6 @@ The title of the issue should be short, to the point and descriptive. Enhancemen
 ## Defining done for issues
 
 It's helpful for the person who solves the issue to know when they've actually fixed it. List multiple steps or actions with checkboxes so they can be tracked and resolved.
-
-## Writing a question
-
-If your issue is a question then follow the good survey question rules:
-
-* Only single barrelled issues (no X and Y issues)
-* No negations in the issue title
-* The issue title should be self-contained (related to remark above)
-* Try to mitigate subjective interpretation (also related to remarks above)
 
 ## Writing a bug
 
