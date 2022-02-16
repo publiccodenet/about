@@ -14,7 +14,7 @@ Otherwise, we hope the contents linked below will provide you with the knowledge
 
 ## Do it yourself, guided
 
-The GitHub labs courses are great courses, so it pays to read them completely as well as watch all the videos.
+The [GitHub labs](https://lab.github.com/) courses are great courses, so it pays to read them completely as well as watch all the videos.
 
 For our way of working and how we use GitHub following this order makes sense:
 
