@@ -12,6 +12,8 @@ As a rapidly developing organization the information we have changes continuousl
 
 About is the canonical source of truth for our organization. This means that the information on the [about.publiccode.net](https://about.publiccode.net/) website – a reflection of the `main` branch in the [`about` repository](https://github.com/publiccodenet/about) – takes precedence over any other information.
 
+We work according to [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow), except for work that is versioned and deployed, in which case we use [a GitFlow branching model](https://datasift.github.io/gitflow/IntroducingGitFlow.html).
+
 ## Content types
 
 In order to make it easier to navigate and contribute information we try to limit the types of content in About to three types:
