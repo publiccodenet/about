@@ -10,7 +10,7 @@ It serves as the seed for collaboration in order to get it solved.
 
 Issues can be of two types:
 
-* Bug: something that isn't as it is supposed to be, this is brokene
+* Bug: something that isn't as it is supposed to be, this is broken
 * Enhancement: an improvement that could be done to make something better
 
 The goal of an issue is to provide knowledge about and context on what to fix or improve.
