@@ -52,7 +52,7 @@ When a page is merged with another page, use `redirect_from` if it is in the sam
 When content outgrows its location and moves to its own page, consider using a hyperlink.
 
 When a page is split into new pages, and the old page becomes redundant, consider whether it could become an index or short stub referencing the new pages.
-If a redirect is necessary - aim to redirect to the most relevant page.
+If a redirect is necessary, redirect to the most relevant page.
 
 ## Deleting pages
 
