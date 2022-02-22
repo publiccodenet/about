@@ -14,7 +14,7 @@ How best to explain codebase stewardship depends on:
 * the background, experiences and knowledge of the audience
 
 The explanation should be adapted to the flow of the conversation.
-It is always helpful to understand the [value proposition for and pain points of the audience](../understanding-our-users/index.md)
+It is always helpful to understand the [value proposition for and pain points of the audience](../understanding-our-users/index.md).
 
 ## Explaining the mechanics of codebase stewardship
 
