@@ -7,7 +7,7 @@ redirect_from:
 # Codebase stewardship
 
 Codebase stewardship is what we call the way we support public code codebase communities as they aim and work to meet the Standard for Public Code.
-Our approach of being stewards is highly intentional.
+Our approach of relating to the codebase community from the position of being stewards is highly intentional.
 We have no ambition in claiming ownership of or running a codebase, but rather our goal is to help the community be successful in what they want to achieve.
 Thus, our approach is more similar to a coach, mentor or advisor rather than a hands-on developer or project manager.
 Sometimes we act as a neutral party that can arbitrate on issues that the community escalates to us.
