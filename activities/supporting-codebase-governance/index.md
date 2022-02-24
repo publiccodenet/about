@@ -59,9 +59,10 @@ The following sections are typically included when designing a governance model:
 
 The governance model is best documented in a `GOVERNANCE` file that is placed in the root catalog of the codebase repository and linked to from the `README` file.
 
-While it is good for clarity and future collaborators to have a governance to rely on, lacking one should not be blocker for working in the open.
-Getting started and being open is more important since it is also unusual to have more than one party involeved in the beginning.
-That said, the closer a codebase is to get its first collaborator, the more urgent describing the governance becomes.
+The process of establishing governance should not be a blocker for working in the open.
+It is better to start working in the open, and then work on establishing governance.
+This is particularly true if the beginning of a codebase involves only one contributing organization.
+That being said, clear and established governance is essential for effective collaboration, so the closer the codebase is to having additional contributors, the more urgent it becomes to establish governance.
 
 ## Standard compliance
 
