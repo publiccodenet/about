@@ -65,7 +65,8 @@ Context is key, so use the GitHub functionality of tagging other contributors wh
 ## Add labels to issues to help keep overview
 
 Standard labels include `bug`, `enhancement`, `help wanted`, `duplicate` and `good first issue`.
-Apart from these different codebases can have labels specific to them. For example for prioritization or team assignment.
+Apart from these different codebases can have labels specific to them.
+For example for `prioritization` or `team assignment`.
 
 ## Make your issue a good first issue
 
