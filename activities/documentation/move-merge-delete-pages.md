@@ -17,7 +17,7 @@ There are types of redirects in Jekyll - a redirect from, and a redirect to.
 A `redirect_to` is an instruction on the old page, that when the old URL is clicked, the redirect instruction on the old page automatically forwards to the new page.
 This works a bit like post arriving at your old home, and being forwarded to your new address.
 A redirect to can only redirect to one other new page.
-Note: this mean a file needs to be kept in the old location.
+Note: this means a file needs to be kept in the old location.
 
 A `redirect_from` is an instruction in the new page.
 This works a bit like updating everyone's address book with your new address.
