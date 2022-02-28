@@ -5,7 +5,7 @@ type: resource
 # Moving, merging and deleting pages
 
 As an [open organization](../../organization/cultural-values.md) dedicated to the long term sustainability of the public code ecosystem, our ambition is to reliably serve readers with the information they were looking for.
-This means we try never to have a url resolve to a `404:Page not found`.
+This means we try never to have a URL resolve to a `404:Page not found`.
 
 That being said, our content will evolve over time, and we may need to move, merge and delete pages.
 What follows is how we use redirects to handle these different situations.
@@ -14,14 +14,14 @@ What follows is how we use redirects to handle these different situations.
 
 There are types of redirects in Jekyll - a redirect from, and a redirect to.
 
-A `redirect_to` is an instruction on the old page, that when the old url is clicked, the redirect instruction on the old page automatically forwards to the new page.
+A `redirect_to` is an instruction on the old page, that when the old URL is clicked, the redirect instruction on the old page automatically forwards to the new page.
 This works a bit like post arriving at your old home, and being forwarded to your new address.
 A redirect to can only redirect to one other new page.
 Note: this mean a file needs to be kept in the old location.
 
 A `redirect_from` is an instruction in the new page.
 This works a bit like updating everyone's address book with your new address.
-A `redirect_from` can rewrite urls from many other old pages.
+A `redirect_from` can rewrite URLs from many other old pages.
 Note: this only works with files in the same repository (we can't change someone else's address book!) - but means the old file can be deleted.
 
 It is technically possible to simultaneously put a `redirect_to` in the old page and `redirect_from` in the new page, providing both pages are in the same repository, but it does not add any value.
@@ -43,7 +43,7 @@ redirect_from:
 
 ## Redirecting pages
 
-When a page url changes, but it remains in the same repository (it is moved to a different directory or is renamed) a `redirect_from` should be used.
+When a page URL changes, but it remains in the same repository (it is moved to a different directory or is renamed) a `redirect_from` should be used.
 
 When a page is moved to a different repository a `redirect_to` should be used.
 
