@@ -1,6 +1,6 @@
 ---
 type: Guide
-explains: How to learn to use GitHub effectively for working with the Foundation for Public Code projects
+explains: How to learn to use GitHub effectively for working with Foundation for Public Code projects
 ---
 
 # GitHub for newcomers
@@ -14,7 +14,7 @@ Otherwise, we hope the contents linked below will provide you with the knowledge
 
 ## Do it yourself, guided
 
-The GitHub labs courses are great courses, so it pays to read them completely as well as watch all the videos.
+The [GitHub labs](https://lab.github.com/) courses are great courses, so it pays to read them completely as well as watch all the videos.
 
 For our way of working and how we use GitHub following this order makes sense:
 
@@ -30,7 +30,7 @@ With this knowledge you should now be good to go with your GitHub use!
 
 ## Further learning
 
-If you want to manage your (email) notifications
+If you want to manage your (email) notifications:
 
 * [Configuring notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications)
 

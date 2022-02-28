@@ -9,7 +9,7 @@ explains: how salary administration is managed
 
 * Tentoo takes care of our salary administration. Tentoo’s account is linked to ExactOnline, no need to submit anything related to salary administration
 * [Login via website](https://tentoo.nmbrs.nl/applications) or the app
-* Staff that needs to administer the salaries have ‘company’ logins with which they can access the personnel files and keep them up to date
+* Staff that need to administer the salaries have ‘company’ logins with which they can access the personnel files and keep them up to date
 * All employees have their own login, as well as access to the app (can be set to English and to Dutch). They can submit expenses, download salary stubs, request vacation days and check their vacation time balance. They can also fill in change notification (mutation) forms for new addresses, partners, emergency contact details, and email addresses (we use the personal email for this tool, since the salary stubs etc. have to remain accessible)
 
 ## Administering

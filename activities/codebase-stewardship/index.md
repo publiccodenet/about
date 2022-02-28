@@ -6,118 +6,84 @@ redirect_from:
 
 # Codebase stewardship
 
-We provide codebase stewardship at the codebase level.
-The [goals of codebase stewardship](goals.md) are to maximize the reuse of the [codebase](../../glossary/codebase-definition.md) and promote the long term sustainability of the community around the codebase.
-Through codebase stewardship, we help public source code and policy code products become successful.
+Codebase stewardship is what we call the way we support public code codebase communities as they aim and work to meet the Standard for Public Code.
+Our approach of relating to the codebase community from the position of being stewards is highly intentional.
+We have no ambition in claiming ownership of or running a codebase, but rather our goal is to help the community be successful in what they want to achieve.
+Thus, our approach is more similar to a coach, mentor or advisor rather than a hands-on developer or project manager.
+Sometimes we act as a neutral party that can arbitrate on issues that the community escalates to us.
 
-We help codebases be:
+If you want to learn more on how to explain codebase stewardship, see [this activity for that](../explaining-codebase-stewardship/index.md).
 
-* collaboratively developed
-* maintained at scale
-* reused widely and sustainable
+## Our main line of work
 
-As such, all our activities are explicitly targeted at the codebase level.
-We do not perform them at the level of, or for the benefit of, individual community members, local geographical contexts or specific legal contexts.
+### Understanding the codebase community
 
-We can provide codebase stewardship from the beginning of the development or for existing projects.
+In order to be able to help, we must first [understand and empathize](../understanding-our-users/index.md) with the codebase community.
 
-## What codebase stewardship is
+* what is it that they want?
+* what are their pain points?
+* what can we help them with?
 
-To understand codebase stewardship it can be useful to consider perspectives from
-community, quality, support, and product.
+This is important during all stages, but even more prominent when we first meet a new codebase community.
 
-### Community
+### Common and repeating kinds of tasks
 
-Successful open source codebases build a diverse community of public organizations and vendors to implement and support the product.
-This includes multiple public organizations contracting new development work, and multiple developing parties adding code to the repository.
+As codebase stewards, we aim to support codebase communities in whatever ways we identify would enable better collaboration and codebase improvement.
+We've seen that most codebases communities have similar needs.
 
-The Foundation for Public Code helps facilitate these interactions around the code - for example by setting up [community calls](../community-calls/index.md) and [events](../events/index.md), processing feedback and contributions, [organizing workshops](../workshops/index.md), answering questions for newcomers, and [supporting, consulting on and executing codebase governance and technical steering](../supporting-codebase-governance/index.md) in a way that is open and inclusive to everyone working at the code level (including developers, implementers and open source enthusiasts).
-This helps avoid duplicate work, and ensures new actors beyond those already involved can join and participate easily.
+Conference calls have become essential for collaboration.
+Each codebase community will benefit from having a regular (monthly or quarterly) product steering conference call where stakeholders and product managers from each deployment can come together and talk about what their needs are presently and in the future, thus we host a [Jitsi](../tool-management/jitsi-guides.md) video conference server for the communities.
+Simlilarly, each codebase community will benefit from having a weekly or bi-weekly technical call where the developers can discuss how they should change the codebase.
+In each of these types of calls we typically coach members to become the (rotating) chair of the call, although we may chair the calls in the beginning.
+By being present in the calls, stewards can listen for early signs of friction, and ensure that it is addressed before it grows.
 
-### Quality
+Additionally, mailing lists and open text chat platforms are often needed.
+We can host these:
 
-Successful open source codebases leverage economies of scale in a decentralized manner - various developers add features and fix bugs, while various implementers support public organizations in their implementations.
+* [Mailman](../tool-management/mailing-lists.md)
+* [Mattermost](../tool-management/mattermost.md)
 
-The Foundation for Public Code helps guarantee that all the code and corresponding documentation is ready for reuse.
-This includes a quality check on all new code, policy and documentation added to the repository, [codebase auditing](../codebase-auditing/index.md), monitoring codebase compliance towards any future versions of the [Standard for Public Code](https://standard.publiccode.net/), security and compatibility monitoring, and making sure everything is properly explained so other people can use it in their work.
-This helps all parties involved trust each other’s code and work - allowing them to build on each other.
+With the aim to help the communities get more collaborators, we push them to work more in the open.
+Clear governance helps a new collaborator participate, thus we help codebase communities draft or improve their `GOVERNANCE.md`.
 
-### Support
+### Flexibility in our support
 
-Successful open source codebases build a diverse vendor network for development, maintenance, implementation and hosting.
+We do try to support the codebase communities overcoming their current painpoints.
+This might lead to developing new processes and methods.
+Here are a few examples when addressing specific codebase community needs has generated experiences that might be applicable to more communities in the future.
 
-The Foundation for Public Code explicitly looks at the code and documentation from a vendor perspective to help make sure it is commercially viable for them to work with the codebase.
-This can include hosting introductory open days to the codebase, giving [training](../trainings/index.md) to new vendors, helping to resolve questions and doubts, project infrastructure and process management, intellectual property management and trademark protection, and supporting the relationship between public organizations and vendors - including maintenance, implementation and integration partners as well as hosting providers.
+* [Creating an open market consultation](https://blog.publiccode.net/codebase%20stewardship/2020/07/01/openzaak-market-consultation-workshops.html) to get early insight in a possible ecosystem of vendors and users
+* Navigating security processes (Common Vulnerabilities and Exposures, CVE)
+* Building trust between teams in different organizations by getting them together in a safe environment
+* Guiding through license considerations for a codebase and its components
 
-### Product
+## Our most important tool: Standard for Public Code
 
-Successful open source codebases involve a wide community to partake in the actions described above.
+The Standard for Public Code is our most important tool, and everything we do should be in the spirit of it.
+The requirements in it are the results of distilling good practices that are essential for enabling collaboration.
+It is useful even as a handbook when trying to guide a community through any situation they are in.
 
-The Foundation for Public Code supports the product marketing and [product development](../product-development/index.md) of codebases to reach public organizations and vendors beyond (the network of) the current community.
-This can include help with the codebase’s branding, storytelling, product steering and marketing assets.
-This helps make the codebase attractive internationally and to new vendors, and easier to scale in the local context.
+## Related activities
 
-## Codebase stewardship lifecycle
-
-How we deliver codebase stewardship is based around the lifecycle of stewardship ([see diagram here](lifecycle-diagram.md)).
-
-### Assessment
-
-In order to decide on if and how we can perform incubating stewardship we assess the codebase and its community together with the community. If it is an [existing codebase](for-existing-projects.md) we look at the [purpose, code, community and scalability](../codebase-stewardship/odoo-codebases.md#identify) first.
-
-If codebase stewardship is feasible, or if it is a new codebase, we then do a [Standard for Public Code](https://standard.publiccode.net/) gap analysis.
-
-At the end of assessment, the community:
-
-* knows what work will be required to make the codebase compliant with the Standard
-* can meaningfully decide whether to commit to becoming fully stewarded by the Foundation for Public Code
-
-### Incubating stewardship
-
-Codebases that are in incubation do not yet have the maturity of code and community that we require in the [Standard for Public Code](https://standard.publiccode.net/) and that might be required in the codebase governance.
-
-During incubation, the community works to make the codebase fully Standard compliant (supported by the Foundation for Public Code).
-At least once each year the codebase stewards organizes a meeting with the codebase community to do a forward look.
-The meeting should cover what the ambitions of the community related to meeting more requirements in the Standard for Public Code will be the next year.
-At the latest, a forward look like this should happen about three months before the [general assembly](../../organization/governance-model.md#general-assembly).
-It should be clearly communicated that the information collected in the forward look will feed into a report for the general assembly.
-The forward look could either be part of a regular product steering meeting if such exist, or be a separate meeting.
-Afterwards, the codebase stewards prepares a “state of the codebases”, covering all codebases in stewardship, to the general assembly so that the members can make informed decisions during it.
-Of particular interest for the codebase stewards is if the general assembly wants to prioritize a codebase for strategic reasons, even if compliance with the Standard for Public Code is unlikely the coming year.
-Such decision will give the codebase stewards the mandate to continue stewarding the incubated codebase.
-Alternatively, the members can decide that stop the incubation of a codebase that doesn’t present any renewed ambitions and simply end the lifecycle.
-
-Repositories of codebases in incubation will have clear indicators that the codebase and community are not yet mature, displayed in prominent places.
-
-### Full stewardship
-
-As an organization we deem this codebase, its ecosystem and its community to be mature according to the [Standard for Public Code](https://standard.publiccode.net/).
-
-### Attic
-
-Codebases that have been mature at one point but whose community has lost interest are moved to the attic.
-In the attic codebases and communities are no longer stewarded.
-The code will stay available.
-
-Codebases can come out of the attic with renewed community interest.
-Since the codebases might adhere to outdated standards it will need to go back into incubation before it can be returned to full stewardship.
+* [Codebase auditing](../codebase-auditing/index.md) - the process we use when auditing a codebase towards the Standard for Public Code
+* [Explaining what codebase stewardship is](../explaining-codebase-stewardship/index.md) - often needed when meeting new communities to help them understand what we do
+* [Maintenance of the Standard for Public Code](../standard-maintenance/index.md) - we continuously develop the standard and are tending to incoming issues and have community calls
+* [Supporting governance](../supporting-codebase-governance/) - crucially needed for codebase communities that haven't got their first collaborator yet
+* [Workshops](../workshops/index.md) - we often help our communities learn and understand their needs through workshops
+* [Tool guidance](../tool-management/index.md) - a list of the tools that we currently have at our disposal
 
 ## Useful resources
 
-* [how codebase stewardship works for existing projects](for-existing-projects.md)
-* [resources to help explain what codebase stewardship is](../explaining-codebase-stewardship/index.md)
-* [check list for community assets need during early incubation](community-assets.md)
-* [check list for product assets needed during early incubation](product-assets-for-early-incubation.md)
-* [guide for using Odoo to track our codebases](odoo-codebases.md)
+* [How codebase stewardship works for existing codebases](for-existing-projects.md) - some guidance when entering exisiting codebase communities
+* [Community assets check list](community-assets.md) - with focus on the assets needed to grow the community during early incubation
+* [Product assets check list](product-assets-for-early-incubation.md) - with focus on the assets that help establish the codebase as a product during early incubation
+* [Tracking codebases in Odoo](odoo-codebases.md) - guide that explains how the codebase stewards use Odoo to track the work with codebases
+* [Product development](../product-development/index.md) - from a stewardship perspective
+* [Trainings](../trainings/index.md) - we have collected educational resources that are always useful for a codebase steward to master
 
 ### Templates
 
-* [Standard for Public Code auditing template](../codebase-auditing/review-template.md)
-* [user personas templates](/user-personas/index.md)
-* [codebase in Odoo](odoo-codebase-template.md)
-* [stewardship proposal we can send to principal maintainers](stewardship-proposal-template.md)
-
-## Further reading
-
-* [The Foundation for Public Code introduction to codebase stewardship](https://publiccode.net/codebase-stewardship/)
-* [Public list of codebases we work with, by lifecycle status](https://publiccode.net/codebases/)
+* [Standard for Public Code auditing template](../codebase-auditing/review-template.md) - this is the template we use when auditing a codebase towards the Standard for Public Code
+* [User personas templates](/user-personas/index.md) - template personas that are typical in the type of codebases we work with that can be used as a starting point
+* [Codebase in Odoo](odoo-codebase-template.md) - template to use when we add a new codebase in Odoo
+* [Stewardship proposal](stewardship-proposal-template.md) - a template proposal we can send to principal maintainers to get informed consent to steward the codebase
