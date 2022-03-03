@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# [Codebase] and the Standard for Public Code
+# [Codebase] and the Standard for Public Code version 0.2.2
 
 Link to commitment to meet the Standard for Public Code:
 
