@@ -4,6 +4,8 @@ type: Resource
 
 # [Codebase] and the Standard for Public Code
 
+Link to commitment to meet the Standard for Public Code:
+
 ## [Code in the Open](https://standard.publiccode.net/criteria/code-in-the-open.html)
 
 - [ ] compliant with this criterion.

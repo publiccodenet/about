@@ -56,4 +56,4 @@ This schedule shows recurring events the Foundation for Public Code prepares for
 
 31 December: End of financial year
 
-31 December: Update the yearle schedule with dates for the coming year
+31 December: Update the yearly schedule with dates for the coming year
