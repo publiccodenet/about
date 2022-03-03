@@ -6,7 +6,7 @@ type: Index
 
 The Foundation for Public Code is a [member-owned association](../member-relations/index.md).
 Membership is only open to public organizations.
-For non-profit organizations that we want to collaborate with we can instead form an affiliation so that they become an [affiliate](../../glossary/affiliate-definition.md).
+Non-profit organizations that we collaborate with we can become [affiliates](../../glossary/affiliate-definition.md).
 
 [See our current affiliates](../../organization/affiliates.md).
 
