@@ -20,7 +20,6 @@ These are all the activities, documents and templates for Communication.
 * [Using chat.publiccode.net](using-chat.md)
 * [Tips on communication in a remote first environment](communication-remote-first.md)
 
-
 ## Synchronous communication
 
 We meet our community regularly by [attending and running events](../events) and [workshops](../workshops), and by [hosting community calls](../community-calls).

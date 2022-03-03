@@ -36,6 +36,7 @@ Make sure these are ready at least 3 weeks in advance:
 * Social media campaign: short video with the guest if possible
 * Shared strategy with the stakeholders involved for every interview
 * Agreement from the guest to tag them and their organization(s) on all social media platforms we both use (confirm the correct account names)
+* Make sure Foundation for Public Code social media accounts follow the interviewee (if we don't already!)
 
 ## See also
 
