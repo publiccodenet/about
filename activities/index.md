@@ -21,7 +21,7 @@ Activities that support the above as well as make staff operations work:
 * [Events](events/index.md)
 * [Explaining codebase stewardship](explaining-codebase-stewardship/index.md)
 * [Financial administration](financial-administration/index.md)
-* [Live streaming](live-streaming/index.md)
+* [Live streaming and podcasting](live-streaming/index.md)
 * [Maintenance of the Standard for Public Code](standard-maintenance/index.md)
 * [Member relations](member-relations/index.md)
 * [Membership growth](membership-growth/index.md)
