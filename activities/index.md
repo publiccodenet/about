@@ -15,6 +15,7 @@ Activities that support the above as well as make staff operations work:
 * [Communication](communication/index.md)
 * [Community calls](community-calls/index.md)
 * [Conflicts of interest](conflict-of-interest/index.md)
+* [Creating affiliations](creating-affiliations/index.md)
 * [Creating partnerships](creating-partnerships/index.md)
 * [Documentation](documentation/index.md)
 * [Events](events/index.md)
