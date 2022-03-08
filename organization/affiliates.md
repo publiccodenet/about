@@ -14,4 +14,4 @@ These are our affiliates:
 * [OASC](https://oascities.org/)
 * [Associació de Software Lliure Decidim](https://decidim.org) (Decidim Free Software Association)
 
-We are also founding members of [OSPO Alliance](https://ospo.zone/).
+We are also a founding member of [OSPO Alliance](https://ospo.zone/).
