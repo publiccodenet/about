@@ -22,7 +22,9 @@ More days can be bought at cost rate with agreement from your manager and <hr@pu
 
 ### How to request vacation leave
 
-1. Log in to your Tentoo NMBRS ESS (employee self service) account. If you haven't received a login, request one at <hr@publiccode.net>.
+If you have a Tentoo NMBRS account:
+
+1. Log in to your Tentoo NMBRS ESS (employee self service) account.
 2. Open the menu and select 'Leave'.
 3. Press 'New Request'.
 4. Select 'More than one day' or 'One day'.
@@ -30,6 +32,8 @@ More days can be bought at cost rate with agreement from your manager and <hr@pu
 6. Check whether the total hours is right.
 7. Fill in a description.
 8. Press send.
+
+If you do not have an account, email your manager directly.
 
 The leave can now be approved by your manager.
 
