@@ -14,6 +14,10 @@ You may also be interested in:
 * [a list of policy documents that mention the Foundation for Public Code](policy-documents.md)
 * [our conference talks and articles we've written](https://projects.publiccode.net/talks-and-articles.html)
 
+## 2022
+
+* [Don’t Call It Alternative, Call It Normal](https://www.sdeps.eu/dont-call-it-alternative-call-it-normal/) - a chat with Aik van Eemeren, Public Tech Lead at the Chief Technology Office (CTO) of the Amsterdam municipality by [Shared Digital European Public Sphere](https://www.sdeps.eu/) (SDEPS) (January 2022)
+
 ## 2021
 
 * [Help: open source software will be mandatory, now what?](https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu) - summary of a panel discussion with Boris van Hoytema, Ivonne Janssen-Dings and Koos Steenbergen at the Conferentie Nederland Digitaal on [opensource.pleio.nl](https://opensource.pleio.nl) (in Dutch) (February 2021)
