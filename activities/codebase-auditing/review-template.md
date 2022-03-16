@@ -175,7 +175,7 @@ All code and documentation MUST be licensed such that it may be freely reusable,
 Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category). |  |
 All code MUST be published with a license file. |  |
 Contributors MUST NOT be required to transfer copyright of their contributions to the codebase. |  |
-All source code files in the codebase SHOULD include a copyright notice and a license header. |  |
+All source code files in the codebase SHOULD include a copyright notice and a license header that are machine readable. |  |
 Codebases MAY have multiple licenses for different types of code and documentation. |  |
 
 ## [Use a coherent style](https://standard.publiccode.net/criteria/style.html)
