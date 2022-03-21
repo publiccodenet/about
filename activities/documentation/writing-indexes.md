@@ -44,7 +44,7 @@ This text should avoid hyperlinking, particularly to the resources and guides av
 ### Resources and guides
 
 This section lists the resources and guides that are available under this topic or in this folder.
-Resource and guide titles should be as self explanatory as possible.
+Titles of resources and guides should be as self explanatory as possible.
 Titles can be accompanied by a brief comment.
 
 Most index pages don't require further reading.
