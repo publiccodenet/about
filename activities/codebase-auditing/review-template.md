@@ -96,7 +96,7 @@ Reviewers MUST provide feedback on all decisions to not accept a contribution. |
 Contributions SHOULD conform to the standards, architecture and decisions set out in the codebase in order to pass review. |  |
 Reviews SHOULD include running both the code and the tests of the codebase. |  |
 Contributions SHOULD be reviewed by someone in a different context than the contributor. |  |
-Version control systems SHOULD not accept non-reviewed contributions in release versions. |  |
+Version control systems SHOULD NOT accept non-reviewed contributions in release versions. |  |
 Reviews SHOULD happen within two business days. |  |
 Reviews MAY be performed by multiple reviewers. |  |
 
@@ -106,7 +106,7 @@ Reviews MAY be performed by multiple reviewers. |  |
 
 Requirement | meets | links and notes
 -----|-----|-----
-The codebase MUST contain documentation of its objectives – like a mission and goal statement – that is understandable by designers and developers so that they can use or contribute to the codebase. |  |
+The codebase MUST contain documentation of its objectives – like a mission and goal statement – that is understandable by developers and designers so that they can use or contribute to the codebase. |  |
 Codebase documentation SHOULD clearly describe the connections between policy objectives and codebase objectives. |  |
 The codebase MAY contain documentation of its objectives for the general public. |  |
 
@@ -131,11 +131,12 @@ Requirement | meets | links and notes
 -----|-----|-----
 All codebase documentation MUST be in English. |  |
 All code MUST be in English, except where policy is machine interpreted as code. |  |
+All bundled policy not available in English MUST have an accompanying summary in English. |  |
 Any translation MUST be up to date with the English version and vice versa. |  |
 There SHOULD be no acronyms, abbreviations, puns or legal/non-English/domain specific terms in the codebase without an explanation preceding it or a link to an explanation. |  |
 The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding. |  |
 Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable). |  |
-Any code, documentation and tests MAY have a translation. |  |
+Any code, documentation or tests MAY have a translation. |  |
 
 ## [Use open standards](https://standard.publiccode.net/criteria/open-standards.html)
 
@@ -174,7 +175,7 @@ All code and documentation MUST be licensed such that it may be freely reusable,
 Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category). |  |
 All code MUST be published with a license file. |  |
 Contributors MUST NOT be required to transfer copyright of their contributions to the codebase. |  |
-All source code files in the codebase SHOULD include a copyright notice and a license header. |  |
+All source code files in the codebase SHOULD include a copyright notice and a license header that are machine readable. |  |
 Codebases MAY have multiple licenses for different types of code and documentation. |  |
 
 ## [Use a coherent style](https://standard.publiccode.net/criteria/style.html)
