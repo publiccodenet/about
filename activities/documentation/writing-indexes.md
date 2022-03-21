@@ -5,7 +5,8 @@ explains: How to write a good index to help people understand and find their way
 
 # How to write an index
 
-Every folder in the about has an index file named `index.md`. The goal of this file is to:
+Every folder in the about has an index file named `index.md`.
+The goal of this file is to:
 
 * Introduce what this topic is about
 * List what resources and guides are available on this topic
