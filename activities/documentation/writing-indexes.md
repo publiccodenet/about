@@ -7,8 +7,8 @@ explains: How to write a good index to help people understand and find their way
 
 Every folder in the about has an index file named `index.md`. The goal of this file is to:
 
-* Introduces what this topic is about
-* What resources and guides are available on this topic
+* Introduce what this topic is about
+* List what resources and guides are available on this topic
 
 ## Anatomy of an index page
 
