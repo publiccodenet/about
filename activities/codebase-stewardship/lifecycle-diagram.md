@@ -9,8 +9,8 @@ How we deliver codebase stewardship is based around the lifecycle of stewardship
 ```mermaid
 graph TD;
     S0((Codebase<br />proposed)) --> S1{Is there an<br />existing codebase?};
-    S1 -->|No| S2(Assesment for<br />to be developed codebase);
-    S1 -->|Yes| S3(Assesment for exisiting codebase);
+    S1 -->|No| S2(Assessment for<br />to be developed codebase);
+    S1 -->|Yes| S3(Assessment for existing codebase);
     S2 --> S5{Agreement on<br />incubation?};
     S3 --> S4{Is ready for incubation?};
     S4 -->|No| S3;
