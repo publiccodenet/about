@@ -9,7 +9,7 @@ We maintain it in accordance with the [GOVERNANCE](https://standard.publiccode.n
 
 As a part of maintaining the Standard for Public Code we also:
 
-* [Creating releases](../releasing-the-standard/index.md)
+* [Create releases](../releasing-the-standard/index.md)
 * [Prune the backlog](backlog-pruning.md)
 * [Organize community calls](community-call.md)
 * [Prepare community calls](preparing-community-call.md)

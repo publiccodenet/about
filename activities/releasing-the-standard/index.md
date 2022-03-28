@@ -8,14 +8,14 @@ type: Index
 
 Start by creating an issue in the Standard for Public Code repository.
 The issue can include a target release date that we're aiming for and the new version number.
-Also include a mention of the motivation for the release, to give context.
-As we're still below version 1.0, we have the liberty to release early and often.
+Also include the reason for the release for context.
+As we're still below version 1.0, we're free to release early and often.
 
 ## Creating the release
 
 Follow the [instructions](https://github.com/publiccodenet/standard/blob/develop/docs/releasing.md) in the documentation.
 
-## Follow-up of a release
+## After the release
 
 * Announce the release on our [mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/).
 * If needed, update the [review template](https://about.publiccode.net/activities/codebase-auditing/review-template.html).
