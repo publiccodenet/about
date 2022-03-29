@@ -12,6 +12,8 @@ For this reason, in order to learn effectively and not be frustrated often it pa
 If you know how to rebase a branch, you may not find very much new in this guide.
 Otherwise, we hope the contents linked below will provide you with the knowledge you need to operate git and GitHub.
 
+GitHub has a [3 minute video](https://www.youtube.com/watch?v=w3jLJU7DT5E) to explain the basics.
+
 ## Do it yourself, guided
 
 The [GitHub labs](https://lab.github.com/) courses are great courses, so it pays to read them completely as well as watch all the videos.
