@@ -10,7 +10,7 @@ We use [Google Workspace](../tool-management/google-workspace.md) to store our r
 
 ## Raw videos
 
-Raw videos that will be used for editing is stored and shared with colleagues on the Drive in Google Workspace.
+Raw videos that will be used for editing are stored and shared with colleagues on the Drive in Google Workspace.
 We have unlimited storage space.
 
 ## Publish videos
