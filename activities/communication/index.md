@@ -19,6 +19,7 @@ These are all the activities, documents and templates for Communication.
 * [Email signature template](email-signature-template.md)
 * [Using chat.publiccode.net](using-chat.md)
 * [Tips on communication in a remote first environment](communication-remote-first.md)
+* [Handling videos](handling-videos.md)
 
 ## Synchronous communication
 
