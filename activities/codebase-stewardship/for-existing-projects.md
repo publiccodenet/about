@@ -8,7 +8,7 @@ Codebase stewardship can be provided to an existing codebase. In this case, ther
 
 ## How to start
 
-As set out in the [codebase stewardship lifecycle](lifecycle.md), a codebase must first be proposed to, or idientified by, the Foundation for Public Code.
+As set out in the [codebase stewardship lifecycle](lifecycle-diagram.md), a codebase must first be proposed to, or idientified by, the Foundation for Public Code.
 
 Existing codebases are then [assessed o their purpose, code, community and scalability](../codebase-stewardship/odoo-codebases.md#identify) and [Standard for Public Code](https://standard.publiccode.net/).
 
