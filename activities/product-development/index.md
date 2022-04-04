@@ -20,7 +20,7 @@ This entire process is often referred to as the product life cycle.
 
 In the context of codebase stewardship, the goal of product stewardship is to support codebases and their communities.
 This helps them build and grow a viable and sustainable ecosystem around a codebase.
-Then a community can use shared resources and knowledge to support the product life cycle for the duration for its lifespan.
+Then a community can use shared resources and knowledge to support the product [life cycle](../codebase-stewardship/lifecycle-diagram.md) for the duration for its lifespan.
 
 As codebase stewards we work with different levels of codebases that implement products which differ in product maturity.
 Codebases which started out being developed and used in a single organization have different needs and dynamics than codebases used by a variety of organizations and or functional contexts.
