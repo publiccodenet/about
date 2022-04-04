@@ -17,7 +17,7 @@ Read more about [our staff roles](../../organization/staff).
 
 We publish all job postings on the [careers section on the homepage](https://publiccode.net/careers), and publicize them on our Twitter account (@publiccodenet).
 
-We also use the current team's network to spread awareness of the job opening (via email, LinkedIn, social media). We may use (specialized) job sites and recruiters including [Idealist](https://www.idealist.org/), [fossjobs.net open source jobs board](https://www.fossjobs.net/) and [StackOverflow Jobs](https://stackoverflow.com/jobs).
+We also use the current team's network to spread awareness of the job opening (via email, LinkedIn, social media). We may use (specialized) job sites and recruiters including [Idealist](https://www.idealist.org/) and [fossjobs.net open source jobs board](https://www.fossjobs.net/).
 
 Between summer 2019 and summer 2021, most of our new hires discovered us through LinkedIn job ads.
 
