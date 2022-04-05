@@ -16,7 +16,7 @@ We have unlimited storage space.
 ## Publish videos
 
 To publish videos on our own platform, we use Nextcloud.
-Created a folder named `Shared folder` in the files app to make it explicit that files in that folder are meant to be shared.
+Create a folder named `Shared folder` in the files app to make it explicit that files in that folder are meant to be shared.
 Upload videos that are meant to be pulished to that folder.
 To make the file publicly accessible, click the share icon and then **Share link** to copy a link through which anyone can access the file.
 Note that our storage space is not unlimited, but we can increase the amount if you reach the limit.
