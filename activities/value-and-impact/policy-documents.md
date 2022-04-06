@@ -5,6 +5,10 @@ explains: where we are mentioned in public policy documents
 
 # Policy documents that mention the Foundation for Public Code
 
+## 2022
+
+* Danish Agency for Digitisation: [Guidance to using open source in the public sector](https://arkitektur.digst.dk/node/1173) (in Danish)
+
 ## 2021
 
 * State of California: [Vision 2023 - California Technology Strategic Plan](https://vision2023.cdt.ca.gov/) [[PDF]](https://vision2023.cdt.ca.gov/pdf/Vision-2023-California-Technology-Strategic-Plan.pdf)
