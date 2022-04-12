@@ -1,9 +1,9 @@
 ---
 type: guide
-explains: important steps in working with a codebase in incubation
+explains: how we review the progress of a codebase in incubation
 ---
 
-# Working with a codebase in incubation
+# Reviewing codebase incubation progress
 
 At least once each year the codebase stewards organize a meeting with the codebase community to do a forward look.
 The meeting should cover the community's ambitions in meeting more Standard for Public Code requirements in the coming year.
