@@ -69,7 +69,7 @@ It is useful even as a handbook when trying to guide a community through any sit
 * [Explaining what codebase stewardship is](../explaining-codebase-stewardship/index.md) - often needed when meeting new communities to help them understand what we do
 * [Maintenance of the Standard for Public Code](../standard-maintenance/index.md) - we continuously develop the standard and are tending to incoming issues and have community calls
 * [Supporting governance](../supporting-codebase-governance/) - crucially needed for codebase communities that haven't got their first collaborator yet
-* [Working with codebases in incubation](incubating-codebases.md) - important steps
+* [Reviewing codebase incubation progress](reviewing-codebase-incubation-progress.md) - important steps
 * [Workshops](../workshops/index.md) - we often help our communities learn and understand their needs through workshops
 * [Tool guidance](../tool-management/index.md) - a list of the tools that we currently have at our disposal
 
