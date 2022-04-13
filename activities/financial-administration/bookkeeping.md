@@ -5,11 +5,11 @@ explains: how bookkeeping is managed
 
 # Bookkeeping
 
-[GetMonkeys](https://getmonkeys.io/) is our service provider. They process and book all the payments every second Wednesday of the month. Any corrections can be mailed to the bookkeeper and are processed the next day. GetMonkeys is also responsible for producing our annual financial reports and can be asked for other financial services as needed.
+[GoedOpOrde.nl](https://goedoporde.nl/) is our service provider. They process and book all the payments every second Wednesday of the month. Any corrections can be mailed to the bookkeeper and are processed the next day. GoedOpOrde.nl is also responsible for producing our annual financial reports and can be asked for other financial services as needed.
 
 ## Exact
 
-[Exact](https://www.exact.com/) is a Dutch software company that offers accounting, enterprise resource planning, and other software for small and medium enterprises. We have a license via GetMonkeys. The operations coordinator and chief executive have access to Exact. Temporary access can be given to financial consultants.
+[Exact](https://www.exact.com/) is a Dutch software company that offers accounting, enterprise resource planning, and other software for small and medium enterprises. We have a license via GoedOpOrde.nl. The operations coordinator and chief executive have access to Exact. Temporary access can be given to financial consultants.
 
 ## Visionplanner
 
@@ -29,7 +29,7 @@ The operations coordinator is responsible for paying and processing all the invo
 
 * Send paid invoices to <2y4k@inkoop.exactonline.nl> as PDF, including expense reports from third parties
 * Make sure to add right ledger in the title of the PDF so the bookkeeper knows where to book it
-* Do NOT send invoices from Rabobank, GetMonkeys, and Tentoo, as these are all integrated within Exact
+* Do NOT send invoices from Rabobank, GoedOpOrde, and Tentoo, as these are all integrated within Exact
 * Do NOT send receipts from underlying expense forms, as this would lead to duplication
 * Filing: The operations coordinator keeps invoices and expense forms organized by month and year in the [secret finance drive](https://drive.google.com/drive/folders/1B47cfi314HJzoW7_QDaaaG1hfvxwCjpJ).
 
