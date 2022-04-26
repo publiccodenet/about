@@ -6,7 +6,7 @@ explains: How we use Odoo for keeping track of the codebases we work with
 # Tracking codebases in Odoo
 
 We use [Odoo](../tool-management/odoo.md) to keep track of the codebases we work with.
-We use the Projects app where we have set up a workflow that reflects [the codebase lifecycle](lifecycle.md).
+We use the Projects app where we have set up a workflow that reflects [the codebase lifecycle](lifecycle-diagram.md).
 Each codebase is represented by a task, and each lifecycle by a column.
 When creating a task, [this template](odoo-codebase-template.md) can be used.
 
