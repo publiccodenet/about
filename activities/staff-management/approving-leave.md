@@ -1,5 +1,6 @@
 ---
-type: Resource
+type: Guide
+explains: How to approve leave requests for vacation
 ---
 
 # Approving leave

@@ -36,11 +36,11 @@ type: Index
 The index should give a high level introduction of the topic.
 It should provide enough context for someone to act on the guides and resources related to this topic.
 
-The first paragraph acts as orientation - it permits a reader to evaluate whether the subsequent resources and guides is relevant for them.
+The first paragraph acts as orientation - it permits a reader to evaluate whether the subsequent resources and guides are relevant for them.
 This paragraph should include hyperlinks to offramp to more general or introductory content (for example publiccode.net or an explainer page).
 
 The rest of the text should be directed primarily at the likely users of the page (eg members, contractors, staff, other close collaborators).
-This text should avoid hyperlinking, particularly to the resources and guides available in the directory.
+This text should not include hyperlinks to the resources and guides available in the directory.
 
 ### Resources and guides
 

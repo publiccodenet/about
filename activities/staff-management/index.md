@@ -12,6 +12,7 @@ Staff management is the policies and systems for managing people within the orga
 * [Offboarding](offboarding.md)
 * [Probation](probation.md)
 * [Expenses](../staff-information/expense.md)
+* [Approving leave](approving-leave.md)
 
 Elsewhere:
 
