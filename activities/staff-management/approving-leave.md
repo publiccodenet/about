@@ -16,3 +16,4 @@ A leave request email is submitted through the personal Tentoo account of the em
 ## Further reading
 
 * [Staff leave guide](../staff-information/leave.md)
+* [Sickness leave management](/sick-leave.md)
