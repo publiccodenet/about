@@ -33,3 +33,5 @@ Notes and minutes of meetings of the board of directors
   * [Minutes](2022-04-26-minutes.md)
 * 2022 May 12th
   * [Minutes](2022-05-12-minutes.md)
+* 2022 May 23rd
+  * [Minutes](2022-05-23-minutes.md)
