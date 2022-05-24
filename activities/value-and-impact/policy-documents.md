@@ -7,6 +7,7 @@ explains: where we are mentioned in public policy documents
 
 ## 2022
 
+* Swedish collaboration program eSam: [Advice for sharing and using open source](https://www.esamverka.se/aktuellt/nyheter/nyheter/2022-03-14-rad-for-delning-och-anvandning-av-oppen-kallkod.html) [[PDF]](https://www.esamverka.se/download/18.6668103d17f448916a34dffb/1647011001475/R%C3%A5d%20f%C3%B6r%20delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod%20220311.pdf) (in Swedish)
 * Danish Agency for Digitisation: [Guidance to using open source in the public sector](https://arkitektur.digst.dk/node/1173) (in Danish)
 
 ## 2021

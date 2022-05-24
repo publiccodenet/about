@@ -14,3 +14,5 @@ Tasks:
    * Outstanding invoices that were sent to the [invoices email group](https://groups.google.com/a/publiccode.net/g/invoices).
    * Payment orders for the [salaries `SEPA` file and the wage taxes](salary-administration.md).
 2. Send the payment orders, and if required ask someone with signing permissions to sign them.
+
+After the payment session has been done, [the bookkeeping of them](bookkeeping.md#invoices--payable) can be started.
