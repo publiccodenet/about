@@ -16,4 +16,3 @@ Staff at the Foundation for Public Code will review the pull request and it can 
 ## Publishing changes from `develop` to `main`
 
 All of the changes in `develop` are agreed upon by all directors of the Foundation for Public Code before they can be [published on About](/activities/documentation/merge-develop-into-main.md), and are accepted as 'truth'.
-This usually happens in the weekly directors meeting.
