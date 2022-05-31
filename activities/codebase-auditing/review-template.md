@@ -40,7 +40,8 @@ The codebase MUST be independent from any secret, undisclosed, proprietary or no
 The codebase SHOULD be in use by multiple parties. |  |
 The roadmap SHOULD be influenced by the needs of multiple parties. |  |
 Configuration SHOULD be used to make code adapt to context specific needs. |  |
-The codebase SHOULD include a machine readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file. |  |
+The codebase SHOULD be localizable. |  |
+The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file. |  |
 Code and its documentation SHOULD NOT contain situation-specific information. |  |
 
 ## [Welcome contributors](https://standard.publiccode.net/criteria/open-to-contributions.html)
@@ -51,8 +52,8 @@ Requirement | meets | links and notes
 -----|-----|-----
 The codebase MUST allow anyone to submit suggestions for changes to the codebase. |  |
 The codebase MUST include contribution guidelines explaining what kinds of contributions are welcome and how contributors can get involved, for example in a CONTRIBUTING file. |  |
+The codebase MUST document the governance of the codebase, contributions and its community, for example in a GOVERNANCE file. |  |
 The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance. |  |
-The codebase SHOULD document the governance of the codebase, contributions and its community, for example in a GOVERNANCE file. |  |
 The codebase SHOULD have a publicly available roadmap. |  |
 The codebase MAY include a code of conduct for contributors. |  |
 
@@ -106,7 +107,7 @@ Reviews MAY be performed by multiple reviewers. |  |
 
 Requirement | meets | links and notes
 -----|-----|-----
-The codebase MUST contain documentation of its objectives – like a mission and goal statement – that is understandable by developers and designers so that they can use or contribute to the codebase. |  |
+The codebase MUST contain documentation of its objectives, like a mission and goal statement, that is understandable by developers and designers so that they can use or contribute to the codebase. |  |
 Codebase documentation SHOULD clearly describe the connections between policy objectives and codebase objectives. |  |
 The codebase MAY contain documentation of its objectives for the general public. |  |
 
@@ -116,7 +117,7 @@ The codebase MAY contain documentation of its objectives for the general public.
 
 Requirement | meets | links and notes
 -----|-----|-----
-All of the functionality of the codebase – policy as well as source – MUST be described in language clearly understandable for those that understand the purpose of the code. |  |
+All of the functionality of the codebase, policy as well as source, MUST be described in language clearly understandable for those that understand the purpose of the code. |  |
 The documentation of the codebase MUST contain: a description of how to install and run the source code, examples demonstrating the key functionality. |  |
 The documentation of the codebase SHOULD contain: a high level description that is clearly understandable for a wide audience of stakeholders, like the general public and journalists, a section describing how to install and run a standalone version of the source code, including, if necessary, a test dataset, examples for all functionality. |  |
 There SHOULD be continuous integration tests for the quality of the documentation. |  |
@@ -159,8 +160,9 @@ Requirement | meets | links and notes
 -----|-----|-----
 All functionality in the source code MUST have automated tests. |  |
 Contributions MUST pass all automated tests before they are admitted into the codebase. |  |
-Contributions MUST be small. |  |
+The codebase MUST have guidelines explaining how to structure contributions. |  |
 The codebase MUST have active contributors. |  |
+The codebase guidelines SHOULD state that each contribution should focus on a single issue. |  |
 Source code test and documentation coverage SHOULD be monitored. |  |
 Policy and documentation MAY have testing for consistency with the source and vice versa. |  |
 Policy and documentation MAY have testing for style and broken links. |  |
@@ -175,7 +177,7 @@ All code and documentation MUST be licensed such that it may be freely reusable,
 Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category). |  |
 All code MUST be published with a license file. |  |
 Contributors MUST NOT be required to transfer copyright of their contributions to the codebase. |  |
-All source code files in the codebase SHOULD include a copyright notice and a license header that are machine readable. |  |
+All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable. |  |
 Codebases MAY have multiple licenses for different types of code and documentation. |  |
 
 ## [Use a coherent style](https://standard.publiccode.net/criteria/style.html)
@@ -197,5 +199,5 @@ Requirement | meets | links and notes
 -----|-----|-----
 A codebase MUST be versioned. |  |
 A codebase that is ready to use MUST only depend on other codebases that are also ready to use. |  |
-A codebase that is not yet ready to use MUST have one of these labels: prototype - to test the look and feel, and to internally prove the concept of the technical possibilities, alpha - to do guided tests with a limited set of users, beta - to open up testing to a larger section of the general public, for example to test if the codebase works at scale, pre-release version - code that is ready to be released but hasn’t received formal approval yet. |  |
+A codebase that is not yet ready to use MUST have one of these labels: prototype: to test the look and feel, and to internally prove the concept of the technical possibilities, alpha: to do guided tests with a limited set of users, beta: to open up testing to a larger section of the general public, for example to test if the codebase works at scale, pre-release version: code that is ready to be released but hasn’t received formal approval yet. |  |
  A codebase SHOULD contain a log of changes from version to version, for example in the CHANGELOG. |  |
