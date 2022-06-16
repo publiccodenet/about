@@ -1,31 +1,40 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-# Lint markdown using the Markdownlint gem with the default ruleset except for:
-# MD007 Unordered list indentation: we allow sub-lists to also have bullets
-# MD013 Line length: we allow long lines
-# MD028 Blank line inside blockquote: we allow blank lines between block quotes (to permit consecutive quotations by different people)
-# MD029 Ordered list item prefix: we allow lists to be sequentially numbered
-#
-# Additionally, we have these violations which should be resolved:
-# MD026 Trailing punctuation in header
-# MD032 Lists should be surrounded by blank lines
-# MD034 Bare URL used
-#
-bundle exec mdl -r ~MD007,~MD013,~MD028,~MD029,~MD026,~MD032,~MD034 -i -g '.'
+# jekyll build defaults to "origin" unless PAGES_REPO_NWO is set
+# if there is no "origin" branch and PAGES_REPO_NWO is not set
+# then default to publiccodenet/blog
+if [ "_$(git remote | grep origin)_" != "_origin_" ] &&
+   [ "_${PAGES_REPO_NWO}_" == "__" ]; then
+export PAGES_REPO_NWO=publiccodenet/blog
+fi
 
 # Build the site
 bundle exec jekyll build
 
+# bundle exec htmlproofer --help | grep url-ignore
+#  --url-ignore link1,[link2,...]  A comma-separated list of
+#    Strings or RegExps containing URLs that are safe to ignore.
+# * github.com/foo/edit/ : may reference yet-to-exist pages
+# * docs.github.com/en : blocked by github DDoS protection
+# * plausible.io/js/plausible.js : does not serve to scripts
+# * wetten.overheid.nl : does not serve to scripts
+URL_IGNORE_REGEXES="\
+/github\.com\/.*\/edit\//\
+,/docs\.github\.com\/en\//\
+,/plausible\.io\/js\/plausible\.js/\
+,/wetten\.overheid\.nl/\
+"
+
 # Check for broken links and missing alt tags:
 # jekyll does not require extentions like HTML
-# ignore edit links to GitHub as they might not exist yet
+# ignoring problem urls (see above)
 # set an extra long timout for test-servers with poor connectivity
 # ignore request rate limit errors (HTTP 429)
 # using the files in Jekylls build folder
 bundle exec htmlproofer \
     --assume-extension \
-    --url-ignore "/github.com/(.*)/edit/" \
+    --url-ignore $URL_IGNORE_REGEXES \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
     --http_status_ignore "429" \
     ./_site
