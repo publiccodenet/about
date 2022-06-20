@@ -1,7 +1,11 @@
-#!/bin/sh
+#!/bin/bash
 
-# This sets the right variable for the GitHub pages build
-# so it's not confused when it can't get the repository information from GitHub
-PAGES_REPO_NWO=publiccodenet/standard \
+# jekyll build defaults to "origin" unless PAGES_REPO_NWO is set
+# if there is no "origin" branch and PAGES_REPO_NWO is not set
+# then default to publiccodenet/blog
+if [ "_$(git remote | grep origin)_" != "_origin_" ] &&
+   [ "_${PAGES_REPO_NWO}_" == "__" ]; then
+export PAGES_REPO_NWO=publiccodenet/blog
+fi
 
 bundle exec jekyll serve --livereload

@@ -1,18 +1,22 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-# Lint markdown using the Markdownlint gem with the default ruleset except for:
-# MD013 Line length: we allow long lines
-# MD028 Blank line inside blockquote: we allow blank lines between block quotes (to permit consecutive quotations by different people)
-# MD029 Ordered list item prefix: we allow lists to be sequentially numbered
-bundle exec mdl -r ~MD013,~MD028,~MD029 -i -g '.'
+# jekyll build defaults to "origin" unless PAGES_REPO_NWO is set
+# if there is no "origin" branch and PAGES_REPO_NWO is not set
+# then default to publiccodenet/blog
+if [ "_$(git remote | grep origin)_" != "_origin_" ] &&
+   [ "_${PAGES_REPO_NWO}_" == "__" ]; then
+export PAGES_REPO_NWO=publiccodenet/blog
+fi
 
 # Build the site
 bundle exec jekyll build
 
 # Check for broken links and missing alt tags:
 # jekyll does not require extentions like HTML
-#  --disable-external to only check internal links
+# run only "ScriptCheck" and "ImageCheck"; skip "LinkCheck"
+# set an extra long timout for test-servers with poor connectivity
+# ignore request rate limit errors (HTTP 429)
 # using the files in Jekylls build folder
 bundle exec htmlproofer \
     --assume-extension \
