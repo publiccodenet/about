@@ -91,9 +91,7 @@ Example:
 Commit your changes and create a pull request.
 Tag the communications coordinator plus any other colleagues whose review you'd like on the pull request for your blogpost for a final proofread.
 
-Once approved, merge your pull request.
-
-To publish the new content, you'll have to create a release branch and [merge develop into main](../documentation/merge-develop-into-main.md).
+Once approved, your pull request will be merged and published.
 
 ## Further reading
 
