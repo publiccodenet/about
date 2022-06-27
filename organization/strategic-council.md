@@ -10,10 +10,10 @@ To encourage meeting efficiency, the strategic council has maximum 5 members. Th
 
 ## Members of the strategic council
 
+* Audrey Tang (Digital Minister of Taiwan)
+* Dan Hill (Director of Strategic Design, Vinnova)
 * Gabriella Gómez-Mont (Principal at Experimentalista, former Chief Creative Officer of Mexico City)
 * Leslie Hawthorn, chair (Manager - Vertical Community Strategy, Red Hat Open Source Program Office)
-* Dan Hill (Director of Strategic Design, Vinnova)
-* Audrey Tang (Digital Minister of Taiwan)
 
 ## Membership of the strategic council
 
