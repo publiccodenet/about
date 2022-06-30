@@ -6,6 +6,12 @@ type: index
 
 The Foundation for Public Code publishes a 2-part annual report each year. It consists of an annual report (jaarverslag) and a supporting financial report (jaarrekening).
 
+## 2021
+
+We're publishing our financial report provisionally. The General Assembly will confirm the accounts after review by an independent expert, which we're still waiting for.
+
+* [financial report [PDF]](https://files.publiccode.net/nextcloud/index.php/s/ccZ7PnRtjiEtgs6))
+
 ## 2019-2020
 
 Our first financial year ran from July 2019 to December 2020. In the Netherlands the first financial year is usually the remainder of the calendar year and the next full year.
