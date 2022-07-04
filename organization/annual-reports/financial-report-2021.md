@@ -324,7 +324,7 @@ After appropriation of the result.
 
 ##### General
 
-These are the second financial statements of The Foundation for Public Code Vereniging. The book year ran from 1 January 2020 - 31 December 2021.
+These are the second financial statements of The Foundation for Public Code Vereniging. The book year ran from 1 January 2021 - 31 December 2021.
 
 The prior year was the first financial statements of The Foundation for Public Code Vereniging. Therefore the book year was an extended book year from 3 June 2019 - 31 December 2020.
 
