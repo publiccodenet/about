@@ -62,7 +62,7 @@ Codebases may also move to Backburner or Archive at any time.
 * Who is in the community?
 * Where do they speak?
 * How is the codebase governed?
-* Does it look healthy?"
+* Does it look healthy?
 
 #### Scalability
 
