@@ -28,7 +28,6 @@ President, Foundation for Public Code
 
 ## Achievements in 2021
 
-
 ### Overview: we built on our solid foundation and consolidated our learnings
 
 2021 was a mixed year for the Foundation for Public Code. We worked with new codebases and strengthened our ties with existing codebase communities; attracted new philanthropic supporters; and established an advisory council. We continued to have one public member (Province of Zuid-Holland, the Netherlands), though we had hoped to secure more. We also said goodbye to some brilliant colleagues and founding board members. Against the backdrop of the ongoing COVID pandemic demanding a great deal of political attention,, it sometimes felt like 2021 was a year of learning ways not to do things.
@@ -39,7 +38,7 @@ We’re looking forward to changes in 2022.
 
 In 2021, we focused on professionalizing our administration.
 
-* We published our first annual report, (covering a combined 2019-2020) including developing templates with an expert financial advisor for appropriate annual financial reporting. 
+* We published our first annual report, (covering a combined 2019-2020) including developing templates with an expert financial advisor for appropriate annual financial reporting.
 * We explored creating a salary framework and implementing performance management; including meeting with experts for advice. While we didn’t end up implementing it in 2021, we’d still like to do this in the future based on the expert advice received.
 
 #### New expert support from the strategic council
@@ -58,7 +57,7 @@ Listen to Leslie and Gabriela being interviewed on [our podcast Let’s talk abo
 
 #### Fundraising
 
-In 2021, we received generous philanthropic gifts from Stewart Butterfield (CEO, Slack Technologies) and Arnout Schuijff (co-founder, Adyen). We’re forever grateful that our donors believe in our mission and our ability to make a difference. 
+In 2021, we received generous philanthropic gifts from Stewart Butterfield (CEO, Slack Technologies) and Arnout Schuijff (co-founder, Adyen). We’re forever grateful that our donors believe in our mission and our ability to make a difference.
 
 As a public benefit organization and with the [KBFUS Public Code US fund](https://kbfus.networkforgood.com/projects/52915-p-kbfus-funds-foundation-for-public-code-nl), gifts in both the Netherlands and the United States are tax deductible.
 
@@ -162,7 +161,7 @@ These sorely missed team members left for new positions between October and Dece
 * **Alba Roza** (Codebase Steward for Community)
 * **Laura Scheske** (Membership Developer)
 
-**Kehinde Bademosi** joined us in August as our new storyteller and communications editor. **Matthew Claudel ** is helping us explore new needs and develop new communities of practice in the US and Canada.
+**Kehinde Bademosi** joined us in August as our new storyteller and communications editor. **Matthew Claudel** is helping us explore new needs and develop new communities of practice in the US and Canada.
 
 **Floris Deerenberg** and **Ryan Conlan** continued to provide ad hoc illustration, design and communication support. **Rob Schouten** provided financial expertise together with our bookkeepers from Get Monkeys. We switched bookkeepers to GoedOpOrde.nl the fall of 2021.
 
@@ -204,112 +203,7 @@ The current financial situation gives the Foundation for Public Code financial s
 
 Total costs in 2021 were €838,451.
 
-
-<table>
-  <tr>
-   <td><strong>Costs</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>People
-   </td>
-   <td><p style="text-align: right">
-   595,440</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Office & Admin
-   </td>
-   <td><p style="text-align: right">
-     41,266</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Project & Community
-   </td>
-   <td><p style="text-align: right">
-     90,494</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Fundraising
-   </td>
-   <td><p style="text-align: right">
-   106,480</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Other expenses
-   </td>
-   <td><p style="text-align: right">
-4,771</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Total</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong> €  838,451</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
 Total income in 2021 was €698,580.
-
-
-<table>
-  <tr>
-   <td><strong>Income</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Contribution members
-   </td>
-   <td><p style="text-align: right">
-0</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>US Gifts
-   </td>
-   <td><p style="text-align: right">
-257,080</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>(Fiscal based) gifts
-   </td>
-   <td><p style="text-align: right">
-     441,500</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Total</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 698,580</strong></p>
-
-   </td>
-  </tr>
-</table>
 
 #### Our financial model for the coming years
 
