@@ -49,7 +49,7 @@ If the Foundation for Public Code’s Board of Directors decides to dissolve the
 
 ##### 1.1.3 Mission and vision
 
-The Foundation for Public Code’s mission is “to support collective development and maintenance of public code in order to reduce risk, increase quality, reduce cost and increase sustainability”. (established in article 3.1 of the bylaws).
+The Foundation for Public Code’s mission is “to support collective development and maintenance of public code in order to reduce risk, increase quality, reduce cost and increase sustainability” (established in article 3.1 of the bylaws).
 
 The Foundation for Public Code will deliver its mission by:
 
