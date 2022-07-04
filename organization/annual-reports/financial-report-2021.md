@@ -30,11 +30,11 @@ Public code stewarded by the Foundation is openly available for reuse by everyon
 
 The association seeks to achieve its goal by carrying out the following activities (article 3.2 of the association bylaws):
 
-* 1. the provision of services that can increase sustainability, quality and re-use of public code
-* 2. facilitating and encouraging the sharing of existing public code between public members and other public organizations
-* 3. carrying out research for the (further) development of public code
-* 4. drawing attention to problems ascertained and giving advice with regard to the public code they use
-* 5. everything related to or conducive to the above, all in the broadest sense
+* a. the provision of services that can increase sustainability, quality and re-use of public code
+* b. facilitating and encouraging the sharing of existing public code between public members and other public organizations
+* c. carrying out research for the (further) development of public code
+* d. drawing attention to problems ascertained and giving advice with regard to the public code they use
+* e. everything related to or conducive to the above, all in the broadest sense
 
 ###### Absence of a profit motive
 
