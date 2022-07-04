@@ -2,8 +2,6 @@
 type: resource
 ---
 
-
-
 # Financial annual report: 1 January 2021 - 31 December 2021
 
 Foundation for Public Code (Vereniging)
