@@ -49,7 +49,7 @@ If the Foundation for Public Code’s Board of Directors decides to dissolve the
 
 ##### 1.1.3 Mission and vision
 
-The Foundation for Public Code’s mission is “to support collective development and maintenance of public code in order to reduce risk, increase quality, reduce cost and increase sustainability”.” (established in article 3.1 of the bylaws).
+The Foundation for Public Code’s mission is “to support collective development and maintenance of public code in order to reduce risk, increase quality, reduce cost and increase sustainability”. (established in article 3.1 of the bylaws).
 
 The Foundation for Public Code will deliver its mission by:
 
@@ -58,7 +58,7 @@ The Foundation for Public Code will deliver its mission by:
 * providing a certification system for software as [meeting the standard](https://standard.publiccode.net/) set by the Foundation for Public Code
 * building a trusted brand and an awareness of the value of public code.
 
-The Foundation for Public Code is completely unique. There is no other organization that provides impartial codebase stewardship services designed to support open collaboration of public organizations for the benefit of citizens and taxpayers. This distinguishes it from organizations providing open source codebase stewardship for private sector projects, from vendors selling open source software development to public organizations, and from activist groups lobbying governments to spend taxpayer money only on open source software.
+The Foundation for Public Code is completely unique. There is no other organization that provides impartial codebase stewardship activities designed to support open collaboration of public organizations for the benefit of citizens and taxpayers. This distinguishes it from organizations providing open source codebase stewardship for private sector projects, from vendors selling open source software development to public organizations, and from activist groups lobbying governments to spend taxpayer money only on open source software.
 
 ##### 1.1.4 Founding principles and cultural values
 
