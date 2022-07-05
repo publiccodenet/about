@@ -155,7 +155,7 @@ Secondary positions
 
 Salaries are competitive and consistent with the social mission of the organization. The Foundation for Public Code reimburses reasonable expenses for staff, contractors and interns.
 
-Compensation for employees of the Foundation for Public Code is at the midpoint of the salary scale in the non-profit sector. The gross annual salary of the Chief Executive of the Foundation for Public Code is 70,200 EUR (including vacation pay - 1 FTE / 12 months). The annual gross salary of the coordinators and codebase stewards is on average 66,931 EUR (including vacation pay, 1 FTE / 12 months). Both pay scales are well below the maximum of 168,893 EUR of Goede Doelen Nederland framework.
+Compensation for employees of the Foundation for Public Code is at the midpoint of the salary scale in the non-profit sector. The gross annual salary of the Chief Executive of the Foundation for Public Code is 70,200 EUR (including vacation pay - 1 FTE / 12 months). The annual gross salary of all other staff (the coordinators, codebase stewards and membership developer) is on average 65,790 EUR (including vacation pay, 1 FTE / 12 months). Both pay scales are well below the maximum of 168,893 EUR of the Goede Doelen Nederland framework.
 
 Because the work we do is innovative and requires diverse expertises, individual agreements can be made with regard to each employee’s salary.
 
