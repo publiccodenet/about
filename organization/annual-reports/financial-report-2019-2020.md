@@ -203,7 +203,7 @@ The Foundation for Public Code was wholly philanthropically funded during the re
 
 These philanthropists share our commitment to our mission. To prevent undue influence, all donations are un-earmarked and go into our general operating budget, in compliance with our status as a Dutch public benefit organization (ANBI).
 
-During this start-up phase, we try to look two years ahead with our financial planning.  The organization  has low financial risk: there are no debts and no assets. There is a loan agreement (anti-kraak) for the office, which incurs no rent. In the second quarter of 2020, we transitioned to remote-first working in response to government recommendations during the Covid-19 crisis. When the loan agreement expires at the end of June 2021, the contract can be extended on a monthly basis until a tenant is found. All our activities are location independent, meaning the organization can continue to function in a remote-first context. Nevertheless, some budget has been set aside starting from the third quarter of 2021 in case a new office space is needed.
+During this start-up phase, we try to look two years ahead with our financial planning. The organization  has low financial risk: there are no debts and no assets. There is a loan agreement (anti-kraak) for the office, which incurs no rent. In the second quarter of 2020, we transitioned to remote-first working in response to government recommendations during the Covid-19 crisis. When the loan agreement expires at the end of June 2021, the contract can be extended on a monthly basis until a tenant is found. All our activities are location independent, meaning the organization can continue to function in a remote-first context. Nevertheless, some budget has been set aside starting from the third quarter of 2021 in case a new office space is needed.
 
 The current financial situation gives the organization financial security until April 2022. We expect to receive both more member contributions, as well as more philanthropic gifts. However, it is possible that the income will be insufficient to cover our operational expenses. Costs will then have to be drastically reduced. Since personnel costs comprise the majority of our costs, reductions will need to be made in this area.
 
@@ -225,7 +225,7 @@ The Foundation for Public Code maintains a clear financial policy with a healthy
 
 On 3 June 2019, a notice was received from the Tax Office/Registration and Succession in 's-Hertogenbosch that the Foundation for Public Code Vereniging has been designated as an ANBI. The association will continue to have the ANBI status in 2021.
 
-All of the Foundation’s funds are spent on achieving its mission and benefiting the public.  Funds are not spent on the exclusive benefit of our members or other individuals.
+All of the Foundation’s funds are spent on achieving its mission and benefiting the public. Funds are not spent on the exclusive benefit of our members or other individuals.
 
 ### 3. Administrative affairs
 
@@ -608,19 +608,19 @@ For the design and implementation of the financial statements, a combination of 
 
 One of the basic findings of the committee are the reconciliations.
 
-#### 1.  General ledger information - annual financial report
+#### 1. General ledger information - annual financial report
 
 The general ledger is designed such that the reconciliation from the general ledger to the financial statement can be made 1-to-1. The reported figures reconcile with the general ledger system.
 
-##### 2.  Cash at bank
+##### 2. Cash at bank
 
 The starting amount of the first bank statement in the new year reconciles with the reported amount in the financial statements (and general ledger).
 
-##### 3.  Donation loan
+##### 3. Donation loan
 
 The balance of the donation loan reconciles with the amount received, minus the amortization.
 
-##### 4.  Reporting/disclosing/categorizing revenues and cost
+##### 4. Reporting/disclosing/categorizing revenues and cost
 
 The recording of the revenues and costs was examined with a high degree of detail—both the categorizing, and the correctness of the costs involved. The cost invoices were all attributable to the goal and purpose of the Foundation (stated otherwise: there were no invoices that could imply a subtraction of the Foundation equity).
 
