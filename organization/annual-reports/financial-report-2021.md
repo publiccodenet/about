@@ -547,7 +547,7 @@ The fundraising and membership development costs are expenditures directly attri
 | Other staff expenses | 25,644 | 11,041 |
 |  | **595,440** | **615,368** |
 
-During 2021, on average, 6.6 employees were employed on a full-time basis.
+During 2021, on average, 7.5 employees were employed on a full-time basis.
 
 ##### Other interest expenses (in €)
 
