@@ -24,7 +24,9 @@ President, Foundation for Public Code
 
 ### Mission
 
-**“The Foundation for Public Code enables public-purpose software and policy that is open and collaborative.”**
+#### “The Foundation for Public Code enables public-purpose software and policy that is open and collaborative.”
+
+> **Public code** is both civic code (such as policy or regulation) and computer source code (like software and algorithms) executed in a public context, by humans or machines.
 
 ## Achievements in 2021
 
@@ -97,25 +99,25 @@ In October, we started working with Matthew Claudel to explore open source softw
 
 ### Codebase stewardship
 
-**In 2021, we had 2 codebases in incubation (Signalen and OpenZaak) and one in Assessment (Omgevingsbeleid). We also worked closely with Demodam.**
+In 2021, we had 2 codebases in Incubation (Signalen and OpenZaak) and one in Assessment (Omgevingsbeleid). We also worked closely with Demodam.
 
 #### Signalen
 
-    * In February, the [Signalen codebase started incubation](https://blog.publiccode.net/news/2021/02/04/signalen-is-in-incubation.html) with the Foundation for Public Code.
-    * Signalen had  its first replicators in 2021. Starting with 's-Hertogenbosch , there were 3 by the end of the year.
-    * [Signalen hosted their 2nd community day](https://signalen.org/news/2021-03-29-verslag-community-meetup/) in March, attracting over 55 potential replicators and vendors.
-    * There’s increasing international interest in Signalen - Ghent (Belgium) joined the community day, and Helsingborg (Sweden) tested a demo version.
-    * Signalen moved closer to Standard for Public Code compliance by fully meeting the criteria[ Publish with an open license](https://standard.publiccode.net/criteria/open-licenses.html).
+* In February, the [Signalen codebase started incubation](https://blog.publiccode.net/news/2021/02/04/signalen-is-in-incubation.html) with the Foundation for Public Code.
+* Signalen had  its first replicators in 2021. Starting with 's-Hertogenbosch , there were 3 by the end of the year.
+* [Signalen hosted their 2nd community day](https://signalen.org/news/2021-03-29-verslag-community-meetup/) in March, attracting over 55 potential replicators and vendors.
+* There’s increasing international interest in Signalen - Ghent (Belgium) joined the community day, and Helsingborg (Sweden) tested a demo version.
+* Signalen moved closer to Standard for Public Code compliance by fully meeting the criteria [Publish with an open license](https://standard.publiccode.net/criteria/open-licenses.html).
 
 #### Omgevingsbeleid
 
-    * The codebase stewards and Omgevingsbeleid team designed and ran workshops on essential skills for open technical and product management of a public codebase.
-    * Improving towards meeting more of the Standard for Public Code criteria, the Omgevingsbeleid developers began creating automated tests suites for the codebases and measuring code coverage.  
+* The codebase stewards and Omgevingsbeleid team designed and ran workshops on essential skills for open technical and product management of a public codebase.
+* Improving towards meeting more of the Standard for Public Code criteria, the Omgevingsbeleid developers began creating automated tests suites for the codebases and measuring code coverage.  
 
 #### OpenZaak
 
-    * The OpenZaak community consolidated healthy community practices. They established a process for vulnerability reporting and set up a mailing list for upcoming early release notices.
-    * [OpenZaak moved closer to Standard for Public Code compliance](https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md) by fully meeting the criteria Make contributing easy, Use open standards and Document codebase maturity.
+* The OpenZaak community consolidated healthy community practices. They established a process for vulnerability reporting and set up a mailing list for upcoming early release notices.
+* [OpenZaak moved closer to Standard for Public Code compliance](https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md) by fully meeting the criteria Make contributing easy, Use open standards and Document codebase maturity.
 
 Over the course of the year, the codebase stewards also met with additional codebases to explore codebase stewardship.
 
