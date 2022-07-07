@@ -12,7 +12,7 @@ type: resource
 
 ## Funding
 
-The Foundation started in June 2019 with a startup-loan of € 1 million (€ 0,2mil + 0,8mil). This loan (including accrued interest € 29.691) is paid back on the 24 August 2020. On 24 August the Foundation received a loan of € 1.702.200 that is part of a fiscal gift scheme. Furthermore the first (formal fiscal) gift of € 435.500 was received.  In total, a net amount of € 1.137.700 (€ 1,7mil + 0,4mil -/- 1mil) was received.
+The Foundation started in June 2019 with a startup-loan of € 1 million (€ 0,2mil + 0,8mil). This loan (including accrued interest € 29.691) is paid back on the 24 August 2020. On 24 August the Foundation received a loan of € 1.702.200 that is part of a fiscal gift scheme. Furthermore the first (formal fiscal) gift of € 435.500 was received. In total, a net amount of € 1.137.700 (€ 1,7mil + 0,4mil -/- 1mil) was received.
 
 In October 2020 a decision was made to change the structure of the gift. On November 1, a transfer of € 1.726.000 was made to the Foundation for Public Code as a pre-payment of the last 4 terms of periodic gift dated 24-08-2020. The board of the Foundation for Public Code decided to use that money to repay the loan (€ 1.702.000) + interest (€ 9.652) to Dia Holding on November 1st. This brings an advantage of € 118.013 for the Foundation for Public Code.
 
