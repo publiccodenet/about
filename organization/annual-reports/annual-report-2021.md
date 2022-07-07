@@ -38,7 +38,7 @@ President, Foundation for Public Code
 
 ### Overview: we built on our solid foundation and consolidated our learnings
 
-2021 was a mixed year for the Foundation for Public Code. We worked with new codebases and strengthened our ties with existing codebase communities; attracted new philanthropic supporters; and established an advisory council. We continued to have one public member (Province of Zuid-Holland, the Netherlands), though we had hoped to secure more. We also said goodbye to some brilliant colleagues and founding board members. Against the backdrop of the ongoing COVID pandemic demanding a great deal of political attention, it sometimes felt like 2021 was a year of learning ways not to do things.
+2021 was a mixed year for the Foundation for Public Code. We worked with new codebases and strengthened our ties with existing codebase communities; worked with potential new codebases and philanthropic supporters; and established an advisory council. We continued to have one public member (Province of Zuid-Holland, the Netherlands), though we had hoped to secure more. We also said goodbye to some brilliant colleagues and founding board members. Against the backdrop of the ongoing COVID pandemic demanding a great deal of political attention, it sometimes felt like 2021 was a year of learning ways not to do things.
 
 We’re looking forward to changes in 2022.
 
@@ -47,7 +47,7 @@ We’re looking forward to changes in 2022.
 In 2021, we focused on professionalizing our administration.
 
 * We published our first annual report, (covering a combined 2019-2020) including developing templates with an expert financial advisor for appropriate annual financial reporting.
-* We explored creating a salary framework and implementing performance management; including meeting with experts for advice. While we didn’t end up implementing it in 2021, we’d still like to do this in the future based on the expert advice received.
+* We explored creating a salary framework and implementing performance management, including meeting with experts for advice. While we didn’t end up implementing these in 2021, we’d still like to do this in the future based on what we learned this year.
 
 #### New expert support from the strategic council
 
@@ -71,21 +71,21 @@ As a public benefit organization and with the [KBFUS Public Code US fund](https:
 
 #### Better tools for our community and ourselves
 
-* We published our operations handbook! [Explore how we manage](https://about.publiccode.net/activities/) our finances, procurement, office, tools, staff, and staff information. When we published this, we expected it would be a helpful resource for anyone running a similar sized NGO, either in the Netherlands or abroad.
-* By building on a Wikimedia tool, we created a [ticketmaster system for Jitsi Meet](https://github.com/publiccodenet/jitsi-community). This way we can offer codebase communities a video call tool that they can administer themselves that is fully open source, respects privacy and doesn't require the contributors of the community to download and install software locally.
-* In April, we opened up our [Nextcloud](https://collaboration.publiccode.net/) instance for our community. They can use ONLYOFFICE to collaborate on office documents in real-time, or use it for secure file sharing.
+* We published our operations handbook. [Explore how we manage](https://about.publiccode.net/activities/) our finances, procurement, office, tools, staff, and staff information. When we published this, we hoped it would be a helpful resource for anyone running a similar sized NGO, either in the Netherlands or abroad, and heard back that it was!
+* Building on a Wikimedia tool, we created a [ticketmaster system for Jitsi Meet](https://github.com/publiccodenet/jitsi-community). This way we can offer codebase communities a video call tool that they can administer themselves that is fully open source, respects privacy and doesn't require the contributors of the community to download and install software locally.
+* In April, we opened up our [Nextcloud](https://collaboration.publiccode.net/) instance to our community. They can use ONLYOFFICE to collaborate on office documents in real-time, or use it for secure file sharing. This solves specific collaboration obstacles the stewards encountered.
 * We started to use the open source web analytics tool Plausible to learn how our websites are used. It’s privacy-friendly and GDPR-compliant. For increased transparency, [the analytics are publicly available](https://plausible.io/publiccode.net).
-* We worked with our designer Ryan Conlan to add new templates and functionality to publiccode.net, and adopted a new social media management tool (Planable)
+* We worked with our designer Ryan Conlan to add new templates and functionality to publiccode.net, and adopted a new social media management tool (Planable).
 
 ### The Standard for Public Code
 
-In 2021, the Standard continued to prove its value to public code communities. Developers from three codebases have worked with Foundation for Public Code stewards to evaluate their codebases with the Standard. Additionally, the stewards have discussed the self evaluations performed by developers of two other codebases. Responding to community requests, we established a process for unofficial community translations of the Standard into other languages. It is already translated into Spanish.
+In 2021, the Standard continued to prove its value to public code communities. Developers from three codebases worked with Foundation for Public Code stewards to evaluate their codebases with the Standard. Additionally, the stewards  discussed the self evaluations performed by developers of two other codebases. Responding to community requests, we established a [process for unofficial community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/README.html) into other languages. It is already [translated into Spanish](https://publiccodenet.github.io/community-translations-standard/es/).
 
-In July, it was recognized as [Digital Public Goods](https://digitalpublicgoods.net/) by the Digital Public Goods Alliance, a multi-stakeholder initiative endorsed by the United Nations Secretary-General’s Roadmap for Digital Cooperation.
+In July, the Standard for Public Code was recognized as a [Digital Public Goods](https://digitalpublicgoods.net/) by the Digital Public Goods Alliance, a multi-stakeholder initiative endorsed by the United Nations Secretary-General’s Roadmap for Digital Cooperation.
 
 8 contributors made improvements, leading to [2 new versions](https://standard.publiccode.net/CHANGELOG.html#version-022) being released during the year.
 
-Our monthly Standard community calls attracted 15 participants. From May, we also developed the practice of monthly public standard backlog pruning, to ensure the Standard continues to evolve and become more helpful.
+[Our monthly Standard community calls](https://about.publiccode.net) attracted 15 participants. From May, we also developed the practice of monthly public standard backlog pruning, to ensure the Standard continues to evolve and become more helpful.
 
 ### Members and partners
 
@@ -105,19 +105,19 @@ In October, we started working with Matthew Claudel to explore open source softw
 
 ### Codebase stewardship
 
-In 2021, we had 2 codebases in Incubation (Signalen and OpenZaak) and one in Assessment (Omgevingsbeleid). We also worked closely with Demodam.
+In 2021, we had 2 codebases in Incubation ([Signalen](https://publiccode.net/codebases/signalen.html) and [OpenZaak](https://publiccode.net/codebases/openzaak.html)) and one in Assessment ([Digital Omgevingsbeleid](https://publiccode.net/codebases/omgevingsbeleid.html)). We also worked closely with [Demodam](https://demodam.org/en/).
 
 #### Signalen
 
 * In February, the [Signalen codebase started incubation](https://blog.publiccode.net/news/2021/02/04/signalen-is-in-incubation.html) with the Foundation for Public Code.
-* Signalen had  its first replicators in 2021. Starting with 's-Hertogenbosch , there were 3 by the end of the year.
+* Signalen had  its first replicators in 2021. Starting with 's-Hertogenbosch, there were 3 by the end of the year.
 * [Signalen hosted their 2nd community day](https://signalen.org/news/2021-03-29-verslag-community-meetup/) in March, attracting over 55 potential replicators and vendors.
 * There’s increasing international interest in Signalen - Ghent (Belgium) joined the community day, and Helsingborg (Sweden) tested a demo version.
 * Signalen moved closer to Standard for Public Code compliance by fully meeting the criteria [Publish with an open license](https://standard.publiccode.net/criteria/open-licenses.html).
 
-#### Omgevingsbeleid
+#### Digital Omgevingsbeleid
 
-* The codebase stewards and Omgevingsbeleid team designed and ran workshops on essential skills for open technical and product management of a public codebase.
+* The codebase stewards and Digital Omgevingsbeleid team designed and ran workshops on essential skills for open technical and product management of a public codebase.
 * Improving towards meeting more of the Standard for Public Code criteria, the Omgevingsbeleid developers began creating automated tests suites for the codebases and measuring code coverage.
 
 #### OpenZaak
@@ -129,13 +129,11 @@ Over the course of the year, the codebase stewards also met with additional code
 
 ### Ecosystem
 
-In 2021, we were an active member of our broader ecosystem, contributing our time and resources to strengthen our community.
+In 2021, we were an active member of our broader ecosystem, contributing our time and resources to strengthen our community. We spoke at 18 events and conferences for our broader community - [some of our talks and slides](https://projects.publiccode.net/talks.html) were recorded. We mentored at and helped organize 2 hackathons.
 
 In June, we were proud to be a founding member of the [OSPO Alliance](https://ospo.zone/about/), a new coalition to help organizations discover and understand open source.
 
-We launched a  free [online course introducing the Standard for Public Code](https://citybycity.academy/course/standards-for-smart-cities), hosted by Open and Agile Smart Cities' CITYxCITY online learning platform.
-
-In 2021, we spoke at 18 events and conferences for our broader community. We mentored at and helped organize 2 hackathons.
+We launched a free [online course introducing the Standard for Public Code](https://citybycity.academy/course/standards-for-smart-cities), hosted by Open and Agile Smart Cities' CITYxCITY online learning platform.
 
 We held 20 community calls in 2021, covering the Standard for Public Code and the Foundation for Public Code’s work. We also started pruning the backlog of issues for the Standard for Public Code in the open in the spring (May).
 
@@ -150,7 +148,7 @@ We engaged with our community in a variety of ways:
 * Ben contributed to the new [California Technology Strategic Plan - Vision 2023](https://vision2023.cdt.ca.gov/).
 * [People wrote about us 8 times](https://about.publiccode.net/activities/value-and-impact/all-press.html).
 * During the year we released 7 episodes of our podcast [Let’s talk about public code](https://podcast.publiccode.net/).
-* We authored 4 guest blogposts on other platforms, and were interviewed on 1 podcast.
+* We [authored 4 guest blogposts on other platforms](https://projects.publiccode.net/articles.html), and were interviewed on 1 podcast.
 * We tried new approaches: we held a Twitter spaces talk, and a storytelling workshop.
 
 ## Our People
@@ -205,7 +203,7 @@ The current financial situation gives the Foundation for Public Code financial s
 
 **As in previous years, our largest cost (and our biggest investment) is the amazing people who make our work possible. This includes their salaries, wage taxes, insurances and expenses.**
 
-**Our other costs:**
+Our other costs:
 
 * Office and admin (VoIP telephony, insurance, tools, furniture for working from home, equipment and subscriptions to enable our staff to do their best work)
 * Project and community costs (events, community tools, travel for conferences and meetings with the community, design, marketing and market research)
@@ -235,7 +233,7 @@ Total income in 2021 was €698,580.
 
 #### Our financial model for the coming years
 
-In the future, we aim to be primarily publicly-funded, with additional philanthropic support. The financial sustainability of our organization should be secured by membership dues and public funds, with philanthropic gifts used for additional activities such as awareness raising and ecosystem growth.
+In the future, we aim to be primarily publicly-funded, with additional philanthropic support. The financial sustainability of our organization should be secured by public funds and membership dues, with philanthropic gifts used for additional activities such as awareness raising and ecosystem growth. We recognized in 2021 that becoming primarily member-funded was unlikely.
 
 #### Impact of the Covid-19 crisis and our continuity
 
