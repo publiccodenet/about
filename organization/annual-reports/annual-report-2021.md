@@ -205,7 +205,23 @@ The current financial situation gives the Foundation for Public Code financial s
 
 Total costs in 2021 were €838,451.
 
+| Costs | 2021 |
+|---|---|
+| People | 595,440 |
+| Office & Admin | 41,266 |
+| Project & Community | 90,494 |
+| Fundraising | 106,480 |
+| Other expenses | 4,771 |
+| Total | €838,451 |
+
 Total income in 2021 was €698,580.
+
+| Income | 2021 |
+|---|---|
+| Contribution members | 0 |
+| US Gifts | 257,080 |
+| (Fiscal based) gifts | 441,500 |
+| Total | 698,580 |
 
 #### Our financial model for the coming years
 
