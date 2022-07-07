@@ -183,7 +183,7 @@ We’re enormously grateful to Arnout and Pieter for their support and hard work
 
 This section provides an overview of the detailed financial report that accompanies this annual report.
 
-See the [full financial report](https://docs.google.com/document/d/1dVxJxLKMqeN0UuFK0EpUvzXLhsRcDxV29rw2qUSGIX8/edit#heading=h.4my889maybpi).
+See the [full financial report](financial-report-2021.md).
 
 In 2021, the organization continued to depend on philanthropic donations. It has been the aim of the Foundation to eventually be self-supporting through the contributions of public organizations.
 
