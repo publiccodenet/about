@@ -112,7 +112,7 @@ In 2021, we had 2 codebases in Incubation (Signalen and OpenZaak) and one in Ass
 #### Omgevingsbeleid
 
 * The codebase stewards and Omgevingsbeleid team designed and ran workshops on essential skills for open technical and product management of a public codebase.
-* Improving towards meeting more of the Standard for Public Code criteria, the Omgevingsbeleid developers began creating automated tests suites for the codebases and measuring code coverage. 
+* Improving towards meeting more of the Standard for Public Code criteria, the Omgevingsbeleid developers began creating automated tests suites for the codebases and measuring code coverage.
 
 #### OpenZaak
 
