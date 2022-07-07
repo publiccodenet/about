@@ -131,7 +131,7 @@ We launched a  free [online course introducing the Standard for Public Code](htt
 
 In 2021, we spoke at 18 events and conferences for our broader community. We mentored at and helped organize 2 hackathons.
 
-We held 20 community calls in 2021, covering the Standard for Public Code and the Foundation for Public Code’s work. We also started pruning the backlog of issues for the Standard for Public Code in the open in the spring (April).
+We held 20 community calls in 2021, covering the Standard for Public Code and the Foundation for Public Code’s work. We also started pruning the backlog of issues for the Standard for Public Code in the open in the spring (May).
 
 ## About Us
 
