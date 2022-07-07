@@ -151,7 +151,7 @@ We engaged with our community in a variety of ways:
 * We [authored 4 guest blogposts on other platforms](https://projects.publiccode.net/articles.html), and were interviewed on 1 podcast.
 * We tried new approaches: we held a Twitter spaces talk, and a storytelling workshop.
 
-![Staff get together October 2021](images/Staff-get-together-October-2021.jpg
+![Staff get together October 2021](images/Staff-get-together-October-2021.jpg)
 *This was the only photo of staff together in person we could find for 2021: after work drinks at the office, with (clockwise from left) Eric, Jan, Ben, Alba and Felix. Photo by Kehinde.*
 
 ## Our People
