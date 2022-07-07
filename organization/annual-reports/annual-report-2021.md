@@ -32,7 +32,7 @@ President, Foundation for Public Code
 
 ### Overview: we built on our solid foundation and consolidated our learnings
 
-2021 was a mixed year for the Foundation for Public Code. We worked with new codebases and strengthened our ties with existing codebase communities; attracted new philanthropic supporters; and established an advisory council. We continued to have one public member (Province of Zuid-Holland, the Netherlands), though we had hoped to secure more. We also said goodbye to some brilliant colleagues and founding board members. Against the backdrop of the ongoing COVID pandemic demanding a great deal of political attention,, it sometimes felt like 2021 was a year of learning ways not to do things.
+2021 was a mixed year for the Foundation for Public Code. We worked with new codebases and strengthened our ties with existing codebase communities; attracted new philanthropic supporters; and established an advisory council. We continued to have one public member (Province of Zuid-Holland, the Netherlands), though we had hoped to secure more. We also said goodbye to some brilliant colleagues and founding board members. Against the backdrop of the ongoing COVID pandemic demanding a great deal of political attention, it sometimes felt like 2021 was a year of learning ways not to do things.
 
 We’re looking forward to changes in 2022.
 
