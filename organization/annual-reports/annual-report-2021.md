@@ -4,6 +4,10 @@ type: resource
 
 # Annual report 2021
 
+Foundation for Public Code vereniging
+
+![intro banner](images/ar-19-20-b01_v03.jpg)
+
 ## Preface
 
 ### Foreword from the President
@@ -27,6 +31,8 @@ President, Foundation for Public Code
 #### “The Foundation for Public Code enables public-purpose software and policy that is open and collaborative.”
 
 > **Public code** is both civic code (such as policy or regulation) and computer source code (like software and algorithms) executed in a public context, by humans or machines.
+
+![Achievements section banner](images/ar-19-20-b02.png)
 
 ## Achievements in 2021
 
@@ -133,6 +139,8 @@ In 2021, we spoke at 18 events and conferences for our broader community. We men
 
 We held 20 community calls in 2021, covering the Standard for Public Code and the Foundation for Public Code’s work. We also started pruning the backlog of issues for the Standard for Public Code in the open in the spring (May).
 
+![About Us section banner](images/ar-19-20-b03.png)
+
 ## About Us
 
 ### Outreach and communications
@@ -178,6 +186,8 @@ These sorely missed team members left for new positions between October and Dece
 Board members do not receive any compensation, and did not incur any expenses for their activities.
 
 We’re enormously grateful to Arnout and Pieter for their support and hard work over the years. We expect to recruit new board members in 2022.
+
+![Finances section banner](images/ar-19-20-b04.png)
 
 ## Our Finances
 
@@ -230,3 +240,5 @@ In the future, we aim to be primarily publicly-funded, with additional philanthr
 #### Impact of the Covid-19 crisis and our continuity
 
 We continued to work remotely in 2021. As in 2020, we were not able to meet with public organizations or attend events abroad. In our 2019-20 annual report, we said that “Due to the composition of our income stream, we do not expect a negative impact of the Covid-19 crisis on our operations in the short term.” By 2021, it was clear that managing COVID-19 absorbed significant political resources and attention; we found many public organizations did not have the bandwidth to embark on non-essential new initiatives.
+
+![Ambitions section banner](images/ar-19-20-b05.png)
