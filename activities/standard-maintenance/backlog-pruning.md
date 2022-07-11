@@ -14,6 +14,7 @@ The session is open for anyone to attend at [https://meet.publiccode.net/backlog
 ## Holding a backlog pruning session
 
 1. Before the session, tweet that the session is taking place. Refer to this page rather than giving the direct link in the tweet to reduce the risk of automated "zoom bombing". Tweet template: Starting soon: we're doing another open Standard for Public Code backlog pruning session, at 13:00 UTC. Come hang out with us: [link to this page] #StandardforPublicCode #govtech #FOSS.
-2. Start by going through the notes from last month to see if there are issues to close.
-3. Go through the [issues sorted oldest to newest](https://github.com/publiccodenet/standard/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc), starting from where the last meeting left off.
-4. Publish a blog post with the results from the meeting that can be used for point 2 next month ([example](https://blog.publiccode.net/community%20call/2021/05/20/pruning-the-oldest-issues.html)).
+2. Start by reviewing the [roadmap](https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md) to see if it is still accurate.
+3. Check the notes from last month to see if there are issues to close.
+4. Go through the [issues sorted oldest to newest](https://github.com/publiccodenet/standard/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc), starting from where the last meeting left off.
+5. Publish a blog post with the results from the meeting that can be used for point 2 next month ([example](https://blog.publiccode.net/community%20call/2021/05/20/pruning-the-oldest-issues.html)).
