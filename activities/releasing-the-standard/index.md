@@ -19,6 +19,7 @@ Follow the [instructions](https://github.com/publiccodenet/standard/blob/develop
 
 * Announce the release on our [mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/).
 * If needed, update the [review template](https://about.publiccode.net/activities/codebase-auditing/review-template.html).
+* If needed, update the [roadmap](https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md).
 * Tell the [codebase communities using the standard](https://publiccode.net/codebases/) that there is a new release and update their assessments with the new review template.
 * [Post on social media](https://about.publiccode.net/activities/communication/how-to-post-to-social-media.html).
 * Include it in the next [newsletter](https://about.publiccode.net/activities/communication/sending-newsletters.html).
