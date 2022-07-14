@@ -10,7 +10,8 @@ The Foundation for Public Code publishes a 2-part annual report each year. It co
 
 We're publishing our financial report provisionally. The General Assembly will confirm the accounts after review by an independent expert, which we're still waiting for.
 
-* [financial report [PDF]](https://files.publiccode.net/nextcloud/index.php/s/ccZ7PnRtjiEtgs6))
+* [annual report](annual-report-2021.md)
+* [financial report](financial-report-2021.md) (also available as a [PDF](https://files.publiccode.net/nextcloud/index.php/s/ccZ7PnRtjiEtgs6))
 
 ## 2019-2020
 
