@@ -35,7 +35,7 @@ This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/c
   * establish the scope of your blogpost (to avoid duplication with other planned work)
   * schedule publication of your blogpost so it fits best with other planned communications
 2. [Read our style guide](https://content-guide.18f.gov/) - we use 18F's. If you have any questions, ask!
-3. Make sure your information is correct on [blog/_data/staff.csv](https://github.com/publiccodenet/blog/blob/develop/_data/staff.csv).
+3. Make sure your information is correct on [blog/_data/staff.csv](https://github.com/publiccodenet/blog/blob/main/_data/staff.csv).
 4. Read the [guide on writing community call blogposts](../community-calls/community-call-blogposts.md) if that's what you're doing.
 
 ## Write your blogpost
@@ -56,7 +56,7 @@ After writing, please share with the communications coordinator for polishing an
 
 Create a branch for your new blogpost within in the [blog repo](https://github.com/publiccodenet/blog).
 
-Create a new file for your blogpost within [`_posts/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/_posts)
+Create a new file for your blogpost within [`_posts/` on the blog repository](https://github.com/publiccodenet/blog/tree/main/_posts)
 named `YYYY-MM-DD-title.md`.
 
 ### Step 2: create your blog post
@@ -76,7 +76,7 @@ category: [our current categories are: news, codebase stewardship, community cal
 
 Note: your blogpost can only have one category.
 
-Add your images to [`_assets/` on the blog repository](https://github.com/publiccodenet/blog/tree/develop/assets).
+Add your images to [`_assets/` on the blog repository](https://github.com/publiccodenet/blog/tree/main/assets).
 Link to the asset directly in text.
 Make sure [the text alternative for your image is useful](https://www.w3.org/WAI/tips/writing/#write-meaningful-text-alternatives-for-images).
 
