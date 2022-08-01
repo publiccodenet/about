@@ -28,11 +28,10 @@ The current priorities of the organization are set
 by the [board of directors](governance-model.md)
 and reviewed every meeting.
 
-On 29 April 2020,
+On [14 July 2022](board-of-directors-meetings/2022-07-14-minutes.md),
 the priorities were set as:
 
-1. Members: get public organizations to join the association
-1. Codebases: get codebases into stewardship
+1. Organizational restructuring: align with the needs of public organizations
+1. Codebases: international collaboration
 1. Funding: secure funding for the next years
-
-In order to achieve these priorities, we have come up with a number of [outcomes and measurable goals](measurable-goals.md) for the period December 2020 - March 2021.
+1. Partnerships: collaborate with more organizations
