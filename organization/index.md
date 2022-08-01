@@ -23,7 +23,7 @@ This is how we're building the organization to support our mission:
 * [Staff](staff.md)
 * [Remuneration policy](remuneration-policy.md)
 * [Roadmap](roadmap.md)
-* [Policy plan 2019-2022](policy-plan.md)
+* [Policy plan](policy-plan.md)
 * [Measurable goals December 2020-March 2021](measurable-goals.md)
 * [Board meeting minutes](board-of-directors-meetings/)
 * [General assemblies minutes](general-assemblies/)
