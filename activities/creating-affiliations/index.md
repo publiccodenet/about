@@ -11,6 +11,7 @@ Non-profit organizations that we collaborate with we can become [affiliates](../
 [See our current affiliates](../../organization/affiliates.md).
 
 If you're interested in being affiliated with us, or have any questions, please email us at <membership@publiccode.net>.
+To declare the affiliation, [the affiliate template](affiliate-template.md) can be of help.
 
 ## Further Reading
 

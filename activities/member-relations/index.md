@@ -16,7 +16,7 @@ If you're interested in membership for your organization, or have any questions,
 
 ## 1. Membership growth
 
-During membership growth we connect with and support wholly publicly-owned organizations in their path towards membership.
+During [membership growth](../membership-growth/index.md) we connect with and support wholly publicly-owned organizations in their path towards membership.
 
 In this phase, we aim to:
 
