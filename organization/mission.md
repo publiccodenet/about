@@ -28,7 +28,7 @@ The current priorities of the organization are set
 by the [board of directors](governance-model.md)
 and reviewed every meeting.
 
-On [4 August 2022](board-of-directors-meetings/minutes-2022-08-04.md),
+On [4 August 2022](board-of-directors-meetings/2022-08-04-minutes.md),
 the priorities were confirmed as:
 
 1. Organizational restructuring: align with the needs of public organizations
