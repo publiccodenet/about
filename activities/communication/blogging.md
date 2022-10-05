@@ -92,7 +92,7 @@ Commit your changes and create a pull request.
 Tag the communications coordinator plus any other colleagues whose review you'd like on the pull request for your blogpost for a final proofread.
 
 Once approved, your pull request will be merged.
-If the date in the frontmatter was the same (or earlier) than the day the pull request was merged it will appear as published in the blog immediately.
+If the date in the frontmatter is the same as (or earlier than) the day the pull request was merged it will appear as published in the blog immediately.
 If the date in the frontmatter is in the future, the site will need to be rebuilt that day to make it visible.
 This can be done by entering the Actions tab on Github, clicking on the latest deploy to see the details and then clicking the "Re-run all jobs".
 
