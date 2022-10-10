@@ -8,38 +8,22 @@ Notes and minutes of meetings of the board of directors
 
 ## 2021
 
-* 2021 October 6th
-  * [Minutes](2021-10-06-minutes.md)
-* 2021 October 27th
-  * [Minutes](2021-10-27-minutes.md)
-* 2021 November 30th
-  * [Minutes](2021-11-30-minutes.md)
-* 2021 December 14th
-  * [Minutes](2021-12-14-minutes.md)
+* [2021 October 6th Minutes](2021-10-06-minutes.md)
+* [2021 October 27th Minutes](2021-10-27-minutes.md)
+* [2021 November 30th Minutes](2021-11-30-minutes.md)
+* [2021 December 14th Minutes](2021-12-14-minutes.md)
 
 ## 2022
 
-* 2022 January 12th
-  * [Minutes](2022-01-12-minutes.md)
-* 2022 January 26th
-  * [Minutes](2022-01-26-minutes.md)
-* 2022 February 9th
-  * [Minutes](2022-02-09-minutes.md)
-* 2022 February 28th
-  * [Minutes](2022-02-28-minutes.md)
-* 2022 April 6th
-  * [Minutes](2022-04-06-minutes.md)
-* 2022 April 28th
-  * [Minutes](2022-04-26-minutes.md)
-* 2022 May 12th
-  * [Minutes](2022-05-12-minutes.md)
-* 2022 May 23rd
-  * [Minutes](2022-05-23-minutes.md)
-* 2022 July 14th
-  * [Minutes](2022-07-14-minutes.md)
-* 2022 August 4th
-  * [Minutes](2022-08-04-minutes.md)
-* 2022 September 7th
-  * [Minutes](2022-09-07-minutes.md)
-* 2022 October 5th
-  * [Minutes](2022-10-05-minutes.md)
+* [2022 January 12th Minutes](2022-01-12-minutes.md)
+* [2022 January 26th Minutes](2022-01-26-minutes.md)
+* [2022 February 9th Minutes](2022-02-09-minutes.md)
+* [2022 February 28th Minutes](2022-02-28-minutes.md)
+* [2022 April 6th Minutes](2022-04-06-minutes.md)
+* [2022 April 28th Minutes](2022-04-26-minutes.md)
+* [2022 May 12th Minutes](2022-05-12-minutes.md)
+* [2022 May 23rd Minutes](2022-05-23-minutes.md)
+* [2022 July 14th Minutes](2022-07-14-minutes.md)
+* [2022 August 4th Minutes](2022-08-04-minutes.md)
+* [2022 September 7th Minutes](2022-09-07-minutes.md)
+* [2022 October 5th Minutes](2022-10-05-minutes.md)
