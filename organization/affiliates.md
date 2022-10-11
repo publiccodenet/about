@@ -15,5 +15,6 @@ These are our affiliates:
 * [OW2](https://www.ow2.org/)
 * [OASC](https://oascities.org/)
 * [Associació de Software Lliure Decidim](https://decidim.org) (Decidim Free Software Association)
+* [Dark Matter Labs](https://darkmatterlabs.org/)
 
 We are also a founding member of [OSPO Alliance](https://ospo.zone/).
