@@ -11,9 +11,10 @@ Read more about [becoming an affiliate](../activities/creating-affiliations/inde
 
 These are our affiliates:
 
+* [Associació de Software Lliure Decidim](https://decidim.org) (Decidim Free Software Association)
+* [Dark Matter Labs](https://darkmatterlabs.org/)
+* [OASC](https://oascities.org/)
 * [OS2](https://os2.eu/)
 * [OW2](https://www.ow2.org/)
-* [OASC](https://oascities.org/)
-* [Associació de Software Lliure Decidim](https://decidim.org) (Decidim Free Software Association)
 
 We are also a founding member of [OSPO Alliance](https://ospo.zone/).
