@@ -16,7 +16,11 @@ We will use this data to assess the performance of our site and to figure out wh
 
 ## Plausible management
 
-Plausible Analytics works by loading a Javascript script on the top navigation of our websites. [Our Plausible dashboard is publicly shared](https://plausible.io/publiccode.net). It can be configured by the codebase stewards and communication coordinator.
+Plausible Analytics works by loading a Javascript script on the top navigation of our websites.
+Our Plausible dashboards are publicly shared.
+You find them on the URL `https://plausible.io/[subdomain].publiccode.net`.
+For example: [plausible.io/blog.publiccode.net](https://plausible.io/blog.publiccode.net) or [plausible.io/publiccode.net](https://plausible.io/publiccode.net).
+It can be configured by the codebase stewards and communication coordinator.
 
 ## Privacy and GDPR
 
