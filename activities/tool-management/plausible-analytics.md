@@ -6,8 +6,6 @@ type: resource
 
 Plausible Analytics is a simple, lightweight (< 1 KB), open source and privacy-friendly analytics tool. It doesn’t use cookies. [See our Plausible dashboard](https://plausible.io/publiccode.net).
 
-We're currently trialling Plausible (see [issue 64](https://github.com/publiccodenet/jekyll-theme/issues/64)).
-
 ## Using Plausible Analytics
 
 Plausible Analytics is integrated into our [Jekyll-theme](https://github.com/publiccodenet/jekyll-theme), which is used by all our websites (since all are built with Github Pages). It gives us a simple open source analytics dashboard, including website metrics such as the number of unique visitors, the number of page views on individual pages and the referral sources that have sent traffic to our site.
