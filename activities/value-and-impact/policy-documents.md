@@ -7,6 +7,7 @@ explains: where we are mentioned in public policy documents
 
 ## 2022
 
+* German Competence center public IT ÖFIT: [An open source ecosystem for the public administration](https://www.oeffentliche-it.de/publikationen?doc=255694) [[PDF](https://www.oeffentliche-it.de/documents/10181/14412/Ein+Open-Source-%C3%96kosystem+f%C3%BCr+die+%C3%B6ffentliche+Verwaltung)] (in German)
 * Swedish collaboration program eSam: [Advice for sharing and using open source](https://www.esamverka.se/aktuellt/nyheter/nyheter/2022-03-14-rad-for-delning-och-anvandning-av-oppen-kallkod.html) [[PDF]](https://www.esamverka.se/download/18.74e1936a1808eb1ad123f609/1652347194550/ES2022-09%20Delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod.pdf) (in Swedish)
 * Danish Agency for Digitisation: [Guidance to using open source in the public sector](https://arkitektur.digst.dk/node/1173) (in Danish)
 
