@@ -24,4 +24,3 @@ For the terms below we believe it is important that we have a clear definition o
 * [Resource](resource-definition.md)
 * [Staff](staff-definition.md)
 * [User](user-definition.md)
-
