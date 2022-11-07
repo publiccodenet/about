@@ -80,4 +80,3 @@ The following are examples of activities we may conduct with our members:
 * Our [mission, founding principles and goals](../../organization/mission.md)
 * Overview of our [activities](../../activities/index.md)
 * [Codebase stewardship](../codebase-stewardship/)
-
