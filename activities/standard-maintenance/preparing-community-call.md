@@ -11,7 +11,7 @@ redirect_from:
 
 Together with the codebase stewards figure out if there is anything specific you want to discuss on the next call. As a help, take a look at the [open issues](https://github.com/publiccodenet/standard/issues) and [open pull requests](https://github.com/publiccodenet/standard/pulls) in GitHub.
 
-* Update the [agenda](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit)
+* Update the [agenda](https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code)
 
 ### Templated agenda items
 
