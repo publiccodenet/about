@@ -230,6 +230,7 @@ Our channels are:
 * Twitter: short form, ephemera
 * LinkedIn: share our blogposts or reshare others' content about us, ephemera (mostly avoid, since it’s a closed platform - even linking to it here breaks our continuous integration)
 * Facebook: medium form, ephemera (mostly avoid, since it’s a closed platform)
+* Mastodon: short form, ephemera
 
 Our posting frequency is:
 

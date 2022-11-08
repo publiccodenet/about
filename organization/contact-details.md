@@ -25,6 +25,6 @@ We publish our news and announcements on:
 + [our blog](https://blog.publiccode.net/)
 + Twitter
 
-We very occasionally update our Facebook and LinkedIn pages.
+We very occasionally update our Facebook, Mastodon and LinkedIn pages.
 
 We hold two community calls per month. [Sign up for community call invitations](https://forms.gle/gn7wR2Eaxbv5g1BF9).
