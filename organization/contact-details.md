@@ -26,6 +26,6 @@ We publish our news and announcements on:
 + Twitter
 + LinkedIn
 
-We very occasionally update our Facebook page.
+We very occasionally update our Facebook and Mastodon pages.
 
 We hold two community calls per month. [Sign up for community call invitations](https://forms.gle/gn7wR2Eaxbv5g1BF9).
