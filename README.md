@@ -7,6 +7,10 @@
 This repository is meant to reflect the concept of the Foundation for Public Code and hold all information about it.
 It's `main` branch is the official ['source of truth'](GOVERNANCE.md) and central repository for all information about the Foundation for Public Code.
 
+[![pages-build-deployment](https://github.com/publiccodenet/about/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/about/actions/workflows/pages/pages-build-deployment)
+[![Test](https://github.com/publiccodenet/about/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/about/actions/workflows/test.yml)
+[![Scheduled link check](https://github.com/publiccodenet/about/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/about/actions/workflows/link-check.yml)
+
 ## Contributing
 
 We are looking for people like you to [contribute](CONTRIBUTING.md) to this project by suggesting improvements and helping develop the Foundation for Public Code. 😊
