@@ -20,12 +20,14 @@ bundle exec jekyll build
 # * plausible.io/js/plausible.js : does not serve to scripts
 # * wetten.overheid.nl : does not serve to scripts
 # * opensource.org : gives "failed: 503 No error" when run as GitHub workflow
+# * lists.publiccode.net/mailman/ : gives 500, 503 errors to scripts
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
 ,/plausible\.io\/js\/plausible\.js/\
 ,/wetten\.overheid\.nl/\
 ,/opensource\.org/\
+,/lists\.publiccode\.net\/mailman/\
 "
 
 # Check for broken links and missing alt tags:
