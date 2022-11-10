@@ -111,7 +111,7 @@ In 2021, we had 2 codebases in Incubation ([Signalen](https://publiccode.net/cod
 
 * In February, the [Signalen codebase started incubation](https://blog.publiccode.net/news/2021/02/04/signalen-is-in-incubation.html) with the Foundation for Public Code.
 * Signalen had  its first replicators in 2021. Starting with 's-Hertogenbosch, there were 3 by the end of the year.
-* [Signalen hosted their 2nd community day](https://signalen.org/news/2021-03-29-verslag-community-meetup/) in March, attracting over 55 potential replicators and vendors.
+* [Signalen hosted their 2nd community day](https://web.archive.org/web/20220124130607/https://signalen.org/news/2021-03-29-verslag-community-meetup/) in March, attracting over 55 potential replicators and vendors.
 * There’s increasing international interest in Signalen - Ghent (Belgium) joined the community day, and Helsingborg (Sweden) tested a demo version.
 * Signalen moved closer to Standard for Public Code compliance by fully meeting the criteria [Publish with an open license](https://standard.publiccode.net/criteria/open-licenses.html).
 
