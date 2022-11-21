@@ -10,7 +10,7 @@ It has no styling to make it more probable that email clients and mailing lists 
 
 ```
 Name, Role
-Email | Phone | Twitter
+Email | Phone | Twitter | Mastodon
 Foundation for Public Code https://publiccode.net
 ```
 

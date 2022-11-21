@@ -16,7 +16,7 @@ explains: where we are mentioned in public policy documents
 
 ## 2020
 
-* Netherlands national government: [Action plan open government 2020-2022](https://www.open-overheid.nl/actieplan-open-overheid-2020-2022/) (in Dutch)
+* Netherlands national government: [Action plan open government 2020-2022](https://www.digitaleoverheid.nl/document/actieplan-open-overheid-2020-2022/) (in Dutch)
 * Netherlands national government: [Letter to parliament about the release of government software source code](https://www.rijksoverheid.nl/documenten/kamerstukken/2020/04/17/kamerbrief-inzake-vrijgeven-broncode-overheidssoftware) (in Dutch)
 * Province of South Holland: [Council decision on membership of the Foundation for Public Code](https://www.zuid-holland.nl/overons/bestuur-zh/gedeputeerde-staten/besluiten/2020/september/1-september/lidmaatschap-foundation-for-public-code-vereniging/) (in Dutch)
 * Amsterdam municipality: Mid-term report of the A Digital City Agenda [Agenda Digitale Stad (PDF)](https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971) (in Dutch)
