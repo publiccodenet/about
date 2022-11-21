@@ -7,7 +7,7 @@ explains: where we are mentioned in public policy documents
 
 ## 2022
 
-* Netherlands Ministry of the Interior and Kingdom Relations: [Open source working: beyond the voluntary approach](https://www.rijksoverheid.nl/documenten/rapporten/2022/09/13/opensourcewerken-de-vrijblijvendheid-voorbij)
+* Ministry of the Interior and Kingdom Relations of  Netherlands: [Open source working: beyond the voluntary approach](https://www.rijksoverheid.nl/documenten/rapporten/2022/09/13/opensourcewerken-de-vrijblijvendheid-voorbij)
 * Swedish collaboration program eSam: [Advice for sharing and using open source](https://www.esamverka.se/aktuellt/nyheter/nyheter/2022-03-14-rad-for-delning-och-anvandning-av-oppen-kallkod.html) [[PDF]](https://www.esamverka.se/download/18.74e1936a1808eb1ad123f609/1652347194550/ES2022-09%20Delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod.pdf) (in Swedish)
 * Danish Agency for Digitisation: [Guidance to using open source in the public sector](https://arkitektur.digst.dk/node/1173) (in Danish)
 
