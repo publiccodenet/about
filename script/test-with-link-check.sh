@@ -21,6 +21,7 @@ bundle exec jekyll build
 # * wetten.overheid.nl : does not serve to scripts
 # * opensource.org : gives "failed: 503 No error" when run as GitHub workflow
 # * lists.publiccode.net/mailman/ : gives 500, 503 errors to scripts
+# * help.miro.com/hc/en-us : gives "failed: 403 No error" from GitHub workflow
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
@@ -28,6 +29,7 @@ URL_IGNORE_REGEXES="\
 ,/wetten\.overheid\.nl/\
 ,/opensource\.org/\
 ,/lists\.publiccode\.net\/mailman/\
+,/help\.miro\.com\/hc\/en-us/\
 "
 
 # Check for broken links and missing alt tags:
