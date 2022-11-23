@@ -15,9 +15,9 @@ We help people collaborate on public code. Our focus is on the communities aroun
 
 ## Then we can help you, your organization's staff, and (potentially) the wider codebase community:
 
-* clarify and improve governance around the codebase (see governance links)
-* develop good working practices that make collaboration easier and improve the quality of the codebase (see standard link)
-* work on the communication, culture change and organizational values that come with collaboration in the open (see we helped signalen get started, openzaak consultation, and PZH go open)
+* [clarify and improve governance around the codebase](activities/supporting-codebase-governance)
+* [develop good working practices that make collaboration easier and improve the quality of the codebase](standard.publiccode.net)
+* [work on the communication, culture change and organizational values that come with collaboration in the open](publiccode.net/codebase-stewardship)
 
 Email us at <info@publiccode.net> to start the discussion.
 
