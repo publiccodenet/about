@@ -23,4 +23,4 @@ All staff can also:
 
 [Excalidraw's Privacy Policy](https://plus.excalidraw.com/privacy-policy#infocollect) describes in detail how they collect and use information.
 
-While Excalidraw is based in Czechia, they process data in the US,  using the European Commission's Standard Contractual Clauses.
+While Excalidraw is based in Czechia, they process data in the US, using the European Commission's Standard Contractual Clauses.
