@@ -14,10 +14,13 @@ Excalidraw [has some documention](https://github.com/excalidraw/excalidraw#docum
 ## Excalidraw management
 
 The codebase stewards can add new users to Excalidraw and manage their permissions.
-All staff can also invite external people to collaborate on a board or select to only publish it for viewing.
+All staff can also:
+
+* invite external people to collaborate on a board
+* choose to publish a board only for viewing
 
 ## Privacy and GDPR
 
 [Excalidraw's Privacy Policy](https://plus.excalidraw.com/privacy-policy#infocollect) describes in detail how they collect and use information.
 
-While Excalidraw is based in the Czech Republic, they processe data in the US, and is using the European Commission's Standard Contractual Clauses.
+While Excalidraw is based in Czechia, they process data in the US,  using the European Commission's Standard Contractual Clauses.
