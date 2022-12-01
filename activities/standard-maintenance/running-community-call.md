@@ -11,7 +11,7 @@ redirect_from:
 
 Call-in link: <https://meet.publiccode.net/StandardforPublicCode>
 
-Agenda link: <https://hackmd.io/-OegeqvoThCbAsw3c3gIjw>
+Agenda link: <https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code>
 
 Have each person join the call on a separate connection aligned with our [conference call etiquette](../communication/conference-call-etiquette.md).
 
