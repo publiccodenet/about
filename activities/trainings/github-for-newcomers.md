@@ -16,15 +16,15 @@ GitHub has a [3 minute video](https://www.youtube.com/watch?v=w3jLJU7DT5E) to ex
 
 ## Do it yourself, guided
 
-The [GitHub labs](https://lab.github.com/) courses are great courses, so it pays to read them completely as well as watch all the videos.
+The [GitHub skills](https://skills.github.com/) courses are great courses, so it pays to read them completely as well as watch all the videos.
 
 For our way of working and how we use GitHub following this order makes sense:
 
-1. [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
-2. [Communicating using MarkDown](https://lab.github.com/githubtraining/communicating-using-markdown)
-3. [GitHub pages](https://lab.github.com/githubtraining/github-pages)
-4. [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
-5. [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)
+1. [Introduction to GitHub](https://github.com/skills/introduction-to-github)
+2. [Communicating using MarkDown](https://github.com/skills/communicate-using-markdown)
+3. [GitHub pages](https://github.com/skills/github-pages)
+4. [Reviewing pull requests](https://github.com/skills/review-pull-requests)
+5. [Resolve merge conflicts](https://github.com/skills/resolve-merge-conflicts)
 
 Tip: If you get stuck because you think the bot should respond but it doesn't it often helps to refresh the page.
 
