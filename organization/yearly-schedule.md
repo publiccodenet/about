@@ -2,7 +2,7 @@
 type: resource
 ---
 
-# Yearly schedule 2022
+# Yearly schedule 2023
 
 This schedule shows recurring events the Foundation for Public Code prepares for every year. It includes public holidays when the office is closed.
 
@@ -14,13 +14,14 @@ This schedule shows recurring events the Foundation for Public Code prepares for
 
 ## February
 
+4-5 February: FOSDEM
 ## March
 
 ## April
 
-15 April: Good Friday (public holiday in the Netherlands, office open)
+7 April: Good Friday (public holiday in the Netherlands, office open)
 
-18 April: Easter Monday (public holiday in the Netherlands, office closed)
+9 April: Easter Monday (public holiday in the Netherlands, office closed)
 
 27 April: King's day (public holiday in the Netherlands, office closed)
 
@@ -28,11 +29,11 @@ This schedule shows recurring events the Foundation for Public Code prepares for
 
 5 May: Liberation day (public holiday in the Netherlands every five years. Next time is 2025, office closed)
 
-26 May: Ascension day (public holiday in the Netherlands, office closed)
+18 May: Ascension day (public holiday in the Netherlands, office closed)
+
+28-29 May: Pentecost and Whit Monday (public holidays in the Netherlands, office closed)
 
 ## June
-
-5 - 6 June: Pentecost and Whit Monday (public holidays in the Netherlands, office closed)
 
 30 June: Last day for general assembly and annual accounts
 
