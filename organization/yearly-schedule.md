@@ -15,6 +15,7 @@ This schedule shows recurring events the Foundation for Public Code prepares for
 ## February
 
 4-5 February: FOSDEM
+
 ## March
 
 ## April
