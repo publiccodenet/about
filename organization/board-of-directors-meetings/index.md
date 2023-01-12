@@ -31,4 +31,4 @@ Notes and minutes of meetings of the board of directors
 
 ## 2023
 
-* [2023 January 11th Minutes](2023-01-11.md)
+* [2023 January 11th Minutes](2023-01-11-minutes.md)
