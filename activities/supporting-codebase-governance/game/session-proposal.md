@@ -10,7 +10,7 @@ This is a proposal for doing a workshop with the governance game at an external 
 
 ## Session title
 
-Governance track: Interactive game exploring how public organizations can maintain shared and collaborative open source software together.
+Governance track: Game session exploring how public organizations can maintain shared and collaborative open source software together.
 
 ## Session description
 
