@@ -24,6 +24,7 @@ Our guidance covers:
 
 * [1password](1password.md) (password management)
 * [Docusign](docusign.md) (contract management)
+* [Excalidraw](excalidraw.md) (online collaborative whiteboard)
 * [GitHub](github.md) (version control and codebase management)
 * [Google Workspace](google-workspace.md) (email, calendaring and internal document management)
 * [Jitsi Meet](jitsi-meet.md) (videoconferencing)

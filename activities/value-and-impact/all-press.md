@@ -16,12 +16,15 @@ You may also be interested in:
 
 ## 2022
 
+* [Jan Ainali and the Foundation for Public Code](https://podcast.sustainoss.org/147) - the podcast [Sustain OSS](https://podcast.sustainoss.org/) interviews Jan Ainali (December 2022)
+* [An open source ecosystem for the public administration](https://www.oeffentliche-it.de/publikationen?doc=255694) [[PDF](https://www.oeffentliche-it.de/documents/10181/14412/Ein+Open-Source-%C3%96kosystem+f%C3%BCr+die+%C3%B6ffentliche+Verwaltung)] - by the German Competence Center Public IT ÖFIT (in German) (August 2022)
 * [Don’t Call It Alternative, Call It Normal](https://www.sdeps.eu/dont-call-it-alternative-call-it-normal/) - a chat with Aik van Eemeren, Public Tech Lead at the Chief Technology Office (CTO) of the Amsterdam municipality by [Shared Digital European Public Sphere](https://www.sdeps.eu/) (SDEPS) (January 2022)
 
 ## 2021
 
 * [Help: open source software will be mandatory, now what?](https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu) - summary of a panel discussion with Boris van Hoytema, Ivonne Janssen-Dings and Koos Steenbergen at the Conferentie Nederland Digitaal on [opensource.pleio.nl](https://opensource.pleio.nl) (in Dutch) (February 2021)
 * [OpenZaak case study](https://commonground.nl/news/view/752192c5-7222-4769-a738-de47dfcfb6f5/openzaak-van-samen-organiseren-naar-samen-realiseren) - by [Dimpact](https://www.dimpact.nl/) (February 2021) (Dutch)
+* [Public code gets better through collaboration](https://digitalsamtal.se/236-genom-samarbete-blir-det-offentligas-kod-battre/) - the podcast Digitalsamtal interviews Jan Ainali (February 2021) (Swedish)
 * [Open enables public sector digital transformation in the Netherlands](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/we-liberated-our-own-data-silos-market) - overview of OpenZaak's development by Sivan Pätsch on the [Open Source Observatory and Repository](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) (OSOR) (April 2021)
 * [Common Ground first quarterly report 2021](https://publicaties.vngrealisatie.nl/commonground/2021/1/) - by [VNG Realisatie](https://www.vngrealisatie.nl/), highlighting the collaboration on Signalen (April 2021) (Dutch)
 * [Signalen case study](https://commonground.nl/news/view/2a13308d-872e-4b98-8dff-d4d3bcb36586/steeds-meer-gemeenten-maken-gebruik-van-signalen) - by [VNG Realisatie](https://www.vngrealisatie.nl/) (April 2021) (Dutch)
