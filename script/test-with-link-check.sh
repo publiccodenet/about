@@ -22,6 +22,7 @@ bundle exec jekyll build
 # * opensource.org : gives "failed: 503 No error" when run as GitHub workflow
 # * lists.publiccode.net/mailman/ : gives 500, 503 errors to scripts
 # * help.miro.com/hc/en-us : gives "failed: 403 No error" from GitHub workflow
+# * belastingdienst.nl : "failed: response code 0 means something's wrong."
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
@@ -30,6 +31,7 @@ URL_IGNORE_REGEXES="\
 ,/opensource\.org/\
 ,/lists\.publiccode\.net\/mailman/\
 ,/help\.miro\.com\/hc\/en-us/\
+,/belastingdienst\.nl/\
 "
 
 # Check for broken links and missing alt tags:
