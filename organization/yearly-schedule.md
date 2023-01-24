@@ -14,7 +14,7 @@ This schedule shows recurring events the Foundation for Public Code prepares for
 
 ## February
 
-4-5 February: FOSDEM
+4-5 February: [FOSDEM public code and digital public goods devroom](https://fosdem.org/2023/schedule/track/public_code_and_digital_public_goods/)
 
 ## March
 
