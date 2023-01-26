@@ -2,7 +2,7 @@
 type: Index
 ---
 
-# Releasing the Standard for Pubic Code
+# Releasing the Standard for Public Code
 
 ## Preparing a release
 

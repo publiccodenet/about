@@ -50,7 +50,7 @@ We are moving conversations forward with national governments in Europe and Nort
 
 | One year | Five years | Twenty years |
 |-|-|-|
-| {::nomarkdown}<ul><li>At least five partner organizations moving towards membership</li><li>With one or more signing on as members</li><li>Establish our first international field office to develop potential members, partners, and codebases</li></ul>{:/} | {::nomarkdown}<ul><li>Members from at least two nations</li><li>A national-level public organization is a member</li></ul>{:/} | {::nomarkdown}<ul><li>The Foundation for Pubic Code is a global public organization owned by numerous international public members</li><li>Governance model and support activities recognized akin to other global orgs (e.g. Red Cross)</li></ul>{:/} |
+| {::nomarkdown}<ul><li>At least five partner organizations moving towards membership</li><li>With one or more signing on as members</li><li>Establish our first international field office to develop potential members, partners, and codebases</li></ul>{:/} | {::nomarkdown}<ul><li>Members from at least two nations</li><li>A national-level public organization is a member</li></ul>{:/} | {::nomarkdown}<ul><li>The Foundation for Public Code is a global public organization owned by numerous international public members</li><li>Governance model and support activities recognized akin to other global orgs (e.g. Red Cross)</li></ul>{:/} |
 
 ## Tending to stewardship
 
