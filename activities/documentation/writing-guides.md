@@ -1,4 +1,6 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
 type: Guide
 explains: How to clearly explain to others how to do something by making a guide on About
 ---
