@@ -1,4 +1,6 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>
 Type: guide
 Explains: how to send newsletters
 ---

@@ -1,4 +1,6 @@
 #!/bin/sh
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>
 
 # Lint markdown using the Markdownlint gem with the default ruleset except for:
 # MD007 Unordered list indentation: we allow sub-lists to also have bullets

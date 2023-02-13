@@ -1,5 +1,8 @@
 # Glossary
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net> -->
+
 The glossary serves to standardise the meaning of commonly used words and concepts in our communications.
 
 ## Adding a term to the glossary

@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2020-2023 The Foundation for Public Code <info@publiccode.net>
 
 # jekyll build defaults to "origin" unless PAGES_REPO_NWO is set
 # if there is no "origin" branch and PAGES_REPO_NWO is not set
