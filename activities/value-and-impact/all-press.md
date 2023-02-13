@@ -18,7 +18,7 @@ You may also be interested in:
 
 ## 2023
 
-* [How Cities Make Software Together](https://orchestrated.dev/) - a research project by Nneka Sobers and Dr. Anthony Townsend, Urban Tech Hub at Jacobs Technion-Cornell Institute
+* [How Cities Make Software Together](https://orchestrated.dev/) - a research project by Nneka Sobers and Dr. Anthony Townsend, Urban Tech Hub at Jacobs Technion-Cornell Institute (January 2023)
 
 ## 2022
 
