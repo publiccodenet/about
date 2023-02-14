@@ -16,6 +16,10 @@ You may also be interested in:
 * [a list of policy documents that mention the Foundation for Public Code](policy-documents.md)
 * [our conference talks and articles we've written](https://projects.publiccode.net/talks-and-articles.html)
 
+## 2023
+
+* [How Cities Make Software Together](https://orchestrated.dev/) - a research project by Nneka Sobers and Dr. Anthony Townsend, Urban Tech Hub at Jacobs Technion-Cornell Institute (January 2023)
+
 ## 2022
 
 * [Jan Ainali and the Foundation for Public Code](https://podcast.sustainoss.org/147) - the podcast [Sustain OSS](https://podcast.sustainoss.org/) interviews Jan Ainali (December 2022)
