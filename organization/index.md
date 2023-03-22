@@ -26,7 +26,7 @@ This is how we're building the organization to support our mission:
 * [Remuneration policy](remuneration-policy.md)
 * [Roadmap](roadmap.md)
 * [Policy plan](policy-plan.md)
-* [Measurable goals December 2020-March 2021](measurable-goals.md)
+* [Measurable goals](measurable-goals/)
 * [Board meeting minutes](board-of-directors-meetings/)
 * [General assemblies minutes](general-assemblies/)
 
