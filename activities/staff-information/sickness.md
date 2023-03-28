@@ -1,4 +1,6 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
 type: Guide
 explains: what steps to take when you are sick
 redirect_from:

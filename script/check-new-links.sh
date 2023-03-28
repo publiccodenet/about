@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>
 
 NOT_OK_COUNT=0
 SKIP_PATTERNS=(

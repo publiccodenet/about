@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net>
 set -e # halt script on error
 
 # Lint markdown using the Markdownlint gem with the default ruleset except for:

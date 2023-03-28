@@ -1,5 +1,8 @@
 # Activities
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net> -->
+
 Activities are things we do.
 
 ## Naming an activity

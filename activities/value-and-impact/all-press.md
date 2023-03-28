@@ -1,4 +1,6 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>
 type: resource
 ---
 
@@ -13,6 +15,10 @@ You may also be interested in:
 
 * [a list of policy documents that mention the Foundation for Public Code](policy-documents.md)
 * [our conference talks and articles we've written](https://projects.publiccode.net/talks-and-articles.html)
+
+## 2023
+
+* [How Cities Make Software Together](https://orchestrated.dev/) - a research project by Nneka Sobers and Dr. Anthony Townsend, Urban Tech Hub at Jacobs Technion-Cornell Institute (January 2023)
 
 ## 2022
 

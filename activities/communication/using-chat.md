@@ -1,4 +1,6 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2020-2023 The Foundation for Public Code <info@publiccode.net>
 type: guide
 explains: What our staff chat tool is, how to get started and its do's and don'ts
 ---

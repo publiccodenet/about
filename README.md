@@ -1,5 +1,8 @@
 # About the Foundation for Public Code
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net> -->
+
 [Our mission](organization/mission.md) is:
 
 > [...] to enable public-purpose software and policy that is open and collaborative.
