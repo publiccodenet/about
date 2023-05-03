@@ -16,7 +16,7 @@ Employees that need to call regularly receive an account. A local (020) number w
 
 The operations coordinator and chief executive can assign and install accounts.
 
-There is [documentation available](https://www.voys.nl/hulp/toestellen/) (in Dutch) to help with setting it up, both for administrators as well as users.
+There is [documentation available](https://help.voys.nl/voys-app) (in Dutch) to help with setting it up, both for administrators as well as users.
 
 We've [translated basic Voys user set up guidance to English](https://about.publiccode.net/activities/communication/managing-voip-phone-numbers.html) to make it easier for non-Dutch speaking staff.
 

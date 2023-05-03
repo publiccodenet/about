@@ -18,5 +18,5 @@ You can log in with your Voys login details.
 
 See the Voys guides in order to learn more about setting up a VOIP account and number:
 
-* [Android](https://help.voys.nl/voys-app/voys-android-app)
-* [Apple iOS](https://help.voys.nl/voys-app/voys-ios-app)
+* [Android](https://help.voys.nl/voys-app/android)
+* [Apple iOS](https://help.voys.nl/voys-app/ios)
