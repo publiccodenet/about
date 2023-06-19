@@ -7,6 +7,10 @@ explains: where we are mentioned in public policy documents
 
 # Policy documents that mention the Foundation for Public Code
 
+## 2023
+
+* T20 India: [Laying the Foundation for the Future: Open Source Sustainability and the Adoption of Digital Public Goods](https://t20ind.org/research/laying-the-foundation-for-the-future/)
+
 ## 2022
 
 * Ministry of the Interior and Kingdom Relations of the Netherlands: [Open source working: beyond the non-binding approach](https://www.rijksoverheid.nl/documenten/rapporten/2022/09/13/opensourcewerken-de-vrijblijvendheid-voorbij)
