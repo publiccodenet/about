@@ -14,4 +14,4 @@ The codebase maintainers will be notified when a contribution passes the audit a
 
 ## Template
 
-As a help to review a codebase, [this template](https://github.com/publiccodenet/standard/blob/develop/docs/review-template.md) can be used.
+As a help to review a codebase, [this template](https://github.com/publiccodenet/standard/blob/develop/docs/review-template.html) can be used.

@@ -18,6 +18,7 @@ You may also be interested in:
 
 ## 2023
 
+* [Omotola Eunice Omotayo & Jan Ainali at FOSS Backstage 2023](https://podcast.sustainoss.org/184) - the podcast [Sustain OSS](https://podcast.sustainoss.org/) interviews Jan Ainali (June 2023)
 * [How Cities Make Software Together](https://orchestrated.dev/) - a research project by Nneka Sobers and Dr. Anthony Townsend, Urban Tech Hub at Jacobs Technion-Cornell Institute (January 2023)
 
 ## 2022
@@ -47,11 +48,11 @@ You may also be interested in:
 * [Public Interest Podcast episode 2](https://public-interest-podcast.podigee.io/2-episode-2) - interview with Olaf-Gerd Gemein about applying the Standard for Public Code in Germany (in German) (June 2020)
 * [Sylk Suite wins the Innovation Award 2020](https://awards.isoc.nl/innovatie/2020/) (in Dutch) - press release announcing that we won the 2020 Internet Society Netherlands encouragment award (June 2020) (in Dutch); see also [our blogpost](https://blog.publiccode.net/news/2020/06/17/isoc-encouragement-award-consider-us-encouraged.html)
 * [Open source development works to improve contact tracing in Europe](https://opensource.com/article/20/7/open-source-contact-tracing) - article by J. Manrique Lopez de la Fuente on [Opensource.com](https://opensource.com/) (July 2020)
-* [Ny release af Standard for Public Code](https://os2.eu/blog/ny-release-af-standard-public-code) - announcement by OS2 of our 0.2.0 release of the Standard for Public Code (November 2020) (Danish)
+* [Ny release af Standard for Public Code](https://www.os2.eu/blog/nyheder-2/ny-release-af-standard-for-public-code-4025) - announcement by OS2 of our 0.2.0 release of the Standard for Public Code (November 2020) (Danish)
 
 ## 2019
 
-* [Foundation for Public Code: How to help governments develop high-quality, sustainable, cost-effective, and low-risk public services through open source collaborations](https://os2.eu/blog/foundation-public-code-how-help-governments-develop-high-quality-sustainable-cost-effective-and) - interview by Charlotte Heikendorf with Boris van Hoytema and Claus Mullie for [OS2](https://os2.eu/node/332) (September 2019)
+* [Foundation for Public Code: How to help governments develop high-quality, sustainable, cost-effective, and low-risk public services through open source collaborations](https://www.os2.eu/blog/nyheder-2/foundation-for-public-code-how-to-help-governments-develop-high-quality-sustainable-cost-effective-and-low-risk-public-services-through-open-source-collaborations-4117) - interview by Charlotte Heikendorf with Boris van Hoytema and Claus Mullie for [OS2](https://www.os2.eu/in-english) (September 2019)
 * [Open Source Observatory (OSOR) October newsletter](https://ec.europa.eu/newsroom/joinup/newsletter-archives/18462) - our collaboration with Team Digitale is highlighted (November 2019)
 * [The Internet is Broken](https://www.singeluitgeverijen.nl/de-geus/boek/het-internet-is-stuk/) - book by Marleen Stikker (November 2019) (in Dutch)
 * [Open Source and the French Public Sector beyond 2020](https://bzg.fr/en/open-source-and-the-french-public-sector-beyond-2020/) - blogpost by Bastien Guerry, we're mentioned in the context of reusable soulutions and publiccode.yml (December 2019)
