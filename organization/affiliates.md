@@ -19,4 +19,4 @@ These are our affiliates:
 * [OS2](https://os2.eu/)
 * [OW2](https://www.ow2.org/)
 
-We are also a member of the [Digital Public Goods Alliance](https://digitalpublicgoods.net/) and a founding member of [OSPO Alliance](https://ospo.zone/).
+We are also a member of the [Digital Public Goods Alliance](https://digitalpublicgoods.net/) and a founding member of [OSPO Alliance](https://ospo-alliance.org/).

@@ -133,7 +133,7 @@ Over the course of the year, the codebase stewards also met with additional code
 
 In 2021, we were an active member of our broader ecosystem, contributing our time and resources to strengthen our community. We spoke at 18 events and conferences for our broader community - [some of our talks and slides](https://projects.publiccode.net/talks.html) were recorded. We mentored at and helped organize 2 hackathons.
 
-In June, we were proud to be a founding member of the [OSPO Alliance](https://ospo.zone/about/), a new coalition to help organizations discover and understand open source.
+In June, we were proud to be a founding member of the [OSPO Alliance](https://ospo-alliance.org/about/), a new coalition to help organizations discover and understand open source.
 
 We launched a free [online course introducing the Standard for Public Code](https://citybycity.academy/course/standards-for-smart-cities), hosted by Open and Agile Smart Cities' CITYxCITY online learning platform.
 
