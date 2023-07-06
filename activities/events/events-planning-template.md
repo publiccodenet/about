@@ -17,7 +17,7 @@ tags: events
 
 ## General info
 
-[Website](https://event.dot)
+[Website](https://example.org)
 
 DATE in CITY.
 
@@ -26,7 +26,10 @@ DATE in CITY.
 ## Goals for attending
 
 ### Goals
-*See [attending events](https://about.publiccode.net/activities/events/attending-events.html).*
+
+*See [attending events](https://about.publiccode.net/activities/events/attending-events.html) for general goals.*
+
+*Enumerate event-specific goals.*
 
 ### People to connect with
 
