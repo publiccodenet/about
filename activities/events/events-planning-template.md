@@ -17,7 +17,7 @@ tags: events
 
 ## General info
 
-[Website](https://event.dot)
+[Website](https://example.org)
 
 DATE in CITY.
 
