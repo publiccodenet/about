@@ -50,7 +50,7 @@ The Foundation for Public Code certifies codebases considered for stewardship ag
 
 The goal of partnership is to create awareness about the global community of Public Code empowered organizations that pool resources and collaborate in the digital transformation of the policy and software of modern government.
 
-Read more about what Foundation for Public Code stewardship means:[http://publiccode.net/codebase-stewardhip/](http://publiccode.net/codebase-stewardship/)
+Read more about what Foundation for Public Code stewardship means:[http://publiccode.net/codebase-stewardship/](http://publiccode.net/codebase-stewardship/)
 
 ## Partnership activities
 
