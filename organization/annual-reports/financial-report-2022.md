@@ -345,4 +345,4 @@ goals of the Foundation for Public Code.
 
 The fundraising and membership development costs are expenditures directly attributable to achieving the goals of the Foundation for Public Code.
 
-During 2021, on average, 6.6 employees were employed on a full-time basis.
+During 2021, on average, 4.3 employees were employed on a full-time basis.
