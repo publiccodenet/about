@@ -8,6 +8,11 @@ type: index
 
 The Foundation for Public Code publishes a 2-part annual report each year. It consists of an annual report (jaarverslag) and a supporting financial report (jaarrekening).
 
+## 2022
+
+* [annual report](annual-report-2022.md)
+* [financial report](financial-report-2022.md) (also available as a [PDF]())
+
 ## 2021
 
 We're publishing our financial report provisionally. The General Assembly will confirm the accounts after review by an independent expert, which we're still waiting for.
