@@ -7,18 +7,11 @@ type: resource
 
 
 
-*Financial Annual Report: 1 January 2022 - 31 December 2022
+# Financial Annual Report: 1 January 2022 - 31 December 2022
 
-**Foundation for Public Code  (Vereniging)
+Foundation for Public Code  (Vereniging)
 
-
-
-
-[TOC]
-
-
-
-## A. Narrative 
+## A. Narrative
 
 The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and Arnout Schuijff in 2019 to guide international collaboration among public organizations around codebase design, quality and governance.
 
@@ -26,17 +19,13 @@ Leveraging 30 combined years of experience working with cities and technology-en
 
 Based on their experience of technological innovation in a traditional industry, Pieter van der Does and Arnout Schuijff (co-founders of the Adyen payments platform) agreed with Ben and Boris that public organizations deserved better software. They joined the Board of Directors to share their expertise and connections.
 
-
 ### 1. General
-
 
 #### 1.1 Establishment and purpose; mission and vision
 
-
-##### 1.1.1 Establishment 
+##### 1.1.1 Establishment
 
 The Foundation for Public Code was established on June 3, 2019 and is registered in the Commercial Register of the Chamber of Commerce under number 74996452. The statutory name of the organization is: Foundation for Public Code Vereniging (Association) and has its registered office in Amsterdam.
-
 
 ##### 1.1.2 Statutory goal
 
@@ -45,8 +34,6 @@ The goal of the Foundation for Public Code is to support collective development 
 Public code stewarded by the Foundation is openly available for reuse by everyone, but only members (wholly publicly owned organizations) can determine the organization’s governance and the stewardship priorities.
 
 The association seeks to achieve its goal by carrying out the following activities (article 3.2 of the association bylaws):
-
-
 
 1. the provision of services that can increase sustainability, quality and re-use of public code
 2. facilitating and encouraging the sharing of existing public code between public members and other public organizations
@@ -62,19 +49,14 @@ The Foundation for Public Code is not for profit, as is clear from the work it d
 
 If the Foundation for Public Code’s Board of Directors decides to dissolve the association, the association will continue to exist for as long as is necessary to liquidate the association’s assets. Article 31.4 of the Foundation for Public Code’s bylaws state that any positive balance at the time of liquidation will be given to either:
 
-
-
 * a public benefit organization (ANBI) with a similar goal to the Foundation for Public Code
 * a foreign organization dedicated exclusively or nearly completely to the public benefit with a similar goal to the Foundation for Public Code
-
 
 ##### 1.1.3 Mission and vision
 
 The Foundation for Public Code’s mission is “to support collective development and maintenance of public code in order to reduce risk, increase quality, reduce cost and increase sustainability”.” (established in article 3.1 of the bylaws).
 
 The Foundation for Public Code will deliver its mission by:
-
-
 
 * enabling an ecosystem of Public Code software products, developed by and for public administrations to solve real problems for citizens
 * building a collaborative community of developers and public organizations, which continuously improves and maintains public code products
@@ -83,12 +65,9 @@ The Foundation for Public Code will deliver its mission by:
 
 The Foundation for Public Code is completely unique. There is no other organization that provides impartial codebase stewardship services designed to support open collaboration of public organizations for the benefit of citizens and taxpayers. This distinguishes it from organizations providing open source codebase stewardship for private sector projects, from vendors selling open source software development to public organizations, and from activist groups lobbying governments to spend taxpayer money only on open source software.
 
-
 ##### 1.1.4 Founding principles and cultural values
 
 Founding principles:
-
-
 
 * We are a non-profit and non-partisan organization.
 * We publish under licenses approved by the [Open Source Initiative](https://opensource.org/licenses) or [Creative Commons](https://creativecommons.org/licenses/) licenses that do not limit commercial reuse.
@@ -106,40 +85,41 @@ Cultural values:
 
 Our cultural values are: open, quality, trust, community, helpful. These words signify the qualities we strive for in our activities, products, staff and resources.
 
-
 #### 1.2 Composition Board and Directors
-
 
 ##### 1.2.1 Board
 
 As of December 31, 2022, the composition of the Foundation for Public Code Association board is:
 
-**Chairman:	**Ben Cerveny \
-**Secretary:	**Boris van Hoytema \
-**Treasurer:	**Eric Herman
-
+**Chairman: Ben Cerveny**
+**Secretary: Boris van Hoytema**
+**Treasurer: Eric Herman**
 
 ##### 1.2.2 Executive team
 
-Boris van Hoytema is the Chief Executive. The Foundation no longer has an executive team. 
+Boris van Hoytema is the Chief Executive. The Foundation no longer has an executive team.
 
 ##### 1.2.3 Principal and secondary positions board and directors
 
 **Boris van Hoytema**
 
 Principal position
+
 * Chief Executive, Foundation for Public Code
 
 Secondary positions
+
 * Secretary, Foundation for Public Code vereniging
 * Member of the Board of Directors, Foundation for Public Code vereniging
 
 **Ben Cerveny**
 
 Principal position
+
 * Director, Multiple Ventures B.V.
 
 Secondary positions
+
 * Chairman, Foundation for Public Code vereniging
 * Member of the Board of Directors, Foundation for Public Code vereniging
 * President, Foundation for Public Code (contractor via Multiple Ventures B.V.)
@@ -147,20 +127,21 @@ Secondary positions
 **Eric Herman**
 
 Principal position
+
 * Lead Codebase Steward, Foundation for Public Code
 
 Secondary positions
+
 * Treasurer, Foundation for Public Code vereniging
 * Chair, Board of Directors, MariaDB Foundation
-
 
 #### 1.3 Remuneration Policy
 
 Salaries are competitive and consistent with the social mission of the organization. The Foundation for Public Code reimburses reasonable expenses for staff, contractors and interns.
 
-Compensation for employees of the Foundation for Public Code is at the midpoint of the salary scale in the non-profit sector. The gross annual salary of the Chief Executive of the Foundation for Public Code is 70,200 EUR (including vacation pay - 1 FTE / 12 months). The annual gross salary of the coordinators and codebase stewards is on average 66,931 EUR (including vacation pay, 1 FTE / 12 months). Both pay scales are well below the maximum of 168,893 EUR of Goede Doelen Nederland (GDN) framework.
+Compensation for employees of the Foundation for Public Code is at the midpoint of the salary scale in the non-profit sector. The gross annual salary of the Chief Executive of the Foundation for Public Code is 78,000 EUR (including vacation pay - 1 FTE / 12 months). The annual gross salary of the coordinators and codebase stewards is on average 69,107 EUR (including vacation pay, 1 FTE / 12 months). Both pay scales are well below the maximum of 173,960 EUR of the Goede Doelen Nederland (GDN) framework.
 
-Because the work we do is innovative and requires diverse expertises, individual agreements can be made with regard to each employee’s salary. 
+Because the work we do is innovative and requires diverse expertises, individual agreements can be made with regard to each employee’s salary.
 
 Members of the Board of Directors are not paid for their work. A director may be hired separately and paid by the Foundation for Public Code for work performed in another role (e.g., manager, contractor). The Foundation for Public Code will reimburse directors for expenses incurred in connection with their duties as directors.
 
@@ -168,13 +149,11 @@ If warranted by the employee's performance, a salary increase may be given at th
 
 We currently don’t have a pension plan set up for staff. Once the organization matures, secondary employment conditions will be reviewed.
 
-
 #### 1.4 Guidelines and code of conduct
 
 ##### 1.4.1 Guidelines
 
 The Foundation for Public Code complies with the conditions of a Dutch public benefit organization (ANBI). For the preparation of the annual report and financial statements, we used the 650 Fundraising Organizations guideline of the Dutch Council for Annual Reporting (RJ) as issued in RJ-Uiting 2016.
-
 
 ##### 1.4.2 Code of conduct
 
@@ -203,15 +182,13 @@ Gifts may only be accepted without prior approval when:
 
 Hospitality included in participation in an approved mission, conference, workshop or other meeting does not require separate approval.
 
-
 #### 1.5 Communication with stakeholders, community and general public
 
-The Foundation for Public Code is an open organization with collaboration and transparency at its core. Our goal is to ensure that everything we do is open and publicly accessible. We document all of our activities, processes and organizational information so that our stakeholders, the community, and the general public can contribute to our work. The documentation of our work is core to our ability to deliver on our mission together with the community. 
+The Foundation for Public Code is an open organization with collaboration and transparency at its core. Our goal is to ensure that everything we do is open and publicly accessible. We document all of our activities, processes and organizational information so that our stakeholders, the community, and the general public can contribute to our work. The documentation of our work is core to our ability to deliver on our mission together with the community.
 
 We continuously publish updates about our work via our website, social media, and mailing lists, in order to keep our audience informed. We also attend events throughout the year to engage with our stakeholders and raise awareness about public code.
 
-
-#### 1.6 Risk paragraph 
+#### 1.6 Risk paragraph
 
 The Foundation for Public Code was funded by a mix of member dues from Provincie Zuid-Holland and philanthropy during the reporting period. We received donations from two parties:
 
@@ -220,7 +197,7 @@ The Foundation for Public Code was funded by a mix of member dues from Provincie
 
 These philanthropists share our commitment to our mission. To prevent undue influence, all donations are un-earmarked and go into our general operating budget, in compliance with our status as a Dutch public benefit organization (ANBI).
 
-We try to look two years ahead with our financial planning.  The organization has low financial risk: there are no debts and no assets. We have a loan agreement (anti-kraak) for the office, which incurs no rent. Though we now work remote-first, our office contract has continued to be extended on a monthly basis until a tenant is found. All our activities are location independent, meaning the organization can continue to function in a remote-first context. 
+We try to look two years ahead with our financial planning.  The organization has low financial risk: there are no debts and no assets. We have a loan agreement (anti-kraak) for the office, which incurs no rent. Though we now work remote-first, our office contract has continued to be extended on a monthly basis until a tenant is found. All our activities are location independent, meaning the organization can continue to function in a remote-first context.
 
 The current financial situation gives the organization financial security beyond Q2 2023. We expect to receive more philanthropic gifts. Our US-based chapter (established 2023) has already pledged philanthropic gifts through 2024.  If income is insufficient to cover our operational expenses, we will either shift some staff or contractor costs to the US, or the US chapter will regrant money to this organization. If costs need to be drastically reduced, reductions will need to be made to personnel, which comprise the majority of our costs.
 
@@ -232,7 +209,6 @@ The Foundation for Public Code is in the start-up phase and has not been able to
 
 The Foundation for Public Code maintains a clear financial policy with income sources to last until the middle of 2023.  In 2022, the General Assembly authorized the board of directors to create a strategy for organizational transformation, focused on no longer being an association with public members, thus enabling other funding options beyond membership dues and philanthropy. We expect to implement this in 2023.
 
-
 ### 2. Fiscal affairs
 
 #### 2.1 Public Benefit Organization
@@ -241,7 +217,7 @@ On 3 June 2019, a notice was received from the Tax Office/Registration and Succe
 
 All of the Foundation’s funds are spent on achieving its mission and benefiting the public.  Funds are not spent on the exclusive benefit of our members or other individuals.
 
-### 3. Administrative affairs 
+### 3. Administrative affairs
 
 The administration in 2022 was carried out by the CEO, staff and the accounting firm Maas Accountants.
 
@@ -249,578 +225,30 @@ The financial statements for the period from 1 January 2022 to 31 December 31 20
 
 The financial statements consist of the balance sheet, statement of revenue and expenses, cash flow statement, and notes to the balance sheet.
 
-
 Name: Ben Cerveny
 
 Title: Chairman of the Board
 
 Date:
 
-
-
-## B. Annual Financial Statements 
+## B. Annual Financial Statements
 
 The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and Arnout Schuijff in 2019 to guide international collaboration among public organizations around codebase design, quality and governance.
 
-
 ### 4. Financial report
-
 
 #### 4.1 Result analysis
 
 The result analysis is based on the income statement for 2022 as included in the financial statements. The result analysis provides insight into the ratio of cost types in relation to revenue. In addition, the result analysis gives a picture of the differences compared to last year.
 
 
-<table>
-  <tr>
-   <td><strong>Profit and loss account multi-year overview</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Income
-   </td>
-   <td><p style="text-align: right">
-698,580</p>
-
-   </td>
-   <td><p style="text-align: right">
-801,686</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Cost
-   </td>
-   <td><p style="text-align: right">
-196,974</p>
-
-   </td>
-   <td><p style="text-align: right">
- 135,135</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Income minus costs </strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>501,606</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>666,551</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>People
-   </td>
-   <td><p style="text-align: right">
-595,440</p>
-
-   </td>
-   <td><p style="text-align: right">
-615,368</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Office and admin
-   </td>
-   <td><p style="text-align: right">
-43,996</p>
-
-   </td>
-   <td><p style="text-align: right">
-36,881</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Total </strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>639,436</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>652,249</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Operating result</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>-135,100</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>14,302</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Financial gains and losses
-   </td>
-   <td><p style="text-align: right">
-- 4,771</p>
-
-   </td>
-   <td><p style="text-align: right">
-- 39,787</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Total </strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>- € 139,871</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>- € 25,485</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-
-
 ### 5. Financial statements
-
 
 #### 5.1 Balance sheet
 
 After appropriation of the result.
 
-
-<table>
-  <tr>
-   <td><strong>Balance sheet assets</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Tangible fixed assets
-   </td>
-   <td><p style="text-align: right">
-5,722</p>
-
-   </td>
-   <td><p style="text-align: right">
-7,741</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Fixed assets</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>5,722</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>7,741</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Receivables
-   </td>
-   <td><p style="text-align: right">
-13,790</p>
-
-   </td>
-   <td><p style="text-align: right">
-66,852</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Cash at bank and in hand
-   </td>
-   <td><p style="text-align: right">
-786,839</p>
-
-   </td>
-   <td><p style="text-align: right">
-1,317,997</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Current assets</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>800,629</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>1,384,849</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Assets</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 806,351 </strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 1,392,590</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Balance sheet liabilities</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>General Reserve
-   </td>
-   <td><p style="text-align: right">
-- 508,343</p>
-
-   </td>
-   <td><p style="text-align: right">
-- 368,472</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Equity</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>- 508,343</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>- 368,472</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Non-current liabilities</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>863,000</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>1,726,000</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Current liabilities</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>451,694</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>35,062</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Liabilities</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 806,351</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 1,392,590</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
-
 #### 5.2 Profit and loss account
-
-
-<table>
-  <tr>
-   <td><strong>Profit and loss account</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Income
-   </td>
-   <td><p style="text-align: right">
-698,580</p>
-
-   </td>
-   <td><p style="text-align: right">
-801,686</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Cost
-   </td>
-   <td><p style="text-align: right">
-196,974</p>
-
-   </td>
-   <td><p style="text-align: right">
-135,135</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Income minus costs </strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>501,606</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>666,551</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>People
-   </td>
-   <td><p style="text-align: right">
-595,440</p>
-
-   </td>
-   <td><p style="text-align: right">
-615,368</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Office and admin
-   </td>
-   <td><p style="text-align: right">
-41,266</p>
-
-   </td>
-   <td><p style="text-align: right">
-36,881</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Total </strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>636,706</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>652,249</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Operating result</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>-135,100</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>14,302</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Financial gains and losses
-   </td>
-   <td><p style="text-align: right">
-- 4,771</p>
-
-   </td>
-   <td><p style="text-align: right">
-- 39,787</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Total </strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>- € 139,871</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>- € 25,485</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-
 
 #### 5.3 Notes to the financial statements
 
@@ -892,684 +320,15 @@ The benefits payable to personnel are recorded in the income statement on the ba
 
 Interest income and expenses are recognized on a pro rata basis, taking account of the effective interest rate of the assets and liabilities to which they relate. In accounting for interest expenses, the recognized transaction expenses for loans received are taken into consideration.
 
-
-#### 
-
-
 #### 5.4 Notes to the balance sheet
 
+The company uses the following annual depreciation percentages for tangible fixed assets - Other company equipment: 20%
 
-<table>
-  <tr>
-   <td><strong>Tangible fixed assets</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
+Accounts receivable all have a remaining term to maturity of less than one year, unless stated otherwise.
 
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
+The bank balance can be called up immediately. There are no encumbrances on the bank balance.
 
-   </td>
-  </tr>
-  <tr>
-   <td>Equipment
-   </td>
-   <td><p style="text-align: right">
-10,097</p>
-
-   </td>
-   <td><p style="text-align: right">
-10,097</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Depreciation Equipment
-   </td>
-   <td><p style="text-align: right">
-- 4,375</p>
-
-   </td>
-   <td><p style="text-align: right">
-- 2,356</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 5,722  </strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 7,741</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><em>The company uses the following annual depreciation percentages for tangible fixed assets - Other company equipment: 20%</em>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Receivables</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Accounts receivable
-   </td>
-   <td><p style="text-align: right">
-12,486</p>
-
-   </td>
-   <td><p style="text-align: right">
-12,486</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Other receivables
-   </td>
-   <td><p style="text-align: right">
-641</p>
-
-   </td>
-   <td><p style="text-align: right">
-13,150</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Accrued assets
-   </td>
-   <td><p style="text-align: right">
-663</p>
-
-   </td>
-   <td><p style="text-align: right">
-41,216</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 13,790</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 66,852</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><em>Accounts receivable all have a remaining term to maturity of less than one year, unless stated otherwise.</em>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Other receivables</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Deferred costs
-   </td>
-   <td><p style="text-align: right">
-641</p>
-
-   </td>
-   <td><p style="text-align: right">
-13,150</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 641</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>13,150</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Accrued assets</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Payment to be received
-   </td>
-   <td><p style="text-align: right">
-663</p>
-
-   </td>
-   <td><p style="text-align: right">
-41,216</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 663</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 41,216</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Cash at bank and in hand</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Credits in bank accounts
-   </td>
-   <td><p style="text-align: right">
-786,839</p>
-
-   </td>
-   <td><p style="text-align: right">
-1,317,997</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 786,839</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 1,317,997</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><em>The bank balance can be called up immediately. There are no encumbrances on the bank balance.</em>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Equity</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>General Reserve
-   </td>
-   <td><p style="text-align: right">
--508,343</p>
-
-   </td>
-   <td><p style="text-align: right">
-- 368,472</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>- € 508,343 </strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>- € 368,472</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><em>Over the period of 1<sup>st</sup> January 2022 - 31st December 2022, the result of the income statement was deducted from the General Reserve.</em>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-
-
-<table>
-  <tr>
-   <td><strong>Non-current liabilities</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Amounts received in advance
-   </td>
-   <td><p style="text-align: right">
-851,100</p>
-
-   </td>
-   <td><p style="text-align: right">
-1,726,000</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 851,100 </strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 1,726,000</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td colspan="3" ><em>The Foundation for Public Code Vereniging started with a funding loan to cover running costs, provided by one of the founding members. The duration of the loan was 5 years, at an interest rate of 3%. A yearly redemption is granted to the Foundation. This funding loan was redeemed in 2020.</em>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Current liabilities</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Deferred revenues
-   </td>
-   <td><p style="text-align: right">
-0</p>
-
-   </td>
-   <td><p style="text-align: right">
-10,000</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Accounts payable
-   </td>
-   <td><p style="text-align: right">
-2,899</p>
-
-   </td>
-   <td><p style="text-align: right">
-24,727</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Tax and social insurance premiums
-   </td>
-   <td><p style="text-align: right">
-12,312</p>
-
-   </td>
-   <td><p style="text-align: right">
-335</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Wages processing expenses
-   </td>
-   <td><p style="text-align: right">
-3,858</p>
-
-   </td>
-   <td><p style="text-align: right">
-0</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Accrued administration expenses
-   </td>
-   <td><p style="text-align: right">
-1,125</p>
-
-   </td>
-   <td><p style="text-align: right">
-0</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Other liabilities
-   </td>
-   <td><p style="text-align: right">
-431,500</p>
-
-   </td>
-   <td><p style="text-align: right">
-0</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 451,694 </strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 35,062</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Tax and social insurance</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Payroll tax
-   </td>
-   <td><p style="text-align: right">
-12,312</p>
-
-   </td>
-   <td><p style="text-align: right">
-335</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 12,312</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 335</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Wage processing expenses</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Net wages
-   </td>
-   <td><p style="text-align: right">
-3,858</p>
-
-   </td>
-   <td><p style="text-align: right">
-0</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong> € 3,858</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>0</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Other liabilities</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Other liabilities
-   </td>
-   <td><p style="text-align: right">
-431,500</p>
-
-   </td>
-   <td><p style="text-align: right">
-0</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 431,500</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>0</strong></p>
-
-   </td>
-  </tr>
-</table>
-
+Over the period of 1 January 2022 - 31 December 2022, the result of the income statement was deducted from the General Reserve.
 
 **Off-balance sheet liability claims**
 
@@ -1579,444 +338,11 @@ The Foundation for Public Code Vereniging has no material balance sheet rights.
 
 The Foundation for Public Code Vereniging has no operating lease commitments.
 
-
-#### 
-
-
 #### 5.5 Notes to the profit and loss account
 
+The project and community management costs are expenditures directly attributable to achieving the  \
+goals of the Foundation for Public Code.
 
-<table>
-  <tr>
-   <td><strong>Income</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
+The fundraising and membership development costs are expenditures directly attributable to achieving the goals of the Foundation for Public Code.
 
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Contribution members
-   </td>
-   <td><p style="text-align: right">
-0</p>
-
-   </td>
-   <td><p style="text-align: right">
-2,486</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>US Gifts
-   </td>
-   <td><p style="text-align: right">
-257,080</p>
-
-   </td>
-   <td><p style="text-align: right">
-367,700</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>(Fiscal based) gifts
-   </td>
-   <td><p style="text-align: right">
-441,500</p>
-
-   </td>
-   <td><p style="text-align: right">
-431,500</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 698,580</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 801,686</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Project & Community Management</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Project: Travel Expenses
-   </td>
-   <td><p style="text-align: right">
-10,085</p>
-
-   </td>
-   <td><p style="text-align: right">
-3,730</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Project: Marketing & Market Research
-   </td>
-   <td><p style="text-align: right">
-38,585</p>
-
-   </td>
-   <td><p style="text-align: right">
-12,523</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Project: Event/Community related
-   </td>
-   <td><p style="text-align: right">
-0</p>
-
-   </td>
-   <td><p style="text-align: right">
-1,246</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Project: IT expenses/Community related
-   </td>
-   <td><p style="text-align: right">
-41,824</p>
-
-   </td>
-   <td><p style="text-align: right">
-97</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 90,494</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 17,596</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><em>The project and community management costs are expenditures directly attributable to achieving the  \
-goals of the Foundation for Public Code.</em>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Fundraising</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Fundraising
-   </td>
-   <td><p style="text-align: right">
-106,480</p>
-
-   </td>
-   <td><p style="text-align: right">
-117,539</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 106,480</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 117,539</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><em>The fundraising and membership development costs are expenditures directly attributable to achieving the goals of the Foundation for Public Code.</em>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Total Costs</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>People
-   </td>
-   <td><p style="text-align: right">
-595,440</p>
-
-   </td>
-   <td><p style="text-align: right">
-615,368</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Office and Admin
-   </td>
-   <td><p style="text-align: right">
-41,266</p>
-
-   </td>
-   <td><p style="text-align: right">
-36,881</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 636,706 </strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 652,249</strong></p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>People</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Wages and salaries
-   </td>
-   <td><p style="text-align: right">
-469,074</p>
-
-   </td>
-   <td><p style="text-align: right">
-492,134</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Social insurance premiums
-   </td>
-   <td><p style="text-align: right">
-100,722</p>
-
-   </td>
-   <td><p style="text-align: right">
-99,581</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Sick pay insurance
-   </td>
-   <td><p style="text-align: right">
-0</p>
-
-   </td>
-   <td><p style="text-align: right">
-12,611</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Other staff expenses
-   </td>
-   <td><p style="text-align: right">
-25,644</p>
-
-   </td>
-   <td><p style="text-align: right">
-11,041</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 595,440 </strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 615,368</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><em>During 2021, on average, 6.6 employees were employed on a full-time basis. </em>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Other interest expenses</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>2021</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2020</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Other interest expenses
-   </td>
-   <td><p style="text-align: right">
-4,771</p>
-
-   </td>
-   <td><p style="text-align: right">
-39,343</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 4,771 </strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>€ 39,343</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
+During 2021, on average, 6.6 employees were employed on a full-time basis.
