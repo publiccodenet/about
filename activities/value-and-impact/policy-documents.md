@@ -20,6 +20,7 @@ explains: where we are mentioned in public policy documents
 
 ## 2021
 
+* UNICEF: [Digital Public Goods Toolkit](https://unicef.github.io/publicgoods-toolkit/appendix-resources-tools/)
 * State of California: [Vision 2023 - California Technology Strategic Plan](https://vision2023.cdt.ca.gov/) [[PDF]](https://vision2023.cdt.ca.gov/pdf/Vision-2023-California-Technology-Strategic-Plan.pdf)
 
 ## 2020
