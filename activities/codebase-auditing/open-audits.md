@@ -23,4 +23,4 @@ As much as possible, audits should take place in the open and be done together w
 
 ## Audits
 
-Public assessements are linked from each codebase on our [page for codebases in stewardship](https://publiccode.net/codebases/).
+Public assessments are linked from each codebase on our [page for codebases in stewardship](https://publiccode.net/codebases/).
