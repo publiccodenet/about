@@ -22,6 +22,7 @@ explains: where we are mentioned in public policy documents
 
 * UNICEF: [Digital Public Goods Toolkit](https://unicef.github.io/publicgoods-toolkit/appendix-resources-tools/)
 * State of California: [Vision 2023 - California Technology Strategic Plan](https://vision2023.cdt.ca.gov/) [[PDF]](https://vision2023.cdt.ca.gov/pdf/Vision-2023-California-Technology-Strategic-Plan.pdf)
+* Helsingborg municipality: [Helsingborg Developer guide](https://helsingborg-stad.github.io/dev-guide/docs/standards/foundation-for-public-code.html)
 
 ## 2020
 
