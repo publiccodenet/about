@@ -74,10 +74,7 @@ The Standard for Public Code continued to be a [recognized Digital Public Good](
 
 In September, we released version 1.0 of the Governance game. In November, we made it easier for anyone, anywhere to [print their own Governance Game](https://blog.publiccode.net/news/2022/09/15/printing-your-own-governance-game.html), and were delighted to see this put into action at the FWD50 conference.
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](organization/annual-reports/images/aaronsnow-fwd50conf-tweet-20221102.png "Screenshot of @aaronsnow tweet about the Governance Game session at the @fwd50conf")
 
 ### Members and partners
 
@@ -175,7 +172,7 @@ Though we planned to recruit additional board members in 2022, we delayed until 
 
 This section provides an overview of the detailed financial report that accompanies this annual report.
 
-> [See the full financial report](https://docs.google.com/document/d/1Yzl905SskwhGxph6cx1Xvuzvr3wuTk8MocUB4tDPhHY/edit#heading=h.skygcsks6fdb).
+[See the full financial report](/financial-report-2022.md).
 
 In 2022, the organization continued to depend on philanthropic donations. It has been the aim of the Foundation to eventually be self-supporting through the contributions of public organizations.
 
