@@ -62,7 +62,7 @@ As a public benefit organization and with the [KBFUS Public Code US fund](https:
 
 In 2022, we:
 
-* [launched a community-built implementation guide ](https://blog.publiccode.net/news/2022/09/13/launching-community-built-implementation-guide.html)
+* [launched a community-built implementation guide](https://blog.publiccode.net/news/2022/09/13/launching-community-built-implementation-guide.html)
 * released 4 iterations, going from version 0.2.3 to 0.4.1 - including adding a new findability criterion and clarifying that policy doesn’t need to be fully translated to English, both based on community feedback
 * launched [a home for community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/)
 * launched a simple [assessment eligibility tool](https://publiccodenet.github.io/assessment-eligibility)
@@ -119,7 +119,7 @@ At a Rockefeller Foundation Summit in Bellagio, Italy, Ben spent several days wo
 
 ### Ecosystem
 
-We hosted the first public code track ever at FOSDEM 2022 ([watch videos of all 13 talks](https://archive.fosdem.org/2022/schedule/track/public_code/)), and started to organize a sequel for FOSDEM 2023. 
+We hosted the first public code track ever at FOSDEM 2022 ([watch videos of all 13 talks](https://archive.fosdem.org/2022/schedule/track/public_code/)), and started to organize a sequel for FOSDEM 2023.
 
 ## About us
 
@@ -149,22 +149,22 @@ In 2022, the core of our team stayed the same:
 
 We also continued working with **Matthew Claudel** to meet North American needs, develop communities of practice, and lay the groundwork for a North American chapter of the Foundation for Public Code.
 
-##### Strategic council
+#### Strategic council
 
 We were delighted to [welcome Audrey Tang to the Strategic Council](https://blog.publiccode.net/news/2022/06/27/welcome-audrey.html) in June 2022. Together, our strategic council consisted of:
 
 * **Audrey Tang** (Digital Minister of Taiwan)
 * **Dan Hill** (Director of Melbourne School of Design, former Director of Strategic Design, Vinnova)
 * **Gabriella Gómez-Mont** (Principal at Experimentalista, former Chief Creative Officer of Mexico City)
-* **Leslie Hawthorn, chair** (Senior Manager - Vertical Community Strategy, Red Hat Open Source Program Office) 
+* **Leslie Hawthorn, chair** (Senior Manager - Vertical Community Strategy, Red Hat Open Source Program Office)
 
 #### Our board of directors
 
-* **Ben Cerveny **(Chairman)
-* **Boris van Hoytema **(Secretary)
-* **Eric Herman **(Treasurer)
+* **Ben Cerveny** (Chairman)
+* **Boris van Hoytema** (Secretary)
+* **Eric Herman** (Treasurer)
 
-Board members do not receive any compensation, and did not incur any expenses for their activities. 
+Board members do not receive any compensation, and did not incur any expenses for their activities.
 
 Though we planned to recruit additional board members in 2022, we delayed until we had more clarity about the Foundation’s future legal structure, business model and governance - we didn’t feel comfortable asking new board members to join with such a vaguely defined set of responsibilities. We hope to welcome new board members in 2023 who are ready to lead us through our next major transition.
 
