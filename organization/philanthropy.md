@@ -30,6 +30,7 @@ We've received donations from:
 * Arnout Schuijff
 * Josh Elkes
 * Stewart Butterfield
+* Wordpress Foundation
 
 Arnout is also one of our co-founders and previously held a position on the board of directors (2019-2021).
 

@@ -15,9 +15,9 @@ The questions for the `Checks` table are described on the page [Tracking codebas
 
 Brief description goes here.
 
-| Repository | Marketing page | Main contact   | Live example |
-| ---------- | -------------- | -------------- | ------------ |
-| Link       | Link           | Name (no tag!) | Link         |
+| Repository | Marketing page | Main contact   | Assessment link | Live example |
+| ---------- | -------------- | -------------- | --------------- | ------------ |
+| Link       | Link           | Name (no tag!) | Link            | Link         |
 
 ## Checks
 

@@ -20,3 +20,7 @@ As much as possible, audits should take place in the open and be done together w
 3. Start auditing the codebase in collaboration with the community. Preferrably, this involves more than one key contributor from the community and more than one codebase steward working together.
 4. If the audit makes discoveries that can be addresses, create issues for those in the repository for the codebase, preferrably by encouraging the maintainer to do so.
 5. If many issues get created, ask to setup a Kanban in the repository for the audit with the columns Backlog, In progress, Done.
+
+## Audits
+
+Public assessments are linked from each codebase on our [page for codebases in stewardship](https://publiccode.net/codebases/).
