@@ -12,3 +12,5 @@ Notes and minutes of general assemblies
   * [Minutes](minutes-28-06-2021.md)
 * 2022 June 29th
   * [Minutes](minutes-2022-06-29.md)
+* 2023 July 10th
+  * [Minutes](minutes-2023-07-10.md)
