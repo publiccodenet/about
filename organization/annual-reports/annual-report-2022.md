@@ -131,7 +131,7 @@ In 2022, we:
 * launched our Promising Practices in Public Code essay series, publishing 32 pieces in total, including 12 longform on LinkedIn and our blog
 * crowdsourced advice on [Resilience During An International Crisis — How to Build the digital Public Infrastructure of the Future](https://blog.publiccode.net/news/2022/05/25/resilience-during-an-international-crisis.html)
 * started experimenting with Open House on Twitter Spaces
->* attended X conferences, including giving [7 recorded talks](https://projects.publiccode.net/talks.html#2022)
+* attended 13 conferences, including giving [7 recorded talks](https://projects.publiccode.net/talks.html#2022)
 
 We held 18 community calls in 2022, covering the Foundation for Public Code, the Standard for Public Code and public pruning of the backlog of issues for the Standard for Public Code. In 2022, we temporarily stopped holding Foundation for Public Code community calls, as we found it seemed disingenuous to discuss other aspects of how we functioned while the big question of our future form was still undecided pending advice from legal experts.
 
