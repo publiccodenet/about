@@ -241,20 +241,86 @@ The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and
 
 The result analysis is based on the income statement for 2022 as included in the financial statements. The result analysis provides insight into the ratio of cost types in relation to revenue. In addition, the result analysis gives a picture of the differences compared to last year.
 
-
 ### 5. Financial statements
 
 #### 5.1 Balance sheet
 
-After appropriation of the result.
+Balance sheet assets
+
+  |  | 31-12-2022 |  | 31-12-2021 
+---|---|---|---|---
+ **Fixed assets** |  |  |  |  
+ Tangible fixed assets | 3,702 |  | 5,722 |  
+  |  | **3,702** |  | **5,722**
+ **Current assets** |  |  |  |  
+ Receivables | 3,971 |  | 12,665 |  
+ Cash at bank and in hand | 453,142 |  | 786,839 |  
+  |  | **457,113** |  | **799,504**
+ **Assets** |  | **460,815** |  | **805,226**
+
+Balance sheet equity and liabilities
+  |  | 31-12-2022 |  | 31-12-2021
+---|---|---|---|---
+ **Equity** |  |  |  |  
+ Foundation capital | -422,500 |  | -508,343 |  
+  |  | -422,500 |  | -508,343
+ **Non-current liabilities** |  | **431,500** |  | **863,000**
+ **Current liabilities** |  | **451,815** |  | **450,569**
+ **Equity and liabilities** |  | **460,815** |  | **805,226**
 
 #### 5.2 Profit and loss account
+
+Statement of income & expense
+
+   |  | Financial year |  | Previous year 
+---|---|---|---|---
+  |  | 2022 |  | 2021 
+ Income | 736,519 |  | 698,580 |  
+ Project & Community Management | 124,461 |  | 196,974 |  
+ **Gross result** |  | **612,058** |  | **501,606**
+  |  |  |  |  
+ Employee expenses | 321,682 |  | 608,080 |  
+ Depreciation | 2,019 |  | 2,019 |  
+ Other employee expenses | 157,435 |  | -24,897 |  
+ Housing expenses | 3,519 |  | 0 |  
+ Sales expenses | 329 |  | 1,200 |  
+ Office expenses | 11,589 |  | 8,465 |  
+ General expenses | 27,239 |  | 41,586 |  
+ **Total expenses** | **523,812** |  | **636,454** |  
+ **Balance income and expenses** | **88,245** |  | **-134,848** |  
+ Financial income and expenses | -2,402 |  | -5,023 |  
+ **Result** |  | **85,843** |  | **-139,871**
+
+
+Cash flow statement
+
+  |  | 2022 |  | 2021 
+---|---|---|---|---
+ Operating result |  | 88,245 |  | -134,848
+ Adjustments for operating result |  |  |  |  
+ Depreciation | 2,019 |  | 2,019 |  
+  |  | 2,019 |  | 2,019
+  |  |  |  |  
+ Movement in working capital |  |  |  |  
+ Movement in accounts receivable | 12,486 |  | 0 |  
+ Movement in other receivables | -3,792 |  | 54,253 |  
+ Movement in accounts payable | 11,815 |  | -21,894 |  
+ Movement in other liabilities | -10,569 |  | 437,336 |  
+  |  | 9,940 |  | 469,694
+ Interest income received |  | -1,815 |  | -3,854
+ Interest paid |  | -587 |  | -1,169
+ Cash flow from operating activities |  | 97,803 |  | 331,842 
+  |  |  |  |  
+ Cash flow from financing activities |  |  |  |  
+ Other non-current liabilities | -431,500 |  | -863,000 |  
+  |  | -431,500 |  | -863,000
+ Movement in cash at banks and in hand |  | -333,697 |  | -531,158
 
 #### 5.3 Notes to the financial statements
 
 **General**
 
-These are the second financial statements of The Foundation for Public Code Vereniging. The book year ran from 1 January 2022 - 31 Dec 2022.
+The 2022 financial statements have a different layout and content than previous years due to changing accountants and accounting software.
 
 **Continuity**
 
@@ -262,11 +328,11 @@ With regard to the continuity of the Foundation for Public Code Vereniging we wo
 
 **Currencies**
 
-Items included in the financial statements of the company are valued with due regard for the currency in the economic environment in which the company carries out most of its activities (the functional currency). The financial statements are denominated in euros; this is both the functional currency and presentation currency of the company.
+Items included in the financial statements of Foundation for Public Code Vereniging are valued with due regard for the currency in the economic environment in which the association carries out most of its activities (the functional currency). The financial statements are denominated in euros; this is both the functional currency and presentation currency of Foundation for Public Code Vereniging.
 
 **General principles**
 
-The financial statements are drawn up in accordance with the provisions of Title 9, Book 2, of the Dutch Civil Code and the Dutch Accounting Standards applicable to fundraising organizations (Richtlijn 650 Fondsenwervende organisaties as published by the Dutch Accounting Standards Board ('Raad voor de Jaarverslaggeving') as set out in “RJ-Uiting 2016-13)”.
+The financial statements are drawn up in accordance with the provisions of Title 9, Book 2, of the Dutch Civil Code and the Dutch Accounting Standards applicable to fundraising organizations (Richtlijn 650 Fondsenwervende organisaties as published by the Dutch Accounting Standards Board ('Raad voor de Jaarverslaggeving').
 
 Assets and liabilities are generally valued at historical cost, production cost or at fair value at the time of acquisition.
 
@@ -276,51 +342,58 @@ If no specific valuation principle has been stated, valuation is at historical c
 
 Other tangible fixed assets are valued at historical cost or production cost including directly attributable costs, less straight-line depreciation based on the expected future life and impairments.
 
-Subsidies on investments will be deducted from the historical cost price or production cost of the assets to which the subsidies relate.
+The depreciations are based on the expected future life, unless a maximum depreciation percentage of 20% is prescribed for tax purposes, and are calculated on the basis of a fixed percentage of the cost price, taking into account any residual value. It is depreciated from the moment of commissioning.
 
 **Principles of receivables**
 
-Receivables are initially valued at the fair value of the consideration to be received, including transaction costs if material. Receivables are subsequently valued at the amortized cost price. Provisions for bad debts are deducted from the carrying amount of the receivable.
+Receivables are recognized at nominal value, taking into account any deductions for the risk of bad debts. These reductions are determined on the basis of individual assessment of the receivables. Unless otherwise stated, the receivables have a term of less than 1 year.
 
 **Principles of cash and cash equivalents**
 
 Cash at banks and in hand represent cash in hand, bank balances and deposits with terms of less than twelve months. Overdrafts at banks are recognised as part of debts to lending institutions under current liabilities. Cash at banks and in hand is carried at nominal value.
 
-**Principles of equity**
+**Principles of cash and cash equivalents**
 
-The equity position of the Foundation for Public Code Vereniging is the result of the assets minus the liabilities.
-
-A part of the equity position is the General reserve. A positive result of the income statement is attributed to the general reserve, while a negative result is deducted from it.
+Cash at banks and in hand represent cash in hand, bank balances and deposits with terms of less than twelve months. Overdrafts at banks are recognised as part of debts to lending institutions under current liabilities. Cash at banks and in hand is carried at nominal value.
 
 **Principles of non-current liabilities**
 
-On initial recognition long-term debts are recognised at fair value. Transaction costs which can be directly attributed to the acquisition of the long-term debts are included in the initial recognition. After initial recognition long-term debts are recognised at the amortized cost price, being the amount received taking into account premiums or discounts and minus transaction costs.
+On initial recognition long-term debts are recognised at nominal value. Transaction costs which can be directly attributed to the acquisition of the long-term debts are included in the initial recognition.
 
 **Principles of current liabilities**
 
-On initial recognition current liabilities are recognised at fair value. After initial recognition current liabilities are recognised at the amortized cost price, being the amount received taking into account premiums or discounts and minus transaction costs. This is usually the nominal value.
+On initial recognition current liabilities are recognised at nominal value. After initial recognition current liabilities are recognised at the amounts at which the debt must be repaid.
 
 **Principles for determining the result**
 
-The result is the difference between income and cost in the income-statement of the Foundation for Public Code Vereniging.
+The result is the difference between the realisable value of the goods/services provided and the costs and other charges during the year. The results on transactions are recognised in the year in which they are realised.
 
-**Principles of revenue**
-
-Income comprises the income from member contributions, donations from private individuals and institutions, subsidies, and other income (e.g. results from financial instruments: interest, dividend).
-
-**Principles of operating expenses**
+**Principles of operating expenses (Grondslagen van lasten)**
 
 Costs are determined on a historical basis and are attributed to the reporting year to which they relate.
 
 **Principles of wages and salaries; social security and pension costs**
 
-The benefits payable to personnel are recorded in the income statement on the basis of the employment conditions.
+The benefits payable to personnel are recorded in the Statement of income and expense on the basis of the employment conditions.
+
+**Principles of depreciation**
+
+Intangible assets and tangible fixed assets are depreciated over their estimated useful lives as from the moment that they are ready for use. Gains and losses from the occasional sale of property, plant or equipment are included in depreciation. At profit appropriation, book profits are included in a reinvestment reserve if and insofar as fiscal legislation permits.
 
 **Principles of financial income and expenses**
 
-Interest income and expenses are recognized on a pro rata basis, taking account of the effective interest rate of the assets and liabilities to which they relate. In accounting for interest expenses, the recognized transaction expenses for loans received are taken into consideration.
+Principles of financial income and expenses
+Interest income and expenses are recognised on a pro rata basis, taking account of the effective interest rate of the assets and liabilities to which they relate. In accounting for interest expenses, the recognised transaction expenses for loans received are taken into consideration.
 
 #### 5.4 Notes to the balance sheet
+
+> p 11
+
+
+
+
+
+
 
 The company uses the following annual depreciation percentages for tangible fixed assets - Other company equipment: 20%
 
@@ -340,8 +413,7 @@ The Foundation for Public Code Vereniging has no operating lease commitments.
 
 #### 5.5 Notes to the profit and loss account
 
-The project and community management costs are expenditures directly attributable to achieving the  \
-goals of the Foundation for Public Code.
+The project and community management costs are expenditures directly attributable to achieving the goals of the Foundation for Public Code.
 
 The fundraising and membership development costs are expenditures directly attributable to achieving the goals of the Foundation for Public Code.
 
