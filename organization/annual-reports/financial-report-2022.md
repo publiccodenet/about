@@ -241,11 +241,15 @@ The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and
 
 The result analysis is based on the income statement for 2022 as included in the financial statements. The result analysis provides insight into the ratio of cost types in relation to revenue. In addition, the result analysis gives a picture of the differences compared to last year.
 
+##### Profit and loss account multi-year overview (in €)
+
+> do we have a profit and loss account? Or do we delete this section?
+
 ### 5. Financial statements
 
 #### 5.1 Balance sheet
 
-Balance sheet assets
+##### Balance sheet assets (in €)
 
   |  | 31-12-2022 |  | 31-12-2021 
 ---|---|---|---|---
@@ -258,7 +262,8 @@ Balance sheet assets
   |  | **457,113** |  | **799,504**
  **Assets** |  | **460,815** |  | **805,226**
 
-Balance sheet equity and liabilities
+##### Balance sheet equity and liabilities (in €)
+
   |  | 31-12-2022 |  | 31-12-2021
 ---|---|---|---|---
  **Equity** |  |  |  |  
@@ -270,7 +275,7 @@ Balance sheet equity and liabilities
 
 #### 5.2 Profit and loss account
 
-Statement of income & expense
+##### Statement of income and expense (in €)
 
    |  | Financial year |  | Previous year 
 ---|---|---|---|---
@@ -291,10 +296,9 @@ Statement of income & expense
  Financial income and expenses | -2,402 |  | -5,023 |  
  **Result** |  | **85,843** |  | **-139,871**
 
+##### Cash flow statement (in €)
 
-Cash flow statement
-
-  |  | 2022 |  | 2021 
+  |  | 2022 |  | 2021
 ---|---|---|---|---
  Operating result |  | 88,245 |  | -134,848
  Adjustments for operating result |  |  |  |  
@@ -389,11 +393,11 @@ Interest income and expenses are recognised on a pro rata basis, taking account 
 
 Tangible fixed assets
 
-  | Financial year |  | Previous year 
+  | Financial year |  | Previous year
 ---|---|---|---
-  | 2022 |  | 2021 
- Tangible fixed assets | 3,702 |  | 5,722 
- Equipment | 3,702 |  | 5,722 
+  | 2022 |  | 2021
+ Tangible fixed assets | 3,702 |  | 5,722
+ Equipment | 3,702 |  | 5,722
 
 Depreciation percentage: 10%
 
@@ -419,16 +423,16 @@ The Foundation for Public Code received a philanthropic gift from Arnout Schuijf
 
 Current liabilities
 
-  | Financial year |  | Previous year 
+  | Financial year |  | Previous year
 ---|---|---|---
-  | 2022 |  | 2021 
+  | 2022 |  | 2021
  Current liabilities |  |  |  
- Accounts payable | 14,713 |  | 2,899 
- Payroll tax | 3,374 |  | 12,313 
- Wages processing expenses | 1,477 |  | 3,858 
- Other liabilities | 431,500 |  | 431,500 
- Accrued liabilities | 750 |  | 0 
-  | 451,815 |  | 450,569 
+ Accounts payable | 14,713 |  | 2,899
+ Payroll tax | 3,374 |  | 12,313
+ Wages processing expenses | 1,477 |  | 3,858
+ Other liabilities | 431,500 |  | 431,500
+ Accrued liabilities | 750 |  | 0
+  | 451,815 |  | 450,569
 
 Wages processing expenses
 
