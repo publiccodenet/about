@@ -18,4 +18,4 @@ As a help to review a codebase, [this template](https://github.com/publiccodenet
 
 ## List of assessments
 
-For any codebase where there is not yet an explicit agreement to publish an assessment, or one in progress, add the link to the assessement to [this spreadsheet](https://docs.google.com/spreadsheets/d/1wUrlZ73S-4BK3sGz87C28d0ReYELCCP4MZnKpB0UKqM/edit#gid=2105222073) (only accessible for staff).
+For any codebase where there is not yet an explicit agreement to publish an assessment, or one in progress, add the link to the assessment to [this spreadsheet](https://docs.google.com/spreadsheets/d/1wUrlZ73S-4BK3sGz87C28d0ReYELCCP4MZnKpB0UKqM/edit#gid=2105222073) (only accessible for staff).
