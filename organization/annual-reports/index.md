@@ -10,6 +10,7 @@ The Foundation for Public Code publishes a 2-part annual report each year. It co
 
 ## 2022
 
+* [annual report](annual-report-2022.md)
 * [financial report](https://files.publiccode.net/nextcloud/index.php/s/KCgowtY4rtYDwZa) (PDF)
 
 ## 2021
