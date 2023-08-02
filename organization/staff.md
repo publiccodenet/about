@@ -103,8 +103,7 @@ Responsibilities:
 Roles:
 
 * [Chief](#chief) executive:
-  Boris van Hoytema
-  who also serves as Secretary of the Board of Directors
+  (currently vacant)
 
 ## Coordination team
 
