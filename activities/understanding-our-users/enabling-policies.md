@@ -8,7 +8,7 @@ type: Resource
 
 Policies supporting open source development can make it easier for civil servants to convince their peers that they should engage.
 These policies can take many forms, from laws to internal guidance.
-The clearer and more specific the policy is, the more likely that it is that it will persuade skeptics.
+Clearer and more specific policies will be more likely to persuade skeptics.
 
 Some examples (non-exhaustive list):
 
