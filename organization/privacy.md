@@ -8,11 +8,12 @@ redirect_from:
 
 # Privacy
 
-The Foundation strongly supports individuals' right to privacy. For this reason we don't track individual users on any of our websites but count traffic for analytics.
+The Foundation strongly supports individuals' right to privacy. 
 
 We keep contact details for:
 
 * people who have signed up to get our news
+* people who provide an email when giving feedback
 * people who participate in our codebase communities (for example by joining mailing lists)
 * people and organizations we work with
 * staff and interns
