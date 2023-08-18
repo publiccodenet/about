@@ -29,6 +29,7 @@ Our guidance covers:
 * [Excalidraw](excalidraw.md) (online collaborative whiteboard)
 * [GitHub](github.md) (version control and codebase management)
 * [Google Workspace](google-workspace.md) (email, calendaring and internal document management)
+* [Hotjar](hotjar.md) (click and scroll analytics, feedback)
 * [Jitsi Meet](jitsi-meet.md) (videoconferencing)
 * [Mailman](mailing-lists.md) (mailing lists with Hyperkitty archiver)
 * [Mattermost](mattermost.md) (chat)
