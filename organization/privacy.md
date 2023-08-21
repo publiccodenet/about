@@ -8,7 +8,7 @@ redirect_from:
 
 # Privacy
 
-The Foundation strongly supports individuals' right to privacy. 
+The Foundation strongly supports individuals' right to privacy.
 
 We keep contact details for:
 
