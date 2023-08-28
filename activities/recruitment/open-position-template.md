@@ -51,7 +51,7 @@ This is a one year contract, with an option to extend. Compensation is competiti
 ## More about the application process
 
 We enthusiastically encourage people underrepresented in the worlds of technology and government to apply.
-If you want to know more about the position, please email us at info@publiccode.net.
+If you want to know more about the position, please get in touch with Boris van Hoytema at boris@publiccode.net.
 
 To apply for this position, please email us at hr@publiccode.net.
 

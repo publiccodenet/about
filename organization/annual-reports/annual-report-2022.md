@@ -72,7 +72,7 @@ The Standard for Public Code continued to be a [recognized Digital Public Good](
 
 In September, we released version 1.0 of the Governance game. In November, we made it easier for anyone, anywhere to [print their own Governance Game](https://blog.publiccode.net/news/2022/09/15/printing-your-own-governance-game.html), and were delighted to see this put into action at the FWD50 conference.
 
-![Screenshot of @aaronsnow tweet about the Governance Game session at the @fwd50conf](images/aaronsnow-fwd50conf-tweet-20221102.png)
+![alt_text](images/aaronsnow-fwd50conf-tweet-20221102.png "Screenshot of @aaronsnow tweet about the Governance Game session at the @fwd50conf")
 
 ### Members and partners
 

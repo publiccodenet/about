@@ -12,13 +12,9 @@ redirect_from:
 The work of the Foundation for Public Code impacts a wide set of stakeholders.
 This set of resources helps to understand our users, and how our work does or may impact them.
 
-## Existing pain points
+## Existing pain Points
 
 * Understanding the [pain points that public organizations](public-organizations.md) have whith their digital infrastructure
-
-## Existing enabling policies
-
-* Understanding the types of [enabling policies](enabling-policies.md) that can help public organizations and civil servants
 
 ## Value proposition hypotheses
 
