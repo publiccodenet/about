@@ -85,6 +85,7 @@ It is useful even as a handbook when trying to guide a community through any sit
 * [Tracking codebases in Odoo](odoo-codebases.md) - guide that explains how the codebase stewards use Odoo to track the work with codebases
 * [Product development](../product-development/index.md) - from a stewardship perspective
 * [Trainings](../trainings/index.md) - we have collected educational resources that are always useful for a codebase steward to master
+* [Stewardship badge](https://brand.publiccode.net/stewardship/) - codebases in stewardship can use this badge to show that it is stewarded by the Foundation for Public Code
 
 ### Templates
 

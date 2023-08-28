@@ -55,6 +55,7 @@ Minutes are [publicly archived](/board-of-directors-meetings/index.md).
 The current board members are:
 
 * Ben Cerveny (Chairman)
+* Richard Pope
 
 ### Advisory board
 
