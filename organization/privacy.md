@@ -8,7 +8,7 @@ redirect_from:
 
 # Privacy
 
-The Foundation strongly supports individuals' right to privacy.
+The Foundation strongly supports individuals' right to privacy. For this reason we don't track individual users on any of our websites but count traffic for analytics. We will make a brief exception through September 2023 when we will use Hotjar to collect scroll and click analytics. For more details, see [privacy policy](https://about.publiccode.net/activities/tool-management/hotjar.html). 
 
 We keep contact details for:
 
