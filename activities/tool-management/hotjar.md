@@ -6,7 +6,7 @@ type: resource
 
 # Hotjar
 
-We use Hotjar for aggaregated click and scroll heatmaps and feedback in a few places.
+We use Hotjar for aggaregated click and scroll heatmaps and to gather user feedback.
 If you provide your email when giving feedback, we may use it to follow up.
 
 Hotjar is a technology service that helps us better understand our users’ experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback.
@@ -15,4 +15,4 @@ This includes a device's IP address (processed during your session and stored in
 Hotjar stores this information on our behalf in a pseudonymized user profile.
 Hotjar is contractually forbidden to sell any of the data collected on our behalf.
 
-For further details, please see the [‘about Hotjar’ section of Hotjar’s support site](https://help.hotjar.com/hc/en-us/categories/115001323967-About-Hotjar).
+For further details, please see the [‘about Hotjar’ section of Hotjar’s support site](https://help.hotjar.com/hc/en-us/categories/115001323967-About-Hotjar) and the [‘Hotjar privacy policy’](https://www.hotjar.com/privacy/).
