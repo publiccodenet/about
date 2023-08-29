@@ -8,7 +8,7 @@ redirect_from:
 
 # Privacy
 
-The Foundation strongly supports individuals' right to privacy. For this reason we don't track individual users on any of our websites but count traffic for analytics. We will make a brief exception through September 2023 when we will use Hotjar to collect scroll and click analytics. For more details, see [privacy policy](https://about.publiccode.net/activities/tool-management/hotjar.html).
+The Foundation strongly supports individuals' right to privacy. For this reason we don't track individual users on any of our websites but count traffic for analytics. Occasionally we will run time-limited sessions to test our new online products.  We will always announce our temporary deployment of any measurement tools.  Currently, we will be running a brief user test on our new Process Code site through September 2023. For this test, we will use Hotjar to collect scroll and click analytics ONLY on the subsite processcode.publiccode.net. For more details, see [privacy policy](https://about.publiccode.net/activities/tool-management/hotjar.html).
 
 We keep contact details for:
 
