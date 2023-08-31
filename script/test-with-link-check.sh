@@ -25,6 +25,7 @@ bundle exec jekyll build
 # * lists.publiccode.net/mailman/ : gives 500, 503 errors to scripts
 # * help.miro.com/hc/en-us : gives "failed: 403 No error" from GitHub workflow
 # * belastingdienst.nl : "failed: response code 0 means something's wrong."
+# * twitter : grrr  "failed: 302 Number of redirects hit maximum amount"
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
@@ -34,6 +35,7 @@ URL_IGNORE_REGEXES="\
 ,/lists\.publiccode\.net\/mailman/\
 ,/help\.miro\.com\/hc\/en-us/\
 ,/belastingdienst\.nl/\
+,/twitter\.com/\
 "
 
 # Check for broken links and missing alt tags:
