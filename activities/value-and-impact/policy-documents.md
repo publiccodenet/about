@@ -13,7 +13,7 @@ explains: where we are mentioned in public policy documents
 
 ## 2022
 
-* United Nations Human Settlements Programme (UN-Habitat): [Mainstreaming human rights in the digital transformation of cities -A guide for local governments](https://unhabitat.org/sites/default/files/2022/11/digital_rights_guide_web_version_14112022.pdf)
+* United Nations Human Settlements Programme (UN-Habitat): [Mainstreaming human rights in the digital transformation of cities - A guide for local governments](https://unhabitat.org/sites/default/files/2022/11/digital_rights_guide_web_version_14112022.pdf)
 * Federal Ministry of the Interior and Community of Germany: [Open CoDE](https://wikijs.opencode.de/en/Hilfestellungen_und_Richtlinien/Sichere_Teilnahme)
 * Ministry of the Interior and Kingdom Relations of the Netherlands: [Open source working: beyond the non-binding approach](https://www.rijksoverheid.nl/documenten/rapporten/2022/09/13/opensourcewerken-de-vrijblijvendheid-voorbij)
 * Swedish collaboration program eSam: [Advice for sharing and using open source](https://www.esamverka.se/aktuellt/nyheter/nyheter/2022-03-14-rad-for-delning-och-anvandning-av-oppen-kallkod.html) [[PDF]](https://www.esamverka.se/download/18.74e1936a1808eb1ad123f609/1652347194550/ES2022-09%20Delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod.pdf) (in Swedish)
