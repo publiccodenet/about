@@ -23,7 +23,7 @@ Some roles in our organization are fulfilled by [contractors](../glossary/contra
 Responsibilities:
 
 * main spokesperson for the organization
-* represents the organization in order to raise funds, grow membership and grow awareness of our work.
+* represents the organization in order to raise funds, build partnerships and grow awareness of our work.
 
 Roles:
 
@@ -68,17 +68,6 @@ Roles:
 * Illustrator:
   Floris Deerenberg
   (contractor A Studio Called Quest)
-
-### Membership development
-
-Responsibilities:
-
-* [Member relations](../activities/member-relations/index.md)
-* [Membership growth](../activities/membership-growth/index.md)
-
-Roles:
-
-* [Coordinator](#coordinator) member development
 
 ### Operations
 
