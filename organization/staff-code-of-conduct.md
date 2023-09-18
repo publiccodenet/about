@@ -6,7 +6,7 @@ type: Resource
 
 # Staff code of conduct
 
-The staff of the Foundation for Public Code fulfills a crucial role in achieving our mission on behalf of our members, the wider community and the public benefit.
+The staff of the Foundation for Public Code fulfills a crucial role in achieving our mission on behalf of our partners, the wider community and the public benefit.
 Staff are expected to follow the general [code of conduct](../CODE_OF_CONDUCT.md) that applies to our community.
 The staff code of conduct sets out the additional expectations we have of our staff beyond the community code of conduct.
 
