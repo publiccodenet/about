@@ -36,7 +36,7 @@ We've seen that most codebases communities have similar needs.
 Conference calls have become essential for collaboration.
 Each codebase community will benefit from having a regular (monthly or quarterly) product steering conference call where stakeholders and product managers from each deployment can come together and talk about what their needs are presently and in the future, thus we host a [Jitsi](../tool-management/jitsi-guides.md) video conference server for the communities.
 Simlilarly, each codebase community will benefit from having a weekly or bi-weekly technical call where the developers can discuss how they should change the codebase.
-In each of these types of calls we typically coach members to become the (rotating) chair of the call, although we may chair the calls in the beginning.
+In each of these types of calls we typically coach community members to become the (rotating) chair of the call, although we may chair the calls in the beginning.
 By being present in the calls, stewards can listen for early signs of friction, and ensure that it is addressed before it grows.
 Stewards should ensure after any call that a summary is sent to a persistent and searchable primary communication channel for the codebase community, like an email list.
 These summaries should contain a brief list of topics discussed and any conclusions reached and any follow-up actions agreed to.
