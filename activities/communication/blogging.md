@@ -18,7 +18,7 @@ The blog is our primary tool for talking about:
 * our community: interviews with and guest posts by community members
 * our position on important issues: why we’ve made the political, technological, organizational or design decisions we have
 
-Not all information published on the blog needs to support our marketing strategy - for example, an in-depth discussion about a technology choice we’ve made may not persuade potential Foundation for Public Code members, but will be interesting to technologists in our community.
+Not all information published on the blog needs to support our marketing strategy - for example, an in-depth discussion about a technology choice we’ve made may not persuade potential Foundation for Public Code partners, but will be interesting to technologists in our community.
 
 To make sure we have the editorial freedom to publish about all of our work (no matter how niche), there’s no direct link to the blog on [publiccode.net](https://publiccode.net/). Instead, we may feature important blogposts. (We’ll build this functionality once we have important blogposts.)
 
