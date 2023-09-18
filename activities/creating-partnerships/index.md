@@ -6,9 +6,7 @@ type: Index
 
 # Creating partnerships
 
-The Foundation for Public Code is a [member-owned association](../member-relations/index.md).
-However, membership might not be possible for all organizations that we want to collaborate with.
-Collaboration can instead be done through a partnership.
+The Foundation for Public Code is actively looking for diverse organizations to collaborate with.
 
 [See our current partnerships](../../organization/partnerships.md).
 
