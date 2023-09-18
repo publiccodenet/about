@@ -14,7 +14,6 @@ The Foundation for Public Code's mission is to enable public-purpose software an
 
 This is how we're building the organization to support our mission:
 
-* [Members](members.md)
 * [Strategic council](strategic-council.md)
 * [Partnerships](partnerships.md)
 * [Affiliates](affiliates.md)
