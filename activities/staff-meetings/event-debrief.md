@@ -24,7 +24,7 @@ Individually, develop high level notes on who you met, what you learnt and poten
     * what [newsletters, mailing lists](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842) or future events should we invite them to?
     * [process the contacts](../events/process-contacts.md)
 2. What could the event and our participation in it mean for:
-    * [membership](../member-relations/)
+    * [partnerships](../creating-partnerships/)
     * [codebase stewardship](../codebase-stewardship/)
     * the [Standard for Public Code](https://standard.publiccode.net)
     * developing our community
