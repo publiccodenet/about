@@ -14,7 +14,7 @@ The Foundation for Public Code is a non-profit, member-owned association of publ
 
 With this document the [ORGANIZATION] confirms that they want to act as an affiliate of the Foundation for Public Code. This includes helping to generate feedback on:
 
-- its governance models, membership and financial structure
+- its governance models, partnerships and financial structure
 - codebase stewardship activities
 - the Standard for Public Code
 
