@@ -16,6 +16,7 @@ To enable public-purpose software and policy that is open and collaborative.
 * We publish under licenses approved by the [Open Source Initiative](https://opensource.org/licenses) or [Creative Commons](https://creativecommons.org/licenses/) licenses that do not limit commercial reuse.
 * We are committed to working with other organizations (commercial or non-profit) to achieve our mission.
 * Our work is open by default and welcomes contributions.
+* We prioritize long term sustainability for the benefit of the communities we work with.
 
 The founding principles were adopted by the board of directors on 23 August 2019.
 
