@@ -30,7 +30,7 @@ We’re especially interested in learning what you need to implement the [Standa
 ## Public organizations
 
 We’re looking for public partners to help shape the Foundation for Public Code’s long term future. Find out more about the [benefits and requirements of becoming a partner](https://publiccode.net/partnership/) and get in touch with us at <partnerships@publiccode.net>.
-Update mission.md
+
 ## Institutional giving and philanthropy
 
 If you believe there should be a structural solution to making open source software viable at scale for public organizations, we’d love to hear from you. Email us at <giving@publiccode.net>.
