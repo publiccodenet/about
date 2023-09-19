@@ -7,7 +7,7 @@ type: Index
 # Creating affiliations
 
 Partnership is only open to public organizations.
-Other organizations that we collaborate with we can become [affiliates](../../glossary/affiliate-definition.md).
+Other organizations that we collaborate with can become [affiliates](../../glossary/affiliate-definition.md).
 
 [See our current affiliates](../../organization/affiliates.md).
 
