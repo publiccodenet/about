@@ -6,11 +6,13 @@ type: Index
 
 # Creating partnerships
 
-The Foundation for Public Code is actively looking for diverse organizations to collaborate with.
+The Foundation for Public Code is actively looking for diverse public organizations to collaborate with.
 
 [See our current partnerships](../../organization/partnerships.md).
 
 If you're interested in partnership for your organization, or have any questions, please email us at <membership@publiccode.net>.
+Only public organizations can become partners.
+Other organizations can become [affiliates](../creating-affiliations/index.md)
 
 ## Resources
 
