@@ -10,7 +10,7 @@ This document confirms that [ORGANIZATION] has become an affiliate of the Founda
 
 [BLURB ABOUT ORGANIZATION]
 
-The Foundation for Public Code is a non-profit association with as mission to enable public-purpose software and policy that is open and collaborative.
+The Foundation for Public Code is a non-profit association whose mission is to enable public-purpose software and policy that is open and collaborative.
 
 With this document the [ORGANIZATION] confirms that they want to act as an affiliate of the Foundation for Public Code.
 This includes helping to generate feedback on:
