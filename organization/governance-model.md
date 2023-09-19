@@ -10,9 +10,10 @@ This provides a non-legal summary of the Foundation's governance model as establ
 
 ## Overview
 
-The Foundation for Public Code is a [member-owned association (vereniging) under Dutch law](https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/). Only wholly publicly owned organizations may become members.
+The Foundation for Public Code is a [non-profit association (vereniging) under Dutch law](https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/).
 
-This means members are responsible for and steer the Foundation's operations, including priorities and annual budget for the organization.
+The association's members are the regional Foundation for Public Code chapter organizations.
+These members are responsible for and steer the association's operations, including priorities and annual budget for the organization.
 
 ## Foundation bodies
 
@@ -20,6 +21,7 @@ The Foundation consists of four bodies:
 
 * general assembly
 * board of directors
+* strategic council
 * advisory board
 * staff
 
@@ -32,34 +34,41 @@ The general assembly:
 * approves the Foundation's operational plan for the coming year
 * elects the board of directors
 
-These decisions are agreed through a majority vote. Voting rights are proportional to members' membership dues. This ensures democratic ownership and control by all members.
+These decisions are agreed through a majority vote.
+Each member has 3 votes.
+This ensures democratic ownership and control by all members.
+Additionally, the members of the strategic council each have 1 vote (see below).
 
-The general assembly meets at least once every year. Minutes from the general assembly meetings are shared with all members and [publicly archived](/general-assemblies/index.md).
+The general assembly meets at least once every year.
+Minutes from the general assembly meetings are shared with all members and [publicly archived](general-assemblies/index.md).
 
 We commit to holding all meaningful votes electronically, so that all members can be represented regardless of ability to attend physically.
 
 ### Board of directors
 
-The board of directors is elected by the general assembly. By law, it must include a chair, a secretary and a treasurer. The general assembly can vote to add more roles to the board of directors.
+The board of directors is elected by the general assembly.
+By law, the responsibilities include that of the chair, secretary and treasurer.
+The general assembly can add responsibilities and define how they are divided into roles within the board of directors.
 
-The board of directors:
-
-* proposes the Foundation's operational plan and budgeting for the coming year
-* approves membership applications
-
+The board of directors proposes the Foundation's policy plan, operational plan and budgeting for the coming year.
 These decisions are agreed upon through majority vote.
 
 The board of directors meets regularly and is required to keep the general assembly informed about its activities.
-Minutes are [publicly archived](/board-of-directors-meetings/index.md).
+Minutes are [publicly archived](board-of-directors-meetings/index.md).
 
 The current board members are:
 
-* Ben Cerveny (Chairman)
+* Ben Cerveny (Chair)
 * Richard Pope
+
+### Strategic council
+
+The [strategic council](strategic-council.md) helps the board of directors with key strategic decisions as well as serve as ambassadors for its mission.
 
 ### Advisory board
 
-The advisory board members are experts that support the general assembly, board of directors and staff. There are some decisions for which they must be consulted.
+The advisory board members are experts that support the general assembly, board of directors and staff.
+There are some decisions for which they must be consulted
 
 ### Staff
 
@@ -69,4 +78,4 @@ The staff are responsible for:
 
 * [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/), including codebase auditing
 * maintaining the [Standard for Public Code](https://standard.publiccode.net)
-* administering the Foundation, including organizing member events and financial administration
+* administering the Foundation, including organizing community events and financial administration
