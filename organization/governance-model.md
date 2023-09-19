@@ -63,7 +63,7 @@ The current board members are:
 
 ### Strategic council
 
-The [strategic council](strategic-council.md) helps the board of directors with key strategic decisions as well as serve as ambassadors for its mission.
+The [strategic council](strategic-council.md) helps the board of directors with key strategic decisions and serve as ambassadors for our mission.
 
 ### Advisory board
 
