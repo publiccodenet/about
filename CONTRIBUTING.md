@@ -14,7 +14,7 @@ There’s lots of work going on at the Foundation and we’d love your help with
 Currently we are:
 
 + working with several [codebases](https://publiccode.net/codebases/) and refining our codebase stewardship process
-+ building partnreships with diverse organizations
++ building partnerships with diverse organizations
 + scaling our engagement and outreach
 
 In the meantime, please join us in any way you can.
