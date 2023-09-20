@@ -13,7 +13,7 @@ The secretary of the Foundation for Public Code Vereniging is responsible for th
 
 The secretary can be assisted in these tasks with:
 
-* tracking progress by members on agreed actions
+* tracking progress by board members on agreed actions
 * helping board members provide input in a timely and complete manner
 * minuting, noting and collating information that the board can use
 * helping craft a complete agenda

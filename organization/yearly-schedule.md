@@ -54,8 +54,6 @@ This schedule shows recurring events the Foundation for Public Code prepares for
 
 1 December: Last day for board of directors to submit policy plan to general assembly
 
-1 December: Last day to agree on membership dues for next year
-
 25-26 December: Christmas and Boxing day (public holidays in the Netherlands, office closed)
 
 31 December: End of financial year

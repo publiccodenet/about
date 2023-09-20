@@ -9,7 +9,7 @@ type: resource
 Odoo is a suite of open source business apps. We use Odoo for:
 
 * customer relationship management (CRM)
-* project management of our codebase and membership pipelines
+* project management of our codebase and partnership pipelines
 * emailing our newsletter and announcements to people who have [signed up for our mailing lists](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842)
 * [tracking our work with codebases](../codebase-stewardship/odoo-codebases.md)
 
