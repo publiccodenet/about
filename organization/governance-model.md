@@ -17,7 +17,7 @@ These members are responsible for and steer the association's operations, includ
 
 ## Foundation bodies
 
-The Foundation consists of four bodies:
+The Foundation consists of five bodies:
 
 * general assembly
 * board of directors
