@@ -277,7 +277,7 @@ The result analysis is based on the income statement for 2022 as included in the
 
 ##### Statement of income and expense (in €)
 
-   |  | Financial year |  | Previous year 
+   |  | Financial year |  | Previous year
 ---|---|---|---|---
   |  | 2022 |  | 2021 
  Income | 736,519 |  | 698,580 |  
@@ -391,48 +391,50 @@ Interest income and expenses are recognised on a pro rata basis, taking account 
 
 #### 5.4 Notes to the balance sheet
 
-Tangible fixed assets
+##### Tangible fixed assets
 
   | Financial year |  | Previous year
 ---|---|---|---
   | 2022 |  | 2021
- Tangible fixed assets | 3,702 |  | 5,722
+ **Tangible fixed assets** | **3,702** |  | **5,722**
  Equipment | 3,702 |  | 5,722
+ | **3,702** |  | **5,722**
 
 Depreciation percentage: 10%
 
-Equity
+##### Equity
 
-  | Financial year |  | Previous year 
+  | Financial year |  | Previous year
 ---|---|---|---
-  | 2022 |  | 2021 
- Equity |  |  |  
- Foundation capital | -422,500 |  | -508,343 
-  | -422,500 |  | -508,343 
+  | 2022 |  | 2021
+ **Equity** |  |  |  
+ Foundation capital | -422,500 |  | -508,343
+  | **-422,500** |  | **-508,343**
 
-Non-current liabilities
+##### Non-current liabilities
 
-  | Financial year |  | Previous year 
+  | Financial year |  | Previous year
 ---|---|---|---
-  | 2022 |  | 2021 
- Pre received gifts | 431,500 |  | 863,000 
-  | 431,500 |  | 863,000 
+  | 2022 |  | 2021
+**Non-current liabilities** |  |  |
+ Pre received gifts | 431,500 |  | 863,000
+  | **431,500** |  | **863,000**
 
 Repayment obligations within 12 months after the end of the financial year are not included in the above amounts but are included under current liabilities.
 The Foundation for Public Code received a philanthropic gift from Arnout Schuijff in 2020 to be distributed over 4 years. The money in our bank account for distribution in the future is considered an accounting liability.
 
-Current liabilities
+##### Current liabilities
 
   | Financial year |  | Previous year
 ---|---|---|---
   | 2022 |  | 2021
- Current liabilities |  |  |  
+ **Current liabilities** |  |  |  
  Accounts payable | 14,713 |  | 2,899
  Payroll tax | 3,374 |  | 12,313
  Wages processing expenses | 1,477 |  | 3,858
  Other liabilities | 431,500 |  | 431,500
  Accrued liabilities | 750 |  | 0
-  | 451,815 |  | 450,569
+  | **451,815** |  | **450,569**
 
 Wages processing expenses
 
