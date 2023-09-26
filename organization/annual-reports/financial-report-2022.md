@@ -4,9 +4,6 @@
 type: resource
 ---
 
-
-
-
 # Financial Annual Report: 1 January 2022 - 31 December 2022
 
 Foundation for Public Code  (Vereniging)
@@ -240,6 +237,7 @@ The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and
 #### 4.1 Balance sheet
 
 After appropriation of the result.
+
 ##### Balance sheet assets (in €)
 
   |  | 31-12-2022 |  | 31-12-2021
