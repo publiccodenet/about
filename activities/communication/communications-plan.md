@@ -14,7 +14,7 @@ Our communications need to reflect our core values: open, quality, trust, commun
 
 Our messages range from neutral in tone to positive and inspirational. Our community won’t be sustainable if we attract people motivated by fear or anger.
 
-Our communications are usually in plain English, but we link to highly relevant pages in other languages, for example about our members’ work.
+Our communications are usually in plain English, but we link to highly relevant pages in other languages, for example about our partners’ work.
 
 Our communications should showcase the Foundation for Public Code as:
 
@@ -33,7 +33,7 @@ We have separate goals and objectives for different audiences and fora.
 
 ## Audience
 
-Our audience is individuals from potential public member organizations, codebase communities, donors, staff, and board members.
+Our audience is individuals from potential public partner organizations, codebase communities, donors, staff, and board members.
 
 We believe we'll find them in fora organized by and for:
 
@@ -82,7 +82,7 @@ These responses indicate success:
 * recommendations or referrals
 * invitations to speak at or contribute to their platforms (publications and events)
 * request to collaborate on projects through codebase stewardship
-* request to become a member
+* request to become a partner
 
 ### Middle management
 
@@ -208,7 +208,7 @@ Since we can't do everything all of the time, we prioritize scalablity and reusa
 
 Though many specific things we do are also offered by other organizations, we're the only organization focused on open source software for public organizations that does all of this together:
 
-* is non-profit and member owned with membership only open to public organizations
+* is non-profit and specialized in the needs of public organizations
 * offers codebase stewardship for different projects
 * offers productization and marketing of the codebases
 * actually provides guidance and support to help public organizations make their code open
@@ -218,7 +218,7 @@ Though many specific things we do are also offered by other organizations, we're
 
 We are also actively building our ecosystem by:
 
-* connecting members with like-minded parties (members and other public organizations, affiliates and structural funders)
+* connecting partners with like-minded parties (partners and other public organizations, affiliates and structural funders)
 * boosting awareness of public code
 * setting standards and creating reusable resources (by providing thought leadership!)
 * demonstrating the value of public code with well documented, public business cases and risk analyses
@@ -254,7 +254,7 @@ Staff should use the [basic tweet template](basic-tweet-template.md) as a starti
 We rarely create press releases - we believe our news should usually be available to everyone at the same time. Instead, we prefer to:
 
 * publish our news in blogposts
-* link and share our members' or others' news stories and press releases
+* link and share our partners' or others' news stories and press releases
 
 When we have a press release, we:
 

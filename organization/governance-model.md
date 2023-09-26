@@ -55,8 +55,7 @@ Minutes are [publicly archived](/board-of-directors-meetings/index.md).
 The current board members are:
 
 * Ben Cerveny (Chairman)
-* Boris van Hoytema (Secretary)
-* Eric Herman (Treasurer)
+* Richard Pope
 
 ### Advisory board
 

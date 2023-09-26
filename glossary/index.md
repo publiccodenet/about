@@ -2,6 +2,8 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net>
 type: Index
+redirect_from:
+    - /glossary/public-member-definition
 ---
 
 # Glossary terms
@@ -22,7 +24,6 @@ For the terms below we believe it is important that we have a clear definition o
 * [Open standard](open-standard-definition.md)
 * [Product](product-definition.md)
 * [Public code](public-code-definition.md)
-* [Public member](public-member-definition.md)
 * [Resource](resource-definition.md)
 * [Staff](staff-definition.md)
 * [User](user-definition.md)

@@ -2,6 +2,9 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net>
 type: Index
+redirect _from:
+    - /member-relations/index
+    - /membership-growth/index
 ---
 
 # Activities
@@ -25,8 +28,6 @@ Activities that support the above as well as make staff operations work:
 * [Financial administration](financial-administration/index.md)
 * [Live streaming and podcasting](live-streaming/index.md)
 * [Maintenance of the Standard for Public Code](standard-maintenance/index.md)
-* [Member relations](member-relations/index.md)
-* [Membership growth](membership-growth/index.md)
 * [Office management](office-management/index.md)
 * [Onboarding new staff](../contributor-guides/for-staff.md)
 * [Philanthropic fundraising](philanthropic-fundraising/index.md)

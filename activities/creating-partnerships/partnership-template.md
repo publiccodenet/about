@@ -62,8 +62,3 @@ Read more about what Foundation for Public Code stewardship means:[http://public
 2. **Partnership cancellation**
   * Either party can cancel this agreement by giving notice in writing
   * Cancellation will not result in any financial obligations towards either party
-
-## Towards membership
-
-1. **Evaluate partnership:** Evaluate the partnership and have those lessons learned to inform becoming a member of the Foundation for Public Code
-2. **Steps to becoming a member:** identify stakeholders to engage, understand budgeting requirements and develop legal structure for membership.
