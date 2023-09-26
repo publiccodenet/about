@@ -235,23 +235,13 @@ Date:
 
 The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and Arnout Schuijff in 2019 to guide international collaboration among public organizations around codebase design, quality and governance.
 
-### 4. Financial report
+### 4. Financial statements
 
-#### 4.1 Result analysis
-
-The result analysis is based on the income statement for 2022 as included in the financial statements. The result analysis provides insight into the ratio of cost types in relation to revenue. In addition, the result analysis gives a picture of the differences compared to last year.
-
-##### Profit and loss account multi-year overview (in €)
-
-> do we have a profit and loss account? Or do we delete this section?
-
-### 5. Financial statements
-
-#### 5.1 Balance sheet
+#### 4.1 Balance sheet
 
 ##### Balance sheet assets (in €)
 
-  |  | 31-12-2022 |  | 31-12-2021 
+  |  | 31-12-2022 |  | 31-12-2021
 ---|---|---|---|---
  **Fixed assets** |  |  |  |  
  Tangible fixed assets | 3,702 |  | 5,722 |  
@@ -273,13 +263,13 @@ The result analysis is based on the income statement for 2022 as included in the
  **Current liabilities** |  | **451,815** |  | **450,569**
  **Equity and liabilities** |  | **460,815** |  | **805,226**
 
-#### 5.2 Profit and loss account
+#### 4.2 Profit and loss account
 
 ##### Statement of income and expense (in €)
 
    |  | Financial year |  | Previous year
 ---|---|---|---|---
-  |  | 2022 |  | 2021 
+  |  | 2022 |  | 2021
  Income | 736,519 |  | 698,580 |  
  Project & Community Management | 124,461 |  | 196,974 |  
  **Gross result** |  | **612,058** |  | **501,606**
@@ -313,14 +303,14 @@ The result analysis is based on the income statement for 2022 as included in the
   |  | 9,940 |  | 469,694
  Interest income received |  | -1,815 |  | -3,854
  Interest paid |  | -587 |  | -1,169
- Cash flow from operating activities |  | 97,803 |  | 331,842 
+ Cash flow from operating activities |  | 97,803 |  | 331,842
   |  |  |  |  
  Cash flow from financing activities |  |  |  |  
  Other non-current liabilities | -431,500 |  | -863,000 |  
   |  | -431,500 |  | -863,000
  Movement in cash at banks and in hand |  | -333,697 |  | -531,158
 
-#### 5.3 Notes to the financial statements
+#### 4.3 Notes to the financial statements
 
 **General**
 
@@ -389,7 +379,7 @@ Intangible assets and tangible fixed assets are depreciated over their estimated
 Principles of financial income and expenses
 Interest income and expenses are recognised on a pro rata basis, taking account of the effective interest rate of the assets and liabilities to which they relate. In accounting for interest expenses, the recognised transaction expenses for loans received are taken into consideration.
 
-#### 5.4 Notes to the balance sheet
+#### 4.4 Notes to the balance sheet
 
 ##### Tangible fixed assets
 
@@ -421,6 +411,7 @@ Depreciation percentage: 10%
   | **431,500** |  | **863,000**
 
 Repayment obligations within 12 months after the end of the financial year are not included in the above amounts but are included under current liabilities.
+
 The Foundation for Public Code received a philanthropic gift from Arnout Schuijff in 2020 to be distributed over 4 years. The money in our bank account for distribution in the future is considered an accounting liability.
 
 ##### Current liabilities
@@ -436,13 +427,34 @@ The Foundation for Public Code received a philanthropic gift from Arnout Schuijf
  Accrued liabilities | 750 |  | 0
   | **451,815** |  | **450,569**
 
-Wages processing expenses
+##### Wages processing expenses
 
+  | Financial year |  | Previous year 
+---|---|---|---
+  | 2022 |  | 2021
+ **Wages processing expenses** |  |  |  
+ Net wages | 1,477 |  | 3,858
+  | **1,477** |  | **3,858**
 
+##### Other liabilities
 
+  | Financial year | Previous year |  
+---|---|---|---
+  | 2022 | 2021 |  
+ **Other liabilities** |  |  |  
+ Donation prepayment | 431,500 | 431,500 |  
+  | **431,500** | **431,500** |  
 
+##### Accrued liabilities
 
+  | Financial year |  | Previous year
+---|---|---|---
+  | 2022 |  | 2021
+ **Accrued liabilities** |  |  |  
+ Accounting expenses payable | 750 |  | 0
+  | **750** |  | **0**
 
+#### 4.5 Notes to the statement of income and expenses
 
 
 
@@ -462,7 +474,7 @@ The Foundation for Public Code Vereniging has no material balance sheet rights.
 
 The Foundation for Public Code Vereniging has no operating lease commitments.
 
-#### 5.5 Notes to the profit and loss account
+
 
 The project and community management costs are expenditures directly attributable to achieving the goals of the Foundation for Public Code.
 
