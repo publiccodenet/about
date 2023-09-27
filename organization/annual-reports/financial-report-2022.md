@@ -300,6 +300,7 @@ After appropriation of the result.
  Movement in accounts payable | 11,815 |  | -21,894 |  |
  Movement in other liabilities | -10,569 |  | 437,336 |  |
 |  |  | 9,940 |  | 469,694
+|  |  |  |  |  |
  Interest income received |  | -1,815 |  | -3,854
  Interest paid |  | -587 |  | -1,169
  **Cash flow from operating activities** |  | **97,803** |  | **331,842**
