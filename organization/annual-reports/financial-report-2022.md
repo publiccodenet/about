@@ -240,24 +240,24 @@ After appropriation of the result.
 
 ##### Balance sheet assets (in €)
 
-  |  | 31-12-2022 |  | 31-12-2021
+|  |  | 31-12-2022 |  | 31-12-2021
 ---|---|---|---|---
  **Fixed assets** |  |  |  |  
  Tangible fixed assets | 3,702 |  | 5,722 |  
-  |  | **3,702** |  | **5,722**
+|  |  | **3,702** |  | **5,722**
  **Current assets** |  |  |  |  
  Receivables | 3,971 |  | 12,665 |  
  Cash at bank and in hand | 453,142 |  | 786,839 |  
-  |  | **457,113** |  | **799,504**
+|  |  | **457,113** |  | **799,504**
  **Assets** |  | **460,815** |  | **805,226**
 
 ##### Balance sheet equity and liabilities (in €)
 
-  |  | 31-12-2022 |  | 31-12-2021
+|  |  | 31-12-2022 |  | 31-12-2021
 ---|---|---|---|---
  **Equity** |  |  |  |  
  Foundation capital | -422,500 |  | -508,343 |  
-  |  | -422,500 |  | -508,343
+|  |  | -422,500 |  | -508,343
  **Non-current liabilities** |  | **431,500** |  | **863,000**
  **Current liabilities** |  | **451,815** |  | **450,569**
  **Equity and liabilities** |  | **460,815** |  | **805,226**
@@ -266,13 +266,13 @@ After appropriation of the result.
 
 ##### Statement of income and expense (in €)
 
-   |  | Financial year |  | Previous year
+ |  |  | Financial year |  | Previous year
 ---|---|---|---|---
-  |  | 2022 |  | 2021
+|  |  | 2022 |  | 2021
  Income | 736,519 |  | 698,580 |  
  Project & Community Management | 124,461 |  | 196,974 |  
  **Gross result** |  | **612,058** |  | **501,606**
-  |  |  |  |  
+|  |  |  |  |  
  Employee expenses | 321,682 |  | 608,080 |  
  Depreciation | 2,019 |  | 2,019 |  
  Other employee expenses | 157,435 |  | -24,897 |  
@@ -287,26 +287,26 @@ After appropriation of the result.
 
 ##### Cash flow statement (in €)
 
-  |  | 2022 |  | 2021
+|  |  | 2022 |  | 2021
 ---|---|---|---|---
  Operating result |  | 88,245 |  | -134,848
  **Adjustments for operating result** |  |  |  |  
  Depreciation | 2,019 |  | 2,019 |  
-  |  | 2,019 |  | 2,019
-  |  |  |  |  
+|  |  | 2,019 |  | 2,019
+|  |  |  |  |  
  **Movement in working capital** |  |  |  |  
  Movement in accounts receivable | 12,486 |  | 0 |  
  Movement in other receivables | -3,792 |  | 54,253 |  
  Movement in accounts payable | 11,815 |  | -21,894 |  
  Movement in other liabilities | -10,569 |  | 437,336 |  
-  |  | 9,940 |  | 469,694
+|  |  | 9,940 |  | 469,694
  Interest income received |  | -1,815 |  | -3,854
  Interest paid |  | -587 |  | -1,169
  **Cash flow from operating activities** |  | 97,803 |  | 331,842
-  |  |  |  |  
+|  |  |  |  |  
  **Cash flow from financing activities** |  |  |  |  
  Other non-current liabilities | -431,500 |  | -863,000 |  
-  |  | **-431,500** |  | **-863,000**
+|  |  | **-431,500** |  | **-863,000**
  Movement in cash at banks and in hand |  | **-333,697** |  | **-531,158**
 
 #### 4.3 Notes to the financial statements
@@ -382,9 +382,9 @@ Interest income and expenses are recognised on a pro rata basis, taking account 
 
 ##### Tangible fixed assets (in €)
 
-  | Financial year |  | Previous year
+|  | Financial year |  | Previous year
 ---|---|---|---
-  | 2022 |  | 2021
+|  | 2022 |  | 2021
  **Tangible fixed assets** | **3,702** |  | **5,722**
  Equipment | 3,702 |  | 5,722
  | **3,702** |  | **5,722**
@@ -393,21 +393,21 @@ Depreciation percentage: 10%
 
 ##### Equity  (in €)
 
-  | Financial year |  | Previous year
+|  | Financial year |  | Previous year
 ---|---|---|---
-  | 2022 |  | 2021
+|  | 2022 |  | 2021
  **Equity** |  |  |  
  Foundation capital | -422,500 |  | -508,343
-  | **-422,500** |  | **-508,343**
+|  | **-422,500** |  | **-508,343**
 
 ##### Non-current liabilities  (in €)
 
-  | Financial year |  | Previous year
+|  | Financial year |  | Previous year
 ---|---|---|---
-  | 2022 |  | 2021
+|  | 2022 |  | 2021
 **Non-current liabilities** |  |  |
  Pre received gifts | 431,500 |  | 863,000
-  | **431,500** |  | **863,000**
+|  | **431,500** |  | **863,000**
 
 Repayment obligations within 12 months after the end of the financial year are not included in the above amounts but are included under current liabilities.
 
@@ -415,76 +415,76 @@ The Foundation for Public Code received a philanthropic gift from Arnout Schuijf
 
 ##### Current liabilities (in €)
 
-  | Financial year |  | Previous year
+|  | Financial year |  | Previous year
 ---|---|---|---
-  | 2022 |  | 2021
+|  | 2022 |  | 2021
  **Current liabilities** |  |  |  
  Accounts payable | 14,713 |  | 2,899
  Payroll tax | 3,374 |  | 12,313
  Wages processing expenses | 1,477 |  | 3,858
  Other liabilities | 431,500 |  | 431,500
  Accrued liabilities | 750 |  | 0
-  | **451,815** |  | **450,569**
+|  | **451,815** |  | **450,569**
 
 ##### Wages processing expenses (in €)
 
-  | Financial year |  | Previous year
+|  | Financial year |  | Previous year
 ---|---|---|---
-  | 2022 |  | 2021
+|  | 2022 |  | 2021
  **Wages processing expenses** |  |  |  
  Net wages | 1,477 |  | 3,858
-  | **1,477** |  | **3,858**
+|  | **1,477** |  | **3,858**
 
 ##### Other liabilities (in €)
 
-  | Financial year | Previous year |  
+|  | Financial year | Previous year |  
 ---|---|---|---
-  | 2022 | 2021 |  
+|  | 2022 | 2021 |  
  **Other liabilities** |  |  |  
  Donation prepayment | 431,500 | 431,500 |  
-  | **431,500** | **431,500** |  
+|  | **431,500** | **431,500** |  
 
 ##### Accrued liabilities (in €)
 
-  | Financial year |  | Previous year
+|  | Financial year |  | Previous year
 ---|---|---|---
-  | 2022 |  | 2021
+|  | 2022 |  | 2021
  **Accrued liabilities** |  |  |  
  Accounting expenses payable | 750 |  | 0
-  | **750** |  | **0**
+|  | **750** |  | **0**
 
 #### 4.5 Notes to the statement of income and expenses
 
 ##### Income (in €)
 
-  | Financial year |  | Previous year |  
+|  | Financial year |  | Previous year |  
 ---|---|---|---|---
-  | 2022 |  | 2021 |  
+|  | 2022 |  | 2021 |  
  **Income** |  |  |  |  
  Membership dues | 10,000 |  | 10,000 |  
  US Gifts | 295,019 |  | 257,080 |  
  (Fiscal based) gifts | 431,500 |  | 431,500 |  
-  | **736,519** |  | **698,580** |  
+|  | **736,519** |  | **698,580** |  
 
 ##### Project costs (in €)
 
-  | Financial year |  | Previous year |  
+|  | Financial year |  | Previous year |  
 ---|---|---|---|---
-  | 2022 |  | 2021 |  
+|  | 2022 |  | 2021 |  
  **Project costs** |  |  |  |  
  Project - Travel Expenses | 2,244 |  | 10,002 |  
  Project - Marketing & Market Research | 3,058 |  | 38,585 |  
  Project - Community related/IT expenses | 0 |  | 41,824 |  
  Fundraising | 119,159 |  | 106,564 |  
-  | **124,461** |  | **196,974** |  
+|  | **124,461** |  | **196,974** |  
 
 The project and community management costs are expenditures directly attributable to achieving the goals of the Foundation for Public Code.
 
 ##### Total expenses (in €)
 
-  | Financial year |  | Previous year |  
+|  | Financial year |  | Previous year |  
 ---|---|---|---|---
-  | 2022 |  | 2021 |  
+|  | 2022 |  | 2021 |  
  **Total expenses** |  |  |  |  
  Employee expenses | 321,682 |  | 608,080 |  
  Depreciation | 2,019 |  | 2,019 |  
@@ -493,34 +493,34 @@ The project and community management costs are expenditures directly attributabl
  Marketing expenses | 329 |  | 1,200 |  
  Office expenses | 11,589 |  | 8,465 |  
  General expenses | 27,239 |  | 41,586 |  
-  | **523,812** |  | **636,454** |  
+|  | **523,812** |  | **636,454** |  
 
 ##### Employee expenses (in €)
 
-  | Financial year |  | Previous year |  
+|  | Financial year |  | Previous year |  
 ---|---|---|---|---
-  | 2022 |  | 2021 |  
+|  | 2022 |  | 2021 |  
  **Employee expenses** |  |  |  |  
  Wages and salaries | 274,223 |  | 507,358 |  
  Social insurance premiums | 47,459 |  | 100,722 |  
-  | **321,682** |  | **608,080** |
+|  | **321,682** |  | **608,080** |
 
 During 2022, on average, 4.3 employees were employed on a full-time basis.
 
 ##### Depreciation
 
-  | Financial year |  | Previous year |  
+|  | Financial year |  | Previous year |  
 ---|---|---|---|---
-  | 2022 |  | 2021 |  
+|  | 2022 |  | 2021 |  
  **Depreciation** |  |  |  |  
  Depreciation of tangible fixed assets | 2,019 |  | 2,019 |  
-  | **2,019** |  | **2,019** |
+|  | **2,019** |  | **2,019** |
 
 ##### Other employee expenses
 
-  | Financial year |  | Previous year |  
+|  | Financial year |  | Previous year |  
 ---|---|---|---|---
-  | 2022 |  | 2021 |  
+|  | 2022 |  | 2021 |  
  Other employee expenses |  | 157,009 | 0 |  
  Reimbursement travel expenses (maximum of € 0,19 per kilometre) |  | 4,129 | 874 |  
  Recruitment expenses |  | -219 | 1,145 |  
@@ -528,44 +528,44 @@ During 2022, on average, 4.3 employees were employed on a full-time basis.
  Sickness benefit insurance |  | 6,594 | 13,182 |  
  Sickness benefits received |  | -8,555 | -51,162 |  
  Other employee expenses |  | 1,418 | 803 |  
-  |  | **157,435** | **-24,897** |  
+|  |  | **157,435** | **-24,897** |  
 
 ##### Venue expenses
 
-  | Financial year |  | Previous year |  
+|  | Financial year |  | Previous year |  
 ---|---|---|---|---
-  | 2022 |  | 2021 |  
+|  | 2022 |  | 2021 |  
  **Venue expenses** |  |  |  |  
  Meeting room hire | 3,519 |  | 0 |  
-  | **3,519** |  | **0** |  
+|  | **3,519** |  | **0** |  
 
 ##### Marketing expenses
 
-  | Financial year |  | Previous year |  
+|  | Financial year |  | Previous year |  
 ---|---|---|---|---
-  | 2022 |  | 2021 |  
+|  | 2022 |  | 2021 |  
  **Marketing expenses** |  |  |  |  
  Advertising expenses | 94 |  | 127 |  
  Representation expenses | 235 |  | 0 |  
  Travel expenses | 0 |  | 1,072 |  
-  | **329** |  | **1,200** |  
+|  | **329** |  | **1,200** |  
 
 ##### Office expenses
 
-  | Financial year |  | Previous year |  
+|  | Financial year |  | Previous year |  
 ---|---|---|---|---
-  | 2022 |  | 2021 |  
+|  | 2022 |  | 2021 |  
  **Office expenses**` |  |  |  |  
  Office equipment | 0 |  | 4 |  
  Phone and internet expenses | 771 |  | 715 |  
  IT expenses | 10,818 |  | 7,745 |  
-  | **11,589** |  | **8,465** |  
+|  | **11,589** |  | **8,465** |  
 
 ##### General expenses
 
-  | Financial year |  | Previous year |  
+|  | Financial year |  | Previous year |  
 ---|---|---|---|---
-  | 2022 |  | 2021 |  
+|  | 2022 |  | 2021 |  
  **General expenses** |  |  |  |  
  Accounting expenses | 6,509 |  | 11,343 |  
  Other consultancy expenses | 20,127 |  | 24,702 |  
@@ -573,16 +573,16 @@ During 2022, on average, 4.3 employees were employed on a full-time basis.
  Bank expenses | 280 |  | 298 |  
  Payment differences | 53 |  | 0 |  
  General expenses | 16 |  | 4,397 |  
-  | **27,239** |  | **41,586** |  
+|  | **27,239** |  | **41,586** |  
 
 ##### Financial income and expenses
 
-  | Financial year |  | Previous year |  
+|  | Financial year |  | Previous year |  
 ---|---|---|---|---
-  | 2022 |  | 2021 |  
+|  | 2022 |  | 2021 |  
  **Financial income and expenses** |  |  |  |  
  Interest and similar income | -1,815 |  | -3,854 |  
  Other interest expenses | 587 |  | 1,169 |  
-  | **-2,402** |  | **-5,023** |  
+|  | **-2,402** |  | **-5,023** |  
 
 During the financial year, no interest was capitalized as part of the historical cost of an asset.
