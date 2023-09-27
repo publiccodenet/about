@@ -109,7 +109,7 @@ Secondary positions
 * Secretary, Foundation for Public Code vereniging
 * Member of the Board of Directors, Foundation for Public Code vereniging
 
-###### Ben Cerveny**
+###### Ben Cerveny
 
 Principal position
 
@@ -121,7 +121,7 @@ Secondary positions
 * Member of the Board of Directors, Foundation for Public Code vereniging
 * President, Foundation for Public Code (contractor via Multiple Ventures B.V.)
 
-###### Eric Herman**
+###### Eric Herman
 
 Principal position
 
@@ -158,7 +158,7 @@ The staff of the Foundation for Public Code fulfills a crucial role in achieving
 
 The Foundation for Public Code is a trusted non-partisan organization that operates in sectors of the economy that have significant political interests. It is crucial that the organization as well as its staff are visibly independent, trustworthy, impartial and objective.
 
-###### Conflict of interest**
+###### Conflict of interest
 
 Staff members must immediately declare:
 
@@ -167,7 +167,7 @@ Staff members must immediately declare:
 
 Outside activities covered by these rules, paid or unpaid, must first be approved by your manager.
 
-###### Receiving gifts**
+###### Receiving gifts
 
 Staff may not accept gifts, payment, or favors from non-member organizations, individuals or third parties without prior permission.
 
@@ -280,9 +280,9 @@ After appropriation of the result.
  Sales expenses | 329 |  | 1,200 |  |
  Office expenses | 11,589 |  | 8,465 |  |
  General expenses | 27,239 |  | 41,586 |  |
- **Total expenses** | **523,812** |  | **636,454** |  |
- **Balance income and expenses** | **88,245** |  | **-134,848** |  |
- Financial income and expenses | -2,402 |  | -5,023 |  |
+ **Total expenses** |   |**523,812** |  | **636,454** |  |
+ **Balance income and expenses** |   |**88,245** |  | **-134,848** |  |
+ Financial income and expenses |   |-2,402 |  | -5,023 |  |
  **Result** |  | **85,843** |  | **-139,871**
 
 ##### Cash flow statement (in €)
@@ -302,7 +302,7 @@ After appropriation of the result.
 |  |  | 9,940 |  | 469,694
  Interest income received |  | -1,815 |  | -3,854
  Interest paid |  | -587 |  | -1,169
- **Cash flow from operating activities** |  | 97,803 |  | 331,842
+ **Cash flow from operating activities** |  | **97,803** |  | **331,842**
 |  |  |  |  |  
  **Cash flow from financing activities** |  |  |  |  |
  Other non-current liabilities | -431,500 |  | -863,000 |  |
@@ -361,7 +361,7 @@ On initial recognition current liabilities are recognised at nominal value. Afte
 
 The result is the difference between the realisable value of the goods/services provided and the costs and other charges during the year. The results on transactions are recognised in the year in which they are realised.
 
-###### Principles of operating expenses (Grondslagen van lasten)
+###### Principles of operating expenses (grondslagen van lasten)
 
 Costs are determined on a historical basis and are attributed to the reporting year to which they relate.
 
@@ -385,13 +385,13 @@ Interest income and expenses are recognised on a pro rata basis, taking account 
 |  | Financial year |  | Previous year
 ---|---|---|---
 |  | 2022 |  | 2021
- ###### Tangible fixed assets** | |  |  |
+**Tangible fixed assets** |  |  |  |
  Equipment | 3,702 |  | 5,722
 |  | **3,702** |  | **5,722**
 
 Depreciation percentage: 10%
 
-##### Equity  (in €)
+##### Equity (in €)
 
 |  | Financial year |  | Previous year
 ---|---|---|---
