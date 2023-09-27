@@ -38,11 +38,11 @@ The association seeks to achieve its goal by carrying out the following activiti
 4. drawing attention to problems ascertained and giving advice with regard to the public code they use
 5. everything related to or conducive to the above, all in the broadest sense
 
-**Absence of a profit motive**
+###### Absence of a profit motive
 
 The Foundation for Public Code is not for profit, as is clear from the work it does and its bylaws (article 3.4)
 
-**Beneficiary of the liquidation balance**
+###### Beneficiary of the liquidation balance
 
 If the Foundation for Public Code’s Board of Directors decides to dissolve the association, the association will continue to exist for as long as is necessary to liquidate the association’s assets. Article 31.4 of the Foundation for Public Code’s bylaws state that any positive balance at the time of liquidation will be given to either:
 
@@ -88,9 +88,9 @@ Our cultural values are: open, quality, trust, community, helpful. These words s
 
 As of December 31, 2022, the composition of the Foundation for Public Code Association board is:
 
-**Chairman: Ben Cerveny**
-**Secretary: Boris van Hoytema**
-**Treasurer: Eric Herman**
+* Chairman: Ben Cerveny
+* Secretary: Boris van Hoytema
+* Treasurer: Eric Herman
 
 ##### 1.2.2 Executive team
 
@@ -98,7 +98,7 @@ Boris van Hoytema is the Chief Executive. The Foundation no longer has an execut
 
 ##### 1.2.3 Principal and secondary positions board and directors
 
-**Boris van Hoytema**
+###### Boris van Hoytema
 
 Principal position
 
@@ -109,7 +109,7 @@ Secondary positions
 * Secretary, Foundation for Public Code vereniging
 * Member of the Board of Directors, Foundation for Public Code vereniging
 
-**Ben Cerveny**
+###### Ben Cerveny**
 
 Principal position
 
@@ -121,7 +121,7 @@ Secondary positions
 * Member of the Board of Directors, Foundation for Public Code vereniging
 * President, Foundation for Public Code (contractor via Multiple Ventures B.V.)
 
-**Eric Herman**
+###### Eric Herman**
 
 Principal position
 
@@ -158,7 +158,7 @@ The staff of the Foundation for Public Code fulfills a crucial role in achieving
 
 The Foundation for Public Code is a trusted non-partisan organization that operates in sectors of the economy that have significant political interests. It is crucial that the organization as well as its staff are visibly independent, trustworthy, impartial and objective.
 
-**Conflict of interest**
+###### Conflict of interest**
 
 Staff members must immediately declare:
 
@@ -167,7 +167,7 @@ Staff members must immediately declare:
 
 Outside activities covered by these rules, paid or unpaid, must first be approved by your manager.
 
-**Receiving gifts**
+###### Receiving gifts**
 
 Staff may not accept gifts, payment, or favors from non-member organizations, individuals or third parties without prior permission.
 
@@ -311,19 +311,19 @@ After appropriation of the result.
 
 #### 4.3 Notes to the financial statements
 
-**General**
+###### General
 
 The 2022 financial statements have a different layout and content than previous years due to changing accountants and accounting software.
 
-**Continuity**
+###### Continuity
 
 With regard to the continuity of the Foundation for Public Code Vereniging we would like to refer to the board report.
 
-**Currencies**
+###### Currencies
 
 Items included in the financial statements of Foundation for Public Code Vereniging are valued with due regard for the currency in the economic environment in which the association carries out most of its activities (the functional currency). The financial statements are denominated in euros; this is both the functional currency and presentation currency of Foundation for Public Code Vereniging.
 
-**General principles**
+###### General principles
 
 The financial statements are drawn up in accordance with the provisions of Title 9, Book 2, of the Dutch Civil Code and the Dutch Accounting Standards applicable to fundraising organizations (Richtlijn 650 Fondsenwervende organisaties as published by the Dutch Accounting Standards Board ('Raad voor de Jaarverslaggeving').
 
@@ -331,49 +331,49 @@ Assets and liabilities are generally valued at historical cost, production cost 
 
 If no specific valuation principle has been stated, valuation is at historical cost. The valuation principles and method of determining the result are the same as those used in the previous year, with the exception of the changes in accounting policies as set out in the relevant notes.
 
-**Principles of tangible assets**
+###### Principles of tangible assets
 
 Other tangible fixed assets are valued at historical cost or production cost including directly attributable costs, less straight-line depreciation based on the expected future life and impairments.
 
 The depreciations are based on the expected future life, unless a maximum depreciation percentage of 20% is prescribed for tax purposes, and are calculated on the basis of a fixed percentage of the cost price, taking into account any residual value. It is depreciated from the moment of commissioning.
 
-**Principles of receivables**
+###### Principles of receivables
 
 Receivables are recognized at nominal value, taking into account any deductions for the risk of bad debts. These reductions are determined on the basis of individual assessment of the receivables. Unless otherwise stated, the receivables have a term of less than 1 year.
 
-**Principles of cash and cash equivalents**
+###### Principles of cash and cash equivalents
 
 Cash at banks and in hand represent cash in hand, bank balances and deposits with terms of less than twelve months. Overdrafts at banks are recognised as part of debts to lending institutions under current liabilities. Cash at banks and in hand is carried at nominal value.
 
-**Principles of cash and cash equivalents**
+###### Principles of cash and cash equivalents
 
 Cash at banks and in hand represent cash in hand, bank balances and deposits with terms of less than twelve months. Overdrafts at banks are recognised as part of debts to lending institutions under current liabilities. Cash at banks and in hand is carried at nominal value.
 
-**Principles of non-current liabilities**
+###### Principles of non-current liabilities
 
 On initial recognition long-term debts are recognised at nominal value. Transaction costs which can be directly attributed to the acquisition of the long-term debts are included in the initial recognition.
 
-**Principles of current liabilities**
+###### Principles of current liabilities
 
 On initial recognition current liabilities are recognised at nominal value. After initial recognition current liabilities are recognised at the amounts at which the debt must be repaid.
 
-**Principles for determining the result**
+###### Principles for determining the result
 
 The result is the difference between the realisable value of the goods/services provided and the costs and other charges during the year. The results on transactions are recognised in the year in which they are realised.
 
-**Principles of operating expenses (Grondslagen van lasten)**
+###### Principles of operating expenses (Grondslagen van lasten)
 
 Costs are determined on a historical basis and are attributed to the reporting year to which they relate.
 
-**Principles of wages and salaries; social security and pension costs**
+###### Principles of wages and salaries; social security and pension costs
 
 The benefits payable to personnel are recorded in the Statement of income and expense on the basis of the employment conditions.
 
-**Principles of depreciation**
+###### Principles of depreciation
 
 Intangible assets and tangible fixed assets are depreciated over their estimated useful lives as from the moment that they are ready for use. Gains and losses from the occasional sale of property, plant or equipment are included in depreciation. At profit appropriation, book profits are included in a reinvestment reserve if and insofar as fiscal legislation permits.
 
-**Principles of financial income and expenses**
+###### Principles of financial income and expenses
 
 Principles of financial income and expenses
 Interest income and expenses are recognised on a pro rata basis, taking account of the effective interest rate of the assets and liabilities to which they relate. In accounting for interest expenses, the recognised transaction expenses for loans received are taken into consideration.
@@ -385,7 +385,7 @@ Interest income and expenses are recognised on a pro rata basis, taking account 
 |  | Financial year |  | Previous year
 ---|---|---|---
 |  | 2022 |  | 2021
- **Tangible fixed assets** | |  |  |
+ ###### Tangible fixed assets** | |  |  |
  Equipment | 3,702 |  | 5,722
 |  | **3,702** |  | **5,722**
 
