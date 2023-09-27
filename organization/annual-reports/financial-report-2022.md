@@ -272,7 +272,7 @@ After appropriation of the result.
  Income | 736,519 |  | 698,580 |  |
  Project & Community Management | 124,461 |  | 196,974 |  |
  **Gross result** |  | **612,058** |  | **501,606**
-|  |  |  |  |  
+|  |  |  |  |
  Employee expenses | 321,682 |  | 608,080 |  |
  Depreciation | 2,019 |  | 2,019 |  |
  Other employee expenses | 157,435 |  | -24,897 |  |
@@ -303,7 +303,7 @@ After appropriation of the result.
  Interest income received |  | -1,815 |  | -3,854
  Interest paid |  | -587 |  | -1,169
  **Cash flow from operating activities** |  | **97,803** |  | **331,842**
-|  |  |  |  |  
+|  |  |  |  |
  **Cash flow from financing activities** |  |  |  |  |
  Other non-current liabilities | -431,500 |  | -863,000 |  |
 |  |  | **-431,500** |  | **-863,000**
@@ -311,19 +311,19 @@ After appropriation of the result.
 
 #### 4.3 Notes to the financial statements
 
-###### General
+##### General
 
 The 2022 financial statements have a different layout and content than previous years due to changing accountants and accounting software.
 
-###### Continuity
+##### Continuity
 
 With regard to the continuity of the Foundation for Public Code Vereniging we would like to refer to the board report.
 
-###### Currencies
+##### Currencies
 
 Items included in the financial statements of Foundation for Public Code Vereniging are valued with due regard for the currency in the economic environment in which the association carries out most of its activities (the functional currency). The financial statements are denominated in euros; this is both the functional currency and presentation currency of Foundation for Public Code Vereniging.
 
-###### General principles
+##### General principles
 
 The financial statements are drawn up in accordance with the provisions of Title 9, Book 2, of the Dutch Civil Code and the Dutch Accounting Standards applicable to fundraising organizations (Richtlijn 650 Fondsenwervende organisaties as published by the Dutch Accounting Standards Board ('Raad voor de Jaarverslaggeving').
 
@@ -331,49 +331,45 @@ Assets and liabilities are generally valued at historical cost, production cost 
 
 If no specific valuation principle has been stated, valuation is at historical cost. The valuation principles and method of determining the result are the same as those used in the previous year, with the exception of the changes in accounting policies as set out in the relevant notes.
 
-###### Principles of tangible assets
+##### Principles of tangible assets
 
 Other tangible fixed assets are valued at historical cost or production cost including directly attributable costs, less straight-line depreciation based on the expected future life and impairments.
 
 The depreciations are based on the expected future life, unless a maximum depreciation percentage of 20% is prescribed for tax purposes, and are calculated on the basis of a fixed percentage of the cost price, taking into account any residual value. It is depreciated from the moment of commissioning.
 
-###### Principles of receivables
+##### Principles of receivables
 
 Receivables are recognized at nominal value, taking into account any deductions for the risk of bad debts. These reductions are determined on the basis of individual assessment of the receivables. Unless otherwise stated, the receivables have a term of less than 1 year.
 
-###### Principles of cash and cash equivalents
+##### Principles of cash and cash equivalents
 
 Cash at banks and in hand represent cash in hand, bank balances and deposits with terms of less than twelve months. Overdrafts at banks are recognised as part of debts to lending institutions under current liabilities. Cash at banks and in hand is carried at nominal value.
 
-###### Principles of cash and cash equivalents
-
-Cash at banks and in hand represent cash in hand, bank balances and deposits with terms of less than twelve months. Overdrafts at banks are recognised as part of debts to lending institutions under current liabilities. Cash at banks and in hand is carried at nominal value.
-
-###### Principles of non-current liabilities
+##### Principles of non-current liabilities
 
 On initial recognition long-term debts are recognised at nominal value. Transaction costs which can be directly attributed to the acquisition of the long-term debts are included in the initial recognition.
 
-###### Principles of current liabilities
+##### Principles of current liabilities
 
 On initial recognition current liabilities are recognised at nominal value. After initial recognition current liabilities are recognised at the amounts at which the debt must be repaid.
 
-###### Principles for determining the result
+##### Principles for determining the result
 
 The result is the difference between the realisable value of the goods/services provided and the costs and other charges during the year. The results on transactions are recognised in the year in which they are realised.
 
-###### Principles of operating expenses (grondslagen van lasten)
+##### Principles of operating expenses (grondslagen van lasten)
 
 Costs are determined on a historical basis and are attributed to the reporting year to which they relate.
 
-###### Principles of wages and salaries; social security and pension costs
+##### Principles of wages and salaries; social security and pension costs
 
 The benefits payable to personnel are recorded in the Statement of income and expense on the basis of the employment conditions.
 
-###### Principles of depreciation
+##### Principles of depreciation
 
 Intangible assets and tangible fixed assets are depreciated over their estimated useful lives as from the moment that they are ready for use. Gains and losses from the occasional sale of property, plant or equipment are included in depreciation. At profit appropriation, book profits are included in a reinvestment reserve if and insofar as fiscal legislation permits.
 
-###### Principles of financial income and expenses
+##### Principles of financial income and expenses
 
 Principles of financial income and expenses
 Interest income and expenses are recognised on a pro rata basis, taking account of the effective interest rate of the assets and liabilities to which they relate. In accounting for interest expenses, the recognised transaction expenses for loans received are taken into consideration.
@@ -468,7 +464,7 @@ The Foundation for Public Code received a philanthropic gift from Arnout Schuijf
 
 ##### Project costs (in €)
 
-|  | Financial year |  Previous year |  
+|  | Financial year |  Previous year |
 ---|---|---|
 |  | 2022 | 2021 |
  **Project costs** |  |  |
@@ -541,9 +537,9 @@ During 2022, on average, 4.3 employees were employed on a full-time basis.
 
 ##### Marketing expenses
 
-|  | Financial year | Previous year |  
+|  | Financial year | Previous year |
 ---|---|---|
-|  | 2022 | 2021 |  
+|  | 2022 | 2021 |
  **Marketing expenses** |  |  |
  Advertising expenses | 94 | 127 |
  Representation expenses | 235 | 0 |
