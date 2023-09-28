@@ -257,7 +257,7 @@ After appropriation of the result.
 ---|---|---|---|---
  **Equity** |  |  |  |  |
  Foundation capital | -422,500 |  | -508,343 |  |
-|  |  | -422,500 |  | -508,343
+|  |  | **-422,500** |  | **-508,343**
  **Non-current liabilities** |  | **431,500** |  | **863,000**
  **Current liabilities** |  | **451,815** |  | **450,569**
  **Equity and liabilities** |  | **460,815** |  | **805,226**
@@ -308,7 +308,7 @@ After appropriation of the result.
  **Cash flow from financing activities** |  |  |  |  |
  Other non-current liabilities | -431,500 |  | -863,000 |  |
 |  |  | **-431,500** |  | **-863,000**
- Movement in cash at banks and in hand |  | **-333,697** |  | **-531,158**
+ **Movement in cash at banks and in hand** |  | **-333,697** |  | **-531,158**
 
 #### 4.3 Notes to the financial statements
 
