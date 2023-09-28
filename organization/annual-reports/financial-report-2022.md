@@ -76,7 +76,7 @@ Founding principles:
 
 The founding principles were adopted by the Board of Directors on 23 August 2019.
 
-_(* In order to start as an association, 4 individual founders will play the role of member until there are enough public members for the organization to sustain itself.)_
+\*_In order to start as an association, 4 individual founders will play the role of member until there are enough public members for the organization to sustain itself._
 
 Cultural values:
 
