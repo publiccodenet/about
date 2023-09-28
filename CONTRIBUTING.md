@@ -14,7 +14,7 @@ There’s lots of work going on at the Foundation and we’d love your help with
 Currently we are:
 
 + working with several [codebases](https://publiccode.net/codebases/) and refining our codebase stewardship process
-+ finalizing membership of several public organizations
++ building partnerships with diverse organizations
 + scaling our engagement and outreach
 
 In the meantime, please join us in any way you can.
@@ -29,7 +29,7 @@ We’re especially interested in learning what you need to implement the [Standa
 
 ## Public organizations
 
-We’re looking for public members to help shape the Foundation for Public Code’s long term future. As a member, you’ll have the chance to shape the Foundation’s processes and governance. Find out more about the [benefits and requirements of becoming a member](https://publiccode.net/membership/) and get in touch with us at <membership@publiccode.net>.
+We’re looking for public partners to help shape the Foundation for Public Code’s long term future. Find out more about the [benefits and requirements of becoming a partner](organization/partnerships.md) and get in touch with us at <partnerships@publiccode.net>.
 
 ## Institutional giving and philanthropy
 

@@ -13,7 +13,7 @@ At the latest, this forward look should happen about three months before the [ge
 It should be clearly communicated that the information collected in the forward look will feed into a report for the general assembly.
 The forward look can either be part of a regular product steering meeting if such exists, or a separate meeting.
 
-Afterwards, the codebase stewards prepare an overview of all codebases in stewardship for members so they can make informed decisions during the general assembly.
+Afterwards, the codebase stewards prepare an overview of all codebases in stewardship for the general assembly so they can make informed decisions.
 Of particular interest for the codebase stewards is if the general assembly wants to prioritize a codebase for strategic reasons, even if compliance with the Standard for Public Code is unlikely in the coming year.
 Such decision will give the codebase stewards the mandate to continue stewarding the incubated codebase.
-Alternatively, the members can decide to stop the incubation of a codebase that doesn't present ongoing or renewed ambitions and simply end stewardship.
+Alternatively, the general assembly can decide to stop the incubation of a codebase that doesn't present ongoing or renewed ambitions and simply end stewardship.
