@@ -2,6 +2,12 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>
 type: Index
+redirect _from:
+    - /member-relations/index
+    - /membership-growth/index
+    - /membership-growth/founding-membership-workshop
+    - /membership-growth/membership-contract
+    - /membership-growth/membership-proposal-template
 ---
 
 # Creating partnerships
