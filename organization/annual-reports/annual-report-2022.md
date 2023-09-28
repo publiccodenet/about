@@ -170,7 +170,7 @@ Though we planned to recruit additional board members in 2022, we delayed until 
 
 This section provides an overview of the detailed financial report that accompanies this annual report.
 
-[See the full financial report](/index.md).
+[See the full financial report](/financial-report-2022.md).
 
 In 2022, the organization continued to depend on philanthropic donations. It has been the aim of the Foundation to eventually be self-supporting through the contributions of public organizations.
 
