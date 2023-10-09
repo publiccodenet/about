@@ -11,3 +11,4 @@ Here is a list of best practices related to events developed or used by the Foun
 * [Deciding to attend an event](deciding-to-attend-events.md)
 * [Attending events](attending-events.md)
 * [Organizing events](organizing-events.md)
+* 
