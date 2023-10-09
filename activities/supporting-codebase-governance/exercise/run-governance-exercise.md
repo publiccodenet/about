@@ -76,7 +76,8 @@ If you need more icons or arrows, ask.
 
 To get them started, ask them to start placing a few actors on the paper and discuss their relationships.
 Make sure the groups move forward and take decisions and don't get stuck in details.
-Remind them of the time constraint. When they have some actors and a few arrows down, start introducing the problem cards.
+Remind them of the time constraint.
+When they have some actors and a few arrows down, start introducing the problem cards.
 If a group needs to be pushed a little bit, ask them who is involved, who things get reported to and so on.
 Make sure they write somewhere what the arrows mean.
 
