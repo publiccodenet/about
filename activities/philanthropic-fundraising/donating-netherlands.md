@@ -4,9 +4,10 @@
 type: Guide
 ---
 
-# How to donate to us
+# How we receive donations
 
-If you want to support us you can transfer your donation to our bank account: NL78 RABO 0342 6453 31 in the name of "Foundation for Public Code Vereniging" in Amsterdam stating "donation".
+We can accept donations to our bank account: NL78 RABO 0342 6453 31 in the name of "Foundation for Public Code Vereniging" in Amsterdam.
+Encourage people to include "donation" in the description.
 
 ## Tax deductibility
 

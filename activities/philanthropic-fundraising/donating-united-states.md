@@ -4,7 +4,7 @@
 type: Guide
 ---
 
-# How to donate to us through the King Baudouin Foundation
+# How we receive donations from the United States
 
 The Foundation for Public Code has set up an advised gift fund at the King Baudouin Foundation (KBFUS) in the U.S.
 Through the Online Giving Center secure and tax deductible (credit card) donations can be made to us.
