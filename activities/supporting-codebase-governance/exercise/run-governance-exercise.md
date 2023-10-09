@@ -56,7 +56,8 @@ Two each with different **hosting vendors** and two have deployed on their own s
 
 ### Exercise 1
 
-Try to map out a likely way that this is being _maintained_. Include both strengths and weaknesses.
+Try to map out a likely way that this is being _maintained_.
+Include both strengths and weaknesses.
 That is, try to place the actors involved actors and show what is happening between them.
 
 Feel free to draw upon your own experience and prejudice about municipal work.
