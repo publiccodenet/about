@@ -30,6 +30,6 @@ This may be deducted if it meets all the following conditions:
 * The donation will go to an ANBI (public benefit organization)
 * The donation is voluntary
 * There is nothing given in exchange for the donation
-* The gift can be proven through, for example, from the withdrawals from your account
+* The gift can be proven through, for example, the withdrawals from your account
 
 [Read more about tax deductibility](https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken) for donations from the Dutch tax office (in Dutch).
