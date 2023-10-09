@@ -9,9 +9,13 @@ explains: What our staff chat tool is, how to get started and its do's and don't
 
 We use Mattermost, hosted at chat.publiccode.net, for informal chat purposes.
 
-Mattermost lets us create multiple teams with different members. We only have 1 team right now: our staff team.
+Mattermost lets us create multiple teams with different members.
+We have 2 teams right now:
 
-## Staff team
+* our staff team
+* North America team
+
+## Guidelines
 
 Discussions on chat.publiccode.net are:
 
