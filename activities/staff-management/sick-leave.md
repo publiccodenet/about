@@ -49,5 +49,6 @@ The director will receive an email about this.
 If the employee has been sick for more than three quarters of a year, [it must be reported to the UWV](https://www.uwv.nl/werkgevers/werknemer-is-ziek/loondoorbetaling/werknemer-is-langdurig-ziek/index.aspx).
 The 42nd week report must be submitted no later than the first working day after the 42nd week of illness.
 
-If the employee has not completed reintegration after a year, a one year evaluation must take place. During this evaluation the director and the employee discuss whether the integration approach has been successful, and a report is prepared.
+If the employee has not completed reintegration after a year, a one year evaluation must take place.
+During this evaluation the director and the employee discuss whether the integration approach has been successful, and a report is prepared.
 The ARBO case manager will be available for guidance and instructions.
