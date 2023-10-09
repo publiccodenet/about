@@ -6,10 +6,6 @@ type: Index
 
 # Activities
 
-Higher level activities of the Foundation for Public Code that directly serve to further the [mission](../organization/mission.md):
-
-* [Codebase stewardship](codebase-stewardship/index.md): Enabling a codebase to attain the sustainability, marketability, support and quality needed to be successfully reused and community developed.
-
 Activities that support the above as well as make staff operations work:
 
 * [Board of directors support](board-support/index.md)
@@ -19,6 +15,7 @@ Activities that support the above as well as make staff operations work:
 * [Conflicts of interest](conflict-of-interest/index.md)
 * [Creating affiliations](creating-affiliations/index.md)
 * [Creating partnerships](creating-partnerships/index.md)
+* [Codebase stewardship](codebase-stewardship/index.md)
 * [Documentation](documentation/index.md)
 * [Events](events/index.md)
 * [Explaining codebase stewardship](explaining-codebase-stewardship/index.md)
