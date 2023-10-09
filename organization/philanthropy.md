@@ -7,7 +7,8 @@ explains: our policy on philanthropy
 
 # Philanthropy policy
 
-The Foundation for Public Code is currently wholly financially supported by philanthropists who share our commitment to [our mission](https://about.publiccode.net/organization/mission.html). To prevent undue influence, all donations are unearmarked and go into our general operating budget, in compliance with our status as a Dutch [public benefit organization (ANBI)](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/public_benefit_organisations).
+The Foundation for Public Code is currently wholly financially supported by philanthropists who share our commitment to [our mission](https://about.publiccode.net/organization/mission.html).
+To prevent undue influence, all donations are unearmarked and go into our general operating budget, in compliance with our status as a Dutch [public benefit organization (ANBI)](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/public_benefit_organisations).
 
 In the future, we aim for the Foundation for Public Code to be funded through a blend of structural funding, contract work and philanthropic gifts.
 

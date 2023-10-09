@@ -8,7 +8,8 @@ redirect_from:
 
 # Privacy
 
-The Foundation strongly supports individuals' right to privacy. For this reason we don't track individual users on any of our websites but count traffic for analytics.
+The Foundation strongly supports individuals' right to privacy.
+For this reason we don't track individual users on any of our websites but count traffic for analytics.
 
 We keep contact details for:
 
@@ -63,7 +64,8 @@ We don't share your personal information with third parties or sell it.
 
 Because your personal information is stored on our IT systems, it's shared with our data processors who provide us with email, document management and storage services.
 
-While your personal data is stored on our systems and shared with our data processors, it may be transferred and stored securely outside the European Union. Where this is the case it will be subject to equivalent legal protection through the use of model contract clauses or binding corporate rules.
+While your personal data is stored on our systems and shared with our data processors, it may be transferred and stored securely outside the European Union.
+Where this is the case it will be subject to equivalent legal protection through the use of model contract clauses or binding corporate rules.
 
 [Read more about the tools we use to process your data and their GDPR compliance](../activities/tool-management/index.md).
 
@@ -71,7 +73,9 @@ While your personal data is stored on our systems and shared with our data proce
 
 People can always unsubscribe from our mailing list.
 
-As a contact for a piece of work, we may contact you where a work matter requires your input. We'll keep your contact information for at least 5 years. If we learn that you've left the role, we'll update or delete the information we hold about you promptly.
+As a contact for a piece of work, we may contact you where a work matter requires your input.
+We'll keep your contact information for at least 5 years.
+If we learn that you've left the role, we'll update or delete the information we hold about you promptly.
 
 We keep staff data for [as long as is required by Dutch law](https://www.tuxx.nl/bewaartermijnen/documenten/#Algemene%20bedrijfsmatige%20documenten) (but no longer than 10 years).
 

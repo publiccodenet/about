@@ -7,7 +7,8 @@ redirect_from: members/
 
 # The organization
 
-The Foundation for Public Code's mission is to enable public-purpose software and policy that is open and collaborative. Read more about [our mission, founding principles and current priorities](mission.md).
+The Foundation for Public Code's mission is to enable public-purpose software and policy that is open and collaborative.
+Read more about [our mission, founding principles and current priorities](mission.md).
 
 [Contact us](contact-details.md) – we'd love to hear from you.
 
