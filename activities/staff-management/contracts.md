@@ -34,6 +34,7 @@ The process is as follows:
 
 ## Service agreements and contractors
 
-We work with contractors and freelancers. For big or long-term assignments a service agreement is drafted.
+We work with contractors and freelancers.
+For big or long-term assignments a service agreement is drafted.
 For small or short-term assignments a quote suffices.
 The operations coordinator takes care of the service agreement, requests time sheets and makes sure invoices are send and paid.
