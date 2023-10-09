@@ -29,7 +29,8 @@ This allows for the groups to draw explanations on them.
 The building blocks can also taped to them so that everything can be saved.
 Cut a lot of arrows, both one way and double sided in an array of colors.
 Use different colors for the current and ideal parts of the exercise so less meaning is inherited between them.
-Print and cut icons that are used for the actors. Print and cut the problem cards.
+Print and cut icons that are used for the actors.
+Print and cut the problem cards.
 
 ## A current situation
 
