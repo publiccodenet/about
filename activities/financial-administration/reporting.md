@@ -51,4 +51,5 @@ The Foundation for Public Code needs to provide a narrative and financial report
 The reports should include a narrative account of how grant funds were used, what was accomplished by the expenditure of funds (including a description of progress made towards achieving the goals of the grant), and compliance with the terms of the Agreement, along with a financial statement and copies of any publications resulting from the grant.
 
 The report should be signed by an authorized officer, and the financial statement should be attested by the responsible financial officer or a certified public accountant, and should reflect the categories stipulated in the attached approved budget.
-The report must include a reconciliation of all amounts spent for the purpose specified, with the total grant proceeds received. [Detailed financial requirements can be found on our drive](https://drive.google.com/drive/folders/1Tv5j1vfn2MhDc2DtDmKCyQrrfkh2CJTj).
+The report must include a reconciliation of all amounts spent for the purpose specified, with the total grant proceeds received.
+[Detailed financial requirements can be found on our drive](https://drive.google.com/drive/folders/1Tv5j1vfn2MhDc2DtDmKCyQrrfkh2CJTj).
