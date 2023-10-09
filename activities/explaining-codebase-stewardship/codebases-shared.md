@@ -26,4 +26,8 @@ redirect_from:
 
 ### Metaphorical
 
-A codebase is like a blueprint. You can can have a blueprint for the water pipes in an apartment building. Once this blueprint is implemented as a component in an actual building, it will be adapted slightly to that building. The residents may install showers or baths, and upgrade boilers differently. However, if in one building they realise that installing a more powerful pump in the basement helps maintain pressure on the top floor, this can be included in the original blueprint as a reference for all current and future buildings.
+A codebase is like a blueprint.
+You can can have a blueprint for the water pipes in an apartment building.
+Once this blueprint is implemented as a component in an actual building, it will be adapted slightly to that building.
+The residents may install showers or baths, and upgrade boilers differently.
+However, if in one building they realise that installing a more powerful pump in the basement helps maintain pressure on the top floor, this can be included in the original blueprint as a reference for all current and future buildings.
