@@ -62,7 +62,8 @@ Feel free to draw upon your own experience and prejudice about municipal work.
 If you don't know, make an educated guess.
 
 Use the available icons and arrows to show what actors are involved.
-What are the relationships? Show:
+What are the relationships?
+Show:
 
 * _how decisions are being made_
 * _information flows_
