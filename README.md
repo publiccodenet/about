@@ -9,7 +9,8 @@ We help open source projects for public organizations to become successful, buil
 
 > [...] to enable public-purpose software and policy that is open and collaborative.
 
-The [About site](activities/documentation/index.md) is home to all of our staff information, decision-making rules and processes. It is our staff manual that can be developed collaboratively with the community and reused by everyone.
+The [About site](activities/documentation/index.md) is home to all of our staff information, decision-making rules and processes.
+It is our staff manual that can be developed collaboratively with the community and reused by everyone.
 
 It's `main` branch is the official ['source of truth'](GOVERNANCE.md) and central repository for all information about the Foundation for Public Code.
 
