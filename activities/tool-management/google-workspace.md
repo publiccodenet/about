@@ -8,7 +8,8 @@ redirect_from:
 
 # Google Workspace
 
-Google Workspace, formerly known as G Suite, is a collection of cloud computing, productivity and collaboration tools, software and products developed and marketed by Google. We use Google Workspace for email, calendaring and internal document management.
+Google Workspace, formerly known as G Suite, is a collection of cloud computing, productivity and collaboration tools, software and products developed and marketed by Google.
+We use Google Workspace for email, calendaring and internal document management.
 
 ## Using Google Workspace
 
@@ -17,7 +18,11 @@ Google publishes [extensive support documentation](https://support.google.com/).
 
 ## Google Workspace management
 
-Google Workspace (user) administration is managed by the operations coordinator. The operations coordinator as well as the chief executive have full adminstrative privileges. The operations coordinator is responsible for user management. She ensures proper on-boarding and off-boarding policies are in place and enforced. She also creates and manages groups, aliases, domain management and 3rd party app integrations.
+Google Workspace (user) administration is managed by the operations coordinator.
+The operations coordinator as well as the chief executive have full adminstrative privileges.
+The operations coordinator is responsible for user management.
+She ensures proper on-boarding and off-boarding policies are in place and enforced.
+She also creates and manages groups, aliases, domain management and 3rd party app integrations.
 
 ## Privacy and GDPR
 

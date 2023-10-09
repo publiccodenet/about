@@ -6,7 +6,8 @@ type: resource
 
 # Streamyard
 
-[Streamyard](https://streamyard.com/) is a browser-based live streaming studio. It streams directly to Facebook, YouTube, LinkedIn and other platforms.
+[Streamyard](https://streamyard.com/) is a browser-based live streaming studio.
+It streams directly to Facebook, YouTube, LinkedIn and other platforms.
 
 We use Streamyard to livestream our podcast [Let's talk about public code](https://podcast.publiccode.net/).
 

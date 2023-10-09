@@ -6,7 +6,8 @@ type: resource
 
 # Miro
 
-Miro is an online collaborative whiteboard platform. Miro built a platform for modern work, enabling collocated, distributed, and remote teams to communicate and collaborate across formats, tools, channels, and time zones - without the constraints of physical location, meeting space, and whiteboard.
+Miro is an online collaborative whiteboard platform.
+Miro built a platform for modern work, enabling collocated, distributed, and remote teams to communicate and collaborate across formats, tools, channels, and time zones - without the constraints of physical location, meeting space, and whiteboard.
 
 ## Using Miro
 
@@ -14,7 +15,8 @@ Miro [has extensive documention](https://help.miro.com/hc/en-us).
 
 ## Miro management
 
-The operations coordinator, chief executive and codebase stewards can add new users to Miro and manage their permissions. Existing users can also invite new users to join.
+The operations coordinator, chief executive and codebase stewards can add new users to Miro and manage their permissions.
+Existing users can also invite new users to join.
 
 ## Privacy and GDPR
 

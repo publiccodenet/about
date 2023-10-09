@@ -6,15 +6,19 @@ type: resource
 
 # Nextcloud
 
-Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud is free and open source. We are currenty using Nextcloud for file sharing with our community and the general public.
+Nextcloud is a suite of client-server software for creating and using file hosting services.
+Nextcloud is free and open source. We are currenty using Nextcloud for file sharing with our community and the general public.
 
 ## Using Nextcloud
 
-Staff are issued a Nextcloud account when they join. Nextcloud publishes [extensive support documentation](https://docs.nextcloud.com/).
+Staff are issued a Nextcloud account when they join.
+Nextcloud publishes [extensive support documentation](https://docs.nextcloud.com/).
 
 ## Nextcloud management
 
-Nextcloud (user) administration is managed by the operations coordinator. The operations coordinator as well as the chief executive have full administrative privileges. The operations coordinator is responsible for user and folder management, customization, making sure Nextcloud stays up-to-date and ensuring proper onboarding and offboarding policies are in place and enforced.
+Nextcloud (user) administration is managed by the operations coordinator.
+The operations coordinator as well as the chief executive have full administrative privileges.
+The operations coordinator is responsible for user and folder management, customization, making sure Nextcloud stays up-to-date and ensuring proper onboarding and offboarding policies are in place and enforced.
 
 Tweaks in the Nextcloud configuration can be made after SSHing into the machine as root:
 
