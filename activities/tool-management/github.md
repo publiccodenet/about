@@ -17,7 +17,8 @@ GitHub is our bread and butter when it comes to codebase management, codebase au
 ## GitHub management
 
 Our GitHub account is managed by the directors and codebase stewards.
-New employees are onboarded by one of the codebase stewards. We also have [documention available on About for newcomers](../trainings/github-for-newcomers.md).
+New employees are onboarded by one of the codebase stewards.
+We also have [documention available on About for newcomers](../trainings/github-for-newcomers.md).
 
 ## Privacy and GDPR
 
