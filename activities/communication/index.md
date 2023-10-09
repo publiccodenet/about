@@ -27,7 +27,8 @@ These are all the activities, documents and templates for Communication.
 
 We meet our community regularly by [attending and running events](../events) and [workshops](../workshops), and by [hosting community calls](../community-calls).
 
-We also host the [Let's Talk About Public Code livestream and podcast](https://podcast.publiccode.net/), where we interview people working with public code codebases and take audience questions. [Read about how we make podcasts](../live-streaming/).
+We also host the [Let's Talk About Public Code livestream and podcast](https://podcast.publiccode.net/), where we interview people working with public code codebases and take audience questions.
+[Read about how we make podcasts](../live-streaming/).
 
 ### Community calls
 
