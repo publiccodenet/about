@@ -31,7 +31,8 @@ The ARBO service portal is integrated with our insurance portal.
 The ARBO service will plan a meeting between the employee and an ARBO doctor to assess the employee's situation.
 Based on the assessment, the employee will start reintegration when their situation allows.
 The ARBO service will draft a [reintegration plan (plan van aanpak)](https://business.gov.nl/regulation/working-conditions-employees/) for the employee.
-This plan should include the procedures all involved parties must follow. The chief executive must approve the plan.
+This plan should include the procedures all involved parties must follow.
+The chief executive must approve the plan.
 
 ## Reintegration management
 
