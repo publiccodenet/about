@@ -9,7 +9,8 @@ explains: What our staff chat tool is, how to get started and its do's and don't
 
 We use Mattermost, hosted at chat.publiccode.net, for informal chat purposes.
 
-Mattermost lets us create multiple teams with different members. We only have 1 team right now: our staff team.
+Mattermost lets us create multiple teams with different members.
+We only have 1 team right now: our staff team.
 
 ## Staff team
 
@@ -45,7 +46,8 @@ Take these steps to join the staff team.
 
 ### Sensitive information
 
-It's easy to delete information from chat.publiccode.net, but it's even better to not have to. As a reminder, this personal information is [protected by GDPR](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens/how-my-personal-data-protected/how-data-my-religious-beliefs-sexual-orientation-health-political-views-protected_en) and shouldn't be shared on chat.publiccode.net:
+It's easy to delete information from chat.publiccode.net, but it's even better to not have to.
+As a reminder, this personal information is [protected by GDPR](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens/how-my-personal-data-protected/how-data-my-religious-beliefs-sexual-orientation-health-political-views-protected_en) and shouldn't be shared on chat.publiccode.net:
 
 * racial or ethnic origin
 * political opinions

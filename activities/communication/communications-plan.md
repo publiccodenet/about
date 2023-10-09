@@ -10,9 +10,11 @@ The Foundation for Public Code relies on communications to [achieve its mission]
 
 ## Principles
 
-Our communications need to reflect our core values: open, quality, trust, community, helpful. They must also be non-partisan, in line with our [founding principles](../../organization/mission.md#founding-principles).
+Our communications need to reflect our core values: open, quality, trust, community, helpful.
+They must also be non-partisan, in line with our [founding principles](../../organization/mission.md#founding-principles).
 
-Our messages range from neutral in tone to positive and inspirational. Our community won’t be sustainable if we attract people motivated by fear or anger.
+Our messages range from neutral in tone to positive and inspirational.
+Our community won’t be sustainable if we attract people motivated by fear or anger.
 
 Our communications are usually in plain English, but we link to highly relevant pages in other languages, for example about our partners’ work.
 
@@ -45,7 +47,8 @@ We believe we'll find them in fora organized by and for:
 
 ## Success criteria and indicators for target fora
 
-Note: none of these goals contain 'hype' or 'coolness'. This is because being perceived as trendy or zeitgeisty will not help us build the trustworthy reputation or longterm relationships we need to succeed.
+Note: none of these goals contain 'hype' or 'coolness'.
+This is because being perceived as trendy or zeitgeisty will not help us build the trustworthy reputation or longterm relationships we need to succeed.
 
 ### Public tech fora
 
@@ -269,7 +272,8 @@ Blogposts should have a more personal authorial voice, while still showcasing ou
 
 ## Messaging matrix
 
-We don’t know what the ideal ratio of audiences to target is yet. We’ll develop as we learn more about who actually engages with us.
+We don’t know what the ideal ratio of audiences to target is yet.
+We’ll develop as we learn more about who actually engages with us.
 
 ## Campaigns
 
@@ -281,7 +285,8 @@ We run a campaign every time:
 
 ### Campaign template
 
-This should be tied into general strategy sessions, so we get the maximum impact from each event or milestone. These are generally structured as:
+This should be tied into general strategy sessions, so we get the maximum impact from each event or milestone.
+These are generally structured as:
 
 * announcement that thing is happening (give teaser)
 * join in on other related conversations and hashtags (monitor conversation)
