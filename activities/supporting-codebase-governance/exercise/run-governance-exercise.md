@@ -43,7 +43,8 @@ It is of decent size, not too small, but also not one of the biggest.
 Together with **three other municipalities** you have developed an **open source IT system**.
 It is a festival management system.
 You use it for managing festivals taking place in your respective municipalities.
-It has been in use for two years. The main **end users** of the system are civil servants in your municipality.
+It has been in use for two years.
+The main **end users** of the system are civil servants in your municipality.
 
 You all have competent but small **IT departments** with some **in-house developers**.
 As a **commissioning public organization** you have outsourced most of the work to one **developer vendor**.
