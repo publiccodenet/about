@@ -92,7 +92,7 @@ Our robust financial administration is set up to receive membership dues and phi
 #### Our efforts are roughly divided into four primary activities
 
 | | |
-| - | - |
+|---|---|
 | Steward codebases | 50% |
 | Build community | 20% |
 | Educate the ecosystem | 20% |
