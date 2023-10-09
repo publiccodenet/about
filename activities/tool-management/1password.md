@@ -6,7 +6,8 @@ type: resource
 
 # 1Password
 
-1Password is a password manager developed by AgileBits Inc. It provides a place for users to store various passwords, software licenses, and other sensitive information in a virtual vault that is locked with a PBKDF2-guarded master password.
+1Password is a password manager developed by AgileBits Inc.
+It provides a place for users to store various passwords, software licenses, and other sensitive information in a virtual vault that is locked with a PBKDF2-guarded master password.
 
 ## Using 1Password
 
@@ -19,7 +20,9 @@ type: resource
 
 ## 1Password management
 
-All team members receive an account from the operations coordinator during onboarding. The operations coordinator and chief executive have administrative access to 1Password. They can start recovery processes in case an employee loses access to 1Password, as well as set up vaults for sharing and assign access rights to existing vaults.
+All team members receive an account from the operations coordinator during onboarding.
+The operations coordinator and chief executive have administrative access to 1Password.
+They can start recovery processes in case an employee loses access to 1Password, as well as set up vaults for sharing and assign access rights to existing vaults.
 
 ## Privacy and GDPR
 

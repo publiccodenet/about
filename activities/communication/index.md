@@ -32,7 +32,8 @@ We also host the [Let's Talk About Public Code livestream and podcast](https://p
 
 ### Community calls
 
-Community calls are a way to get direct input from the Foundation for Public Code community on topics that in any way are of concern to them. We host community calls regularly and they are open for anyone to join.
+Community calls are a way to get direct input from the Foundation for Public Code community on topics that in any way are of concern to them.
+We host community calls regularly and they are open for anyone to join.
 
 * [Instructions on how to run a community call](running-community-call.md)
 * [Community call invite template](community-call-invite-template.md)

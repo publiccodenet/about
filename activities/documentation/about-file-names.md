@@ -14,7 +14,8 @@ For example `beer-pong.md`, `discos.md` or `file-to-solve-all-of-your-issues.md`
 
 ## Glossary
 
-In the glossary files with definitions are named the term followed by `-definition.md`. For example `ice-cream-definition.md` or `batmobile-definition.md`
+In the glossary files with definitions are named the term followed by `-definition.md`.
+For example `ice-cream-definition.md` or `batmobile-definition.md`
 
 ## Exceptions for naming conventions
 

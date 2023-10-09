@@ -7,7 +7,10 @@ explains: how banking is managed at the Foundation
 
 # Bank
 
-Our bank is the Rabobank. There is a EUR checking and savings account. We are in the process of opening a USD account. There are bank cards, credit cards and online keys.
+Our bank is the Rabobank.
+There is a EUR checking and savings account.
+We are in the process of opening a USD account.
+There are bank cards, credit cards and online keys.
 
 These people have bank access:
 
