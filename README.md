@@ -3,10 +3,11 @@
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net> -->
 
+We help open source projects for public organizations to become successful, build sustainable communities around them and create a thriving public open source ecosystem.
+
 [Our mission](organization/mission.md) is:
 
 > [...] to enable public-purpose software and policy that is open and collaborative.
-
 
 The [About site](activities/documentation/index.md) is home to all of our staff information, decision-making rules and processes. It is our staff manual that can be developed collaboratively with the community and reused by everyone.
 
