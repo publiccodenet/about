@@ -7,7 +7,9 @@ explains: How to organize an event
 
 # Organizing events
 
-As an organization which cares about helping people to collaborate there will be plenty of times when that is best done by getting people in the same room to meet face to face. This is a guide that will be useful for anyone who is organizing such events. It is by design made as a chronological guide in order to be followed and checked in to over time.
+As an organization which cares about helping people to collaborate there will be plenty of times when that is best done by getting people in the same room to meet face to face.
+This is a guide that will be useful for anyone who is organizing such events.
+It is by design made as a chronological guide in order to be followed and checked in to over time.
 
 ## As early as possible
 

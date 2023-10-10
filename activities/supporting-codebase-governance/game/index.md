@@ -9,7 +9,8 @@ redirect_from:
 
 # Governance game
 
-The governance game is a game on governance of [Public Code](../../../glossary/public-code-definition.md) intended to be used as a way to get a conversation and reflection about governance started. We aim to use it during [early incubation of a codebase](../../codebase-stewardship/product-assets-for-early-incubation.md) and in external [workshops](../index.md) to highlight the complexities of governance.
+The governance game is a game on governance of [Public Code](../../../glossary/public-code-definition.md) intended to be used as a way to get a conversation and reflection about governance started.
+We aim to use it during [early incubation of a codebase](../../codebase-stewardship/product-assets-for-early-incubation.md) and in external [workshops](../index.md) to highlight the complexities of governance.
 
 ## Workshops
 
@@ -18,4 +19,5 @@ The governance game is a game on governance of [Public Code](../../../glossary/p
 
 ## Repository
 
-The [repository for the game](https://github.com/publiccodenet/governance-game) can be found on GitHub. There you can download cards to print them yourself or suggest improvements.
+The [repository for the game](https://github.com/publiccodenet/governance-game) can be found on GitHub.
+There you can download cards to print them yourself or suggest improvements.

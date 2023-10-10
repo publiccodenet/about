@@ -11,7 +11,7 @@ Other organizations that we collaborate with can become [affiliates](../../gloss
 
 [See our current affiliates](../../organization/affiliates.md).
 
-If you're interested in being affiliated with us, or have any questions, please email us at <info@publiccode.net>.
+People interested in becoming affiliates, or have questions about affiliations, can email us at <info@publiccode.net>.
 
 ## Resources
 

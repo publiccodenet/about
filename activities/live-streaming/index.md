@@ -6,7 +6,8 @@ type: index
 
 # Live streamed podcast
 
-We use live streams as a tool to communicate. We host a podcast style live stream show called 'Let's talk about public code'.
+We use live streams as a tool to communicate.
+We host a podcast style live stream show called 'Let's talk about public code'.
 
 ## Goals
 
@@ -25,7 +26,8 @@ We use live streams as a tool to communicate. We host a podcast style live strea
 
 ### Guest selection criteria
 
-Guests have an interesting perspective to contribute on the development of public codebase stewardship based on their experience. They can come from anywhere (including non-public open source projects).
+Guests have an interesting perspective to contribute on the development of public codebase stewardship based on their experience.
+They can come from anywhere (including non-public open source projects).
 The overlap between the guest's experience and our interests should be clear in the invitation, the question guide and our communications for the podcast.
 
 ## Target audience

@@ -6,7 +6,9 @@ type: Index
 
 # User personas
 
-In order to understand better the behavior and aspirations of our community, we've developed this *personas* template folder. In user-centered design and marketing, a persona or user persona is a fictional character created to represent a user type. Our community members have important needs and frustrations that must be kept in mind when developing a resource for them.
+In order to understand better the behavior and aspirations of our community, we've developed this *personas* template folder.
+In user-centered design and marketing, a persona or user persona is a fictional character created to represent a user type.
+Our community members have important needs and frustrations that must be kept in mind when developing a resource for them.
 
 Once again, every persona represented here describes the behavior of a hypothesized contributor of our community.
 

@@ -10,7 +10,8 @@ We manage contracts using Docusign.
 
 ## Using Docusign
 
-The chief executive and operations coordinator have an account. Contracts are uploaded and signatures can be requested via the interface.
+The chief executive and operations coordinator have an account.
+Contracts are uploaded and signatures can be requested via the interface.
 
 ## Privacy and GDPR
 

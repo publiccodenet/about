@@ -7,7 +7,8 @@ explains: how to use Planable
 
 # How to post to social media
 
-We use Planable to draft, review and post social media posts on Twitter, LinkedIn and Facebook. Planable is set up so that many people on the team can propose social media posts, but no posts can go live without a review.
+We use Planable to draft, review and post social media posts on Twitter, LinkedIn and Facebook.
+Planable is set up so that many people on the team can propose social media posts, but no posts can go live without a review.
 
 Our goals for Planable are:
 
@@ -17,7 +18,8 @@ Our goals for Planable are:
 
 ## Why we post to social media
 
-We use social media to share information that's interesting or exciting to us. Our information should be timely, and it's ok if posts are no longer relevant a week after they're published.
+We use social media to share information that's interesting or exciting to us.
+Our information should be timely, and it's ok if posts are no longer relevant a week after they're published.
 
 Typical content for our social posts includes:
 

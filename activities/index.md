@@ -19,6 +19,7 @@ Activities that support the above as well as make staff operations work:
 * [Conflicts of interest](conflict-of-interest/index.md)
 * [Creating affiliations](creating-affiliations/index.md)
 * [Creating partnerships](creating-partnerships/index.md)
+* [Codebase stewardship](codebase-stewardship/index.md)
 * [Documentation](documentation/index.md)
 * [Events](events/index.md)
 * [Explaining codebase stewardship](explaining-codebase-stewardship/index.md)

@@ -18,7 +18,8 @@ The Foundation for Public Code is actively looking for diverse public organizati
 
 Only public organizations can become partners.
 Other organizations can become [affiliates](../creating-affiliations/index.md)
-If you're interested in partnership for your organization, or have any questions, please email us at <partnerships@publiccode.net>.
+
+People interested in becoming partners, or who have questions about partnerships, can email us at <partnerships@publiccode.net>.
 
 ## Resources
 

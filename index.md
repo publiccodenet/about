@@ -14,7 +14,8 @@ We do this through ecosystem level [codebase stewardship](activities/codebase-st
 
 ## Information and processes
 
-The [About site](activities/documentation/index.md) is home to all of our staff information, decision-making rules and processes. It is our staff manual that can be developed collaboratively with the community and reused by everyone.
+The [About site](activities/documentation/index.md) is home to all of our staff information, decision-making rules and processes.
+It is our staff manual that can be developed collaboratively with the community and reused by everyone.
 
 Read more about:
 

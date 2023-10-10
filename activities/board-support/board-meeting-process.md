@@ -44,7 +44,9 @@ Board members may be sent an overview of the open action items between meetings.
 
 The archive of the board will be kept on a secret shared drive.
 
-The drive is accessible to board members whilst a member. Future board members can also see the historical archive. Access is also granted to those assisting the secretary.
+The drive is accessible to board members whilst a member.
+Future board members can also see the historical archive.
+Access is also granted to those assisting the secretary.
 
 The drive contains:
 

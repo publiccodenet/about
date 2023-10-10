@@ -13,7 +13,9 @@ In order to achieve our mission we need to spend money.
 For larger institutional expenses we pay invoices from our bank account.
 For smaller expenses it's more practical for staff to pay directly and then request reimbursement.
 
-As a matter of professional bookkeeping practice we always have complete documentation for each expense. We also make sure that expenses are not only documented properly but also proper per sé. We actively strive to reduce the overhead of processing invoices, as well as reduce access risks.
+As a matter of professional bookkeeping practice we always have complete documentation for each expense.
+We also make sure that expenses are not only documented properly but also proper per sé.
+We actively strive to reduce the overhead of processing invoices, as well as reduce access risks.
 
  Our [remuneration policy](../../organization/remuneration-policy.md) describes what you can expense.
 
