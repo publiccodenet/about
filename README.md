@@ -23,7 +23,8 @@ It's `main` branch is the official ['source of truth'](GOVERNANCE.md) and centra
 We are looking for people like you to [contribute](CONTRIBUTING.md) to this project by suggesting improvements and helping develop the Foundation for Public Code. 😊
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
-By participating in this project you agree to abide by its terms. Please be lovely to all other community members.
+By participating in this project you agree to abide by its terms.
+Please be lovely to all other community members.
 
 ## Preview, build and deploy
 
