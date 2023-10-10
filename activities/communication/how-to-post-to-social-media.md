@@ -34,7 +34,7 @@ Most of our social followers are real people (many of whom we know!) who are alr
 
 ## Tips for writing social media posts
 
-* The most interesting posts are the ones from our community and codebases.Try to showcase their success stories before Foundation for Public Code centered news.
+* The most interesting posts are the ones from our community and codebases. Try to showcase their success stories before Foundation for Public Code centered news.
 * Make sure the audience of your post matches the [Foundation for Public Code audience](/communications-plan.md#audience).
 * Keep in mind audiences in other time zones. Is your message important for them to read?
 * Use the right tone in your post. Notice that enthusiasm varies whether we're announcing something that excites us or not.
