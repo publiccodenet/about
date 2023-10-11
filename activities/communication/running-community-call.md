@@ -44,7 +44,8 @@ Agenda link: <https://hackmd.io/9THmWbpQTLi8L9UIzczSyw>
 
 ### No show
 
-If nobody joins at the call starting time, wait at least 15 minutes before closing the call. If possible, leave the call open the entire hour for potential late drop-ins.
+If nobody joins at the call starting time, wait at least 15 minutes before closing the call.
+If possible, leave the call open the entire hour for potential late drop-ins.
 
 ### Introduction round
 

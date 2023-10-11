@@ -11,7 +11,8 @@ redirect_from:
 
 ## Set agenda
 
-Together with the codebase stewards figure out if there is anything specific you want to discuss on the next call. As a help, take a look at the [open issues](https://github.com/publiccodenet/standard/issues) and [open pull requests](https://github.com/publiccodenet/standard/pulls) in GitHub.
+Together with the codebase stewards figure out if there is anything specific you want to discuss on the next call.
+As a help, take a look at the [open issues](https://github.com/publiccodenet/standard/issues) and [open pull requests](https://github.com/publiccodenet/standard/pulls) in GitHub.
 
 * Update the [agenda](https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code)
 
@@ -32,7 +33,9 @@ Together with the codebase stewards figure out if there is anything specific you
 
 ### Internal
 
-Invite codebase stewards and other Foundation for Public Code staff that could be benefit from and to the call. Be clear in assigning roles/tasks to them so they know what is expected and have a chance to prepare for the call. Commonly used roles are:
+Invite codebase stewards and other Foundation for Public Code staff that could be benefit from and to the call.
+Be clear in assigning roles/tasks to them so they know what is expected and have a chance to prepare for the call.
+Commonly used roles are:
 
 * the chair, who opens the call on behalf of the Foundation
 * experts leading specific substantive sections of the call (otherwise this is the chair)

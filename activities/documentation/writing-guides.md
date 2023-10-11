@@ -7,7 +7,8 @@ explains: How to clearly explain to others how to do something by making a guide
 
 # Write a guide
 
-[Guides](../../glossary/guide-definition.md) are how we explain things to each other. The goal of a guide is always to help others go through a process and get to a result, preferably by themselves.
+[Guides](../../glossary/guide-definition.md) are how we explain things to each other.
+The goal of a guide is always to help others go through a process and get to a result, preferably by themselves.
 
 Capturing knowledge about our processes as guides helps onboard newcomers and gives insight into how we work.
 
@@ -33,7 +34,8 @@ explains: How to make pancakes for hungry people
 
 ```
 
-After the `explains` you should set out what this guide tries to explain and to whom - this is the goal of the guide. Writing this first will help you scope what you are explaining and will provide a clear answer for readers on whether this is for them.
+After the `explains` you should set out what this guide tries to explain and to whom - this is the goal of the guide.
+Writing this first will help you scope what you are explaining and will provide a clear answer for readers on whether this is for them.
 
 ### Title
 

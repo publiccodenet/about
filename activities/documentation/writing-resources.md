@@ -7,7 +7,8 @@ explains: How to provide people with the information they need on About
 
 # How to write a resource
 
-[Resources](../../glossary/resource-definition.md) are packets of reusable information. They are the main way we store information.
+[Resources](../../glossary/resource-definition.md) are packets of reusable information.
+They are the main way we store information.
 
 Resources are shared truths in the Foundation for Public Code that everyone can work from.
 

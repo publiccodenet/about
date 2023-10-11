@@ -27,11 +27,13 @@ These are all the activities, documents and templates for Communication.
 
 We meet our community regularly by [attending and running events](../events) and [workshops](../workshops), and by [hosting community calls](../community-calls).
 
-We also host the [Let's Talk About Public Code livestream and podcast](https://podcast.publiccode.net/), where we interview people working with public code codebases and take audience questions. [Read about how we make podcasts](../live-streaming/).
+We also host the [Let's Talk About Public Code livestream and podcast](https://podcast.publiccode.net/), where we interview people working with public code codebases and take audience questions.
+[Read about how we make podcasts](../live-streaming/).
 
 ### Community calls
 
-Community calls are a way to get direct input from the Foundation for Public Code community on topics that in any way are of concern to them. We host community calls regularly and they are open for anyone to join.
+Community calls are a way to get direct input from the Foundation for Public Code community on topics that in any way are of concern to them.
+We host community calls regularly and they are open for anyone to join.
 
 * [Instructions on how to run a community call](running-community-call.md)
 * [Community call invite template](community-call-invite-template.md)

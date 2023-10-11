@@ -7,7 +7,8 @@ Explains: how to blog
 
 # How and why we blog
 
-[We blog](https://blog.publiccode.net/) for a number of different reasons. This guide gives background information about the blog and instructions on how to blog.
+[We blog](https://blog.publiccode.net/) for a number of different reasons.
+This guide gives background information about the blog and instructions on how to blog.
 
 ## Why we have a blog
 
@@ -20,13 +21,18 @@ The blog is our primary tool for talking about:
 
 Not all information published on the blog needs to support our marketing strategy - for example, an in-depth discussion about a technology choice we’ve made may not persuade potential Foundation for Public Code partners, but will be interesting to technologists in our community.
 
-To make sure we have the editorial freedom to publish about all of our work (no matter how niche), there’s no direct link to the blog on [publiccode.net](https://publiccode.net/). Instead, we may feature important blogposts. (We’ll build this functionality once we have important blogposts.)
+To make sure we have the editorial freedom to publish about all of our work (no matter how niche), there’s no direct link to the blog on [publiccode.net](https://publiccode.net/).
+Instead, we may feature important blogposts.
+(We’ll build this functionality once we have important blogposts.)
 
 ## Blogposts are ephemera
 
-Blogposts are different from [resources and guides published on About](../documentation/index.md), which we keep updating. By contrast, a blogpost is only true at that moment in time. We shouldn’t ever update a blogpost with more current information.
+Blogposts are different from [resources and guides published on About](../documentation/index.md), which we keep updating.
+By contrast, a blogpost is only true at that moment in time.
+We shouldn’t ever update a blogpost with more current information.
 
-Instead, we can add a note with a link to follow up blogposts or new information published on the same topic. Adding links from older blogposts to newer blogposts also lets new blogposts benefit from the greater search engine weighting given to older, still popular pages.
+Instead, we can add a note with a link to follow up blogposts or new information published on the same topic.
+Adding links from older blogposts to newer blogposts also lets new blogposts benefit from the greater search engine weighting given to older, still popular pages.
 
 This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/) and avoids undermining our position of authority - for example, we'll never have to change a blogpost to say that due to a government policy shift, an expert we’ve interviewed is no longer in post (which might cast doubt on that expert’s still-relevant advice).
 
@@ -42,7 +48,8 @@ This approach reduces our [future content debt](https://18f.gsa.gov/2016/05/19/c
 
 ## Write your blogpost
 
-Write your draft blogpost using a collaborative document tool. This lets you share it for pair writing, factchecking, feedback or proofreading.
+Write your draft blogpost using a collaborative document tool.
+This lets you share it for pair writing, factchecking, feedback or proofreading.
 
 Don't hesitate to involve other people in your writing process - we want you to succeed, and we know how helpful an external perspective can be once something starts to feel like a slog.
 

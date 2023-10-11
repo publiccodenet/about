@@ -8,7 +8,9 @@ redirect_from:
 
 # Staff information
 
-Guides for all staff. Everything important for working for us should be here, except [specific information about our office building](https://docs.google.com/document/d/1KJx7p1ep8MEYQ6YmQc4iJesLCRP8UmGAHL3PiZBs-GE/edit) (secret). Staff are expected to follow our:
+Guides for all staff.
+Everything important for working for us should be here, except [specific information about our office building](https://docs.google.com/document/d/1KJx7p1ep8MEYQ6YmQc4iJesLCRP8UmGAHL3PiZBs-GE/edit) (secret).
+Staff are expected to follow our:
 
 * [code of conduct](../../CODE_OF_CONDUCT.md), which applies everyone involved in the Foundation for Public Code or its work in an any capacity
 * [staff code of conduct](../../organization/staff-code-of-conduct.md), which has additional requirements only for staff (for example, around receiving gifts and conflicts of interest)

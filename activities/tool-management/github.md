@@ -6,7 +6,9 @@ type: resource
 
 # GitHub
 
-GitHub, Inc. is a subsidiary of Microsoft which provides hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.
+GitHub, Inc. is a subsidiary of Microsoft which provides hosting for software development and version control using Git.
+It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.
+It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.
 
 ## Using GitHub
 
@@ -14,7 +16,9 @@ GitHub is our bread and butter when it comes to codebase management, codebase au
 
 ## GitHub management
 
-Our GitHub account is managed by the directors and codebase stewards. New employees are onboarded by one of the codebase stewards. We also have [documention available on About for newcomers](../trainings/github-for-newcomers.md).
+Our GitHub account is managed by the directors and codebase stewards.
+New employees are onboarded by one of the codebase stewards.
+We also have [documention available on About for newcomers](../trainings/github-for-newcomers.md).
 
 ## Privacy and GDPR
 

@@ -6,7 +6,8 @@ type: Resource
 
 # Retrospective
 
-This is a template agenda for our regular retrospective. Sometimes we use [a different retrospective format](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) when it's a better fit for the situation.
+This is a template agenda for our regular retrospective.
+Sometimes we use [a different retrospective format](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) when it's a better fit for the situation.
 
 ## Goal
 

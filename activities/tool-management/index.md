@@ -6,7 +6,14 @@ type: index
 
 # Tool management and guidance
 
-The Foundation for Public Code needs tools to accomplish its mission. We use a variety of digital tools. Our tools range from being entirely self-managed, having service providers, to being completely externally managed. The operations coordinator is the system administrator of all the self-managed tools. They can create accounts and ensure updates happen regularly. The chief executive can do this as well. Most of these tools are used for our internal processes. Some are available to our community.
+The Foundation for Public Code needs tools to accomplish its mission.
+We use a variety of digital tools.
+Our tools range from being entirely self-managed, having service providers, to being completely externally managed.
+The operations coordinator is the system administrator of all the self-managed tools.
+They can create accounts and ensure updates happen regularly.
+The chief executive can do this as well.
+Most of these tools are used for our internal processes.
+Some are available to our community.
 
 ## This is how we manage our tools
 

@@ -18,7 +18,9 @@ DD Mon Foundation for Public Code community call
 
 Our next Foundation for Public Code community call will take place at hh.mm on Weekday, DD Month.
 
-[Insert line om what the topic of the call is. Also add a line on why we want to talk with the community about this. If participants can benefit of preparing, mention it as well.]
+[Insert line om what the topic of the call is.
+Also add a line on why we want to talk with the community about this.
+If participants can benefit of preparing, mention it as well.]
 
 If you have something else you would like to discuss please let us know, we are happy to make modifications to the agenda.
 

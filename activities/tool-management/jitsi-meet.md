@@ -6,7 +6,9 @@ type: resource
 
 # Jitsi Meet
 
-Jitsi Meet is our videocall and conference tool. Jitsi is an open source project that allows us to deploy secure video conferencing solutions. At the heart of Jitsi are Jitsi Videobridge and Jitsi Meet, which lets us have conferences on the internet, while other projects in the community enable other features such as audio, dial-in, recording, and simulcasting.
+Jitsi Meet is our videocall and conference tool.
+Jitsi is an open source project that allows us to deploy secure video conferencing solutions.
+At the heart of Jitsi are Jitsi Videobridge and Jitsi Meet, which lets us have conferences on the internet, while other projects in the community enable other features such as audio, dial-in, recording, and simulcasting.
 
 ## Using Jitsi Meet
 

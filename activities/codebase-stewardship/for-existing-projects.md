@@ -6,7 +6,8 @@ type: Resource
 
 # Codebase stewardship for existing projects
 
-Codebase stewardship can be provided to an existing codebase. In this case, there might be some important considerations about how to transition and budget for that.
+Codebase stewardship can be provided to an existing codebase.
+In this case, there might be some important considerations about how to transition and budget for that.
 
 ## How to start
 

@@ -11,7 +11,8 @@ Over time, unresolved issues will gather in the repository.
 In order to not forget important ideas and to not become overwhelmed by a huge backlog, we dedicate time to look through our oldest issues to see if they have been resolved, become obsolete or can be addressed in other ways.
 
 This work is done during a backlog pruning session.
-The session is open for anyone to attend at [https://meet.publiccode.net/backlogpruning](https://meet.publiccode.net/backlogpruning). We aim to hold sessions monthly on the second Thursday of the month, but may skip them if the schedule is too tight.
+The session is open for anyone to attend at [https://meet.publiccode.net/backlogpruning](https://meet.publiccode.net/backlogpruning).
+We aim to hold sessions monthly on the second Thursday of the month, but may skip them if the schedule is too tight.
 
 ## Holding a backlog pruning session
 

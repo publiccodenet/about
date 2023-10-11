@@ -35,9 +35,11 @@ The goals, delegation size and costs can be indicative rather than precise.
 
 ### Personal development
 
-Another reason for attending events is for staff members to learn new things and extend their skill sets. Choosing events to attend should be personalized for the staff member's role and career ambitions.
+Another reason for attending events is for staff members to learn new things and extend their skill sets.
+Choosing events to attend should be personalized for the staff member's role and career ambitions.
 
-Personal development trajectories should be discussed in your 1-1s with your manager. This will enable both you and your manager to easily spot opportunities you might be interested in.
+Personal development trajectories should be discussed in your 1-1s with your manager.
+This will enable both you and your manager to easily spot opportunities you might be interested in.
 
 Get your manager's support for your proposal to attend a personal development event before you email the CEO.
 

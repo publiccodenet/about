@@ -23,7 +23,8 @@ redirect_from:
 
 ### Digital
 
-A database component can store data collected by different people, and can be queried by different people for different reasons. This component can be replaced with a new database component without an overhaul of how the data was collected, or the process enabled by the data.
+A database component can store data collected by different people, and can be queried by different people for different reasons.
+This component can be replaced with a new database component without an overhaul of how the data was collected, or the process enabled by the data.
 
 ### Metaphorical
 
