@@ -28,9 +28,3 @@ Read more about:
 Our [home page at publiccode.net](https://publiccode.net) features a [high level overview of codebase stewardship](https://publiccode.net/codebase-stewardship/), [our team bios](https://publiccode.net/who-we-are/), and [the careers page with open positions](https://publiccode.net/careers).
 
 Additionally, we have separate sites that show our [projects](https://projects.publiccode.net), [how to use the brand](https://brand.publiccode.net/) and our [blog](https://blog.publiccode.net).
-
-## We need you
-
-We can [use your help](CONTRIBUTING.md) to make the Foundation for Public Code a success.
-
-If you want to get our news delivered directly to you, [join our mailing list](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).
