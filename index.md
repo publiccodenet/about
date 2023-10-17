@@ -31,4 +31,4 @@ Additionally, we have separate sites that show our [projects](https://projects.p
 
 ## Open to contribution
 
-We [encourage contributions](CONTRIBUTING.md) by anyone to help make the Foundation for Public Code improve.
+We [encourage contributions](CONTRIBUTING.md) by anyone to help improve the Foundation for Public Code.
