@@ -51,7 +51,7 @@ The North America chapter is the first chapter of the Foundation for Public Code
 
 | One year | Five years | Twenty years |
 |---|---|---|
-| {::nomarkdown}<ul><li>Consolidate the North American chapter</li><li>Launch the European chapter</li><li>Identify opportunities for future chapters</li></ul>{:/} | {::nomarkdown}<ul><li>Chapters in 3 to 5 geographical regions</li><li>Strong inter-chapter collaboration and exchange of best practice</li></ul>{:/} | {::nomarkdown}<ul><li>Chapters in all or most geographical regions, supporting public code regionally</li><li>Global umbrella organization setting the global agenda for public code</li></ul>{:/} |
+| {::nomarkdown}<ul><li>Consolidate and grow the North American chapter</li><li>Launch the European chapter</li><li>Identify opportunities for future chapters</li></ul>{:/} | {::nomarkdown}<ul><li>Chapters in 3 to 5 geographical regions</li><li>Wide financial and political support for chapters from within their respective regions</li></ul>{:/} | {::nomarkdown}<ul><li>Chapters in all or most geographical regions, supporting public code regionally</li><li>Global umbrella organization setting the global agenda for public code</li></ul>{:/} |
 
 ## Tending to stewardship
 
