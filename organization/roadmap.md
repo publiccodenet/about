@@ -41,15 +41,17 @@ In addition, we will seek organizations that are planning similar large procurem
 |---|---|---|
 | {::nomarkdown}<ul><li>Define and build-out Partnership relations</li><li>International Partner</li><li>Create narratives of collaboration with partners in order to bring more interested parties in</li><li>Provide firesouls with anything they need in order to advocate for us</li></ul>{:/} | {::nomarkdown}<ul><li>Multiple international partners (for instance OS2)</li><li>Examples of networks of partners leading to structural funding or membership in their parent organizations</li><li>Example of shared procurement amongst partners (and members)</li></ul>{:/} | {::nomarkdown}<ul><li>Vast global ecosystem of partners on many levels of public administration</li><li>Significant percentage of partners heading towards membership or structural funding</li></ul>{:/} |
 
-### Memberships
+### Chapters
 
-Our most active focus for membership in the Foundation will shift toward provinces, states, and national governments.
-If the Foundation for Public Code begins to prove value within a network of regional municipal partners, it makes most sense to take the case for structural support to the infrastructural agencies of the ‘parent’ state.
-We are moving conversations forward with national governments in Europe and North America, and expect to slowly scale the rate at which we add state-level members.
+The Foundation for Public Code is transforming its organizational model to enable international chapters.
+There will be a global umbrella organization, along with local chapter organizations.
+The umbrella organization will be an association in which the strategic council, board of directors, and delegates from the chapter organizations work together to define long term priorities.
+Local chapters will tailour their work based on the needs of the local public code ecosystem and participating public organizations.
+The North America chapter is the first chapter of the Foundation for Public Code.
 
 | One year | Five years | Twenty years |
 |---|---|---|
-| {::nomarkdown}<ul><li>At least five partner organizations moving towards membership</li><li>With one or more signing on as members</li><li>Establish our first international field office to develop potential members, partners, and codebases</li></ul>{:/} | {::nomarkdown}<ul><li>Members from at least two nations</li><li>A national-level public organization is a member</li></ul>{:/} | {::nomarkdown}<ul><li>The Foundation for Public Code is a global public organization owned by numerous international public members</li><li>Governance model and support activities recognized akin to other global orgs (e.g. Red Cross)</li></ul>{:/} |
+| {::nomarkdown}<ul><li>Consolidate the North American chapter</li><li>Launch the European chapter</li><li>Identify opportunities for future chapters</li></ul>{:/} | {::nomarkdown}<ul><li>Chapters in 3 to 5 geographical regions</li><li>Strong inter-chapter collaboration and exchange of best practice</li></ul>{:/} | {::nomarkdown}<ul><li>Chapters in all or most geographical regions, supporting public code regionally</li><li>Global umbrella organization setting the global agenda for public code</li></ul>{:/} |
 
 ## Tending to stewardship
 
