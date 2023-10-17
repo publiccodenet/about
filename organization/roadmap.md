@@ -39,7 +39,7 @@ In addition, we will seek organizations that are planning similar large procurem
 
 | One year | Five years | Twenty years |
 |---|---|---|
-| {::nomarkdown}<ul><li>Define and build-out Partnership relations</li><li>International Partner</li><li>Create narratives of collaboration with partners in order to bring more interested parties in</li><li>Provide firesouls with anything they need in order to advocate for us</li></ul>{:/} | {::nomarkdown}<ul><li>Multiple international partners (for instance OS2)</li><li>Examples of networks of partners leading to structural funding or membership in their parent organizations</li><li>Example of shared procurement amongst partners (and members)</li></ul>{:/} | {::nomarkdown}<ul><li>Vast global ecosystem of partners on many levels of public administration</li><li>Significant percentage of partners heading towards membership or structural funding</li></ul>{:/} |
+| {::nomarkdown}<ul><li>Define and build-out Partnership relations</li><li>International Partner</li><li>Create narratives of collaboration with partners in order to bring more interested parties in</li><li>Provide firesouls with anything they need in order to advocate for us</li></ul>{:/} | {::nomarkdown}<ul><li>Multiple international partners (for instance OS2)</li><li>Examples of networks of partners leading to structural funding in their parent organizations</li><li>Example of shared procurement amongst partners</li></ul>{:/} | {::nomarkdown}<ul><li>Vast global ecosystem of partners on many levels of public administration</li><li>Significant percentage of partners heading towards structural funding</li></ul>{:/} |
 
 ### Chapters
 
