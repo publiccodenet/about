@@ -7,6 +7,7 @@ type: Resource
 # Roadmap
 
 This roadmap serves as a model for how we're developing, growing and scaling our organization.
+It is defined and approved by the board of directors.
 
 ## Growing the public code ecosystem
 
