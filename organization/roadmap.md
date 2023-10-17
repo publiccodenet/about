@@ -11,7 +11,7 @@ It is defined and approved by the board of directors.
 
 ## Growing the public code ecosystem
 
-> Awareness, Partnership, and Membership
+> Awareness, Partnership, and Chapters
 
 The Foundation for Public Code will continue to transform and expand to meet the growing needs for digital infrastructure stewardship in the public sector.
 
