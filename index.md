@@ -29,8 +29,6 @@ Our [home page at publiccode.net](https://publiccode.net) features a [high level
 
 Additionally, we have separate sites that show our [projects](https://projects.publiccode.net), [how to use the brand](https://brand.publiccode.net/) and our [blog](https://blog.publiccode.net).
 
-## We need you
+## Open to contribution
 
-We can [use your help](CONTRIBUTING.md) to make the Foundation for Public Code a success.
-
-If you want to get our news delivered directly to you, [join our mailing list](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).
+We [encourage contributions](CONTRIBUTING.md) by anyone to help improve the Foundation for Public Code.
