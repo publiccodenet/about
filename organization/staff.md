@@ -8,7 +8,7 @@ type: Resource
 
 The staff of the Foundation for Public Code Vereniging are employees that execute the work agreed on by the [general assembly](../organization/governance-model.md#general-assembly) under direction of the [board of directors](../organization/governance-model.md#board-of-directors).
 
-[Meet our team](https://publiccode.net/who-we-are/) or [come work with us](https://publiccode.net/careers).
+All staff are represented on our ["who we are" page](https://publiccode.net/who-we-are/) and we hire through our [careers page](https://publiccode.net/careers).
 
 As we are a community leadership organization that mostly helps others, we aim for minimal hierarchy and overhead and maximal autonomy for the specialists who further [our mission](mission.md).
 
