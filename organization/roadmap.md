@@ -6,7 +6,7 @@ type: Resource
 
 # Roadmap
 
-This roadmap serves as a model for how we're developing, growing and scaling our organization. It sets out the roles for both the staff and the members of the Foundation for Public Code.
+This roadmap serves as a model for how we're developing, growing and scaling our organization.
 
 ## Growing the public code ecosystem
 
