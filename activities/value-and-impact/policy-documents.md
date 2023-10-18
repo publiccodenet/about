@@ -9,6 +9,7 @@ explains: where we are mentioned in public policy documents
 
 ## 2023
 
+* Swedish Working group for coordination of software (asom): [Meeting minutes 2023-08-31: strategically strive for Standard for Public Code certification](https://ocis.sma.owncloud.works/s/AeJtUOAPYxjeUnl) (in Swedish)
 * T20 India: [Laying the Foundation for the Future: Open Source Sustainability and the Adoption of Digital Public Goods](https://t20ind.org/research/laying-the-foundation-for-the-future/)
 
 ## 2022
