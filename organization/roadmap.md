@@ -47,7 +47,7 @@ The Foundation for Public Code is transforming its organizational model to enabl
 There will be a global umbrella organization, along with local chapter organizations.
 The umbrella organization will be an association in which the strategic council, board of directors, and delegates from the chapter organizations work together to define long term priorities.
 Local chapters will tailour their work based on the needs of the local public code ecosystem and participating public organizations.
-The North America chapter is the first chapter of the Foundation for Public Code.
+The North America chapter is the Foundation for Public Code's first local chapter.
 
 | One year | Five years | Twenty years |
 |---|---|---|
