@@ -27,9 +27,9 @@ Jitsi is running on a VPS with 8 GB of RAM for resilience and scalability. The V
 
 SSH keys are needed to perform updates, as one needs to access the machines as root. Log into the machine via the command line with:
 
-`Jitsi internal: ssh root@188.166.30.33`
+Jitsi internal: `ssh root@meet.publiccode.net`
 
-`Jitsi community: ssh root@161.35.83.251`
+Jitsi community: `ssh root@meet.community.publiccode.net`
 
 The following commands perform general updates and upgrades:
 
