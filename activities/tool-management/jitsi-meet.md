@@ -25,11 +25,18 @@ We also have a Jitsi instance running for our community on 'meet.community.publi
 
 Jitsi is running on a VPS with 8 GB of RAM for resilience and scalability. The VPS is maintained by the operations coordinator who also takes care of user administration and customizations.
 
+The internal `meet.publiccode.net` system is configured with Ubuntu LTS, with the following additions:
+
+```
+/etc/apt/sources.list.d/jitsi-stable.list
+/etc/apt/sources.list.d/prosody.list
+```
+
 SSH keys are needed to perform updates, as one needs to access the machines as root. Log into the machine via the command line with:
 
-`Jitsi internal: ssh root@188.166.30.33`
+Jitsi internal: `ssh root@meet.publiccode.net`
 
-`Jitsi community: ssh root@161.35.83.251`
+Jitsi community: `ssh root@meet.community.publiccode.net`
 
 The following commands perform general updates and upgrades:
 
@@ -53,15 +60,25 @@ If you need to make tweaks to the configuration files, then these can be accesse
 
 `nano /etc/prosody/conf.avail/meet.publiccode.net.cfg.lua`
 
-`prosodyctl register user meet.publiccode.net password`
-
 `nano /usr/share/jitsi-meet/interface_config.js`
 
+If you are making changes or updates to the Jitsi Community configuration `meet.publiccode.net` needs to be replaced with `meet.community.publiccode.net`
+
+On the internal server,
 [Prosody](https://prosody.im/) is used for creating and managing user accounts.
 
 `ls -l /var/lib/prosody/*/accounts/*`
 
-If you are making changes or updates to the Jitsi Community configuration `meet.publiccode.net` needs to be replaced with `meet.community.publiccode.net`
+Accounts can be created from the commandline:
+
+```
+register ${NEW_USER_NAME} meet.publiccode.net $(random-string)
+cat /var/lib/prosody/meet%2epubliccode%2enet/accounts/${NEW_USER_NAME}.dat
+```
+
+On the meet.community.publiccode.net server, accounts are created and managed with
+[publiccodenet/jitsi-community](https://github.com/publiccodenet/jitsi-community)
+as described in [jitsi-guides](jitsi-guides.md).
 
 ## Jitsi customization
 
