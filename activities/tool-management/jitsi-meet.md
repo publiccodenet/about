@@ -60,15 +60,25 @@ If you need to make tweaks to the configuration files, then these can be accesse
 
 `nano /etc/prosody/conf.avail/meet.publiccode.net.cfg.lua`
 
-`prosodyctl register user meet.publiccode.net password`
-
 `nano /usr/share/jitsi-meet/interface_config.js`
 
+On the internal server,
 [Prosody](https://prosody.im/) is used for creating and managing user accounts.
 
 `ls -l /var/lib/prosody/*/accounts/*`
 
 If you are making changes or updates to the Jitsi Community configuration `meet.publiccode.net` needs to be replaced with `meet.community.publiccode.net`
+
+Accounts can be created from the commandline:
+
+```
+register ${NEW_USER_NAME} meet.publiccode.net $(random-string)
+cat /var/lib/prosody/meet%2epubliccode%2enet/accounts/${NEW_USER_NAME}.dat
+```
+
+On the meet.community.publiccode.net server, accounts are created and managed with
+[publiccodenet/jitsi-community](https://github.com/publiccodenet/jitsi-community)
+as described in [jitsi-guides](jitsi-guides.md).
 
 ## Jitsi customization
 
