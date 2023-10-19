@@ -25,6 +25,13 @@ We also have a Jitsi instance running for our community on 'meet.community.publi
 
 Jitsi is running on a VPS with 8 GB of RAM for resilience and scalability. The VPS is maintained by the operations coordinator who also takes care of user administration and customizations.
 
+The internal `meet.publiccode.net` system is configured with Ubuntu LTS, with the following additions:
+
+```
+/etc/apt/sources.list.d/jitsi-stable.list
+/etc/apt/sources.list.d/prosody.list
+```
+
 SSH keys are needed to perform updates, as one needs to access the machines as root. Log into the machine via the command line with:
 
 Jitsi internal: `ssh root@meet.publiccode.net`
