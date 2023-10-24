@@ -21,7 +21,7 @@ This includes uploading important emojis :)
 
 General updates and upgrades by SSH-ing into the machine as root:
 
-`ssh root@64.227.76.103`
+`ssh root@chat.publiccode.net`
 
 `apt update`
 
