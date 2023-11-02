@@ -100,7 +100,7 @@ If you would like to link to another blogpost, use a [dynamic link](https://www.
 Example:
 
 ```
-[Text you want to hyperlink]({% post_url yyyy-mm-dd-title-of-the-post-you-want-to-link %})
+{% raw %}[Text you want to hyperlink]({% post_url yyyy-mm-dd-title-of-the-post-you-want-to-link %}){% endraw %}
 ```
 
 ### Step 3: create a pull request and release the new blogpost
