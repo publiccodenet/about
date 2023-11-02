@@ -94,11 +94,15 @@ Are you a lobbying org? Are you the same as the FSFE?
 * No. We work with the organizations that have already decided to use open source. We're non-partisan and can't lobby, as per our founding principles and non-profit status.
 * No. There are plenty of other organizations (like FSFE) that focus on persuading organizations that haven't decided to use open source to do so. That isn't part of [our mission](https://about.publiccode.net/organization/mission.html).
 
-Where does your money come from?
+How are you funded?
 
-* The runway was provided by a philanthropic grant, but long term the members of the association (which must be wholly publicly owned, like cities, provinces or states) pool the money and decide which codebases we should work on. In the long term, we expect we'll be funded by a combination of member dues and philanthropic gifts.
-* We're member-funded, but how to get members for a new association is a chicken and egg problem, so we started with a philanthropic grant.
-* In the future, member dues will pay for our core activities. Our expansion and our research and development may be philanthropically funded - this will allow us to develop new stewardship activities, and design and test new assets before we apply these to core activities, which are effectively taxpayer funded.
+* The runway was provided by a philanthropic grant, with the goal that the members of the association (which must be wholly publicly owned, like cities, provinces or states) pool the money and decide which codebases we should work on. In the long term, we thought we would be funded by a combination of member dues and philanthropic gifts.
+* After we complete the transition to a global international organization with local chapters, we expect our funds will come from a combination of structural funding by provincial, national or supranational governments (to multiply stewardship work with our partners), grants from structural philanthropic sources, and individual philanthropic gifts.
+
+What about donor influence - do you have a conflict of interest?
+
+* No. We accept philanthropic donations, but only members (publicly owned organizations) can vote in the general assembly or appoint the board of directors.
+* No. We also don't work for hire; you can't pay the Foundation to do work.
 
 Is now the right time and place? What about incumbent vendors?
 
