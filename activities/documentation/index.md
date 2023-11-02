@@ -37,4 +37,4 @@ In order to make it easier to navigate and contribute information we try to limi
 * [How to publish on About (merging develop into main)](merge-develop-into-main.md)
 * [How to move, merge and delete pages](move-merge-delete-pages.md)
 
-See also our [trainings](../trainings/index.md), which have tips on Github, issues, jekyll, and more.
+See also our [trainings](../trainings/index.md), which have tips on Github, issues, Jekyll, and more.

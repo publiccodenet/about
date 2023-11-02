@@ -95,6 +95,14 @@ Example:
 {% raw %}![alternative text]({{site.url}}/assets/image.jpg){% endraw %}
 ```
 
+If you would like to link to another blogpost, use a [dynamic link](https://www.digitalocean.com/community/tutorials/how-to-control-urls-and-links-in-jekyll#making-robust-links-to-posts).
+
+Example:
+
+```
+{% raw %}[Text you want to hyperlink]({% post_url yyyy-mm-dd-title-of-the-post-you-want-to-link %}){% endraw %}
+```
+
 ### Step 3: create a pull request and release the new blogpost
 
 Commit your changes and create a pull request.
