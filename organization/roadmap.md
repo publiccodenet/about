@@ -6,11 +6,12 @@ type: Resource
 
 # Roadmap
 
-This roadmap serves as a model for how we're developing, growing and scaling our organization. It sets out the roles for both the staff and the members of the Foundation for Public Code.
+This roadmap serves as a model for how we're developing, growing and scaling our organization.
+It is defined and approved by the board of directors.
 
 ## Growing the public code ecosystem
 
-> Awareness, Partnership, and Membership
+> Awareness, Partnership, and Chapters
 
 The Foundation for Public Code will continue to transform and expand to meet the growing needs for digital infrastructure stewardship in the public sector.
 
@@ -30,29 +31,27 @@ To this end we will expand our capabilities and capacity to continuously produce
 
 ### Partnerships
 
-The Foundation for Public Code is an Association, which means that it is owned by its members.
-Only public administrations can become members, which will make them part owners of the Foundation, participating directly in its governance and sustainability.
-Membership of globally widespread public organizations is the long-term goal of the Foundation.
-However, we recognize that the hurdles for them to make such a commitment are significant.
-So going forward, we will first establish partnerships with interested public organizations, and help them prepare to participate in the codebase stewardship collaboration process.
-By building networks of collaboration with partners at the municipal and regional levels, it will become easier to bring the case for membership to national governments and larger states or provinces, as many of the gains in sharing public software across cities are recognized most easily by these ‘parent’ organizations.
+The Foundation for Public Code seeks to establish partnerships with interested public organizations, and help them prepare to participate in the codebase stewardship collaboration process.
+By building networks of collaboration with partners at the municipal and regional levels, it will become easier to bring the case for structural financial support to national governments and larger states or provinces, as many of the gains in sharing public software across cities are recognized most easily by these ‘parent’ organizations.
 
 A focus for the partnership program will be global diversification, with an interest in discovering and supporting existing open software infrastructure that has been developed by cities and their vendors regionally, and which solves a problem for multiple other potential replicating organizations.
 In addition, we will seek organizations that are planning similar large procurements, and help them collaborate around a single shared codebase instead of working in in parallel.
 
 | One year | Five years | Twenty years |
 |---|---|---|
-| {::nomarkdown}<ul><li>Define and build-out Partnership relations</li><li>International Partner</li><li>Create narratives of collaboration with partners in order to bring more interested parties in</li><li>Provide firesouls with anything they need in order to advocate for us</li></ul>{:/} | {::nomarkdown}<ul><li>Multiple international partners (for instance OS2)</li><li>Examples of networks of partners leading to structural funding or membership in their parent organizations</li><li>Example of shared procurement amongst partners (and members)</li></ul>{:/} | {::nomarkdown}<ul><li>Vast global ecosystem of partners on many levels of public administration</li><li>Significant percentage of partners heading towards membership or structural funding</li></ul>{:/} |
+| {::nomarkdown}<ul><li>Define and build-out Partnership relations</li><li>International Partner</li><li>Create narratives of collaboration with partners in order to bring more interested parties in</li><li>Provide firesouls with anything they need in order to advocate for us</li></ul>{:/} | {::nomarkdown}<ul><li>Multiple international partners (for instance OS2)</li><li>Examples of networks of partners leading to structural funding</li><li>Example of shared procurement amongst partners</li></ul>{:/} | {::nomarkdown}<ul><li>Vast global ecosystem of partners on many levels of public administration</li><li>Significant percentage of partners heading towards structural funding</li></ul>{:/} |
 
-### Memberships
+### Chapters
 
-Our most active focus for membership in the Foundation will shift toward provinces, states, and national governments.
-If the Foundation for Public Code begins to prove value within a network of regional municipal partners, it makes most sense to take the case for structural support to the infrastructural agencies of the ‘parent’ state.
-We are moving conversations forward with national governments in Europe and North America, and expect to slowly scale the rate at which we add state-level members.
+The Foundation for Public Code is transforming its organizational model to enable international chapters.
+There will be a global umbrella organization, along with local chapter organizations.
+The umbrella organization will be an association in which the strategic council, board of directors, and delegates from the chapter organizations work together to define long term priorities.
+Local chapters will tailor their work based on the needs of the local public code ecosystem and participating public organizations.
+The North America chapter is the Foundation for Public Code's first local chapter.
 
 | One year | Five years | Twenty years |
 |---|---|---|
-| {::nomarkdown}<ul><li>At least five partner organizations moving towards membership</li><li>With one or more signing on as members</li><li>Establish our first international field office to develop potential members, partners, and codebases</li></ul>{:/} | {::nomarkdown}<ul><li>Members from at least two nations</li><li>A national-level public organization is a member</li></ul>{:/} | {::nomarkdown}<ul><li>The Foundation for Public Code is a global public organization owned by numerous international public members</li><li>Governance model and support activities recognized akin to other global orgs (e.g. Red Cross)</li></ul>{:/} |
+| {::nomarkdown}<ul><li>Consolidate and grow the North American chapter</li><li>Launch the European chapter</li><li>Identify opportunities for future chapters</li></ul>{:/} | {::nomarkdown}<ul><li>Chapters in 3 to 5 geographical regions</li><li>Wide financial and political support for chapters from within their respective regions</li></ul>{:/} | {::nomarkdown}<ul><li>Chapters in all or most geographical regions, supporting public code regionally</li><li>Global umbrella organization setting the global agenda for public code</li></ul>{:/} |
 
 ## Tending to stewardship
 
