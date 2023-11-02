@@ -91,7 +91,7 @@ These are follow up questions we've received, and answers staff have given.
 
 What's currently happening with the Foundation?
 
-* We're in the middle of changing our legal form to become a global umbrella organization with local chapters. We will no longer have public organizations as association members because this was too difficult for most interested organizations; instead, we plan to work with public organizations as partners. 
+* We're in the middle of changing our legal form to become a global umbrella organization with local chapters. We will no longer have public organizations as association members because this was too difficult for most interested organizations; instead, we plan to work with public organizations as partners.
 
     Our mission, expertise and core activities (codebase stewardship, capability building in public organizations) have not changed. Exactly what each local chapter will focus on will depend on local needs and opportunities, as will their funding model. We already have a North America chapter, and plan one in Europe.
 
