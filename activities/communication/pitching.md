@@ -89,6 +89,11 @@ When talking to someone who doesn't trust government officials' ethics or effici
 
 These are follow up questions we've received, and answers staff have given.
 
+What's currently happening with the Foundation?
+
+* We're in the middle of changing our legal form to become a global umbrella organization with local chapters. We will no longer have public organizations as association members because this was too difficult for most interested organizations; instead, we plan to work with public organizations as partners. Our mission, expertise and core activities (codebase stewardship, capability building in public organizations) have not changed. Exactly what each local chapter will focus on will depend on local needs and opportunities, as will their funding model. We already have a North America chapter, and plan one in Europe.
+* We'd love your advice on how we can make this successful. We hope the transition will be complete by the end of 2023.
+
 Are you a lobbying org? Are you the same as the FSFE?
 
 * No. We work with the organizations that have already decided to use open source. We're non-partisan and can't lobby, as per our founding principles and non-profit status.
@@ -97,7 +102,7 @@ Are you a lobbying org? Are you the same as the FSFE?
 How are you funded?
 
 * The runway was provided by a philanthropic grant, with the goal that the members of the association (which must be wholly publicly owned, like cities, provinces or states) pool the money and decide which codebases we should work on. In the long term, we thought we would be funded by a combination of member dues and philanthropic gifts.
-* After we complete the transition to a global international organization with local chapters, we expect our funds will come from a combination of structural funding by provincial, national or supranational governments (to multiply stewardship work with our partners), grants from structural philanthropic sources, and individual philanthropic gifts.
+* After we complete the transition to a global international organization with local chapters, we expect our funds will come from a combination of structural funding by provincial, national or supranational governments (to multiply our stewardship work with our partners), grants from structural philanthropic sources, and individual philanthropic gifts.
 
 Is now the right time and place? What about incumbent vendors?
 
