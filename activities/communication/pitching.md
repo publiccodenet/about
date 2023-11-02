@@ -157,3 +157,8 @@ These are the audiences we've spoken to about the Foundation for Public Code:
 * activists
 * philanthropists
 * the general public
+
+## Further reading
+
+* [Pitching to OSPOs](https://publiccode.net/OSPO)
+* [Explaining codebase stewardship](../explaining-codebase-stewardship)
