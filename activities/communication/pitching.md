@@ -30,7 +30,6 @@ For people with government experience or interest:
 For the general public, assuming no prior technology or government experience:
 
 * "Today, municipalities and government agencies have small pieces of software to provide services, and every municipality has their own. But rather than contracting to consulting companies to build their version, municipalities could pool together and make an open source one. Then each municipality only has to customise it to what they need. We help municipalities work together."
-
 * "We help cities build and maintain public purpose, open source software together."
 
 For cocktail party audiences, assuming no interest at all:
