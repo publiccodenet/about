@@ -117,7 +117,7 @@ Why are you an association when you're called a Foundation?
 
 As a reminder, our goals are:
 
-* to stay member owned forever (and only wholly publicly owned organizations can be members)
+* to stay focus on public interest
 * to make it hard for a corporate interest to dominate the Foundation for Public Code (so we can't 'sell out')
 
 Read more about [why we're an association named a foundation](https://github.com/publiccodenet/blog/issues/36).
