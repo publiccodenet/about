@@ -61,7 +61,7 @@ We have different perspectives on open source:
 
 We should reflect our [founding principles](https://about.publiccode.net/organization/mission.html#founding-principles) in our pitches.
 
-Avoid: "we think or we believe" [open source is better]
+Avoid: "we think or we believe" [open source is better].
 Instead, describe what we do: "we help public organizations [share collaborative software].
 
 ### Contextual knowledge
