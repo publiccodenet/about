@@ -15,6 +15,8 @@ Odoo is a suite of open source business apps. We use Odoo for:
 
 ## Using Odoo
 
+The operations coordinator will invite you to join.
+Once signed up, you can login via [our login portal](https://odoo.publiccode.net/web/login).
 We offer training to new staff.
 
 ## Odoo management

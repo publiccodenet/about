@@ -17,6 +17,7 @@ Here is a list of trainings developed or used by the Foundation for Public Code:
 * [Reviewing contributions](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/)
 * [HackMD.io](https://hackmd.io/) - for collaborating on draft documents in Markdown with people outside the organization (especially helpful for content we plan to publish)
 * [Markdown Here](https://markdown-here.com/) - for formatting emails written using Markdown
+* [Jekyll tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) - for understanding the templates which underpin our website
 
 As a Foundation for Public Code staff member, you can also [request professional development](../staff-information/request-professional-development.md) training.
 Here is a non-exhaustive and running list of [potential training providers](https://docs.google.com/spreadsheets/d/19tAALXVNk9P27nmI6Qe_4_ppaDIeEtexeKMyUvTTkH4/edit#gid=0) compiled by staff.
