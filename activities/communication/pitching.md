@@ -100,11 +100,6 @@ Where does your money come from?
 * We're member-funded, but how to get members for a new association is a chicken and egg problem, so we started with a philanthropic grant.
 * In the future, member dues will pay for our core activities. Our expansion and our research and development may be philanthropically funded - this will allow us to develop new stewardship activities, and design and test new assets before we apply these to core activities, which are effectively taxpayer funded.
 
-What about donor influence - do you have a conflict of interest?
-
-* No. We accept philanthropic donations, but only members (publicly owned organizations) can vote in the general assembly or appoint the board of directors.
-* No. We also don't work for hire; you can't pay the Foundation to do work.
-
 Is now the right time and place? What about incumbent vendors?
 
 * We'll have to see, but the idea is that we'll work with the vendors to get them more work as more public organizations start using the same codebase.
