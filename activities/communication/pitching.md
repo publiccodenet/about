@@ -95,7 +95,7 @@ What's currently happening with the Foundation?
 
     Our mission, expertise and core activities (codebase stewardship, capability building in public organizations) have not changed. Exactly what each local chapter will focus on will depend on local needs and opportunities, as will their funding model. We already have a North America chapter, and plan one in Europe.
 
-    We hope the transition will be complete by the end of 2023. We'd love your advice on how we can make this successful. 
+    We hope the transition will be complete by the end of 2023. We'd love your advice on how we can make this successful.
 
 Are you a lobbying org? Are you the same as the FSFE?
 
