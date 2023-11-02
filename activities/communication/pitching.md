@@ -99,11 +99,6 @@ How are you funded?
 * The runway was provided by a philanthropic grant, with the goal that the members of the association (which must be wholly publicly owned, like cities, provinces or states) pool the money and decide which codebases we should work on. In the long term, we thought we would be funded by a combination of member dues and philanthropic gifts.
 * After we complete the transition to a global international organization with local chapters, we expect our funds will come from a combination of structural funding by provincial, national or supranational governments (to multiply stewardship work with our partners), grants from structural philanthropic sources, and individual philanthropic gifts.
 
-What about donor influence - do you have a conflict of interest?
-
-* No. We accept philanthropic donations, but only members (publicly owned organizations) can vote in the general assembly or appoint the board of directors.
-* No. We also don't work for hire; you can't pay the Foundation to do work.
-
 Is now the right time and place? What about incumbent vendors?
 
 * We'll have to see, but the idea is that we'll work with the vendors to get them more work as more public organizations start using the same codebase.
@@ -116,7 +111,7 @@ Why are you an association when you're called a Foundation?
 
 As a reminder, our goals are:
 
-* to stay focus on public interest
+* to stay focused on public interest
 * to make it hard for a corporate interest to dominate the Foundation for Public Code (so we can't 'sell out')
 
 Read more about [why we're an association named a foundation](https://github.com/publiccodenet/blog/issues/36).
