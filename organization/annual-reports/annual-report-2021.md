@@ -101,7 +101,7 @@ Our membership development team spoke with a wide range of entities, including:
 * cities and municipalities
 * associations of municipalities
 
-As [set out in our annual report 2019-2020](../annual-reports/annual-report-2019-2020.md#strengthen-our-place-between-and-relationship-with-public-organizations) and after years of being told by interested public organizations that Foundation membership is not currently an option for them, we introduced the concept of [Foundation for Public Code partners](https://about.publiccode.net/activities/creating-partnerships/) - public organizations we collaborate with on public code projects who are not members. Though no partnerships were established by the end of 2021, we received positive feedback from public organizations.
+As [set out in our annual report 2019-2020](/annual-report-2019-2020.md#strengthen-our-place-between-and-relationship-with-public-organizations) and after years of being told by interested public organizations that Foundation membership is not currently an option for them, we introduced the concept of [Foundation for Public Code partners](../../activities/creating-partnerships/index.md) - public organizations we collaborate with on public code projects who are not members. Though no partnerships were established by the end of 2021, we received positive feedback from public organizations.
 
 In October, we started working with Matthew Claudel to explore open source software opportunities in North America.
 
