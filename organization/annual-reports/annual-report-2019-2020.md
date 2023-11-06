@@ -71,7 +71,7 @@ Our stewardship approach matured through working with our first codebase communi
 
 Generous philanthropic gifts allowed us to establish an open organization with scalable operations and global reach.
 
-We’ve been mentioned in [four government strategies](https://about.publiccode.net/activities/value-and-impact/policy-documents.html), including [a letter to Dutch parliament](https://www.rijksoverheid.nl/documenten/kamerstukken/2020/04/17/kamerbrief-inzake-vrijgeven-broncode-overheidssoftware) by Raymond Knops (State Secretary for the Interior and Kingdom Relations). The letter committed the Dutch national government to an ‘open by default, unless’ approach to publishing source code.
+We’ve been mentioned in [four government strategies](../../activities/value-and-impact/policy-documents.md), including [a letter to Dutch parliament](https://www.rijksoverheid.nl/documenten/kamerstukken/2020/04/17/kamerbrief-inzake-vrijgeven-broncode-overheidssoftware) by Raymond Knops (State Secretary for the Interior and Kingdom Relations). The letter committed the Dutch national government to an ‘open by default, unless’ approach to publishing source code.
 
 Marvelously, one public organization became a member of our association: the province of Zuid-Holland in the Netherlands. [They believe](https://www.zuid-holland.nl/overons/bestuur-zh/gedeputeerde-staten/besluiten/2020/september/1-september/lidmaatschap-foundation-for-public-code-vereniging/) their “membership will for the first time provide a solid structure for open source software that the province procures and develops”.
 
@@ -85,7 +85,7 @@ On June 3, 2019, we established the Foundation for Public Code as a public benef
 
 #### Built and operated our organization transparently
 
-Our operations are designed to benefit our members long into the future. [We publish all our workflows and protocols](https://about.publiccode.net/activities/), so the wider community can learn from (and even fork) our organizational form. We prioritize open source tools and services, documenting our methods as we go. [See an overview of our tools](https://about.publiccode.net/activities/).
+Our operations are designed to benefit our members long into the future. [We publish all our workflows and protocols](../../activities/index.md), so the wider community can learn from (and even fork) our organizational form. We prioritize open source tools and services, documenting our methods as we go. [See an overview of our tools](../../activities/index.md).
 
 Our robust financial administration is set up to receive membership dues and philanthropic donations, we have a budget forecasting mechanism, and we work with the [King Baudouin Foundation United States (KBFUS)](https://kbfus.networkforgood.com/projects/52915-p-kbfus-funds-foundation-for-public-code-nl) to facilitate funding from US-based donors.
 
@@ -264,7 +264,7 @@ Building on our [public commitment](https://blog.publiccode.net/policy/2020/10/0
 
 As we build stronger awareness of public code, the press and other organizations have taken interest in our work. We were covered or mentioned nine times, ranging from interviews with staff to articles covering new releases of the Standard for Public Code.
 
-[See all mentions](https://about.publiccode.net/activities/value-and-impact/all-press.html).
+[See all mentions](../../activities/value-and-impact/all-press.md).
 
 > “The Foundation for Public Code won the Encouragement Award 2020. The jury sees great potential in the initiative and looks forward to a structural contribution to a healthy open source culture within the public sector.” — **ISOC 2020 Innovation Award** press release
 
@@ -320,7 +320,7 @@ Board members do not receive any compensation, and did not incur any expenses fo
 
 This section provides an overview of the financials that accompanies this annual report.
 
-[See the full financial report](https://about.publiccode.net/organization/annual-reports/financial-report-2019-2020).
+[See the full financial report](../annual-reports/financial-report-2019-2020.md).
 
 In its startup phase, this organization was dependent on philanthropic donations. It has been the aim of the Foundation to eventually be self-supporting through the contributions of public organizations.
 

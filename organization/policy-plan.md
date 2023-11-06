@@ -70,9 +70,9 @@ The Foundation for Public Code is completely unique. There is no other organizat
 * We prioritize long term sustainability and growth for the benefit of our members.
 * Our work is open by default and welcomes contributions.
 
-[Our cultural values](https://about.publiccode.net/organization/cultural-values.html) are: open, quality, trust, community, helpful. These words signify the qualities we strive for in our activities, products, staff and resources.
+[Our cultural values](cultural-values.md) are: open, quality, trust, community, helpful. These words signify the qualities we strive for in our activities, products, staff and resources.
 
-[The Foundation for Public Code will deliver its mission](https://about.publiccode.net/organization/mission.html) by:
+[The Foundation for Public Code will deliver its mission](mission.md) by:
 
 * enabling an ecosystem of Public Code software products, developed by and for public administrations to solve real problems for citizens
 * building a collaborative community of developers and public organizations, which continuously improves and maintains public code products
@@ -124,7 +124,7 @@ We expect membership dues will be paid at the end of each calendar year. In orde
 
 ### 4.3 Remuneration
 
-[Our remuneration policy](https://about.publiccode.net/organization/remuneration-policy.html) states that members of the board of directors are not paid for their work as directors. A director may separately be hired and paid by the Foundation for Public Code for work carried out in a different role (for example as a manager or contractor). The Foundation for Public Code will reimburse directors for reasonable expenses incurred as a result of their role as director.
+[Our remuneration policy](remuneration-policy.md) states that members of the board of directors are not paid for their work as directors. A director may separately be hired and paid by the Foundation for Public Code for work carried out in a different role (for example as a manager or contractor). The Foundation for Public Code will reimburse directors for reasonable expenses incurred as a result of their role as director.
 
 It is in our policy that remuneration in the organization will not exceed market rates.
 
@@ -148,4 +148,4 @@ The members of the board of directors for the Foundation for Public Code are:
 
 ## 7. Publication
 
-This policy plan and the financial statement are published on the [Foundation for Public Code website](https://about.publiccode.net/organization/).
+This policy plan and the financial statement are published on the [Foundation for Public Code website](/index.md).
