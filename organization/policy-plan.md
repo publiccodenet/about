@@ -21,9 +21,9 @@ The Foundation for Public Code Vereniging (referred to hereafter as the Foundati
 
 Supporting other organizations in using open public code benefits everyone, but is no single public organization's responsibility. But public organizations have recognized that by pooling resources they can enable this for everyone. Thus the Foundation for Public Code was created to help open source projects for public organizations become successful, build sustainable communities around them and create a thriving public open source ecosystem.
 
-We do this through ecosystem level [codebase stewardship](https://about.publiccode.net/activities/) of both software and civic code (policy), enabling collaboration and re-use at scale. Codebase stewardship consists of quality auditing of source code, nurturing developer communities, strengthening marketing and product management to increase reusability, and helping public organizations and their vendors understand how they could best use public code with their existing systems. The [Standard for Public Code](https://standard.publiccode.net/) operationalizes our mission - it provides concrete standards and best practice for how to make public code reusable, maintainable, findable and procurable.
+We do this through ecosystem level [codebase stewardship](../activities/index.md) of both software and civic code (policy), enabling collaboration and re-use at scale. Codebase stewardship consists of quality auditing of source code, nurturing developer communities, strengthening marketing and product management to increase reusability, and helping public organizations and their vendors understand how they could best use public code with their existing systems. The [Standard for Public Code](https://standard.publiccode.net/) operationalizes our mission - it provides concrete standards and best practice for how to make public code reusable, maintainable, findable and procurable.
 
-New members of the Foundation for Public Code Vereniging must be wholly publicly owned organizations ([article 4.2 of the association bylaws](https://about.publiccode.net/organization/articles-of-association.html)), benefiting all citizens and taxpayers. Public code stewarded by the Foundation for Public Code is available online for reuse by anyone anywhere, worldwide.
+New members of the Foundation for Public Code Vereniging must be wholly publicly owned organizations ([article 4.2 of the association bylaws](articles-of-association.md)), benefiting all citizens and taxpayers. Public code stewarded by the Foundation for Public Code is available online for reuse by anyone anywhere, worldwide.
 
 ## 2. Strategy
 
@@ -60,7 +60,7 @@ The Foundation for Public Code’s mission is "to enable public-purpose software
 
 The Foundation for Public Code is completely unique. There is no other organization that provides impartial codebase stewardship services designed to support public organizations collaborating with each other for the benefit of citizens and taxpayers. This distinguishes it from organizations providing open source codebase stewardship for private sector projects, from vendors selling open source software development to public organizations, and from activist groups lobbying governments to spend taxpayer money only on open source software.
 
-[Our founding principles](https://about.publiccode.net/organization/mission.html) are:
+[Our founding principles](mission.md) are:
 
 * We are a non-profit and non-partisan organization.
 * We publish under licenses approved by the Open Source Initiative or Creative Commons licenses that do not limit commercial reuse.
