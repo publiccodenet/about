@@ -43,7 +43,7 @@ This needs to be kept up-to-date as the insurance payout is based on the percent
 
 Approximately 1.5 months after the initial sickness report, the insurance company will request the sick employee's payslips to prepare for the insurance payout.
 The director will receive an email about this.
-[Payslips are available to admins in Tentoo](https://about.publiccode.net/activities/tool-management/tentoo.html).
+[Payslips are available to admins in Tentoo](../tool-management/tentoo.md).
 
 ## UWV (Uitvoeringsinstituut Werknemersverzekeringen)
 
