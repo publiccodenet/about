@@ -45,7 +45,7 @@ Most of our social followers are real people (many of whom we know!) who are alr
 
 ## Process
 
-1. Make sure you have access to Planable. If not, ask the [communications team](https://about.publiccode.net/organization/staff.html#communications).
+1. Make sure you have access to Planable. If not, ask the [communications team](../../organization/staff.md#communications).
 2. Select the social media channel/s where you want your message to be published. Note that LinkedIn's integration isn't great when mentioning a person or company (@____), so edit your post after publication in LinkedIn to tag them correctly.
 3. Create your draft in Planable's feed view. Note that this may not be the final message since it's subject to review.
 4. Add a tag with your name so the communications team can reach out to you with questions.
@@ -64,6 +64,6 @@ You don't have permission to approve your post or the scheduled time - all posts
 
 ## Resources
 
-* [See the basic tweet template](https://about.publiccode.net/activities/communication/basic-tweet-template.html) for a useful starting point
+* [See the basic tweet template](/basic-tweet-template.md) for a useful starting point
 * [Our illustrations](https://illustrations.publiccode.net/)
 * [Photos from past events](https://drive.google.com/drive/u/0/folders/0AKgB_Nq7eZ5FUk9PVA)

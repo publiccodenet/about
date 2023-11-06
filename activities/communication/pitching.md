@@ -59,7 +59,7 @@ We have different perspectives on open source:
 
 ### We're apolitical
 
-We should reflect our [founding principles](https://about.publiccode.net/organization/mission.html#founding-principles) in our pitches.
+We should reflect our [founding principles](../../organization/mission.md#founding-principles) in our pitches.
 
 Avoid: "we think or we believe" [open source is better]
 Instead, describe what we do: "we help municipalities [share collaborative software].
@@ -92,7 +92,7 @@ These are follow up questions we've received, and answers staff have given.
 Are you a lobbying org? Are you the same as the FSFE?
 
 * No. We work with the organizations that have already decided to use open source. We're non-partisan and can't lobby, as per our founding principles and non-profit status.
-* No. There are plenty of other organizations (like FSFE) that focus on persuading organizations that haven't decided to use open source to do so. That isn't part of [our mission](https://about.publiccode.net/organization/mission.html).
+* No. There are plenty of other organizations (like FSFE) that focus on persuading organizations that haven't decided to use open source to do so. That isn't part of [our mission](../../organization/mission/index.md).
 
 Where does your money come from?
 

@@ -30,7 +30,7 @@ Here are some important things to figure out in the first couple of days:
 * If you already have a GitLab account you can [join the Foundation for Public Code group](https://gitlab.com/publiccodenet) although we don't do any work on GitLab.
 * [Start contributing!](../activities/documentation/index.md)
 
-We also have a [full list of tools](https://about.publiccode.net/activities/tool-management/) we use.
+We also have a [full list of tools](../activities/tool-management/index.md) we use.
 
 It's important to understand that we strive to be an [open organization](../organization/cultural-values.md).
 This means that we strive to use open licenses on everything we do.

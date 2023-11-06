@@ -6,7 +6,7 @@ type: Index
 
 # Philanthropic fundraising
 
-Our [financial model](https://about.publiccode.net/organization/financial-model.html) includes raising philanthropic funds.
+Our [financial model](../../organization/financial-model.md) includes raising philanthropic funds.
 Gifts are tax-deductible in both the Netherlands and the US.
 
 These resources support our philanthropic fundraising:

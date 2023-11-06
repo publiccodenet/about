@@ -11,7 +11,7 @@ Mattermost chat is an important means of communication for the team.
 
 ## Using Mattermost
 
-[Read our chat guidance](https://about.publiccode.net/activities/communication/using-chat.html).
+[Read our chat guidance](../communication/using-chat.md).
 
 ## Mattermost management
 
