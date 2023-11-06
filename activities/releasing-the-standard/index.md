@@ -24,7 +24,7 @@ Follow the [instructions](https://github.com/publiccodenet/standard/blob/develop
 * Tell the [codebase communities using the standard](https://publiccode.net/codebases/) that there is a new release and [update their assessments](assessment-update.md) with the new review template.
 * [Post on social media](../communication/how-to-post-to-social-media.md).
 * Include it in the next [newsletter](../communication/sending-newsletters.md).
-* Bring up as news in the next [community call](h../activities/community-calls/index.md).
+* Bring up as news in the next [community call](../community-calls/index.md).
 * Send new printed standards to firesouls.
 * Offer to mail a printed copy to each new contributor.
 * Give guidance on how to update the [community translations of the standard](https://github.com/publiccodenet/community-translations-standard) by sending a link with the comparison of the latest tag and the tag of the current translation.
