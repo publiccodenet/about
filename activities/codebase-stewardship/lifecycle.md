@@ -1,8 +1,0 @@
----
-# SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
-type: Resource
-layout: redirected
-sitemap: false
-redirect_to: https://about.publiccode.net/activities/codebase-stewardship/lifecycle-diagram
----
