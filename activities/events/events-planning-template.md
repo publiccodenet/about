@@ -27,7 +27,7 @@ DATE in CITY.
 
 ### Goals
 
-*See [attending events](/attending-events.md) for general goals.*
+*See [attending events](attending-events.md) for general goals.*
 
 *Enumerate event-specific goals.*
 
