@@ -53,7 +53,7 @@ In 2021, we focused on professionalizing our administration.
 
 #### New expert support from the strategic council
 
-We launched our [strategic council](https://about.publiccode.net/organization/strategic-council.html) in August. Our first council members are:
+We launched our [strategic council](../strategic-council.md) in August. Our first council members are:
 
 * Leslie Hawthorn, chair (Manager - Vertical Community Strategy, Red Hat Open Source Program Office)
 * Gabriella Gómez-Mont (Principal at Experimentalista, former Chief Creative Officer of Mexico City)
@@ -73,7 +73,7 @@ As a public benefit organization and with the [KBFUS Public Code US fund](https:
 
 #### Better tools for our community and ourselves
 
-* We published our operations handbook. [Explore how we manage](https://about.publiccode.net/activities/) our finances, procurement, office, tools, staff, and staff information. When we published this, we hoped it would be a helpful resource for anyone running a similar sized NGO, either in the Netherlands or abroad, and heard back that it was!
+* We published our operations handbook. [Explore how we manage](../../activities/) our finances, procurement, office, tools, staff, and staff information. When we published this, we hoped it would be a helpful resource for anyone running a similar sized NGO, either in the Netherlands or abroad, and heard back that it was!
 * Building on a Wikimedia tool, we created a [ticketmaster system for Jitsi Meet](https://github.com/publiccodenet/jitsi-community). This way we can offer codebase communities a video call tool that they can administer themselves that is fully open source, respects privacy and doesn't require the contributors of the community to download and install software locally.
 * In April, we opened up our [Nextcloud](https://collaboration.publiccode.net/) instance to our community. They can use ONLYOFFICE to collaborate on office documents in real-time, or use it for secure file sharing. This solves specific collaboration obstacles the stewards encountered.
 * We started to use the open source web analytics tool Plausible to learn how our websites are used. It’s privacy-friendly and GDPR-compliant. For increased transparency, [the analytics are publicly available](https://plausible.io/publiccode.net).
@@ -101,7 +101,7 @@ Our membership development team spoke with a wide range of entities, including:
 * cities and municipalities
 * associations of municipalities
 
-As [set out in our annual report 2019-2020](https://about.publiccode.net/organization/annual-reports/annual-report-2019-2020.html#strengthen-our-place-between-and-relationship-with-public-organizations) and after years of being told by interested public organizations that Foundation membership is not currently an option for them, we introduced the concept of [Foundation for Public Code partners](https://about.publiccode.net/activities/creating-partnerships/) - public organizations we collaborate with on public code projects who are not members. Though no partnerships were established by the end of 2021, we received positive feedback from public organizations.
+As [set out in our annual report 2019-2020](annual-report-2019-2020.md#strengthen-our-place-between-and-relationship-with-public-organizations) and after years of being told by interested public organizations that Foundation membership is not currently an option for them, we introduced the concept of [Foundation for Public Code partners](../../activities/creating-partnerships/index.md) - public organizations we collaborate with on public code projects who are not members. Though no partnerships were established by the end of 2021, we received positive feedback from public organizations.
 
 In October, we started working with Matthew Claudel to explore open source software opportunities in North America.
 
@@ -148,7 +148,7 @@ We held 20 community calls in 2021, covering the Standard for Public Code and th
 We engaged with our community in a variety of ways:
 
 * Ben contributed to the new [California Technology Strategic Plan - Vision 2023](https://vision2023.cdt.ca.gov/).
-* [People wrote about us 8 times](https://about.publiccode.net/activities/value-and-impact/all-press.html).
+* [People wrote about us 8 times](../../activities/value-and-impact/all-press.md).
 * During the year we released 7 episodes of our podcast [Let’s talk about public code](https://podcast.publiccode.net/).
 * We [authored 4 guest blogposts on other platforms](https://projects.publiccode.net/articles.html), and were interviewed on 1 podcast.
 * We tried new approaches: we held a Twitter spaces talk, and a storytelling workshop.

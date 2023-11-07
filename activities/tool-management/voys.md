@@ -18,7 +18,7 @@ The operations coordinator and chief executive can assign and install accounts.
 
 There is [documentation available](https://help.voys.nl/voys-app) (in Dutch) to help with setting it up, both for administrators as well as users.
 
-We've [translated basic Voys user set up guidance to English](https://about.publiccode.net/activities/communication/managing-voip-phone-numbers.html) to make it easier for non-Dutch speaking staff.
+We've [translated basic Voys user set up guidance to English](../communication/managing-voip-phone-numbers.md) to make it easier for non-Dutch speaking staff.
 
 ## Privacy and GDPR
 

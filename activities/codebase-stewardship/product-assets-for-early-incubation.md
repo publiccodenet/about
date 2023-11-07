@@ -23,7 +23,7 @@ We assume the product asset order will be different for greenfield development.
 
 ## Product assets
 
-| Timeline | Product asset | Foundation's role | [Foundation point of contact](https://about.publiccode.net/organization/staff)|
+| Timeline | Product asset | Foundation's role | [Foundation point of contact](../../organization/staff.md)|
 |----------|-----------------|-------------------|-------------------|
 | 1 | Decide to open source | Confirms | Quality |
 | 2 | Plain English | Confirms | Product |
