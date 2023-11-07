@@ -27,7 +27,7 @@ DATE in CITY.
 
 ### Goals
 
-*See [attending events](https://about.publiccode.net/activities/events/attending-events.html) for general goals.*
+*See [attending events](attending-events.md) for general goals.*
 
 *Enumerate event-specific goals.*
 
