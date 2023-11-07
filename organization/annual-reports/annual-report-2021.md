@@ -53,7 +53,7 @@ In 2021, we focused on professionalizing our administration.
 
 #### New expert support from the strategic council
 
-We launched our [strategic council](https://about.publiccode.net/organization/strategic-council.html) in August. Our first council members are:
+We launched our [strategic council](../strategic-council.md) in August. Our first council members are:
 
 * Leslie Hawthorn, chair (Manager - Vertical Community Strategy, Red Hat Open Source Program Office)
 * Gabriella Gómez-Mont (Principal at Experimentalista, former Chief Creative Officer of Mexico City)
@@ -73,7 +73,7 @@ As a public benefit organization and with the [KBFUS Public Code US fund](https:
 
 #### Better tools for our community and ourselves
 
-* We published our operations handbook. [Explore how we manage](https://about.publiccode.net/activities/) our finances, procurement, office, tools, staff, and staff information. When we published this, we hoped it would be a helpful resource for anyone running a similar sized NGO, either in the Netherlands or abroad, and heard back that it was!
+* We published our operations handbook. [Explore how we manage](../../activities/) our finances, procurement, office, tools, staff, and staff information. When we published this, we hoped it would be a helpful resource for anyone running a similar sized NGO, either in the Netherlands or abroad, and heard back that it was!
 * Building on a Wikimedia tool, we created a [ticketmaster system for Jitsi Meet](https://github.com/publiccodenet/jitsi-community). This way we can offer codebase communities a video call tool that they can administer themselves that is fully open source, respects privacy and doesn't require the contributors of the community to download and install software locally.
 * In April, we opened up our [Nextcloud](https://collaboration.publiccode.net/) instance to our community. They can use ONLYOFFICE to collaborate on office documents in real-time, or use it for secure file sharing. This solves specific collaboration obstacles the stewards encountered.
 * We started to use the open source web analytics tool Plausible to learn how our websites are used. It’s privacy-friendly and GDPR-compliant. For increased transparency, [the analytics are publicly available](https://plausible.io/publiccode.net).
