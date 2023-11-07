@@ -32,7 +32,7 @@ We have channels that reflect our work, plus some crosscutting topics.
 
 Feel free to create new channels as you discover you need them.
 
-When creating a new channel for an [activity documented on About](https://about.publiccode.net/activities/), please standardize the label between chat.publiccode.net and about.publiccode.net - what we talk about is the most honest reflection of what we're actually doing.
+When creating a new channel for an [activity documented on About](../index.md), please standardize the label between chat.publiccode.net and about.publiccode.net - what we talk about is the most honest reflection of what we're actually doing.
 
 ## Getting started
 

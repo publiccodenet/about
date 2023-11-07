@@ -22,7 +22,7 @@ Before the end date the following has to be determined:
 
 The operations coordinator needs to delete user accounts and revoke user privileges.
 
-Before deleting the user from the Google Workplace make sure you first delete the user account and/or revoke privileges from the [current tools](https://about.publiccode.net/activities/tool-management/#current-tools) in use.
+Before deleting the user from the Google Workplace make sure you first delete the user account and/or revoke privileges from the [current tools](../tool-management/index.md#current-tools) in use.
 Also check if theire are any user accounts on virtual machines that may need to be deleted.
 
 ### Transferring ownership of Google documents when deleting a user
