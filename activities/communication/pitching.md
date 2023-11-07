@@ -61,8 +61,8 @@ We have different perspectives on open source:
 
 We should reflect our [founding principles](https://about.publiccode.net/organization/mission.html#founding-principles) in our pitches.
 
-Avoid: "we think or we believe" [open source is better]
-Instead, describe what we do: "we help municipalities [share collaborative software].
+Avoid: "we think or we believe" [open source is better].
+Instead, describe what we do: "we help municipalities" [share collaborative software].
 
 ### Contextual knowledge
 
@@ -89,21 +89,23 @@ When talking to someone who doesn't trust government officials' ethics or effici
 
 These are follow up questions we've received, and answers staff have given.
 
+What's currently happening with the Foundation?
+
+* We're in the middle of changing our legal form to become a global umbrella organization with local chapters. We will no longer have public organizations as association members because this was too difficult for most interested organizations; instead, we plan to work with public organizations as partners.
+
+    Our mission, expertise and core activities (codebase stewardship, capability building in public organizations) have not changed. Exactly what each local chapter will focus on will depend on local needs and opportunities, as will their funding model. We already have a North America chapter, and plan one in Europe.
+
+    We hope the transition will be complete by the end of 2023. We'd love your advice on how we can make this successful.
+
 Are you a lobbying org? Are you the same as the FSFE?
 
 * No. We work with the organizations that have already decided to use open source. We're non-partisan and can't lobby, as per our founding principles and non-profit status.
 * No. There are plenty of other organizations (like FSFE) that focus on persuading organizations that haven't decided to use open source to do so. That isn't part of [our mission](https://about.publiccode.net/organization/mission.html).
 
-Where does your money come from?
+How are you funded?
 
-* The runway was provided by a philanthropic grant, but long term the members of the association (which must be wholly publicly owned, like cities, provinces or states) pool the money and decide which codebases we should work on. In the long term, we expect we'll be funded by a combination of member dues and philanthropic gifts.
-* We're member-funded, but how to get members for a new association is a chicken and egg problem, so we started with a philanthropic grant.
-* In the future, member dues will pay for our core activities. Our expansion and our research and development may be philanthropically funded - this will allow us to develop new stewardship activities, and design and test new assets before we apply these to core activities, which are effectively taxpayer funded.
-
-What about donor influence - do you have a conflict of interest?
-
-* No. We accept philanthropic donations, but only members (publicly owned organizations) can vote in the general assembly or appoint the board of directors.
-* No. We also don't work for hire; you can't pay the Foundation to do work.
+* The runway was provided by a philanthropic grant, with the goal that the members of the association (which must be wholly publicly owned, like cities, provinces or states) pool the money and decide which codebases we should work on. In the long term, we thought we would be funded by a combination of member dues and philanthropic gifts.
+* After we complete the transition to a global international organization with local chapters, we expect our funds will come from a combination of structural funding by provincial, national or supranational governments (to multiply our stewardship work with our partners), grants from structural philanthropic sources, and individual philanthropic gifts.
 
 Is now the right time and place? What about incumbent vendors?
 
@@ -117,7 +119,7 @@ Why are you an association when you're called a Foundation?
 
 As a reminder, our goals are:
 
-* to stay member owned forever (and only wholly publicly owned organizations can be members)
+* to stay focused on public interest
 * to make it hard for a corporate interest to dominate the Foundation for Public Code (so we can't 'sell out')
 
 Read more about [why we're an association named a foundation](https://github.com/publiccodenet/blog/issues/36).
@@ -155,3 +157,8 @@ These are the audiences we've spoken to about the Foundation for Public Code:
 * activists
 * philanthropists
 * the general public
+
+## Further reading
+
+* [Pitching to OSPOs](https://publiccode.net/OSPO)
+* [Explaining codebase stewardship](../explaining-codebase-stewardship)
