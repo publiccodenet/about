@@ -11,7 +11,15 @@
 set -x
 set -e
 
+if [ "_${1}_" == '_--all_' ]; then
+TEST_EXTERNAL_LINKS=1
+fi
+
 ./script/test-markdown.sh
+./script/find-missing-spdx.sh
 ./script/test-without-link-check.sh
 ./script/check-new-links.sh
+
+if [ "_${TEST_EXTERNAL_LINKS}_" == "_1_" ]; then
 ./script/test-with-link-check.sh
+fi

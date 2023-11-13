@@ -15,9 +15,11 @@ IGNORE_PATTERN='\.svg\|\.json\|CNAME\|Gemfile\|LICENSE\|\.jpg\|\.png\|\.jpeg\|\.
 
 MISSING=0
 for FILE in $(git_list_files | grep --invert-match $IGNORE_PATTERN); do
-	if ! grep --quiet SPDX-License-Identifier $FILE; then
-		MISSING=$(( 1 + $MISSING ))
-		echo $FILE
+	if [ -e $FILE ]; then
+		if ! grep --quiet SPDX-License-Identifier $FILE; then
+			MISSING=$(( 1 + $MISSING ))
+			echo $FILE
+		fi
 	fi
 done
 
