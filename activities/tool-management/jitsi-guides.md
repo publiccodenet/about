@@ -31,7 +31,7 @@ See [more information about Jitsi Meet](jitsi-meet.md) (including privacy and GD
 1. After a user registered an account an admin receives an email requesting approval
 2. The email is sent to 'meet-community-approval@publiccode.net'
   ![Admin email](/activities/tool-management/jitsi_admin_approval_request.png)
-3. The admin logs in to the [Django registration interface](https://meet.community.publiccode.net/accountmanager/admin)
+3. The admin logs in to the Django registration interface
   ![Admin Django](/activities/tool-management/jitsi_admin_django_approve_user_final1.png)
 4. The admin can approve and set permissions for the user
 5. For external users, "active" for staff "staff status" needs to be checked as well. The operations coordinator and chief executive have superuser status. Make sure to click 'save'.
