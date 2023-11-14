@@ -14,7 +14,7 @@ This set of resources helps to understand our users, and how our work does or ma
 
 ## Existing pain points
 
-* Understanding the [pain points that public organizations](public-organizations.md) have whith their digital infrastructure
+* Understanding the [pain points that public organizations](public-organizations.md) have with their digital infrastructure
 
 ## Existing enabling policies
 
