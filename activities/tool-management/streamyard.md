@@ -21,4 +21,4 @@ Account management and billing is the responsibility of the operations coordinat
 
 ## Privacy and GDPR
 
-[Streamyard's privacy policy](https://streamyard.com/resources/docs/privacy/) states that they transfer user data outside of the EU.
+[Streamyard's privacy policy](https://support.streamyard.com/hc/en-us/articles/15401585037204) states that they transfer user data outside of the EU.

@@ -19,7 +19,9 @@ At the heart of Jitsi are Jitsi Videobridge and Jitsi Meet, which lets us have c
 
 ## Jitsi Meet for our community
 
-We also have a Jitsi instance running for our community on 'meet.community.publiccode.net'. Users can [sign up for an account](https://meet.community.publiccode.net/accountmanager/register/) so they can host meetings themselves. We have a [user and administrator guide](jitsi-guides.md) available.
+We used to host a Jitsi instance running for our community.
+Users could sign up for an account so they could host meetings themselves.
+We have a [user and administrator guide](jitsi-guides.md) available.
 
 ## Jitsi management
 
@@ -35,8 +37,6 @@ The internal `meet.publiccode.net` system is configured with Ubuntu LTS, with th
 SSH keys are needed to perform updates, as one needs to access the machines as root. Log into the machine via the command line with:
 
 Jitsi internal: `ssh root@meet.publiccode.net`
-
-Jitsi community: `ssh root@meet.community.publiccode.net`
 
 The following commands perform general updates and upgrades:
 
@@ -76,7 +76,7 @@ register ${NEW_USER_NAME} meet.publiccode.net $(random-string)
 cat /var/lib/prosody/meet%2epubliccode%2enet/accounts/${NEW_USER_NAME}.dat
 ```
 
-On the meet.community.publiccode.net server, accounts are created and managed with
+On the meet.community.publiccode.net server, accounts were created and managed with
 [publiccodenet/jitsi-community](https://github.com/publiccodenet/jitsi-community)
 as described in [jitsi-guides](jitsi-guides.md).
 

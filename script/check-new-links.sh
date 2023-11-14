@@ -32,7 +32,9 @@ for URL in $(git diff develop |
 		if [ $VERBOSE -gt 0 ]; then
 			echo "(ignoring '$URL')"
 		fi
-	elif curl --fail --show-error --silent --head --location $URL \
+	elif curl --fail --show-error --silent --head \
+		-H "User-Agent: check-new-links by $USER" \
+		--location $URL \
 		> url_head 2>&1
 	then
 		if [ $VERBOSE -gt 0 ]
