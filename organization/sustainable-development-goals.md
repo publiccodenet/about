@@ -4,7 +4,7 @@
 type: resource
 explains: how our work contributes to achieving the SDGs
 redirect_from: 
-    - activities/value-and-impact/sustainable-development-goals.md
+    - activities/value-and-impact/sustainable-development-goals
 ---
 
 # How public code supports the Sustainable Development Goals

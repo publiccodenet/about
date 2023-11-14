@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>
 type: Index
 redirect_from:
-    - ../staff-management/index.md
+    - ../staff-management/index
 ---
 
 # Staff information

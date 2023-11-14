@@ -4,7 +4,7 @@
 type: Guide
 explains: what steps to take when you are sick
 redirect_from:
-    - ../staff-management/sickness.md
+    - ../staff-management/sickness
 ---
 
 # When sick
