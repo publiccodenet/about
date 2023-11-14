@@ -125,7 +125,7 @@ In 2021, we had 2 codebases in Incubation ([Signalen](https://publiccode.net/cod
 #### OpenZaak
 
 * The OpenZaak community consolidated healthy community practices. They established a process for vulnerability reporting and set up a mailing list for upcoming early release notices.
-* [OpenZaak moved closer to Standard for Public Code compliance](https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md) by fully meeting the criteria Make contributing easy, Use open standards and Document codebase maturity.
+* [OpenZaak moved closer to Standard for Public Code compliance](https://open-zaak.readthedocs.io/en/latest/introduction/open-source/public_code.html) by fully meeting the criteria Make contributing easy, Use open standards and Document codebase maturity.
 
 Over the course of the year, the codebase stewards also met with additional codebases to explore codebase stewardship.
 
