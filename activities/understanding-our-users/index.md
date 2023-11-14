@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>
 type: Index
 redirect_from:
-    - activities/value-and-impact/user-mapping/index.md
-    - activities/value-and-impact/pain-points/index.md
+    - activities/value-and-impact/user-mapping/index
+    - activities/value-and-impact/pain-points/index
 ---
 
 # Understanding our users

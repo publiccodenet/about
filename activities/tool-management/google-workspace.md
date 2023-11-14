@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: 2020-2023 The Foundation for Public Code <info@publiccode.net>
 type: resource
 redirect_from:
-    - activities/activities/tool-management/g-suite.md
+    - activities/activities/tool-management/g-suite
 ---
 
 # Google Workspace

@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: 2020-2023 The Foundation for Public Code <info@publiccode.net>
 type: Index
 redirect_from:
-    - activities/codebase-stewardship/product-development.md
+    - activities/codebase-stewardship/product-development
 ---
 
 # Codebase Product Development

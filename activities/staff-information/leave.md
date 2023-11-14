@@ -4,7 +4,7 @@
 type: Guide
 explains: how to take leave for vacation or personal matters
 redirect_from:
-    - ../staff-management/leave.md
+    - ../staff-management/leave
 ---
 
 # Taking leave
