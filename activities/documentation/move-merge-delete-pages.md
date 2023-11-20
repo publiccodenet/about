@@ -22,9 +22,9 @@ A redirect to can only redirect to one other new page.
 Note: this means a file needs to be kept in the old location.
 
 A `redirect_from` is an instruction in the new page.
-This works a bit like updating everyone's address book with your new address.
+This works a bit like mail arriving at the right building, and a friendly neighbour bringing it to your new door.
 A `redirect_from` can rewrite URLs from many other old pages.
-Note: this only works with files in the same repository (we can't change someone else's address book!) - but means the old file can be deleted.
+Note: this only works with files in the same repository (if you've moved building, the neighbour can't walk over!) - but means the old file can be deleted.
 
 It is technically possible to simultaneously put a `redirect_to` in the old page and `redirect_from` in the new page, providing both pages are in the same repository, but it does not add any value.
 
@@ -42,6 +42,8 @@ redirect_from:
     - [url link 2]
     - [url link 3]
 ```
+
+Note: the redirect url should be the file path without `.md` or `.html` extension.
 
 ## Redirecting pages
 
