@@ -43,6 +43,8 @@ redirect_from:
     - [url link 3]
 ```
 
+Note: the redirect url should be the file path without `.md` or `.html` extension.
+
 ## Redirecting pages
 
 When a page URL changes, but it remains in the same repository (it is moved to a different directory or is renamed) a `redirect_from` should be used.
