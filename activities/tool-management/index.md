@@ -56,3 +56,4 @@ Our guidance covers:
 * Our DNS records are hosted at [Gandi](https://www.gandi.net/en)
 * Jitsi and Mattermost are hosted at [Digital Ocean droplets](https://www.digitalocean.com/)
 * Mailman and Nextcloud are hosted at [Maadix](https://maadix.net/)
+  * Maadix is configured to notify the group sysadmin@publiccode.net

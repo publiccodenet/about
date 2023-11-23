@@ -40,6 +40,20 @@ You can use the scripts:
 * `./script/serve.sh` to serve the site locally with livereload
 * `./script/test.sh` to run the tests including markdownlint and htmlproofer
 
+The `test.sh` script takes the same steps as the [continuous integration tests](https://github.com/publiccodenet/about/blob/develop/.github/workflows/test.yml).
+It is comprised of
+
+* `./script/test-markdown.sh` which uses the [`mdl`](https://rubygems.org/gems/mdl) linter to detect markdown errors and is yaml "front-matter" aware
+* `./script/test-without-link-check.sh` which uses [`html-proofer`](https://jekyllrb.com/docs/continuous-integration/circleci/#html-proofer) to verify correct site construction
+* `./script/check-new-links.sh` which extracts new links added by the patch and checks to see if they are valid
+
+If run with `./script/test.sh --all`, then it also includes
+
+* `./script/test-with-link-check.sh` which uses `html-proofer` to verify that all of the external links, even ones not related to the patch, are valid; a failure of this test may not be related to your work
+
+The `test-with-link-check.sh` is [scheduled to run daily](https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml).
+This helps the maintainers identify links which have gone stale.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

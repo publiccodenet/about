@@ -4,7 +4,7 @@
 type: Guide
 explains: planning, booking and traveling.
 redirect_from:
-    - ../staff-management/travel.md
+    - ../staff-management/travel
 ---
 
 # Travel
