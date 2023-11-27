@@ -115,7 +115,7 @@ We’ve divided this into three phases, each containing separate activities. We 
 * Mainstream capacity building around public code as professional development, including the spin off of training provided by other organizations based on our materials and certification process, as well as the establishment of a community of practice.
 * Enable global scale of stewardship by stewarding the top-of-class codebases in strategic public functions, and supporting other organizations to execute codebase stewardship.
 * Widespread adoption of public code as a strategic priority for public organizations, enabled by a diverse set of publicly owned organizations that steward codebases.
-* Fully publicly funded organizations able to operate in all time zones, and with regional experts.
+* Fully publicly funded chapter organizations in most geographical regions, able to operate in all time zones, and with regional experts.
 
 ## 4. The assets and fundraising
 
