@@ -129,7 +129,6 @@ The association’s income and assets enable it to achieve its mission.
 In line with its mission, the Foundation for Public Code spends its income on codebase stewardship and to support the public code ecosystem.
 
 Our current budgetary goals are to raise €3 million for phase 1 and 2, so that we can meet our expected level of expenditure.
-Please note that the Foundation for Public Code will not actively pursue donations and gifts and will spend no or very limited time on fundraising (not more than 5% of its budget).
 
 ### 4.2 Asset management
 
