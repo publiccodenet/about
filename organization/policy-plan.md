@@ -107,6 +107,8 @@ We’ve divided this into three phases, each containing separate activities. We 
 * Grow and internationalize communities around stewarded codebases by training others to independently apply stewardship practices to codebases.
 * Support public organizations to implement public code as a strategic priority for their organization, mainstreaming public code into their operations, with the Foundation for Public Code as a cornerstone of their strategy.
 * Transition towards a predominantly publicly funded organization and consolidating our international reach.
+* Have a strong network of supportive, international partnerships with diverse organizations.
+* Have chapters in 3 to 5 geographical regions, each enjoying broad political and financial support in their respective region.
 
 ### Phase 3: Long terms (2027 - 2030)
 
