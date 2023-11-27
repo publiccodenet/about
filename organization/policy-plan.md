@@ -98,7 +98,7 @@ We’ve divided this into three phases, each containing separate activities. We 
 * Increase awareness and illustrate the value of public code by further developing knowledge assets, such as explainer videos, case studies, testimonials, business cases, online learning platform, as well as host a conference for public code.
 * Scale the impact of codebase stewardship through continued support to existing codebases in stewardship, working towards stewardship of at least an international codebase, aiming for certificated maturity of at least one codebase, and publishing community translations of the Standard for Public Code.
 * Strengthen and diversify our collaborations, including involvement of our strategic council in the development of the roadmap, creating partnerships and getting additional members.
-* Continue to secure the organization's sustainability by ensuring additional philanthropic support, public contributions to our mission in forms other than membership dues, improving the transparency and openness of our internal processes, and laying the groundwork for building an international organization.
+* Continue to secure the organization's sustainability by ensuring additional philanthropic support, financial and in-kind contributions from public organisations, improving the transparency and openness of our internal processes, and laying the groundwork for building an international organization.
 
 ### Phase 2: Mid term (2025 - 2027)
 
