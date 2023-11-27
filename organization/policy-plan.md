@@ -75,12 +75,10 @@ This distinguishes it from organizations providing open source codebase stewards
 [Our founding principles](mission.md) are:
 
 * We are a non-profit and non-partisan organization.
-* We publish under licenses approved by the Open Source Initiative or Creative Commons licenses that do not limit commercial reuse.
-* We are controlled by our members, who are wholly publicly controlled organizations.
-* We strive to keep our membership as accessible as possible to potential members, regardless of size or location.
+* We publish under licenses approved by the [Open Source Initiative](https://opensource.org/licenses) or [Creative Commons](https://creativecommons.org/licenses/) licenses that do not limit commercial reuse.
 * We are committed to working with other organizations (commercial or non-profit) to achieve our mission.
-* We prioritize long term sustainability and growth for the benefit of our members.
 * Our work is open by default and welcomes contributions.
+* We prioritize long term sustainability for the benefit of the communities we work with.
 
 [Our cultural values](cultural-values.md) are: open, quality, trust, community, helpful.
 These words signify the qualities we strive for in our activities, products, staff and resources.
