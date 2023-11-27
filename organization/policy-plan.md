@@ -162,9 +162,8 @@ The annual accounts will be drawn up and signed by the board of directors (bestu
 
 The members of the board of directors for the Foundation for Public Code are:
 
-* B. Cerveny: Chair
-* B.H. van Hoytema: Secretary
-* E. Herman: Treasurer
+* B. Cerveny: Chair & Secretary
+* Richard Pope: Treasurer
 
 ## 7. Publication
 
