@@ -99,7 +99,6 @@ We’ve divided this into three phases, each containing separate activities. We 
 * Scale the impact of codebase stewardship through continued support to existing codebases in stewardship, working towards stewardship of at least an international codebase, aiming for certificated maturity of at least one codebase, and publishing community translations of the Standard for Public Code.
 * Strengthen and diversify our collaborations, including involvement of our strategic council in the development of the roadmap, creating partnerships and getting additional members.
 * Continue to secure the organization's sustainability by ensuring additional philanthropic support, public contributions to our mission in forms other than membership dues, improving the transparency and openness of our internal processes, and laying the groundwork for building an international organization.
-* Establish a strategic council.
 
 ### Phase 2: Mid term (2025 - 2027)
 
