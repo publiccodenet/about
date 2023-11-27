@@ -95,7 +95,7 @@ We’ve divided this into three phases, each containing separate activities. We 
 
 ### Phase 1: Short term (2024)
 
-* Increase awareness and illustrate the value of public code by further developing knowledge assets, such as explainer videos, case studies, testimonials, business cases, online learning platform, as well as host a conference for public code.
+* Increase awareness and illustrate the value of public code by further developing knowledge assets, such as process codes, explainer videos, case studies, testimonials, business cases, online learning platform, as well as host a conference for public code.
 * Scale the impact of codebase stewardship through continued support to existing codebases in stewardship, working towards stewardship of at least an international codebase, aiming for certificated maturity of at least one codebase, and publishing community translations of the Standard for Public Code.
 * Strengthen and diversify our collaborations, including involvement of our strategic council in the development of the roadmap and creating partnerships with public organizations.
 * Transform our organizational model to include an umbrella organization focused on global long term priorities, and local chapter organizations tailoring their work based on the needs of the local public code ecosystem and participating public organizations.
@@ -103,7 +103,7 @@ We’ve divided this into three phases, each containing separate activities. We 
 
 ### Phase 2: Mid term (2025 - 2027)
 
-* Support others in applying public code knowledge assets in their organizations and communities, through the further diversification and professionalization of knowledge and media assets, online learning materials, and in-person events.
+* Support others in applying public code knowledge assets in their organizations and communities, through the further diversification and professionalization of process codes, knowledge and media assets, online learning materials, and in-person events.
 * Grow and internationalize communities around stewarded codebases by training others to independently apply stewardship practices to codebases.
 * Support public organizations to implement public code as a strategic priority for their organization, mainstreaming public code into their operations, with the Foundation for Public Code as a cornerstone of their strategy.
 * Transition towards a predominantly publicly funded organization and consolidating our international reach.
@@ -112,7 +112,7 @@ We’ve divided this into three phases, each containing separate activities. We 
 
 ### Phase 3: Long terms (2027 - 2030)
 
-* Mainstream capacity building around public code as professional development, including the spin off of training provided by other organizations based on our materials and certification process, as well as the establishment of a community of practice.
+* Mainstream capacity building around public code as professional development, including the spin off of training provided by other organizations based on our process codes, materials and certification process, as well as the establishment of a community of practice.
 * Enable global scale of stewardship by stewarding the top-of-class codebases in strategic public functions, and supporting other organizations to execute codebase stewardship.
 * Widespread adoption of public code as a strategic priority for public organizations, enabled by a diverse set of publicly owned organizations that steward codebases.
 * Fully publicly funded chapter organizations in most geographical regions, able to operate in all time zones, and with regional experts.
