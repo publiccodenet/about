@@ -40,8 +40,6 @@ Public code stewarded by the Foundation for Public Code is available online for 
 
 The goal of the Foundation for Public Code is “to support collective development and maintenance of public code (software and policy with a public purpose) in order to reduce risks, increase quality, reduce costs and increase sustainability” (article 3.1 of the association bylaws).
 
-Public code stewarded by the Foundation is openly available for reuse by everyone.
-
 The association seeks to achieve its goal by carrying out the following activities (article 3.2. of the association bylaws):
 
 * a.    the provision of services that can increase the sustainability, quality and re-use of public code
