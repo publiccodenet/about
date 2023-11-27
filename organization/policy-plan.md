@@ -30,7 +30,6 @@ We do this through ecosystem level [codebase stewardship](../activities/index.md
 Codebase stewardship consists of quality auditing of source code, nurturing developer communities, strengthening marketing and product management to increase reusability, and helping public organizations and their vendors understand how they could best use public code with their existing systems.
 The [Standard for Public Code](https://standard.publiccode.net/) operationalizes our mission - it provides concrete standards and best practice for how to make public code reusable, maintainable, findable and procurable.
 
-New members of the Foundation for Public Code Vereniging must be wholly publicly owned organizations ([article 4.2 of the association bylaws](articles-of-association.md)), benefiting all citizens and taxpayers.
 Public code stewarded by the Foundation for Public Code is available online for reuse by anyone anywhere, worldwide.
 
 ## 2. Strategy
@@ -41,12 +40,12 @@ Public code stewarded by the Foundation for Public Code is available online for 
 
 The goal of the Foundation for Public Code is “to support collective development and maintenance of public code (software and policy with a public purpose) in order to reduce risks, increase quality, reduce costs and increase sustainability” (article 3.1 of the association bylaws).
 
-Public code stewarded by the Foundation is openly available for reuse by everyone, but only members (wholly publicly owned organizations) can determine the governance and the organization’s stewardship priorities.
+Public code stewarded by the Foundation is openly available for reuse by everyone.
 
 The association seeks to achieve its goal by carrying out the following activities (article 3.2. of the association bylaws):
 
 * a.    the provision of services that can increase the sustainability, quality and re-use of public code
-* b.    facilitating and encouraging the sharing of existing public code between public members and other public organizations
+* b.    facilitating and encouraging the sharing of existing public code between public organizations
 * c.    carrying out research for the (further) development of public code
 * d.    drawing attention to problems ascertained and giving advice with regard to the public code they use
 * e.    everything related to or conducive to the above, all in the broadest sense
