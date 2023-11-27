@@ -123,8 +123,7 @@ We’ve divided this into three phases, each containing separate activities. We 
 
 The Foundation for Public Code’s income and assets come primarily from:
 
-* membership dues
-* donations and gifts
+* philanthropic donations and gifts
 
 The association’s income and assets enable it to achieve its mission.
 In line with its mission, the Foundation for Public Code spends its income on codebase stewardship and to support the public code ecosystem.
