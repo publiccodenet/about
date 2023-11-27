@@ -10,7 +10,7 @@ type: resource
 
 This policy plan sets out the Foundation for Public Code Vereniging’s current plan of action, as established by the board of directors.
 
-This policy plan was adopted at the [12 May 2021 board of directors meeting](board-of-directors-meetings/2022-05-12-minutes.md) and approved by the [general assembly](general-assemblies/minutes-2022-06-29.md).
+This policy plan was adopted at the [*BOARD MEETING*](*minutes url*) and approved by the [*GENERAL ASSEMBLY*](*minutes url*).
 This policy plan covers 2022-2027, but can be modified annually by the general assembly if needed.
 
 The Foundation for Public Code Vereniging (referred to hereafter as the Foundation for Public Code or ‘the association’) was established to solve an infrastructure gap in public sector collaboration.
