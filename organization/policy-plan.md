@@ -132,7 +132,6 @@ Our current budgetary goals are to raise €3 million for phase 1 and 2, so that
 
 ### 4.2 Asset management
 
-We expect membership dues will be paid at the end of each calendar year.
 In order to ensure the continuity of the association and its work (especially since we specifically focus on putting codebases on sustainable footing), we have a financial objective to keep enough financial reserves to find viable alternative stewardship for public code that organizations rely on.
 In practice we expect to not keep more than the cash equivalent of 36 months’ of projected costs in the association’s bank account.
 
