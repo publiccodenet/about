@@ -26,7 +26,7 @@ Supporting other organizations in using open public code benefits everyone, but 
 But public organizations have recognized that by pooling resources they can enable this for everyone.
 Thus the Foundation for Public Code was created to help open source projects for public organizations become successful, build sustainable communities around them and create a thriving public open source ecosystem.
 
-We do this through ecosystem level [codebase stewardship](../activities/index.md) of both software and civic code (policy), enabling collaboration and re-use at scale.
+We do this through ecosystem level [codebase stewardship](https://publiccode.net/codebase-stewardship/) of both software and civic code (policy), enabling collaboration and re-use at scale.
 Codebase stewardship consists of quality auditing of source code, nurturing developer communities, strengthening marketing and product management to increase reusability, and helping public organizations and their vendors understand how they could best use public code with their existing systems.
 The [Standard for Public Code](https://standard.publiccode.net/) operationalizes our mission - it provides concrete standards and best practice for how to make public code reusable, maintainable, findable and procurable.
 
