@@ -11,7 +11,7 @@ type: resource
 This policy plan sets out the Foundation for Public Code Vereniging’s current plan of action, as established by the board of directors.
 
 This policy plan was adopted at the [*BOARD MEETING*](*minutes url*) and approved by the [*GENERAL ASSEMBLY*](*minutes url*).
-This policy plan covers 2022-2027, but can be modified annually by the general assembly if needed.
+This policy plan covers 2024-2030, but can be modified annually by the general assembly if needed.
 
 The Foundation for Public Code Vereniging (referred to hereafter as the Foundation for Public Code or ‘the association’) was established to solve an infrastructure gap in public sector collaboration.
 Public organizations (like cities) are both more interested in and producing more open source software than ever before.
@@ -95,10 +95,10 @@ These words signify the qualities we strive for in our activities, products, sta
 
 ## 3. Policy and plan of work
 
-This policy plan covers the period between 2022 and 2027.
+This policy plan covers the period between 2024 and 2030.
 We’ve divided this into three phases, each containing separate activities. We are currently on track for Phase 1.
 
-### Phase 1: Short term (2022)
+### Phase 1: Short term (2024)
 
 * Increase awareness and illustrate the value of public code by further developing knowledge assets, such as explainer videos, case studies, testimonials, business cases, online learning platform, as well as host a conference for public code.
 * Scale the impact of codebase stewardship through continued support to existing codebases in stewardship, working towards stewardship of at least an international codebase, aiming for certificated maturity of at least one codebase, and publishing community translations of the Standard for Public Code.
@@ -106,14 +106,14 @@ We’ve divided this into three phases, each containing separate activities. We 
 * Continue to secure the organization's sustainability by ensuring additional philanthropic support, public contributions to our mission in forms other than membership dues, improving the transparency and openness of our internal processes, and laying the groundwork for building an international organization.
 * Establish a strategic council.
 
-### Phase 2: Mid term (2023 - 2024)
+### Phase 2: Mid term (2025 - 2027)
 
 * Support others in applying public code knowledge assets in their organizations and communities, through the further diversification and professionalization of knowledge and media assets, online learning materials, and in-person events.
 * Grow and internationalize communities around stewarded codebases by training others to independently apply stewardship practices to codebases.
 * Support public organizations to implement public code as a strategic priority for their organization, mainstreaming public code into their operations, with the Foundation for Public Code as a cornerstone of their strategy.
 * Transition towards a predominantly publicly funded organization and consolidating our international reach.
 
-### Phase 3: Long terms (2025 - 2027)
+### Phase 3: Long terms (2027 - 2030)
 
 * Mainstream capacity building around public code as professional development, including the spin off of training provided by other organizations based on our materials and certification process, as well as the establishment of a community of practice.
 * Enable global scale of stewardship by stewarding the top-of-class codebases in strategic public functions, and supporting other organizations to execute codebase stewardship.
