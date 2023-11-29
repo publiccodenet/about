@@ -76,6 +76,6 @@ The [staff of the Foundation for Public Code](staff.md) carry out the Foundation
 
 The staff are responsible for:
 
-* [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/), including codebase auditing
+* [codebase stewardship](../activities/codebase-stewardship/index.md), including codebase auditing
 * maintaining the [Standard for Public Code](https://standard.publiccode.net)
 * administering the Foundation, including organizing community events and financial administration

@@ -164,7 +164,7 @@ The Foundation for Public Code complies with the conditions of a Dutch public be
 
 ##### 1.4.2 Code of conduct
 
-The staff of the Foundation for Public Code fulfills a crucial role in achieving our mission on behalf of our members, the wider community and the public benefit. Staff are expected to follow the general [code of conduct](https://about.publiccode.net/CODE_OF_CONDUCT.html) that applies to our community. The staff code of conduct sets out the additional expectations we have of our staff beyond the community code of conduct.
+The staff of the Foundation for Public Code fulfills a crucial role in achieving our mission on behalf of our members, the wider community and the public benefit. Staff are expected to follow the general [code of conduct](../../CODE_OF_CONDUCT.md) that applies to our community. The staff code of conduct sets out the additional expectations we have of our staff beyond the community code of conduct.
 
 The Foundation for Public Code is a trusted non-partisan organization that operates in sectors of the economy that have significant political interests. It is crucial that the organization as well as its staff are visibly independent, trustworthy, impartial and objective.
 

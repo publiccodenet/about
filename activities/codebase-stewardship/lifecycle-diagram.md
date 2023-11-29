@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>
 type: Resource
 bpmn: lifecycle.bpmn
-redirect_from: 
-    - activities/codebase-stewardship/lifecycle.md
+redirect_from:
+    - activities/codebase-stewardship/lifecycle
 ---
 
 # Codebase stewardship lifecycle
