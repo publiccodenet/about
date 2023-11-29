@@ -35,6 +35,6 @@ If we use one of the following terms in any of our communications they will mean
 
 ## Requesting of adding a new term
 
-If there is a term you are unsure about or you think should be in the glossary, please [create an issue](https://github.com/publiccodenet/about/issues) or [send us an email](info@publiccode.net).
+If there is a term you are unsure about or you think should be in the glossary, please [create an issue](https://github.com/publiccodenet/about/issues).
 
 If you want to add a term, please follow the steps set out in the [contributing guide](../CONTRIBUTING.md) and make a pull request.
