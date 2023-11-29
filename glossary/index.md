@@ -33,9 +33,8 @@ If we use one of the following terms in any of our communications they will mean
 * [Staff](staff-definition.md)
 * [User](user-definition.md)
 
-## Adding a term to the glossary
+## Requesting of adding a new term
 
-If you want to add a term, please follow the steps set out in the [contributing guide](../CONTRIBUTING.md) and these specific steps on your branch:
+If there is a term you are unsure about or you think should be in the glossary, please [create an issue](https://github.com/publiccodenet/about/issues) or [send us an email](info@publiccode.net).
 
-1. Create a new Markdown file named with the term, in lowercase and with hyphens (`-`) in stead of spaces, also known as kebab-case. For example: `public-code.md`.
-2. Add the word to the `index.md` in the correct alphabetical order. For example: `* [Public code](publiccode.md)` between Public administration and Public sector.
+If you want to add a term, please follow the steps set out in the [contributing guide](../CONTRIBUTING.md) and make a pull request.
