@@ -14,7 +14,8 @@ We have no ambition in claiming ownership of or running a codebase, but rather o
 Thus, our approach is more similar to a coach, mentor or advisor rather than a hands-on developer or project manager.
 Sometimes we act as a neutral party that can arbitrate on issues that the community escalates to us.
 
-If you want to learn more on how to explain codebase stewardship, see [this activity for that](../explaining-codebase-stewardship/index.md).
+You can get an overview of the codebase stewardship process from the [lifecycle diagram](lifecycle-diagram.md).
+If you want to learn more on how to explain stewardship, see [this activity for that](../explaining-codebase-stewardship/index.md).
 
 ## Our main line of work
 

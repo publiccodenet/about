@@ -19,6 +19,11 @@ remote_theme: publiccodenet/jekyll-theme
 # Exclude the `vendor` folder created by Travis
 exclude:
   - vendor
+  - script
+  - Gemfile
+  - Gemfile.lock
+  - _site
+  - .bundle
 
 # Display Table of Contents on every page, disable by adding `toc: false` to the front matter of any file
 toc: true
