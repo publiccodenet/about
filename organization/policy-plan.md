@@ -10,20 +10,28 @@ type: resource
 
 This policy plan sets out the Foundation for Public Code Vereniging’s current plan of action, as established by the board of directors.
 
-This policy plan was adopted at the [12 May 2021 board of directors meeting](board-of-directors-meetings/2022-05-12-minutes.md) and approved by the [general assembly](general-assemblies/minutes-2022-06-29.md). This policy plan covers 2022-2027, but can be modified annually by the general assembly if needed.
+This policy plan was adopted at the [12 May 2021 board of directors meeting](board-of-directors-meetings/2022-05-12-minutes.md) and approved by the [general assembly](general-assemblies/minutes-2022-06-29.md).
+This policy plan covers 2022-2027, but can be modified annually by the general assembly if needed.
 
-The Foundation for Public Code Vereniging (referred to hereafter as the Foundation for Public Code or ‘the association’) was established to solve an infrastructure gap in public sector collaboration. Public organizations (like cities) are both more interested in and producing more open source software than ever before. [Persuaded by open source's advantages](https://fsfe.org/campaigns/publiccode/brochure.en.html), public organizations then struggle to:
+The Foundation for Public Code Vereniging (referred to hereafter as the Foundation for Public Code or ‘the association’) was established to solve an infrastructure gap in public sector collaboration.
+Public organizations (like cities) are both more interested in and producing more open source software than ever before.
+[Persuaded by open source's advantages](https://fsfe.org/campaigns/publiccode/brochure.en.html), public organizations then struggle to:
 
 * discover existing open source software that they can adopt
 * build open source software flexible enough that other public organizations can adopt it
 * support successful co-development and reuse of their software by other public organizations
 * attract a community of developers to maintain software they build
 
-Supporting other organizations in using open public code benefits everyone, but is no single public organization's responsibility. But public organizations have recognized that by pooling resources they can enable this for everyone. Thus the Foundation for Public Code was created to help open source projects for public organizations become successful, build sustainable communities around them and create a thriving public open source ecosystem.
+Supporting other organizations in using open public code benefits everyone, but is no single public organization's responsibility.
+But public organizations have recognized that by pooling resources they can enable this for everyone.
+Thus the Foundation for Public Code was created to help open source projects for public organizations become successful, build sustainable communities around them and create a thriving public open source ecosystem.
 
-We do this through ecosystem level [codebase stewardship](../activities/index.md) of both software and civic code (policy), enabling collaboration and re-use at scale. Codebase stewardship consists of quality auditing of source code, nurturing developer communities, strengthening marketing and product management to increase reusability, and helping public organizations and their vendors understand how they could best use public code with their existing systems. The [Standard for Public Code](https://standard.publiccode.net/) operationalizes our mission - it provides concrete standards and best practice for how to make public code reusable, maintainable, findable and procurable.
+We do this through ecosystem level [codebase stewardship](../activities/index.md) of both software and civic code (policy), enabling collaboration and re-use at scale.
+Codebase stewardship consists of quality auditing of source code, nurturing developer communities, strengthening marketing and product management to increase reusability, and helping public organizations and their vendors understand how they could best use public code with their existing systems.
+The [Standard for Public Code](https://standard.publiccode.net/) operationalizes our mission - it provides concrete standards and best practice for how to make public code reusable, maintainable, findable and procurable.
 
-New members of the Foundation for Public Code Vereniging must be wholly publicly owned organizations ([article 4.2 of the association bylaws](articles-of-association.md)), benefiting all citizens and taxpayers. Public code stewarded by the Foundation for Public Code is available online for reuse by anyone anywhere, worldwide.
+New members of the Foundation for Public Code Vereniging must be wholly publicly owned organizations ([article 4.2 of the association bylaws](articles-of-association.md)), benefiting all citizens and taxpayers.
+Public code stewarded by the Foundation for Public Code is available online for reuse by anyone anywhere, worldwide.
 
 ## 2. Strategy
 
@@ -45,20 +53,25 @@ The association seeks to achieve its goal by carrying out the following activiti
 
 #### Absence of a profit motive
 
-The Foundation for Public Code is not for profit, as is clear from the work it does and its bylaws. Article 3.4 of the Foundation for Public Code’s bylaws states that “The association expressly does not have the purpose of making a profit.”
+The Foundation for Public Code is not for profit, as is clear from the work it does and its bylaws.
+Article 3.4 of the Foundation for Public Code’s bylaws states that “The association expressly does not have the purpose of making a profit.”
 
 #### Beneficiary of the liquidation balance
 
-If the Foundation for Public Code’s board of directors decides to dissolve the association, the association will continue to exist for as long as is necessary to liquidate the association’s assets. Article 31.4 of the Foundation for Public Code’s bylaws state that any positive balance at the time of liquidation will be given to either:
+If the Foundation for Public Code’s board of directors decides to dissolve the association, the association will continue to exist for as long as is necessary to liquidate the association’s assets.
+Article 31.4 of the Foundation for Public Code’s bylaws state that any positive balance at the time of liquidation will be given to either:
 
 * a public benefit organization (ANBI) with a similar goal to the Foundation for Public Code
 * a foreign organization dedicated exclusively or nearly completely to the public benefit with a similar goal to the Foundation for Public Code
 
 ### 2.2 Mission
 
-The Foundation for Public Code’s mission is "to enable public-purpose software and policy that is open and collaborative" (established in article 3.1 of the bylaws). Public-purpose software and policy stewarded by the Foundation will be available for easy, free reuse or improvement by anyone, anywhere.
+The Foundation for Public Code’s mission is "to enable public-purpose software and policy that is open and collaborative" (established in article 3.1 of the bylaws).
+Public-purpose software and policy stewarded by the Foundation will be available for easy, free reuse or improvement by anyone, anywhere.
 
-The Foundation for Public Code is completely unique. There is no other organization that provides impartial codebase stewardship services designed to support public organizations collaborating with each other for the benefit of citizens and taxpayers. This distinguishes it from organizations providing open source codebase stewardship for private sector projects, from vendors selling open source software development to public organizations, and from activist groups lobbying governments to spend taxpayer money only on open source software.
+The Foundation for Public Code is completely unique.
+There is no other organization that provides impartial codebase stewardship services designed to support public organizations collaborating with each other for the benefit of citizens and taxpayers.
+This distinguishes it from organizations providing open source codebase stewardship for private sector projects, from vendors selling open source software development to public organizations, and from activist groups lobbying governments to spend taxpayer money only on open source software.
 
 [Our founding principles](mission.md) are:
 
@@ -70,7 +83,8 @@ The Foundation for Public Code is completely unique. There is no other organizat
 * We prioritize long term sustainability and growth for the benefit of our members.
 * Our work is open by default and welcomes contributions.
 
-[Our cultural values](cultural-values.md) are: open, quality, trust, community, helpful. These words signify the qualities we strive for in our activities, products, staff and resources.
+[Our cultural values](cultural-values.md) are: open, quality, trust, community, helpful.
+These words signify the qualities we strive for in our activities, products, staff and resources.
 
 [The Foundation for Public Code will deliver its mission](mission.md) by:
 
@@ -81,7 +95,8 @@ The Foundation for Public Code is completely unique. There is no other organizat
 
 ## 3. Policy and plan of work
 
-This policy plan covers the period between 2022 and 2027. We’ve divided this into three phases, each containing separate activities. We are currently on track for Phase 1.
+This policy plan covers the period between 2022 and 2027.
+We’ve divided this into three phases, each containing separate activities. We are currently on track for Phase 1.
 
 ### Phase 1: Short term (2022)
 
@@ -114,29 +129,40 @@ The Foundation for Public Code’s income and assets come primarily from:
 * membership dues
 * donations and gifts
 
-The association’s income and assets enable it to achieve its mission. In line with its mission, the Foundation for Public Code spends its income on codebase stewardship and to support the public code ecosystem.
+The association’s income and assets enable it to achieve its mission.
+In line with its mission, the Foundation for Public Code spends its income on codebase stewardship and to support the public code ecosystem.
 
-Our current budgetary goals are to raise €3 million for phase 1 and 2, so that we can meet our expected level of expenditure. Please note that the Foundation for Public Code will not actively pursue donations and gifts and will spend no or very limited time on fundraising (not more than 5% of its budget).
+Our current budgetary goals are to raise €3 million for phase 1 and 2, so that we can meet our expected level of expenditure.
+Please note that the Foundation for Public Code will not actively pursue donations and gifts and will spend no or very limited time on fundraising (not more than 5% of its budget).
 
 ### 4.2 Asset management
 
-We expect membership dues will be paid at the end of each calendar year. In order to ensure the continuity of the association and its work (especially since we specifically focus on putting codebases on sustainable footing), we have a financial objective to keep enough financial reserves to find viable alternative stewardship for public code that organizations rely on. In practice we expect to not keep more than the cash equivalent of 36 months’ of projected costs in the association’s bank account.
+We expect membership dues will be paid at the end of each calendar year.
+In order to ensure the continuity of the association and its work (especially since we specifically focus on putting codebases on sustainable footing), we have a financial objective to keep enough financial reserves to find viable alternative stewardship for public code that organizations rely on.
+In practice we expect to not keep more than the cash equivalent of 36 months’ of projected costs in the association’s bank account.
 
 ### 4.3 Remuneration
 
-[Our remuneration policy](remuneration-policy.md) states that members of the board of directors are not paid for their work as directors. A director may separately be hired and paid by the Foundation for Public Code for work carried out in a different role (for example as a manager or contractor). The Foundation for Public Code will reimburse directors for reasonable expenses incurred as a result of their role as director.
+[Our remuneration policy](remuneration-policy.md) states that members of the board of directors are not paid for their work as directors.
+A director may separately be hired and paid by the Foundation for Public Code for work carried out in a different role (for example as a manager or contractor).
+The Foundation for Public Code will reimburse directors for reasonable expenses incurred as a result of their role as director.
 
 It is in our policy that remuneration in the organization will not exceed market rates.
 
 ### 4.4 Control of the assets
 
-Based on the bylaws, no natural person or legal entity can dispose of the assets of the Foundation for Public Code as if such assets were their own. The board of directors (bestuur) needs the approval of the general assembly for all expenses over €500,000 (article 21.5a of the bylaws). The board of directors also needs the general assembly’s approval for loaning or borrowing over €100,000 (article 21.5b of the bylaws).
+Based on the bylaws, no natural person or legal entity can dispose of the assets of the Foundation for Public Code as if such assets were their own.
+The board of directors (bestuur) needs the approval of the general assembly for all expenses over €500,000 (article 21.5a of the bylaws).
+The board of directors also needs the general assembly’s approval for loaning or borrowing over €100,000 (article 21.5b of the bylaws).
 
-The association can be legally represented by either its full board of directors acting jointly, or any 2 members of the board of directors acting jointly (article 18.1 of the bylaws). They can also grant power of attorney to someone else.
+The association can be legally represented by either its full board of directors acting jointly, or any 2 members of the board of directors acting jointly (article 18.1 of the bylaws).
+They can also grant power of attorney to someone else.
 
 ## 5. Administration
 
-The association’s financial year is the same as a calendar year, except for the first financial year which runs from 3 June 2019 to 31 December 2020. The Foundation for Public Code closes its accounts at the end of each financial year. Within 6 months after the end of a financial year, the board will produce an annual report and accounts. The annual accounts will be drawn up and signed by the board of directors (bestuur) and adopted (vastgesteld) by the general assembly (articles 26 and 27 of the association bylaws).
+The association’s financial year is the same as a calendar year, except for the first financial year which runs from 3 June 2019 to 31 December 2020.
+The Foundation for Public Code closes its accounts at the end of each financial year. Within 6 months after the end of a financial year, the board will produce an annual report and accounts.
+The annual accounts will be drawn up and signed by the board of directors (bestuur) and adopted (vastgesteld) by the general assembly (articles 26 and 27 of the association bylaws).
 
 ## 6. Board of directors
 
