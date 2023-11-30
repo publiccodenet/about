@@ -16,7 +16,7 @@ It's `main` branch is the official ['source of truth'](GOVERNANCE.md) and centra
 
 [![pages-build-deployment](https://github.com/publiccodenet/about/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/about/actions/workflows/pages/pages-build-deployment)
 [![Test](https://github.com/publiccodenet/about/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/about/actions/workflows/test.yml)
-[![Scheduled link check](https://github.com/publiccodenet/about/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/about/actions/workflows/link-check.yml)
+[![Scheduled link check](https://publiccodenet.github.io/publiccodenet-url-check/badges/about.publiccode.net.svg)](https://publiccodenet.github.io/publiccodenet-url-check/about.publiccode.net-url-check-look.json)
 
 ## Contributing
 
