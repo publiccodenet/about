@@ -38,3 +38,5 @@ If we use one of the following terms in any of our communications they will mean
 If there is a term you are unsure about or you think should be in the glossary, please [create an issue](https://github.com/publiccodenet/about/issues).
 
 If you want to add a term, please follow the steps set out in the [contributing guide](../CONTRIBUTING.md) and make a pull request.
+Please add the term in the correct alphabetical order.
+For example: `* [Public code](publiccode.md)` between Public administration and Public sector.
