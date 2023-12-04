@@ -24,7 +24,7 @@ This is how we're building the organization to support our mission:
 * [Staff](staff.md)
 * [Remuneration policy](remuneration-policy.md)
 * [Roadmap](roadmap.md)
-* [Policy plan](policy-plan.md)
+* [Policy plan](policy-plans/)
 * [Measurable goals](measurable-goals/)
 * [Board meeting minutes](board-of-directors-meetings/)
 * [General assemblies minutes](general-assemblies/)
