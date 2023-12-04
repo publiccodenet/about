@@ -6,7 +6,11 @@ redirect_from:
     - /glossary/public-member-definition
 ---
 
-# Glossary terms
+# Glossary
+
+The glossary serves to standardise the meaning of commonly used words and concepts in our communications.
+
+## Glossary terms
 
 For the terms below we believe it is important that we have a clear definition of their meaning.
 If we use one of the following terms in any of our communications they will mean their definition in this glossary.
@@ -28,3 +32,11 @@ If we use one of the following terms in any of our communications they will mean
 * [Resource](resource-definition.md)
 * [Staff](staff-definition.md)
 * [User](user-definition.md)
+
+## Requesting of adding a new term
+
+If there is a term you are unsure about or you think should be in the glossary, please [create an issue](https://github.com/publiccodenet/about/issues).
+
+If you want to add a term, please follow the steps set out in the [contributing guide](../CONTRIBUTING.md) and make a pull request.
+Please add the term in the correct alphabetical order.
+For example: `* [Public code](publiccode.md)` between Public administration and Public sector.
