@@ -71,7 +71,7 @@ The Foundation for Public Code is completely unique.
 There is no other organization that provides impartial codebase stewardship services designed to support public organizations collaborating with each other for the benefit of citizens and taxpayers.
 This distinguishes it from organizations providing open source codebase stewardship for private sector projects, from vendors selling open source software development to public organizations, and from activist groups lobbying governments to spend taxpayer money only on open source software.
 
-[Our founding principles](mission.md) are:
+[Our founding principles](../mission.md) are:
 
 * We are a non-profit and non-partisan organization.
 * We publish under licenses approved by the [Open Source Initiative](https://opensource.org/licenses) or [Creative Commons](https://creativecommons.org/licenses/) licenses that do not limit commercial reuse.
@@ -79,10 +79,10 @@ This distinguishes it from organizations providing open source codebase stewards
 * Our work is open by default and welcomes contributions.
 * We prioritize long term sustainability for the benefit of the communities we work with.
 
-[Our cultural values](cultural-values.md) are: open, quality, trust, community, helpful.
+[Our cultural values](../cultural-values.md) are: open, quality, trust, community, helpful.
 These words signify the qualities we strive for in our activities, products, staff and resources.
 
-[The Foundation for Public Code will deliver its mission](mission.md) by:
+[The Foundation for Public Code will deliver its mission](../mission.md) by:
 
 * enabling an ecosystem of Public Code software products, developed by and for public administrations to solve real problems for citizens
 * building a collaborative community of developers and public organizations, which continuously improves and maintains public code products
@@ -138,7 +138,7 @@ In practice we expect to not keep more than the cash equivalent of 36 months’ 
 
 ### 4.3 Remuneration
 
-[Our remuneration policy](remuneration-policy.md) states that members of the board of directors are not paid for their work as directors.
+[Our remuneration policy](../remuneration-policy.md) states that members of the board of directors are not paid for their work as directors.
 A director may separately be hired and paid by the Foundation for Public Code for work carried out in a different role (for example as a manager or contractor).
 The Foundation for Public Code will reimburse directors for reasonable expenses incurred as a result of their role as director.
 
@@ -168,7 +168,7 @@ The members of the board of directors for the Foundation for Public Code are:
 
 ## 7. Publication
 
-This policy plan and the financial statement are published on the [Foundation for Public Code website](index.md).
+This policy plan and the financial statement are published on the [Foundation for Public Code website](../index.md).
 
 ## Archive
 
