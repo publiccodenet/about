@@ -169,3 +169,7 @@ The members of the board of directors for the Foundation for Public Code are:
 ## 7. Publication
 
 This policy plan and the financial statement are published on the [Foundation for Public Code website](index.md).
+
+## Archive
+
+* [Policy plan 2022](/policy-plan-2022.md)
