@@ -8,6 +8,7 @@ explains: how banking is managed at the Foundation
 # Bank
 
 Our bank is the Rabobank.
+Our bank account number (IBAN) is NL78 RABO 0342 6453 31 (BIC/SWIFT: RABONL2U).
 There is a EUR checking and savings account.
 We are in the process of opening a USD account.
 There are bank cards, credit cards and online keys.
