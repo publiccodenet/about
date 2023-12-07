@@ -23,6 +23,7 @@ When running a [live stream](index.md) of 'Let's talk about  public code' there 
 12. The last question we always ask our guest is "Please name someone you think we should interview in our upcoming episodes, and explain why?"
 13. Remind the audience at the end of ways of keeping in touch with us.
 14. When the show is over start the outro video and quickly press Stop recording.
+15. Make sure that the guests stay in Streamyard until their audio has uploaded, or if they have to leave quickly, ask them to go to [streamyard.com/upload](https://streamyard.com/upload) later to finish uploading.
 
 ## See also
 
