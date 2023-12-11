@@ -11,6 +11,7 @@ When doing post-production of a 'Let's talk about public code' [live stream](ind
 
 * Attendee and viewer follow up: connect them to a call to action such as [sign up for our tailored-to-your-preferences-newsletter](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).
 * Create an audio version of the podcast.
+  * Download the audio files from Streamyard, either using the direct link when ending the stream, or by finding them in the "Library" later.
   * Use the [Audacity project template](https://files.publiccode.net/nextcloud/index.php/s/aEoGGTNbJzw6iGx) to get started.
   * Cut out long pauses, coughs and other noise, but try to keep the content similar to the recording.
   * Compress and normalize.

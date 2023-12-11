@@ -28,6 +28,7 @@ When setting up a new [live stream](index.md) for 'Let's talk about public code'
 3. In the week before the stream, create a new broadcast in [StreamYard](../tool-management/streamyard.md)
 4. Upload the new intro video in Streamyard and remove the old one to avoid confusion during the stream
 5. Update banners with links related to the upcoming show
+6. When entering the podcast studio, make sure the settings under Recording are set to Record locally for each participant - Record audio only
 
 ## Communication
 
