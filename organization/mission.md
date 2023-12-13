@@ -26,8 +26,7 @@ The current priorities of the organization are set
 by the [board of directors](governance-model.md)
 and reviewed every meeting.
 
-On [11 January 2023](board-of-directors-meetings/2023-01-11-minutes.md),
-the priorities were confirmed as:
+The priorities are:
 
 1. Organizational restructuring: enable and set up chapter organizations
 1. Codebases: international collaboration
