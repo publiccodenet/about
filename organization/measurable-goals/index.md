@@ -8,7 +8,7 @@ redirect_from:
 
 # Measurable goals
 
-Currently, the Foundation for Public Code don't use timebound measurable goals.
+Currently, the Foundation for Public Code doesn't use timebound measurable goals.
 
 ## Archive
 

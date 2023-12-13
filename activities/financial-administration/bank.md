@@ -18,3 +18,7 @@ These people have bank access:
 * The chief executive has a debit card (wereldpas) and credit card
 * The operations coordinator is authorized to make € 5000 payments without a co-sign
 * The chief executive’s daily limit is € 50,000 and can be temporarily raised if needed by calling the bank
+
+## Bank account number
+
+Our bank account number (IBAN) is NL78 RABO 0342 6453 31 (BIC/SWIFT: RABONL2U).

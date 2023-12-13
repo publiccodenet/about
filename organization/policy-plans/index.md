@@ -2,6 +2,7 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
 type: resource
+redirect_from: organization/policy-plan
 ---
 
 # Foundation for Public Code Vereniging Policy Plan: 2022
@@ -10,7 +11,7 @@ type: resource
 
 This policy plan sets out the Foundation for Public Code Vereniging’s current plan of action, as established by the board of directors.
 
-This policy plan was adopted at the [12 May 2021 board of directors meeting](board-of-directors-meetings/2022-05-12-minutes.md) and approved by the [general assembly](general-assemblies/minutes-2022-06-29.md).
+This policy plan was adopted at the [12 May 2021 board of directors meeting](../board-of-directors-meetings/2022-05-12-minutes.md) and approved by the [general assembly](../general-assemblies/minutes-2022-06-29.md).
 This policy plan covers 2022-2027, but can be modified annually by the general assembly if needed.
 
 The Foundation for Public Code Vereniging (referred to hereafter as the Foundation for Public Code or ‘the association’) was established to solve an infrastructure gap in public sector collaboration.
@@ -26,11 +27,11 @@ Supporting other organizations in using open public code benefits everyone, but 
 But public organizations have recognized that by pooling resources they can enable this for everyone.
 Thus the Foundation for Public Code was created to help open source projects for public organizations become successful, build sustainable communities around them and create a thriving public open source ecosystem.
 
-We do this through ecosystem level [codebase stewardship](../activities/index.md) of both software and civic code (policy), enabling collaboration and re-use at scale.
+We do this through ecosystem level [codebase stewardship](../../activities/index.md) of both software and civic code (policy), enabling collaboration and re-use at scale.
 Codebase stewardship consists of quality auditing of source code, nurturing developer communities, strengthening marketing and product management to increase reusability, and helping public organizations and their vendors understand how they could best use public code with their existing systems.
 The [Standard for Public Code](https://standard.publiccode.net/) operationalizes our mission - it provides concrete standards and best practice for how to make public code reusable, maintainable, findable and procurable.
 
-New members of the Foundation for Public Code Vereniging must be wholly publicly owned organizations ([article 4.2 of the association bylaws](articles-of-association.md)), benefiting all citizens and taxpayers.
+New members of the Foundation for Public Code Vereniging must be wholly publicly owned organizations ([article 4.2 of the association bylaws](../articles-of-association.md)), benefiting all citizens and taxpayers.
 Public code stewarded by the Foundation for Public Code is available online for reuse by anyone anywhere, worldwide.
 
 ## 2. Strategy
@@ -73,7 +74,7 @@ The Foundation for Public Code is completely unique.
 There is no other organization that provides impartial codebase stewardship services designed to support public organizations collaborating with each other for the benefit of citizens and taxpayers.
 This distinguishes it from organizations providing open source codebase stewardship for private sector projects, from vendors selling open source software development to public organizations, and from activist groups lobbying governments to spend taxpayer money only on open source software.
 
-[Our founding principles](mission.md) are:
+[Our founding principles](../mission.md) are:
 
 * We are a non-profit and non-partisan organization.
 * We publish under licenses approved by the Open Source Initiative or Creative Commons licenses that do not limit commercial reuse.
@@ -83,10 +84,10 @@ This distinguishes it from organizations providing open source codebase stewards
 * We prioritize long term sustainability and growth for the benefit of our members.
 * Our work is open by default and welcomes contributions.
 
-[Our cultural values](cultural-values.md) are: open, quality, trust, community, helpful.
+[Our cultural values](../cultural-values.md) are: open, quality, trust, community, helpful.
 These words signify the qualities we strive for in our activities, products, staff and resources.
 
-[The Foundation for Public Code will deliver its mission](mission.md) by:
+[The Foundation for Public Code will deliver its mission](../mission.md) by:
 
 * enabling an ecosystem of Public Code software products, developed by and for public administrations to solve real problems for citizens
 * building a collaborative community of developers and public organizations, which continuously improves and maintains public code products
@@ -143,7 +144,7 @@ In practice we expect to not keep more than the cash equivalent of 36 months’ 
 
 ### 4.3 Remuneration
 
-[Our remuneration policy](remuneration-policy.md) states that members of the board of directors are not paid for their work as directors.
+[Our remuneration policy](../remuneration-policy.md) states that members of the board of directors are not paid for their work as directors.
 A director may separately be hired and paid by the Foundation for Public Code for work carried out in a different role (for example as a manager or contractor).
 The Foundation for Public Code will reimburse directors for reasonable expenses incurred as a result of their role as director.
 
@@ -174,4 +175,4 @@ The members of the board of directors for the Foundation for Public Code are:
 
 ## 7. Publication
 
-This policy plan and the financial statement are published on the [Foundation for Public Code website](index.md).
+This policy plan and the financial statement are published on the [Foundation for Public Code website](../index.md).
