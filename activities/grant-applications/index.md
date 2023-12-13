@@ -4,7 +4,7 @@
 type: Index
 ---
 
-# Applying for grant applications
+# Institutional fundraising and grant applications
 
 Our [financial model](../../organization/financial-model.md) includes applying for structural funding and grants from institutions.
 
