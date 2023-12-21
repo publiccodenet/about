@@ -51,8 +51,7 @@ If run with `./script/test.sh --all`, then it also includes
 
 * `./script/test-with-link-check.sh` which uses `html-proofer` to verify that all of the external links, even ones not related to the patch, are valid; a failure of this test may not be related to your work
 
-The `test-with-link-check.sh` is [scheduled to run daily](https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml).
-This helps the maintainers identify links which have gone stale.
+The `test-with-link-check.sh` helps the maintainers identify links which have gone stale.
 
 ## License
 
