@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2022-2024 The Foundation for Public Code <info@publiccode.net>
 type: resource
 ---
 
@@ -15,6 +15,7 @@ These are our affiliates:
 
 * [Associació de Software Lliure Decidim](https://decidim.org) (Decidim Free Software Association)
 * [Dark Matter Labs](https://darkmatterlabs.org/)
+* [DFRI](https://dfri.se)
 * [OASC](https://oascities.org/)
 * [OS2](https://os2.eu/)
 * [OW2](https://www.ow2.org/)
