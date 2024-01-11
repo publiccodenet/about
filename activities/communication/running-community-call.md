@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>
 type: Guide
 explains: what to set up and how to run and follow up on a community call
 ---
