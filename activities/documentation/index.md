@@ -17,7 +17,7 @@ In order to always be able to access the most up to date information as well as 
 About is the canonical source of truth for our organization.
 This means that the information on the [about.publiccode.net](https://about.publiccode.net/) website – a reflection of the `main` branch in the [`about` repository](https://github.com/publiccodenet/about) – takes precedence over any other information.
 
-We work according to [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow), except for work that is versioned and deployed, in which case we use [a GitFlow branching model](https://datasift.github.io/gitflow/IntroducingGitFlow.html).
+We work according to [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow), except for work that is versioned and deployed, in which case we use [a GitFlow branching model](https://web.archive.org/web/20231229171831/https://datasift.github.io/gitflow/IntroducingGitFlow.html).
 
 ## Content types
 
