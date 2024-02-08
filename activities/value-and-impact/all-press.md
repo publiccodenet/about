@@ -16,6 +16,10 @@ You may also be interested in:
 * [a list of policy documents that mention the Foundation for Public Code](policy-documents.md)
 * [our conference talks and articles we've written](https://projects.publiccode.net/talks-and-articles.html)
 
+## 2024
+
+* [The challenges of open source in government](https://www.computerweekly.com/news/366569099/The-challenges-of-open-source-in-government) - summary of the State of Open Con talk "Why do we need a standard for public code?" in Computer Weekly (February 2024)
+
 ## 2023
 
 * [Omotola Eunice Omotayo & Jan Ainali at FOSS Backstage 2023](https://podcast.sustainoss.org/184) - the podcast [Sustain OSS](https://podcast.sustainoss.org/) interviews Jan Ainali (June 2023)
