@@ -91,6 +91,6 @@ It is useful even as a handbook when trying to guide a community through any sit
 ### Templates
 
 * [Standard for Public Code auditing template](https://github.com/publiccodenet/standard/blob/develop/docs/review-template.html) - this is the template we use when auditing a codebase towards the Standard for Public Code
-* [User personas templates](/user-personas/index.md) - template personas that are typical in the type of codebases we work with that can be used as a starting point
+* [User personas templates](user-personas/index.md) - template personas that are typical in the type of codebases we work with that can be used as a starting point
 * [Codebase in Odoo](odoo-codebase-template.md) - template to use when we add a new codebase in Odoo
 * [Stewardship proposal](stewardship-proposal-template.md) - a template proposal we can send to principal maintainers to get informed consent to steward the codebase
