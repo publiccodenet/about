@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2018-2024 The Foundation for Public Code <info@publiccode.net>
 type: Guide
 explains: ways in which people and organizations can contribute to the Foundation for Public Code
 ---
