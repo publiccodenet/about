@@ -17,10 +17,10 @@ The roles on the community call are:
 
 The chair and the notetaker:
 
-* create a notes HackMD.io document for this call
+* create a notes document for this call
 * add "updates since the last community call" to the notes - keep this to three items or fewer (we want the community call to be a dialogue, not a broadcast). If possible, focus on community related updates
 * put these in the call notes doc
-* update the [agenda](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit)
+* update the agenda and link it
 * send out invitations ([template](community-call-invite-template.md))
 
 Ask the [communications coordinator](../../organization/staff.md#communications) if you need help with Foundation updates.
@@ -39,8 +39,6 @@ Have each person join the call on a separate connection aligned with our [confer
 ## 1. Opening the call
 
 Call-in link: <https://meet.publiccode.net/FoundationCommunityCall>
-
-Agenda link: <https://hackmd.io/9THmWbpQTLi8L9UIzczSyw>
 
 ### No show
 
