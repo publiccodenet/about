@@ -24,7 +24,9 @@ If participants can benefit of preparing, mention it as well.]
 
 If you have something else you would like to discuss please let us know, we are happy to make modifications to the agenda.
 
-[Read the full agenda](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?view).
+```
+[Read the full agenda](INSERT LINK).
+```
 
 We look forward to seeing you on the call!
 
@@ -33,7 +35,5 @@ We look forward to seeing you on the call!
 Our next Foundation for Public Code community call will take place at hh.mm on Weekday, DD Month.
 
 If you have something specific you would like to discuss please let us know, we are happy to add items to the agenda.
-
-[Read the full agenda](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?view).
 
 We look forward to seeing you on the call!
