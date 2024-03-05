@@ -2,6 +2,8 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>
 type: resource
+redirect_from:
+    - [partnerships.md]
 ---
 
 # Partners
