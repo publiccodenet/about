@@ -4,7 +4,7 @@
 type: resource
 ---
 
-# Partnerships
+# Partners
 
 The Foundation for Public Code is a member-owned association that exists in an ecosystem of partners and [affiliates](affiliates.md).
 Our partners are integral to our ability to [achieve our mission](mission.md).

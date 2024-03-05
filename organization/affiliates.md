@@ -6,7 +6,7 @@ type: resource
 
 # Affiliates
 
-The Foundation for Public Code is a member-owned association that exists in an ecosystem of affiliates and [partners](partnerships.md).
+The Foundation for Public Code is a member-owned association that exists in an ecosystem of affiliates and [partners](partners.md).
 Affiliates are non-profit organizations whose work aligns with ours and that help us to [achieve our mission](mission.md).
 The Foundation for Public Code does not do work to benefit affiliates unless that work is for the direct benefit of public organizations.
 Read more about [becoming an affiliate](../activities/creating-affiliations/index.md).
