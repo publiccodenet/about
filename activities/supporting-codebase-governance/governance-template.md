@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2020-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2020-2024 The Foundation for Public Code <info@publiccode.net>
 type: Resource
 redirect_from:
     - activities/codebase-stewardship/supporting-governance/governance-template

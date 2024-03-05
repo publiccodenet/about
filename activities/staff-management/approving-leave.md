@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2022-2024 The Foundation for Public Code <info@publiccode.net>
 type: Guide
 explains: How to approve leave requests for vacation
 ---
@@ -18,4 +18,4 @@ A leave request email is submitted through the personal Tentoo account of the em
 ## Further reading
 
 * [Staff leave guide](../staff-information/leave.md)
-* [Sickness leave management](/sick-leave.md)
+* [Sickness leave management](sick-leave.md)

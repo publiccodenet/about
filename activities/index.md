@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2018-2024 The Foundation for Public Code <info@publiccode.net>
 type: Index
 ---
 
@@ -24,6 +24,7 @@ Activities that support the above as well as make staff operations work:
 * [Events](events/index.md)
 * [Explaining codebase stewardship](explaining-codebase-stewardship/index.md)
 * [Financial administration](financial-administration/index.md)
+* [Institutional fundraising and grant applications](grant-applications/index.md)
 * [Live streaming and podcasting](live-streaming/index.md)
 * [Maintenance of the Standard for Public Code](standard-maintenance/index.md)
 * [Office management](office-management/index.md)

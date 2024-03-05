@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>
 type: Guide
 explains: How to publish new content on About for Foundation staff
 redirect_from:
@@ -23,7 +23,7 @@ The purpose of reviewing these merges carefully is to make sure that we only pub
 5. Once review is complete, merge to main! :tada:
 6. If any changes were made to the release branch, make a pull request from main into develop. This ensures these changes will also be implemented in develop, keeping it up to date.
 
-Our publishing process is [based on GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html).
+Our publishing process is [based on GitFlow](https://web.archive.org/web/20231229171831/https://datasift.github.io/gitflow/IntroducingGitFlow.html).
 
 ```
 ## Review checklist template

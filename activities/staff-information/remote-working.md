@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>
 type: Guide
 explains: how we support people working with us remotely
 redirect_from:
@@ -14,7 +14,7 @@ Everyone is free to work from home as long as they coordinate this with their co
 ## Information sharing
 
 1. Always CC the relevant group email. Our groups are: stewards, membership, events, giving, invoices, hr, security, Amsterdam-office and everyone (includes everyone with an @publiccode.net email account).
-2. We'll use [chat.publiccode.net](/../communication/using-chat.md) for office conversation. The channels should make it easier for someone in a different time zone to catch up with relevant conversations.
+2. We'll use [chat.publiccode.net](../communication/using-chat.md) for office conversation. The channels should make it easier for someone in a different time zone to catch up with relevant conversations.
 3. We're going to try to work Odoo-first for our secret work, so that we all have access and contribute to the same structured information.
 
 ## Meetings

@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>
 type: Guide
 explains: How to add a user to the Voys phone infrastructure and connect them to a phone number
 ---

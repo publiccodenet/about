@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>
 type: Index
 redirect_from: members/
 ---
@@ -15,8 +15,8 @@ Read more about [our mission, founding principles and current priorities](missio
 This is how we're building the organization to support our mission:
 
 * [Strategic council](strategic-council.md)
-* [Partnerships](partnerships.md)
 * [Affiliates](affiliates.md)
+* [Partners](partners.md)
 * [Governance model](governance-model.md)
 * [Financial model](financial-model.md)
 * [Articles of association](articles-of-association.md) with translations in [Spanish (Español)](articles-of-association.es.md) and [Dutch (Nederlands)](articles-of-association.nl.md)

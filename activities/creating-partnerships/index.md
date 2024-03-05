@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>
 type: Index
 redirect _from:
     - /member-relations/index
@@ -14,7 +14,7 @@ redirect _from:
 
 The Foundation for Public Code is actively looking for diverse public organizations to collaborate with.
 
-[See our current partnerships](../../organization/partnerships.md).
+[See our current partners](../../organization/partners.md).
 
 Only public organizations can become partners.
 Other organizations can become [affiliates](../creating-affiliations/index.md)

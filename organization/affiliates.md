@@ -1,12 +1,12 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2022-2024 The Foundation for Public Code <info@publiccode.net>
 type: resource
 ---
 
 # Affiliates
 
-The Foundation for Public Code is a member-owned association that exists in an ecosystem of affiliates and [partners](partnerships.md).
+The Foundation for Public Code is a member-owned association that exists in an ecosystem of affiliates and [partners](partners.md).
 Affiliates are non-profit organizations whose work aligns with ours and that help us to [achieve our mission](mission.md).
 The Foundation for Public Code does not do work to benefit affiliates unless that work is for the direct benefit of public organizations.
 Read more about [becoming an affiliate](../activities/creating-affiliations/index.md).
@@ -15,6 +15,7 @@ These are our affiliates:
 
 * [Associació de Software Lliure Decidim](https://decidim.org) (Decidim Free Software Association)
 * [Dark Matter Labs](https://darkmatterlabs.org/)
+* [DFRI](https://dfri.se)
 * [OASC](https://oascities.org/)
 * [OS2](https://os2.eu/)
 * [OW2](https://www.ow2.org/)

@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2018-2024 The Foundation for Public Code <info@publiccode.net>
 type: Resource
 ---
 
@@ -26,8 +26,7 @@ The current priorities of the organization are set
 by the [board of directors](governance-model.md)
 and reviewed every meeting.
 
-On [11 January 2023](board-of-directors-meetings/2023-01-11-minutes.md),
-the priorities were confirmed as:
+The priorities are:
 
 1. Organizational restructuring: enable and set up chapter organizations
 1. Codebases: international collaboration

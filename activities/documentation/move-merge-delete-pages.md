@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2022-2024 The Foundation for Public Code <info@publiccode.net>
 type: resource
 ---
 
@@ -43,7 +43,9 @@ redirect_from:
     - [url link 3]
 ```
 
-Note: the redirect url should be the file path without `.md` or `.html` extension.
+The redirect url should typically be the file path without `.md` or `.html` extension.
+The exception is for blog posts in the `blog` repository, where the blog post paths include the category and date, and the redirect _should_ include `.html` at the end.
+Thus, for blog posts the redirect needs to be of the form `/category/yyyy/mm/dd/the-post-slug.html`.
 
 ## Redirecting pages
 

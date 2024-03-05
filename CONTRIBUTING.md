@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2018-2024 The Foundation for Public Code <info@publiccode.net>
 type: Guide
 explains: ways in which people and organizations can contribute to the Foundation for Public Code
 ---
@@ -29,7 +29,7 @@ We’re especially interested in learning what you need to implement the [Standa
 
 ## Public organizations
 
-We’re looking for public partners to help shape the Foundation for Public Code’s long term future. Find out more about the [benefits and requirements of becoming a partner](organization/partnerships.md) and get in touch with us at <partnerships@publiccode.net>.
+We’re looking for public partners to help shape the Foundation for Public Code’s long term future. Find out more about the [benefits and requirements of becoming a partner](organization/partners.md) and get in touch with us at <partnerships@publiccode.net>.
 
 ## Institutional giving and philanthropy
 

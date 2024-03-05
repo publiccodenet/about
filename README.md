@@ -1,7 +1,7 @@
 # About the Foundation for Public Code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2018-2024 The Foundation for Public Code <info@publiccode.net> -->
 
 We help open source projects for public organizations to become successful, build sustainable communities around them and create a thriving public open source ecosystem.
 
@@ -51,8 +51,7 @@ If run with `./script/test.sh --all`, then it also includes
 
 * `./script/test-with-link-check.sh` which uses `html-proofer` to verify that all of the external links, even ones not related to the patch, are valid; a failure of this test may not be related to your work
 
-The `test-with-link-check.sh` is [scheduled to run daily](https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml).
-This helps the maintainers identify links which have gone stale.
+The `test-with-link-check.sh` helps the maintainers identify links which have gone stale.
 
 ## License
 

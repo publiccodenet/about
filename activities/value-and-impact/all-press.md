@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>
 type: resource
 ---
 
@@ -16,6 +16,10 @@ You may also be interested in:
 * [a list of policy documents that mention the Foundation for Public Code](policy-documents.md)
 * [our conference talks and articles we've written](https://projects.publiccode.net/talks-and-articles.html)
 
+## 2024
+
+* [The challenges of open source in government](https://www.computerweekly.com/news/366569099/The-challenges-of-open-source-in-government) - summary of the State of Open Con talk "Why do we need a standard for public code?" in Computer Weekly (February 2024)
+
 ## 2023
 
 * [Omotola Eunice Omotayo & Jan Ainali at FOSS Backstage 2023](https://podcast.sustainoss.org/184) - the podcast [Sustain OSS](https://podcast.sustainoss.org/) interviews Jan Ainali (June 2023)
@@ -26,7 +30,7 @@ You may also be interested in:
 
 * [Jan Ainali and the Foundation for Public Code](https://podcast.sustainoss.org/147) - the podcast [Sustain OSS](https://podcast.sustainoss.org/) interviews Jan Ainali (December 2022)
 * [An open source ecosystem for the public administration](https://www.oeffentliche-it.de/publikationen?doc=255694) [[PDF](https://www.oeffentliche-it.de/documents/10181/14412/Ein+Open-Source-%C3%96kosystem+f%C3%BCr+die+%C3%B6ffentliche+Verwaltung)] - by the German Competence Center Public IT ÖFIT (in German) (August 2022)
-* [Don’t Call It Alternative, Call It Normal](https://www.sdeps.eu/dont-call-it-alternative-call-it-normal/) - a chat with Aik van Eemeren, Public Tech Lead at the Chief Technology Office (CTO) of the Amsterdam municipality by [Shared Digital European Public Sphere](https://www.sdeps.eu/) (SDEPS) (January 2022)
+* [Don’t Call It Alternative, Call It Normal](https://web.archive.org/web/20230531221537/https://www.sdeps.eu/dont-call-it-alternative-call-it-normal/) - a chat with Aik van Eemeren, Public Tech Lead at the Chief Technology Office (CTO) of the Amsterdam municipality by [Shared Digital European Public Sphere](https://web.archive.org/web/20240101093950/https://www.sdeps.eu/) (SDEPS) (January 2022)
 
 ## 2021
 
