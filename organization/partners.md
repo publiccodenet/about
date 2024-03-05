@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>
 type: resource
 redirect_from:
-    - [/partnerships]
+    - partnerships
 ---
 
 # Partners
