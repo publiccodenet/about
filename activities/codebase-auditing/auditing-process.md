@@ -6,16 +6,25 @@ type: Resource
 
 # The auditing process
 
+Initially, codebase stewards schedule time with codebase maintainers in order to review each requirement of each criterion relative to the codebase.
+For each requirement, the stewards and the maintainers come to a shared understanding of what the current state is as well as what changes, if any, should be made to bring the codebase closer to compliance with the requirement.
+
+As a help to review a codebase, [this template](https://github.com/publiccodenet/standard/blob/develop/docs/review-template.html) can be used.
+
+By recording the current state, and taking notes including links to supporting documentation in the template, progress can be tracked over time.
+
+Assessments are typically added to the codebase repository, which allows others to verify or challenge the evaluation.
+
+The initial assessments can usually be performed with two to three sessions of two to three hours each for the maintainers and the stewards.
+
+## Continuous auditing
+
 The audit happens completely in the version control platform and is designed to fit in to a regular agile software development process.
 When a contribution is presented for inclusion in the codebase, a Foundation for Public Code staff auditor familiar with the codebase will provide a review or certify the contribution.
 
 The review or certification will happen within 2 business days to enable agile development and not block users and maintainers from making progress.
 
 The codebase maintainers will be notified when a contribution passes the audit and is certified.
-
-## Template
-
-As a help to review a codebase, [this template](https://github.com/publiccodenet/standard/blob/develop/docs/review-template.html) can be used.
 
 ## List of assessments
 
