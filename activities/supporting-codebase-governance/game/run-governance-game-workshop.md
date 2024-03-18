@@ -26,7 +26,7 @@ The game can be enhanced by having a large paper first placed on the table that 
 ### Preparing an online session
 
 You can also use digitized versions of the cards in a tool like Excalidraw, Google slides or Miro.
-Make a copy of one of the templates ([Excalidraw](https://link.excalidraw.com/readonly/3tTXUKAX0t4sFqlaFcfq), [Google slides](https://docs.google.com/presentation/d/1irBjBKMPNsNkGTFNjk4thYizDYrqYfgBJZTdj1hw19c/edit?usp=sharing)) and make sure it is accessible and editable by anyone with the link.
+Make a copy of one of the templates ([Excalidraw](https://files.publiccode.net/nextcloud/index.php/s/governance-workshop-template), [Google slides](https://docs.google.com/presentation/d/1irBjBKMPNsNkGTFNjk4thYizDYrqYfgBJZTdj1hw19c/edit?usp=sharing)) and make sure it is accessible and editable by anyone with the link.
 If you use another tool, you can find image files for all the cards attached to [the latest release](https://github.com/publiccodenet/governance-game/releases/latest).
 Set up a video chat to enable discussions between the participants.
 Highlight to the participants that a large, or even a second, screen will make the game easier to follow.
