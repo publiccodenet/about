@@ -29,7 +29,7 @@ We’re especially interested in learning what you need to implement the [Standa
 
 ## Public organizations
 
-We’re looking for public partners to help shape the Foundation for Public Code’s long term future. Find out more about the [benefits and requirements of becoming a partner](organization/partnerships.md) and get in touch with us at <partnerships@publiccode.net>.
+We’re looking for public partners to help shape the Foundation for Public Code’s long term future. Find out more about the [benefits and requirements of becoming a partner](organization/partners.md) and get in touch with us at <partnerships@publiccode.net>.
 
 ## Institutional giving and philanthropy
 

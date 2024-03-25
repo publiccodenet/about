@@ -40,15 +40,18 @@ Our guidance covers:
 * [Jitsi Meet](jitsi-meet.md) (videoconferencing)
 * [Mailman](mailing-lists.md) (mailing lists with Hyperkitty archiver)
 * [Mattermost](mattermost.md) (chat)
-* [Miro](miro.md) (online collaborative whiteboard)
 * [Nextcloud](nextcloud.md) (file hosting services)
 * [Odoo Community](odoo.md) (contact relationship management and project management)
-* [Planable](planable.md) (planning social media content)
 * [Plausible Analytics](plausible-analytics.md) (open source website analytics tool)
 * [Podbean](podbean.md) (publishing our podcasts)
 * [Streamyard](streamyard.md) (livestreaming our podcast)
 * [Tentoo](tentoo.md) (human resources management, including processing salaries and expenses)
 * [Voys](voys.md) (telephony)
+
+### Previous tools
+
+* [Miro](miro.md) (online collaborative whiteboard)
+* [Planable](planable.md) (planning social media content)
 
 ## Website, DNS and VPS'es for self-hosted tools
 
