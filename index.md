@@ -14,8 +14,8 @@ We do this through ecosystem level [codebase stewardship](activities/codebase-st
 
 ## Information and processes
 
-The [About site](activities/documentation/index.md) is home to all of our staff information, decision-making rules and processes.
-It is our staff manual that can be developed collaboratively with the community and reused by everyone.
+The [About site](activities/documentation/index.md) was [up until April 2024](https://blog.publiccode.net/news/2024/02/28/changes-at-the-europe-office.html) home to all of our staff information, decision-making rules and processes.
+It was our staff manual that can be developed collaboratively with the community and reused by everyone.
 
 Read more about:
 
@@ -25,10 +25,6 @@ Read more about:
 
 ## Our sites
 
-Our [home page at publiccode.net](https://publiccode.net) features a [high level overview of codebase stewardship](https://publiccode.net/codebase-stewardship/), [our team bios](https://publiccode.net/who-we-are/), and [the careers page with open positions](https://publiccode.net/careers).
+Our [home page at publiccode.net](https://publiccode.net) features a [high level overview of codebase stewardship](https://publiccode.net/codebase-stewardship/), and [our team bios](https://publiccode.net/who-we-are/).
 
 Additionally, we have separate sites that show our [projects](https://projects.publiccode.net), [how to use the brand](https://brand.publiccode.net/) and our [blog](https://blog.publiccode.net).
-
-## Open to contribution
-
-We [encourage contributions](CONTRIBUTING.md) by anyone to help improve the Foundation for Public Code.
