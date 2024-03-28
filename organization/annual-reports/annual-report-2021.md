@@ -107,7 +107,7 @@ In October, we started working with Matthew Claudel to explore open source softw
 
 ### Codebase stewardship
 
-In 2021, we had 2 codebases in Incubation ([Signalen](https://publiccode.net/codebases/signalen.html) and [OpenZaak](https://publiccode.net/codebases/openzaak.html)) and one in Assessment ([Digital Omgevingsbeleid](https://publiccode.net/codebases/omgevingsbeleid.html)). We also worked closely with [Demodam](https://demodam.org/en/).
+In 2021, we had 2 codebases in Incubation ([Signalen](https://publiccode.net/codebases/signalen.html) and [OpenZaak](https://publiccode.net/codebases/openzaak.html)) and one in Assessment ([Digital Omgevingsbeleid](https://publiccode.net/codebases/omgevingsbeleid.html)). We also worked closely with [Demodam](https://web.archive.org/web/20231204123513/https://demodam.org/en/).
 
 #### Signalen
 
