@@ -26,7 +26,7 @@ When doing post-production of a 'Let's talk about public code' [live stream](ind
 * Update stream destinations.
   * Fix the tense in the language of the description.
   * If possible, add the recording to a playlist.
-  * Optionally, add subtitles (can be created with [Whisper AI](https://github.com/openai/whisper)).
+  * Optionally, add subtitles (can be created with [Whisper AI](https://github.com/openai/whisper) and then checked for correctness).
 * Update Odoo by moving the card to the Produced column.
 * Send the guest a thank you email with request for feedback and links to the episode and blog post.
   * Connect them to a call to action such as [sign up for our tailored-to-your-preferences-newsletter](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).
