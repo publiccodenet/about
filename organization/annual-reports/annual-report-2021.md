@@ -81,7 +81,7 @@ As a public benefit organization and with the [KBFUS Public Code US fund](https:
 
 ### The Standard for Public Code
 
-In 2021, the Standard continued to prove its value to public code communities. Developers from three codebases worked with Foundation for Public Code stewards to evaluate their codebases with the Standard. Additionally, the stewards  discussed the self evaluations performed by developers of two other codebases. Responding to community requests, we established a [process for unofficial community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/README.html) into other languages. It is already [translated into Spanish](https://publiccodenet.github.io/community-translations-standard/es/).
+In 2021, the Standard continued to prove its value to public code communities. Developers from three codebases worked with Foundation for Public Code stewards to evaluate their codebases with the Standard. Additionally, the stewards  discussed the self evaluations performed by developers of two other codebases. Responding to community requests, we established a [process for unofficial community translations of the Standard](https://standard-for-public-code.github.io/community-translations-standard/README.html) into other languages. It is already [translated into Spanish](https://standard-for-public-code.github.io/community-translations-standard/es/).
 
 In July, the Standard for Public Code was recognized as a [Digital Public Goods](https://digitalpublicgoods.net/) by the Digital Public Goods Alliance, a multi-stakeholder initiative endorsed by the United Nations Secretary-General’s Roadmap for Digital Cooperation.
 

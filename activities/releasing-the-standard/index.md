@@ -27,5 +27,5 @@ Follow the [instructions](https://github.com/publiccodenet/standard/blob/develop
 * Bring up as news in the next [community call](../community-calls/index.md).
 * Send new printed standards to firesouls.
 * Offer to mail a printed copy to each new contributor.
-* Give guidance on how to update the [community translations of the standard](https://github.com/publiccodenet/community-translations-standard) by sending a link with the comparison of the latest tag and the tag of the current translation.
+* Give guidance on how to update the [community translations of the standard](https://github.com/standard-for-public-code/community-translations-standard) by sending a link with the comparison of the latest tag and the tag of the current translation.
 * Update the [Community implementation guide](https://github.com/publiccodenet/community-implementation-guide-standard). The patch for the [assessment update](assessment-update.md) might be useful.

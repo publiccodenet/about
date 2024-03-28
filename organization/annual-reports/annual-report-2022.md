@@ -62,7 +62,7 @@ In 2022, we:
 
 * [launched a community-built implementation guide](https://blog.publiccode.net/news/2022/09/13/launching-community-built-implementation-guide.html)
 * released 4 iterations, going from version 0.2.3 to 0.4.1 - including adding a new findability criterion and clarifying that policy doesn’t need to be fully translated to English, both based on community feedback
-* launched [a home for community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/)
+* launched [a home for community translations of the Standard](https://standard-for-public-code.github.io/community-translations-standard/)
 * launched a simple [assessment eligibility tool](https://publiccodenet.github.io/assessment-eligibility)
 * had 3 new contributors
 
