@@ -38,7 +38,7 @@ Have each person join the call on a separate connection aligned with our [confer
 
 ## 1. Opening the call
 
-Call-in link: <https://meet.publiccode.net/FoundationCommunityCall>
+Call-in link: <https://meet.na.publiccode.net/FoundationCommunityCall>
 
 ### No show
 
