@@ -1,18 +1,17 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
 type: resource
-redirect_from: organization/policy-plan
 ---
 
-# Foundation for Public Code Vereniging Policy Plan: 2024
+# Archive: Foundation for Public Code Vereniging Policy Plan: 2022
 
 ## 1. Introduction
 
 This policy plan sets out the Foundation for Public Code Vereniging’s current plan of action, as established by the board of directors.
 
-This policy plan was adopted at the [*BOARD MEETING*](*minutes url*) and approved by the [*GENERAL ASSEMBLY*](*minutes url*).
-This policy plan covers 2024-2030, but can be modified annually by the general assembly if needed.
+This policy plan was adopted at the [12 May 2021 board of directors meeting](../board-of-directors-meetings/2022-05-12-minutes.md) and approved by the [general assembly](../general-assemblies/minutes-2022-06-29.md).
+This policy plan covers 2022-2027, but can be modified annually by the general assembly if needed.
 
 The Foundation for Public Code Vereniging (referred to hereafter as the Foundation for Public Code or ‘the association’) was established to solve an infrastructure gap in public sector collaboration.
 Public organizations (like cities) are both more interested in and producing more open source software than ever before.
@@ -27,10 +26,11 @@ Supporting other organizations in using open public code benefits everyone, but 
 But public organizations have recognized that by pooling resources they can enable this for everyone.
 Thus the Foundation for Public Code was created to help open source projects for public organizations become successful, build sustainable communities around them and create a thriving public open source ecosystem.
 
-We do this through ecosystem level [codebase stewardship](https://publiccode.net/codebase-stewardship/) of both software and civic code (policy), enabling collaboration and re-use at scale.
-Codebase stewardship consists of quality auditing of source code; nurturing developer communities; strengthening marketing and product management to increase reusability; and helping public organizations and their vendors understand how they could best use public code with their existing systems.
+We do this through ecosystem level [codebase stewardship](../../activities/index.md) of both software and civic code (policy), enabling collaboration and re-use at scale.
+Codebase stewardship consists of quality auditing of source code, nurturing developer communities, strengthening marketing and product management to increase reusability, and helping public organizations and their vendors understand how they could best use public code with their existing systems.
 The [Standard for Public Code](https://standard.publiccode.net/) operationalizes our mission - it provides concrete standards and best practice for how to make public code reusable, maintainable, findable and procurable.
 
+New members of the Foundation for Public Code Vereniging must be wholly publicly owned organizations ([article 4.2 of the association bylaws](../articles-of-association.md)), benefiting all citizens and taxpayers.
 Public code stewarded by the Foundation for Public Code is available online for reuse by anyone anywhere, worldwide.
 
 ## 2. Strategy
@@ -41,10 +41,12 @@ Public code stewarded by the Foundation for Public Code is available online for 
 
 The goal of the Foundation for Public Code is “to support collective development and maintenance of public code (software and policy with a public purpose) in order to reduce risks, increase quality, reduce costs and increase sustainability” (article 3.1 of the association bylaws).
 
+Public code stewarded by the Foundation is openly available for reuse by everyone, but only members (wholly publicly owned organizations) can determine the governance and the organization’s stewardship priorities.
+
 The association seeks to achieve its goal by carrying out the following activities (article 3.2. of the association bylaws):
 
 * a.    the provision of services that can increase the sustainability, quality and re-use of public code
-* b.    facilitating and encouraging the sharing of existing public code between public organizations
+* b.    facilitating and encouraging the sharing of existing public code between public members and other public organizations
 * c.    carrying out research for the (further) development of public code
 * d.    drawing attention to problems ascertained and giving advice with regard to the public code they use
 * e.    everything related to or conducive to the above, all in the broadest sense
@@ -74,10 +76,12 @@ This distinguishes it from organizations providing open source codebase stewards
 [Our founding principles](../mission.md) are:
 
 * We are a non-profit and non-partisan organization.
-* We publish under licenses approved by the [Open Source Initiative](https://opensource.org/licenses) or [Creative Commons](https://creativecommons.org/licenses/) licenses that do not limit commercial reuse.
+* We publish under licenses approved by the Open Source Initiative or Creative Commons licenses that do not limit commercial reuse.
+* We are controlled by our members, who are wholly publicly controlled organizations.
+* We strive to keep our membership as accessible as possible to potential members, regardless of size or location.
 * We are committed to working with other organizations (commercial or non-profit) to achieve our mission.
+* We prioritize long term sustainability and growth for the benefit of our members.
 * Our work is open by default and welcomes contributions.
-* We prioritize long term sustainability for the benefit of the communities we work with.
 
 [Our cultural values](../cultural-values.md) are: open, quality, trust, community, helpful.
 These words signify the qualities we strive for in our activities, products, staff and resources.
@@ -91,32 +95,30 @@ These words signify the qualities we strive for in our activities, products, sta
 
 ## 3. Policy and plan of work
 
-This policy plan covers the period between 2024 and 2030.
+This policy plan covers the period between 2022 and 2027.
 We’ve divided this into three phases, each containing separate activities. We are currently on track for Phase 1.
 
-### Phase 1: Short term (2024)
+### Phase 1: Short term (2022)
 
-* Increase awareness and illustrate the value of public code by further developing knowledge assets, such as process codes, explainer videos, case studies, testimonials, business cases, online learning platform, as well as host a conference for public code.
+* Increase awareness and illustrate the value of public code by further developing knowledge assets, such as explainer videos, case studies, testimonials, business cases, online learning platform, as well as host a conference for public code.
 * Scale the impact of codebase stewardship through continued support to existing codebases in stewardship, working towards stewardship of at least an international codebase, aiming for certificated maturity of at least one codebase, and publishing community translations of the Standard for Public Code.
-* Strengthen and diversify our collaborations, including involvement of our strategic council in the development of the roadmap and creating partnerships with public organizations.
-* Transform our organizational model to include an umbrella organization focused on global long term priorities, and local chapter organizations tailoring their work based on the needs of the local public code ecosystem and participating public organizations.
-* Continue to secure the organization's sustainability by ensuring additional philanthropic support, financial and in-kind contributions from public organisations, and improving the transparency and openness of our internal processes.
+* Strengthen and diversify our collaborations, including involvement of our strategic council in the development of the roadmap, creating partnerships and getting additional members.
+* Continue to secure the organization's sustainability by ensuring additional philanthropic support, public contributions to our mission in forms other than membership dues, improving the transparency and openness of our internal processes, and laying the groundwork for building an international organization.
+* Establish a strategic council.
 
-### Phase 2: Mid term (2025 - 2027)
+### Phase 2: Mid term (2023 - 2024)
 
-* Support others in applying public code knowledge assets in their organizations and communities, through the further diversification and professionalization of process codes, knowledge and media assets, online learning materials, and in-person events.
+* Support others in applying public code knowledge assets in their organizations and communities, through the further diversification and professionalization of knowledge and media assets, online learning materials, and in-person events.
 * Grow and internationalize communities around stewarded codebases by training others to independently apply stewardship practices to codebases.
 * Support public organizations to implement public code as a strategic priority for their organization, mainstreaming public code into their operations, with the Foundation for Public Code as a cornerstone of their strategy.
 * Transition towards a predominantly publicly funded organization and consolidating our international reach.
-* Have a strong network of supportive, international partnerships with diverse organizations.
-* Have chapters in 3 to 5 geographical regions, each enjoying broad political and financial support in their respective region.
 
-### Phase 3: Long terms (2027 - 2030)
+### Phase 3: Long terms (2025 - 2027)
 
-* Mainstream capacity building around public code as professional development, including the spin off of training provided by other organizations based on our process codes, materials, and certification process, as well as the establishment of a community of practice.
+* Mainstream capacity building around public code as professional development, including the spin off of training provided by other organizations based on our materials and certification process, as well as the establishment of a community of practice.
 * Enable global scale of stewardship by stewarding the top-of-class codebases in strategic public functions, and supporting other organizations to execute codebase stewardship.
 * Widespread adoption of public code as a strategic priority for public organizations, enabled by a diverse set of publicly owned organizations that steward codebases.
-* Fully publicly funded chapter organizations in most geographical regions, able to operate in all time zones, and with regional experts.
+* Fully publicly funded organizations able to operate in all time zones, and with regional experts.
 
 ## 4. The assets and fundraising
 
@@ -124,15 +126,18 @@ We’ve divided this into three phases, each containing separate activities. We 
 
 The Foundation for Public Code’s income and assets come primarily from:
 
-* philanthropic donations and gifts
+* membership dues
+* donations and gifts
 
 The association’s income and assets enable it to achieve its mission.
 In line with its mission, the Foundation for Public Code spends its income on codebase stewardship and to support the public code ecosystem.
 
 Our current budgetary goals are to raise €3 million for phase 1 and 2, so that we can meet our expected level of expenditure.
+Please note that the Foundation for Public Code will not actively pursue donations and gifts and will spend no or very limited time on fundraising (not more than 5% of its budget).
 
 ### 4.2 Asset management
 
+We expect membership dues will be paid at the end of each calendar year.
 In order to ensure the continuity of the association and its work (especially since we specifically focus on putting codebases on sustainable footing), we have a financial objective to keep enough financial reserves to find viable alternative stewardship for public code that organizations rely on.
 In practice we expect to not keep more than the cash equivalent of 36 months’ of projected costs in the association’s bank account.
 
@@ -163,13 +168,10 @@ The annual accounts will be drawn up and signed by the board of directors (bestu
 
 The members of the board of directors for the Foundation for Public Code are:
 
-* B. Cerveny: Chair & Secretary
-* Richard Pope: Treasurer
+* B. Cerveny: Chair
+* B.H. van Hoytema: Secretary
+* E. Herman: Treasurer
 
 ## 7. Publication
 
 This policy plan and the financial statement are published on the [Foundation for Public Code website](../index.md).
-
-## Archive
-
-* [Policy plan 2022](/policy-plan-2022.md)
