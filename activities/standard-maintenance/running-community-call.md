@@ -11,7 +11,7 @@ redirect_from:
 
 ## 1. Opening the call
 
-Call-in link: <https://meet.publiccode.net/StandardforPublicCode>
+Call-in link: <https://meet.na.publiccode.net/StandardforPublicCode>
 
 Agenda link: <https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code>
 

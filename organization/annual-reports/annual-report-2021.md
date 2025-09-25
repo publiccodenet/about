@@ -81,7 +81,7 @@ As a public benefit organization and with the [KBFUS Public Code US fund](https:
 
 ### The Standard for Public Code
 
-In 2021, the Standard continued to prove its value to public code communities. Developers from three codebases worked with Foundation for Public Code stewards to evaluate their codebases with the Standard. Additionally, the stewards  discussed the self evaluations performed by developers of two other codebases. Responding to community requests, we established a [process for unofficial community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/README.html) into other languages. It is already [translated into Spanish](https://publiccodenet.github.io/community-translations-standard/es/).
+In 2021, the Standard continued to prove its value to public code communities. Developers from three codebases worked with Foundation for Public Code stewards to evaluate their codebases with the Standard. Additionally, the stewards  discussed the self evaluations performed by developers of two other codebases. Responding to community requests, we established a [process for unofficial community translations of the Standard](https://standard-for-public-code.github.io/community-translations-standard/README.html) into other languages. It is already [translated into Spanish](https://standard-for-public-code.github.io/community-translations-standard/es/).
 
 In July, the Standard for Public Code was recognized as a [Digital Public Goods](https://digitalpublicgoods.net/) by the Digital Public Goods Alliance, a multi-stakeholder initiative endorsed by the United Nations Secretary-General’s Roadmap for Digital Cooperation.
 
@@ -107,7 +107,7 @@ In October, we started working with Matthew Claudel to explore open source softw
 
 ### Codebase stewardship
 
-In 2021, we had 2 codebases in Incubation ([Signalen](https://publiccode.net/codebases/signalen.html) and [OpenZaak](https://publiccode.net/codebases/openzaak.html)) and one in Assessment ([Digital Omgevingsbeleid](https://publiccode.net/codebases/omgevingsbeleid.html)). We also worked closely with [Demodam](https://demodam.org/en/).
+In 2021, we had 2 codebases in Incubation ([Signalen](https://publiccode.net/codebases/signalen.html) and [OpenZaak](https://publiccode.net/codebases/openzaak.html)) and one in Assessment ([Digital Omgevingsbeleid](https://publiccode.net/codebases/omgevingsbeleid.html)). We also worked closely with [Demodam](https://web.archive.org/web/20231204123513/https://demodam.org/en/).
 
 #### Signalen
 
